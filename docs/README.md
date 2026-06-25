@@ -7,4 +7,4 @@
 
 | Game | Released | Designer | Rules/Code |
 | --- | --- | --- | --- |
-| [Pokemon](https://tiltforums.com/t/pokemon-rulesheet/10092)  | March 2026 | George Gomez, Jack Danger | Tanio Klyce, Andrew Wilkening, Joshua Henderson |
+| [King Kong: Myth of Terror Island](/stern_moden/king_kong)  | April 2025 | Keith Elwin | Rick Naegele / Joshua Henderson |
