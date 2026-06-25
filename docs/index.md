@@ -3,4 +3,4 @@
 ##JJP
 ##Spooky
 ##Stern (modern)
-King Kong: Myth of Terror Island
+[King Kong: Myth of Terror Island](/stern_modern/king_kong.md)
