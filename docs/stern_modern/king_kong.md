@@ -1,6 +1,4 @@
-<h1>Quick Links:</h1>
-
-[Official Rulesheet]
+<h1>King Kong: Myth of Terror Island</h1>
 
 - [Game Information](#heading--gameinfo)
 - [Layout](#heading--layout)
