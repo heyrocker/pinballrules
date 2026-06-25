@@ -4,9 +4,9 @@
 ## Spooky
 ## Multimorphic
 ## Stern (modern)
-|Game | Released | Designer | Rules/Code|
-|--- | --- | --- | ---|
-|[url=https://tiltforums.com/t/pokemon-rulesheet/10092] Pokemon [/url] | March 2026 | George Gomez, Jack Danger | Tanio Klyce, Andrew Wilkening, Joshua Henderson|
+| Game | Released | Designer | Rules/Code |
+| --- | --- | --- | --- |
+| [url=https://tiltforums.com/t/pokemon-rulesheet/10092] Pokemon [/url] | March 2026 | George Gomez, Jack Danger | Tanio Klyce, Andrew Wilkening, Joshua Henderson |
 |[url=https://tiltforums.com/t/the-walking-dead-remastered-rulesheet/10102] The Walking Dead Remastered [/url] | January 2026 | John Borg | Lyman Sheats (original), Mark Guidarelli (revisions)|
 |[url=https://tiltforums.com/t/star-wars-fall-of-the-empire-rulesheet/9872] Star Wars: Fall of the Empire [/url] | September 2025 | John Borg | Raymond Davidson|
 |[url=https://tiltforums.com/t/king-kong-myth-of-terror-island-rulesheet/9514] King Kong: Myth of Terror Island [/url] | April 2025 | Keith Elwin | Rick Naegele / Joshua Henderson|
