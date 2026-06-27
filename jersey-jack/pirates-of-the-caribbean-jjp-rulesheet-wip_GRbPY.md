@@ -1,0 +1,273 @@
+---
+title: "Pirates of the Caribbean JJP Rulesheet (WIP)"
+discourse_topic_id: 4169
+manufacturer: "Jersey Jack Pinball"
+opdb_id: "GRbPY"
+source: https://tiltforums.com/t/pirates-of-the-caribbean-jjp-rulesheet-wip/4169
+---
+
+# Pirates of the Caribbean JJP
+
+## Game Information & Overview:
+- Manufacturer: Jersey Jack Pinball
+- Release Date: January 2018
+- Original Wiki Rulesheet hosted on [Tilt Forums](/jersey-jack/pirates-of-the-caribbean-jjp-rulesheet-wip_GRbPY)
+
+Pirates of the Caribbean is JJP's 4th game. Designed by newcomer Eric Meunier, POTC carries on the Jersey Jack tradition of making immersive machines for everyone. The game is a different adventure every time you play it, with different modes and different characters to choose from. The machine also features 6 Multiball modes and 5 mini wizard modes (one for each of the five movies), and tons of side objectives.
+
+## Rules Overview:
+**Layout**:
+
+- The Depths - Hole to the very left of the machine that kicks the ball out into the "P" lane, which feeds the ball to the left flipper. This is fed by the Maelstrom, Abyss, and the Captain's Quarters. It can also be shot by a lucky bounce from the slingshots. A shot that lands in the Depths will award a Skull Hold (holds the value of the currently highest value Skull to the next ball.)
+
+- Devil's Triangle - An interesting pseudo-orbit shot with a spinner in front. A strong shot to the Devil's Triangle will end in a u-turn that returns the ball back to the flippers, which can be very troublesome to control. Used in modes and the spinner is used to advance towards Dead Men Tell No Tales Multiball. Also qualifies the purple skull for the Star Map. At the beginning of DMTNT multiball, this shot will feed The Depths instead of looping back around to the flippers.
+
+- Maelstrom - Tight left ramp shot that goes in a circle and feeds the left inlane. In the center of the circle, there is a whirlpool (think White Water) which can be made with the help of a diverter. Balls that go into the whirlpool are kicked out of The Depths. The whirlpool is used to start At World's End Multiball and it also collects Jackpots during that mode. The left ramp itself is used in modes and also qualifies the red skull for the Star Map.
+
+- Bayou - Hidden sinkhole under the upper left flipper. In order to make this shot, you have to hold the upper left flipper up, and then shoot the ball into it. Balls that fall into the Bayou are kicked out of the Depths. During normal play, shots to the Bayou add 250 pts. to all Skull values. The shot is used to collect the Super Jackpot during At World's End Multiball and is also used to collect Tia Dalma in modes.
+
+- Port Royal - Left orbit shot, which can either feed the pop bumpers or feed the ship popper. This is also where Curse of the Black Pearl Multiball is started. An up post is featured at the very start of the shot, which can hold balls at certain times during play. This shot is used in modes and also qualifies the yellow skull for the Star Map.
+
+- PIRATE target - Spot target in between Port Royal and the left Chest Target that collects a lit PIRATE award when qualified through the inlanes. 
+
+- Chest Targets - Two targets on both sides of the Chest shot, with green arrows pointing towards them. Completing both targets qualifies the lock at the Chest. 
+
+- The Chest - Orbit that feeds the ball to the upper left flipper for shots at the Captain's Quarters, Fountain of Youth, or the GOLD targets, with a replica of the Dead Man's Chest on top of it. It also locks balls for Dead Man's Chest Multiball thanks to a u-turn that feeds the inside of the chest. Lastly, it's also used in modes, and qualifies the green skull for the Star Map. In prototype versions of the game, the chest replica would open up, but this was changed in the production releases.
+
+- Star Map - An interesting shot with some rubber lining both sides, 5 targets, a magnet, and an up-post. When multiple modes are qualified, the up post will raise and the magnet will allow the ball to hit the targets and collect the corresponding Skull value for each target it hits. The last target the ball hits begins a mode corresponding to whatever color the target was. If the Star Map is unlit, it will just hit the targets and rattle around the rubbers before heading back to the flippers. Typically, the ball will hit the GOLD targets on the way out. The shot is also used during modes, where it can collect Jack Sparrow and award more time once the timer is almost halfway through.
+
+- MAP targets - Three targets in between the Star Map and the Captain's Quarters, which qualify Captain's Quarters to collect a Map Award. These are typically hit from the lower left flipper but they are possible to make from the upper left flipper as well.
+
+- Captain's Quarters - Hole above the Fountain of Youth that collects the Map Award whenever it's lit and feeds the ball to the Depths. Also used during modes and as a Skill Shot.
+
+- Fountain of Youth - Upper loop shot which continuously feeds the upper flipper, allowing you to rack up big combos. After enough shots to the Fountain of Youth you will be able to begin Multiball 4 (On Stranger Tides). Repeated shots to the Fountain of Youth score higher and higher values and set you up to collect tons of gold. It's also used in modes and to qualify the blue skull for the Star Map.
+
+- Pop bumper entrance - Small gap near the loop that has a rollover. The ball tends to fall into this area at random. This is the second part of the “Extra Ball” shot; this rollover has to be registered without any other bumpers being hit.
+
+- GOLD targets - 4 standup targets, each one labeled with a letter of GOLD. Whenever these are hit, a small amount of gold will spawn, which you can collect using the action button. Making combo shots before hitting the GOLD targets causes more gold to spawn. Completing GOLD will also spawn a larger amount. These also award an add-a-ball during Tortuga Multiball.
+
+- Black Pearl Ramp - Steep right ramp that always feeds the Black Pearl upper playfield. Used during modes. Prone to draining the ball SDTM if you aren't careful.
+
+- Black Pearl Ship - A unique upper playfield with several shots that can be made. The ship constantly rocks back and forth, and the more you get done on the ship, the more difficult it becomes to control the ball. The upper playfield has two orbits with a spinner each, both of which are used during modes, with the spinners qualifying the "Load Cannon" targets. There are also two blue targets to the left of the playfield that qualify the Bonus X targets, two yellow targets at the center that spot a GOLD target, and two green targets (one near the cannon and one near the right exit) that qualify the Cannon when lit. The ball can exit the playfield through a habitrail towards the right of the playfield or drop into the bumpers (which also gives credit for the right orbit shot).
+
+- Cannon - Difficult shot at the upper left of the Black Pearl Ship, with a door in front of it that raises when the Cannon is qualified. When a ball is loaded into the Cannon, the action button must be pressed at the right time to fire at the opposing ship. The Cannon is used to qualify and collect Super Jackpots during Curse of the Black Pearl Multiball. 
+
+- Ship popper - VUK that kicks the ball into the top of the Black Pearl Ship. The ball typically doesn't land here on purpose, but it can be made from a Skill Shot or a weak orbit shot.
+
+- Open Sea - Orbit that goes through the bumpers and towards the upper flipper. Used during modes and starts Liar's Dice when the insert is lit.
+
+- Bumpers - A set of three bumpers surrounding the entrance to the right orbit. The bottom right bumper has a figure of Jack Sparrow that spins when the bumper is hit, increasing in speed when you hit it a ton.
+
+- Rollovers - There are four rollover targets located around the bumpers, with pictures of rum bottles on them. Making all of the rollovers the same color will increase the Mystery Level by 1.
+
+- Tortuga Saucer - Small hole near the right orbit that is used to collect Mystery Awards or start Tortuga Multiball when lit. Scores Gibbs in modes.
+
+- Right lane - A curvy lane that goes through the bumpers. Collects Extra Ball when lit.
+
+- "X" targets - A few standup targets scattered around the playfield. Hitting an "X" target when lit increases any multiplier (Bonus, Shot, or Super) by the number shown on the target. These are also used during Dead Man's Chest Multiball to determine the lit Jackpots.
+
+- PIRATE lanes - 6 lanes spell out PIRATE, which qualifies the PIRATE target for the award you chose with the action button. The left set of lanes has an interesting orientation - there are two inlanes and one outlane in between them. The right outlane has an opening that feeds the plunger as a ball save.
+
+- "Spot Character" target - Target near one of the left inlanes that spots a mode shot during Chapters. Typically can only be hit by a lucky bounce.
+
+- Spinning disc - At certain times during gameplay (ie. when the Chest Lock is qualified), the spinner in the center of the playfield will active, making the game more difficult than usual. The production releases only use one disc, but prototypes featured three discs in order to reveal the Map Award.
+
+- Action Button & Screen - This button is your friend. During gameplay, you can use it to collect gold whenever it spawns on screen. You can also press it at any time during play to change the PIRATE award that will be qualified through the inlanes. There is a screen above the action button that has multiple functions during gameplay, including acting as a "compass" that points towards the most valuable shot available.
+
+**Character Select:** 
+
+Every game of POTC starts with an opportunity to choose which character you want to play as. Each character gives benefits to the player (ie. easier Multiballs, easier Chapters, etc.), and also allows you to skip the character's shot during Chapters. In a multiplayer game, the same character cannot be chosen twice.
+
+* **Armando Salazar:** If you "multi-drain" out of a multiball, you'll get one ball back. Dead Men Tell No Tales MB is one level easier to qualify and scores double.
+
+* **Elizabeth Swann:** 3 Chapters are always lit. Also, character values increase quickly while playing the chapters.
+* **Will Turner:** Extends the combo timer & awards 5x all Skill Shot values, and makes it easier to collect the extra ball.
+* **Davy Jones:** Liars Dice always available from PIRATE lanes. More interesting dice in Liar's Dice. (In other words, better dice).
+* **Jack Sparrow:** Removes "worst" Mystery awards. Also makes everything related to Treasure score double, including the Treasure Hoard mode. Progressive stacked multiball scoring bonus (10-50%).
+* **Weatherby Swann:** Makes the player immune to being plundered by other players, but similarly *you* will not be able to plunder from other players either. All multiball modes score 25% more. Once per ball 'pardon' the last ball to drain that would end multiball. Gold scores 100 in bonus rather than 25. Tortuga Multiball or Arrr! Frenzy can't be activated.
+* **Blackbeard:** Extends the multiball ball save by 10secs.
+* **Scrum:** Any chapter with a female spots 1 female at 5x the normal value. Additional female characters collected score 2x points. Bonus X automatically held at end of ball.
+* **Marty:** Gold after Tortuga Multiball ends is held. Gold scores 50 in bonus rather than 25. Collecting gold scores 2x for every button press. More time to collect gold. Gold only spawns in 1 coin units.
+* **Carina Smythe:** Increases all feature timers (note: *not* ball-save timers). Currently lit constellation always identified, making it easier to collect Constellation Bonuses and light the Extra Ball.
+* **James Norrington:** Chapters are easier to complete (hitting a target/shot on either side of the lit character will score that character), *however* Chapter scoring is reduced in half. Near misses do not spawn gold for character collects.
+* **Henry Turner:** The "Spot Character" target is always lit during modes. Also, character values increase quickly while playing the chapters.
+* **Hector Barbossa:** Makes all Multiballs easier (hitting a target/shot on either side of the lit jackpot will score the jackpot), *however* MB scoring is reduced in half. Supers score 1/4 pts and, as of code 0.99, do *not* contribute to the Wizard Mode scoring tally.
+* **Pintel:** Spots PIRATE lanes, making it easier to qualify the PIRATE award. (5, then 4, then 3, then 2 for rest of game) Arrr! Frenzy scores double.
+* **Bootstrap Bill:** Makes Dead Man's Chest Multiball easier to start - shooting just one Chest target will light each Lock, *and* makes DMCMB more valuable.
+* **Tia Dalma:** Selectable Chapters -- If more than one Chapter is lit at the Star Map, you can select which Chapter you want to play with the flippers and the action button, making it easier to activate Wizard Modes as a result. At Worlds End MB one level easier to start, and scores double.
+* **Cutler Beckett:** One press of the action button collects all Gold available on the screen. *However*, Gold scores 10 in bonus rather than 25.
+* **Angelica:** Spots one random _male_ character during each Chapter. Awards 1 free skull hold at the end of each ball.
+* **Ragetti:** When a ball is on the Black Pearl, hitting the action button adds another into play. Available once per ball. *However* your scoring while this 2-ball MB is active (including anything started during it) will have scoring reduced in half. Arrr! Frenzy easier to start.
+* **Cotton:** Easier Pearl Motion. The Black Pearl doesn't move as fast when you are trying to qualify the Cannon. All Black Pearl scoring is doubled, as is Black Pearl Multiball scoring.
+* **Philip Swift**: Makes On Stranger Tides Multiball easier to start by reducing the number of loops required to activate it.
+* **Joshamee Gibbs:** Increases the value of Tortuga Multiball, along with the bumpers. He's also the narrator for the game and will help the player out on their adventure.
+
+
+**Skill Shots:**
+
+POTC has three Skill Shots.
+- A short plunge into the bumpers awards the player 1k points and advances the Mystery Level by 1.
+- A medium plunge into the ship popper scores 5k points and advances the Black Pearl. (If "Load Cannon" isn't qualified, those targets will light; if the Cannon isn't qualified, the Cannon will light; if the Cannon is qualified, Multiball 1 will light.)
+- A strong plunge that sends the ball to the upper flipper allows the player to shoot for the Captain's Quarters to score 2.5k and a spin of the Map. This skill shot value can be increased by 2.5k per loop by shooting the Fountain of Youth and then making the Captain's Quarters as a combo.
+
+**Mystery:**
+
+Hitting each pop bumper once will either light Mystery or advance the Mystery level. The maximum Mystery level is 10, and the higher the Mystery level is, the better your award will be. Examples of low-level Mystery awards include holding over a Skull value, spawning some Gold, advancing a Multiball mode, or awarding small points, while high-level Mystery awards include playfield multipliers, ball save, an instant Multiball mode, or even lighting the Extra Ball. Each Mystery level has a different colored insert, Mystery level 1 is purple and Mystery level 10 is white.
+
+**PIRATE Inlane Awards:**
+
+At any time during play (as long as Gold hasn't spawned), you can press the action button to change the award that will be qualified by completing the PIRATE inlanes. Each award has its own color, which is shown on the screen, inlanes, and the lit PIRATE target. Certain awards are available after reaching certain thresholds of PIRATE completions (i.e. ARRRRR Frenzy after 3 & 10 completions, Light Extra Ball after 5 completions). These awards include:
+- Light Bonus X
+- Hold Bonus X
+- Light Shot X(Light Blue)
+- Light Super X(Purple - only available every 2nd completion of PIRATE lanes)
+- Big Points(Dark Blue)
+- Start Hurry-Up (at the PIRATE target - shoot it before time runs out)(White)
+- ARRRRR Frenzy (all switches score 500 points and ARRRRR for 30 seconds, really good mode to stack up with a Multiball or Super X)(Magenta)
+- Add More Time (in any timed mode)
+- Add A Ball (in any Multiball)
+- Gold (10 base, collected with button)(Yellow)
+- Light Extra Ball (after 5-6 PIRATE completions)(Amber)
+- Light Liar's Dice (after 3 PIRATE completions)(Pink)
+
+**Bonus X:** 
+
+Completing the two "Advance X" targets on the Black Pearl Ship qualifies the standups to increase the bonus multiplier. Once the multiplier is collected, you will have to complete them again to qualify the multipliers again. Bonus X caps at 6x.
+
+**Shot X:** 
+
+This can be qualified as one of the PIRATE inlane awards. When this is collected, shooting any flashing target will make the value of *only* the next shot multiplied by whatever number was on the target.
+
+**Super X:** 
+
+This can be qualified as one of the PIRATE inlane awards. The first time this is collected, only the "2x" target will be flashing. Hitting the target begins 2x scoring for about 30 seconds. The playfield multiplier can be increased up to 6x on subsequent activations of Super X. If a MAP Award is collected during this time, it'll typically advance the playfield multiplier by 1x.
+
+**Map Awards:**
+
+Completing the MAP targets qualifies the Captain's Quarters to collect a Map Award. The display shows a map with various possible combinations spinning around, and the final combination is what you're awarded with. There is a complex algorithm to the probability of certain features (i.e. if a certain amount has been plundered from an opponent, the opponent will have a 50% chance of being able to plunder the next time a MAP Award is obtained.)
+
+The possible Map combinations are listed below:
+
+- First layer:
+  - Light 
+  - Award
+  - Add
+  - Change
+  - Plunder
+- Second layer:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 10
+  - Extra
+  - Lit
+  - Opponent's
+- Third layer:
+  - x Playfield
+  - x Bonus
+  - Chapter
+  - x 10k Points
+  - x 25k Points
+  - x 10 Gold
+  - Jackpot
+  - Treasure
+  - Ball
+  - Character
+
+Notes on Plundering:
+- "Plunder Opponent's Character" allows you to steal an opponent's character, giving you the benefits of that character. The downside of this is that if you achieve a character champion high score at the end of the game and you've plundered a character, you won't qualify for that ego award.
+- "Plunder Opponent's Ball" is **very** rare, but it can be awarded. Consider yourself lucky if you get this.
+ 
+**Liars' Dice:** 
+
+This is awarded as an option off of the 3rd PIRATE award and can be accessed at the start of a game by playing as Davy Jones. Shoot the right orbit or fall into the Ship VUK to start this video mode. First, select out of a few options what you want the stakes for the game to be (ie. gold, tilt warnings, points, souls, etc.) You can also select "Walk Away", which allows you to exit the mode, and "Help!", which brings up a page teaching you how the rules of Liar's Dice works (just like in the movies). If you lose, it'll be double or nothing - ie. if you had 119 gold as the stakes, winning Liar's Dice would award you with that amount added to your total, but if you lost, you would lose all of your gold. (How do souls work exactly? Do they have something to do with the wizard modes?)
+
+**Gold:**
+
+ In POTC, the player will collect tons of gold throughout the course of the game by hitting the action button when they spawn. The gold spawning is accompanied by a callout and the blinkers on the playfield flashing yellow. When the gold is about to vanish, they will turn red. The primary purpose of gold is to light Tortuga Multiball at the right saucer, which can be stacked into other Multiballs for big points. Gold can spawn through:
+- "Gold" PIRATE lanes (10 x number of collects, up to 50)
+- Hitting the GOLD targets (the higher combo you attain before hitting them, the more gold spawns)
+- Making shots during Chapters 
+- Mystery awards 
+
+**Combos & Treasure Horde:**
+
+There are 12 two-shot combos that can be viewed in the status report. Each combo awards the player with a different piece of treasure. Collecting all twelve treasures begins the Treasure Horde mode, which is a lucrative hurry-up mode that encourages more combos to be made for big points.
+
+**Constellation Bonus:**
+
+Something to do when you don't have anything else to do. Shooting the Star Map during normal play will light a random shot for the Constellation Bonus. After enough Constellation Bonuses are collected, the Extra Ball will be lit.
+
+**Chapters:** 
+
+There are five colored skulls shown at the top of the backglass display, as well various shots on the playfield: Port Royal (yellow skull), the Chest (green skull), the Maelstrom (red skull), the Fountain of Youth (blue skull), and the Devil's Triangle (purple skull). 
+
+Shooting any of these shots once qualifies a chapter at the Star Map shot. If the Star Map is made with multiple chapters qualified, the ball will bounce around and collect the Skull value for each target hit. The last target hit before time runs out will be the chapter you play.
+
+Skull values and Chapter Scoring:
+Skull values begin at 1000pts and can be built to a max of 10,000pts. They are built by the following:
+Purple Skull: Left spinner adds 10pts per spin and 5pts for a partial spin. A good spinner rip can add several hundred points to the Purple Skull value.
+Red Skull: Each shot to the left ramp(Maelstrom) shot adds 100pts to red skull value.
+Green Skull: Each shot to the Chest adds 50pts to the green skull value.
+Yellow Skull: Each shot to the left orbit(Port Royal) adds 75pts to the yellow skull value
+Blue Skull: Each shot to the Inner loop(Fountain of Youth) adds 25pts to the blue skull value.
+
+Character shot values are multiplied by adding .5X for each additional Skull lit when shooting the Star Map.
+Examples: One skull lit = characters are collected at 1X.
+Four skulls lit = characters are collected at 2.5X
+All five skulls lit = characters are collected at 3X.
+Once a chapter is played, all skulls are unlit and must be re-lit to start another chapter at the Star Map.
+When a ball ends, all skull values reset to 1000pts unless a Skull Hold has been awarded.
+Skull Holds:
+Shooting The Depths will apply a Skull Hold to the highest current skull value.
+Skull Holds can also be given through mystery awards.
+Playing as Angelica also awards 1 skull hold at the end of every ball.
+
+
+The rules when starting Chapters vary depending on your character. If you're playing as Elizabeth Swann, 3 chapters are always lit, and Tia Dalma allows you to select the Chapter you want with the flippers and action button.
+
+In each Chapter, the goal is to complete all flashing shots, from a minimum of 1 to a maximum of 12. Completing a Chapter awards a Completion Bonus of 2500 and increases by 250 each time, a Timer Bonus worth 25 x the number of characters x the number of seconds left. The shots themselves are worth the Skull value corresponding to the appropriate color. The more characters collected, the higher the level of scoring in a movie's Wizard Mode will be. Completing Chapters also contributes to this tally.
+
+In order to qualify each movie's mini-wizard mode, 5 chapters from the movie must be played.
+
+**Multiballs:**
+
+The other objective POTC players will be pursuing are the six Multiballs (one for each movie, along with Tortuga). Every Multiball in the game can be stacked and played with each other, adding an additional ball to the mix as well. You can also "revive" Multiball play by starting another Multiball mode during the grace period (think Gollum from LOTR). Playing the Multiball for each respective movie is required to qualify their mini-wizard modes.
+
+**Multiball 1 (*Curse of the Black Pearl*):** To qualify this Multiball, shoot the right ramp to access the Black Pearl Ship. There, you will have to qualify the Load Cannon targets by shooting the two spinners on either side of the orbit. The lighting on the ship will slowly become a dark shade of green as the spinners spin. After enough spins, shoot either Load Cannon target(Green) to qualify the Cannon shot, and shoot the Cannon to begin a short round where you have to destroy the opposing ship with a well timed shot using the action button. A shot into the hole will cause the opposing ship to be destroyed and qualify Multiball 1 at Port Royal. If you do not hit the hole, you still make progress toward Multiball 1, but additional hits to the ship will be needed. At the start of Multiball, a ball will be popped up into the Ship. Collect Jackpots with shots to the ship, and score Super Jackpots by hitting the hole in the ship using the action button.
+
+**Multiball 2 (*Dead Man's Chest*):** Complete the two targets on either side of the Chest(Green) to qualify each lock, then shoot the Chest itself to lock a ball. Lock three balls to begin Multiball 2. At the start of the Multiball, all of the bonus multiplier targets will be lit, and hitting any one of them will light a number of Jackpots determined by the number shown on the target. Collecting all of the Jackpots lights the Super Jackpot at the Chest. The idea here is to shoot the 2X target, thereby requiring only 2 jackpots for every super jackpot.
+
+**Multiball 3 (*At World's End*):** All Red arrows at the nine major shots need to be lit to qualify MB at the left ramp.. When a shot with a red arrow is made, you will collect one of the 9 Pieces of Eight (and it'll also be shown on screen with a callout.) On default settings,one Red shot will be spotted at the beginning of each ball, meaning even new players will be likely to get Multiball 3 going. When only one shot remains it will flicker to let you know it is the last one remaining to qualify MB. After collecting all 9 Pieces of Eight, Multiball 3 can be started with a shot to the Maelstrom, which will go into the whirlpool. During this Multiball, Jackpots can be collected by shooting the Maelstrom again, and a Super Jackpot will light at the Bayou after every jackpot. For subsequent MB's, it takes two shots to all the major shots, then three, etc.
+
+**Multiball 4 (*On Stranger Tides*):** Multiball 4 is started by making successive shots to the Fountain of Youth - the upper loop. It takes about 8 or 9 loops to qualify MB. Another shot to the Fountain of Youth will start Multiball 4. During the Multiball, the inner loop will score Jackpots. Shooting chest-loop combos awards Double Jackpots; orbit-loop combos awards Triple Jackpots. After enough Jackpots are collected, the right orbit, chest, or inner loop has to be shot to trap a ball behind the post. The Super Jackpot is collected by knocking the ball out of the post with another ball.
+
+**Multiball 5 (*Dead Men Tell No Tales*):** Shooting the spinner in front of the Devil's Triangle will progress towards lighting this Multiball. After enough spins, shoot the Devil's Triangle to start the Multiball. In order for the MB to begin, the ball must travel all the way up the left orbit and hit the switch at the u-turn and the end. During the Multiball, a roving Purple Jackpot is lit. Shoot the roving jackpot to light the Super Jackpot at the Devil's Triangle. 
+
+**Tortuga Multiball:**  Collecting 50 (+50 for subsequent multiball) Gold during the game will qualify the right saucer to begin Tortuga Multiball. During the Multiball, all of the major shots will light for Jackpots. These don't score too many points, but they do increase the Super Jackpot value that the right saucer will collect. If the player is patient with collecting their Jackpots and brings in a Super X, the Super Jackpot can score a ton of points. The other benefit of Tortuga Multiball is that completing the GOLD targets will instantly add a ball to the Multiball. After completing these targets the first time, GOLD has to be completed in order from top to bottom to award another add-a-ball. One of the best uses of this MB is to "resurrect" other MB's during the grace period after a drain down to one ball.
+
+**Wizard Modes:**
+
+Wizard mode scoring is based on a "score level," which is calculated by:
+
+(1 + # of Super Jackpots) * (1 + # of characters collected in modes) 
+
+Curse of the Black Pearl Wizard Mode (The Cursed Treasure of Cortés): Play 5 yellow chapters and Curse of the Black Pearl Multiball to qualify, and then shoot Port Royal to start it. During this mode, the player is tasked with collecting 882 pieces of Aztec gold through switch hits. This sounds like a difficult task, but certain targets contribute more than others. In particular, the spinners can add a ton of Aztec gold to your collection really quickly. Another challenging aspect of this wizard mode is that the ports where Aztec gold can be collected eventually deplete; in order to change ports, a flashing yellow shot must be made. The mode ends upon collecting all 882 pieces of gold or when the timer runs out, which is fairly lengthy for this mode.
+
+Dead Man's Chest Wizard Mode (Battle the Kraken): Play 5 green chapters and Dead Man's Chest Multiball to qualify this Wizard Mode, and then shoot the Chest to start it. During the mode, the player is tasked with shooting the upper loop 20 times (!) to raise the gunpowder net and then defeating the Kraken with a shot to the Captain's Quarters, all while the Kraken's six tentacles are extending towards the top of the LCD screen. The tentacles can be temporarily stopped by making one of the six shots corresponding to the tentacles, but if the shot is red, you're screwed - the tentacle will just keep on destroying your ship and there's nothing you can do about it. The mode has a long timer and ballsave, but when the timer ends or if all six tentacles reach the top of the screen, the mode ends.
+
+At World's End Wizard Mode (Escape the Locker): Play 5 red chapters and At World's End Multiball to qualify this Wizard Mode, and then shoot the Maelstrom to start it. During this mode, the player is tasked with rocking the ship shown on the display left and right over and over, to the point where it flips over. This mode has a 90 second timer. There will be 4 major shots on the right lit blue. Shoot any of these shots and the 4 blue shots will move to the left. Continue this pattern until a total of 8 blue shots have been made to complete the mode. Important to note is that each successive shot increases in value dramatically. If you are able to start a Super X during this mode, it's better to bring in the playfield X later in the mode rather than at the beginning.
+
+Wizard Mode 4 (Battle for the Fountain of Youth): Play 5 blue chapters and Multiball 4 to qualify this Wizard Mode, and then shoot the Fountain of Youth to start it. This mode has 5 phases.
+Phase 1: There are 5 major shots that need to be made in 30 seconds.
+Phase 2: Find the Mermaid. There are a large number of shots lit orange that must be collected. The mode begins with a 48 second timer and each successful shot adds time. Some of these shots are difficult such as the D in GOLD and the M&A in MAP.
+Phase 3: Fill the Cup. There are 3 roving blue shots. Collect any of these and there will then be 2 roving blue shots. Collect either of these and there will be 1 roving blue shot. This will fill the cup blue.
+Phase 4: Shoot the Star Map to turn the cup gold.
+Phase 5: Shoot the inner loop to finish the mode.
+
+Wizard Mode 5 (Don't Betray the Compass): Play 5 purple chapters and Multiball 5 to qualify, shoot Devil's Triangle to start). This is probably the most difficult of the wizard modes. There is a 15 second timer. Most major shots will be lit red. One shot will be unlit. This corresponds to the white shot on the display. Shoot the unlit shot to reset the timer and begin the hunt for the next unlit shot. Only 4 or 5 of these unlit shots need to be collected to finish the mode. The difficulty lies in the red shots. The instructions on the screen read "Mode ends when shooting too many red shots". The mode can end suddenly with only 1 or 2 red shots made. There are also a few black shots. I'm not certain but I assume they do not punish you like the red shots.
+
+Final Wizard Mode (Break the Curse): TBA (play all 5 Wizard Modes, then shoot the Captain's Quarters to start)
