@@ -24,6 +24,7 @@ source: https://tiltforums.com/t/rulesheet-master-list/7230
 [PAPA Rulesheets](https://replayfoundation.org/papa/learning-center/player-guide/rule-sheets/)
 
 ## Stern Pinball:
+
 |Game | Released | Designer | Rules/Code|
 | --- | --- | --- | --- |
 | [Transformers: More Than Meets The Eye](/stern/transformers-more-than-meets-the-eye-rulesheet_GBLzz) | June 2026 | Elliot Eismin | Elizabeth Gieske |
