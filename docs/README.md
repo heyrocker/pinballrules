@@ -4,7 +4,7 @@ The rulesheets are categorized by manufacturer in the [Rulesheet Master List](ru
 
 Here are some other wiki pages which are related to pinball, but not technically rulesheets.
 
-Points for extra ball in tournament mode
-Action button usage
-Games with their most current code revision
-Games with lock and point stealing
+* [Points for extra ball in tournament mode](other/points-for-extra-ball-wiki)
+* [Action button usage](other/action-button-master-list)
+* [Games with their most current code revision](other/list-of-games-with-their-current-code-number-wiki)
+* [Games with lock and point stealing](games-with-lock-point-stealing)
