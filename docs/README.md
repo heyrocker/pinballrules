@@ -1,10 +1,10 @@
-## Bally
-## Williams
-## JJP
-## Spooky
-## Multimorphic
-## Stern (modern)
+Welcome to the Pinball Rulesheets site! Did you know that every single pinball machine has its own unique rules? If you have ever wanted to know how to play your favorite pinball machine, this site is for you. These rulesheets were originally created and maintained by members of the website TiltForums. With that website's closure, the community has moved here. Pinball Rulesheets is community-maintained on Github, and the rulesheets are freely editable by anyone with an account. Please contribute! 
 
-| Game | Released | Designer | Rules/Code |
-| --- | --- | --- | --- |
-| [King Kong: Myth of Terror Island](/stern_moden/king_kong)  | April 2025 | Keith Elwin | Rick Naegele / Joshua Henderson |
+The rulesheets are categorized by manufacturer in the [Rulesheet Master List](rulesheet-master-list). You can find them all there.
+
+Here are some other wiki pages which are related to pinball, but not technically rulesheets.
+
+Points for extra ball in tournament mode
+Action button usage
+Games with their most current code revision
+Games with lock and point stealing
