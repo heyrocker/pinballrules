@@ -1,0 +1,28 @@
+name: Clean HTML in Markdown files
+
+on:
+  push:
+    branches: [main]
+    paths: ['docs/**/*.md']
+
+jobs:
+  clean-html:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run HTML cleaner
+        run: python scripts/clean_html.py docs/
+
+      - name: Commit cleaned files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet; then
+            git add -A
+            git commit -m "Auto-convert HTML to Markdown"
+            git push
+          fi
