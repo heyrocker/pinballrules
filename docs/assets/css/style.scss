@@ -3,7 +3,7 @@
 @import "jekyll-theme-slate";
 
 .inner {
-  max-width: 1200px;
+  max-width: 1000px;
 }
 
 nav {
@@ -37,6 +37,19 @@ nav {
   }
 }
 
-h1 #project_title {
+h1 {
+  font-size: 30px;
+}
+
+#main_content {
+  padding-top: 20px;
+}
+
+#project_title {
+  margin-top: -30px;
+}
+
+#project_title,
+#project_tagline {
   margin-bottom: -10px;
 }
