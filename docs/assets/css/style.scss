@@ -4,3 +4,13 @@
   max-width: 1200px;  /* adjust to taste */
 }
 
+nav {
+  margin-top: 15px;
+  a {
+    color: #fff;
+    margin-right: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}
