@@ -6,3 +6,5 @@ navigation:
     url: /
   - title: Master List
     url: /rulesheet-master-list
+  - title: Contribute
+    url: /contribute
