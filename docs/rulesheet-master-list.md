@@ -4,8 +4,6 @@ discourse_topic_id: 7230
 source: https://tiltforums.com/t/rulesheet-master-list/7230
 ---
 
-# 
-
 # Rulesheet Master List {#heading--top}
 - [Stern Pinball](#heading--stern)
 - [Jersey Jack Pinball](#heading--jjp)
