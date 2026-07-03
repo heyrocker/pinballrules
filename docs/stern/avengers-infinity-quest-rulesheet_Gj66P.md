@@ -47,7 +47,7 @@ source: https://tiltforums.com/t/avengers-infinity-quest-rulesheet/6740
   - [Trophy Mania](#heading--trophymania)
 - [FAQ](#heading--faq)
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: Keith Elwin
 - Code/Rules: Rick Naegele, Raymond Davidson, Brett Z Rubin, Mike Kyzivat, Keith Elwin
 - Lead Mechanical Engineer: Harrison Drake
@@ -60,7 +60,7 @@ source: https://tiltforums.com/t/avengers-infinity-quest-rulesheet/6740
 
 *Avengers: Infinity Quest* is a 2020 release from Stern Pinball, and the third design by professional pinball player Keith Elwin. The Black Order has successfully retrieved the six Infinity Gems and given them to their master, Thanos. The Avengers set out to travel back in time through one of Doctor Strange's portals and take the Gems before the Order can, to nullify the effects of Thanos' Infinity Gauntlet and save the world. 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 - Shoot the disc to spell STRANGE, then shoot the right ramp to begin a Gem Quest. After shooting the flashing shots to win the Gem Quest, shoot the right ramp again to collect the Gem, then shoot any lit shot to place it there and enable each gem's unique perk.
 - Score combos to enable Portal Locks at the disc to multiply Gem Quest scoring.
 - Assemble the Avengers and level them up, improving scoring and gem perks, by shooting their corresponding shots enough times. After collecting all six, shoot the right ramp to begin a mini-wizard mode.
@@ -69,19 +69,20 @@ source: https://tiltforums.com/t/avengers-infinity-quest-rulesheet/6740
 - Start Thor Multiball by spelling THOR at the captive ball enough times, then shooting it again.
 - Complete lines of awards on the computer grid by completing the drop targets to start Super Modes.
 
-### Strategy:
+### Strategy: {#heading--strategy}
 - Make four combos to light the disc for Portal Lock early on. This doubles all gem quest scoring and enables multiball for the mode.
 - Thor Multiball is attainable with three shots to the captive ball and is always open at the start of the game. Try bringing it into your first gem quest.
 - Filling out the six inserts above the flippers qualifies Soul Gem. This is also best done during multiball.
 - Which gem is the best gem depends on your play style and current objectives. Figure out what works best for you and pay attention to the gem information on the display.
 - Take locks for Iron Man Multiball & Hawkeye Challenge at the Tower whenever they present themselves. Intentionally trying to light them can be risky.
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2020/08/Avengers-Premium-Playfield-elfnasd-scaled-821x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2020/08/Avengers-Pro-Playfield-4gakjda-scaled-821x1536.webp)
 
-## Modes of Play:
+## Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:**
@@ -93,7 +94,7 @@ In this challenge mode you play an easier, modified version of the **Black Order
 - **DJ Mixer**
 NOT a gameplay mode. This mode operates like a Jukebox, allowing you to play the music featured in the machine, including a number of specific playlists (All songs, Infinity Gauntlet, Wizard Favorites).
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 All Skill Shots award points and additional ball-save time. Super & Secret Skill Shots have associated perks.
 
 - **Skill Shot:** Plunge the ball softly into the top rollover near the pop bumpers to score the skill shot, worth 250k + 100k per successful skill shot + 3 seconds of ball save.
@@ -101,21 +102,21 @@ All Skill Shots award points and additional ball-save time. Super & Secret Skill
 - **Secret Skill Shot 1:** Plunge the ball with medium strength such that it rolls backward down the upper loop. Worth 3m + 200k per successful skill shot + 10 seconds of ball save + instantly lights one **[Portal Lock](#heading--portallock)**.  
 - **Secret Skill Shot 2:** Full plunge and shoot the center drop target to collect 3m + 200k per skill shot + 10 seconds of ball save + the currently flashing **[grid square](#heading--computergrid)**.
 
-## Gem Quests:
+## Gem Quests: {#heading--gemquests}
 To start a Gem Quest, spin the **disc** to spell S-T-R-A-N-G-E and then shoot the right ramp (Pro) or the portal (Prem / LE) to start a Gem Quest. Hitting the disc after rolling through the right inlane will start the Eye of Agamotto insert flashing and cause each spin to advance STRANGE by 2x. Subsequent Quests require more spins to light STRANGE letters. 
 
 Select any Gem Quest you want by using the flipper buttons, and press the action button or both flippers at once to confirm your choice. Gem Quests are entirely untimed (outside of the health bar which steadily decreases over time), and only end if you drain while one is active. If you fail the Quest, Thanos gets the Gem, and this will be indicated on the display. You can re-acquire a lost Gem by completing **[Hawkeye Challenge](#heading--hawkeyechallenge)** on Marksman difficulty, and can replay Quests for Gems you've lost if you possess the **[Soul Gem](#heading--soulgemquest)**, although if you fail a replayed Quest, you will also lose the Soul Gem. 
 
 Either **[Multiball](#heading--multiball)** and any timed **[Super Modes](#heading--supermodes)** from the drop target grid can be activated while Gem Quests are running. The player can also *[level up the Avengers](#heading--assemble)* as usual during Gem Quests. Score 30M in any Gem Quest for a *[Gold Trophy](#heading--trophies)*.
 
-### Gem Quest Details:
+### Gem Quest Details: {#heading--gemdetails}
 * **Mind Gem** (Blue) - Hulk, Marvel, Panther, and Black Widow are lit. Shooting any of them "frees" that Avenger from Supergiant's mind control powers, and will light the disc to damage Supergiant for 100,000 points per spin. The more Avengers you free before shooting the disc adds +1x multiplier to the disc value (5x for all 4). Complete this sequence three times to light the Sanctum target for Final Blow; if the player shot the fastest blinking shot during all three rounds of shots, they will score the Final Blow with the last disc spin instead.
 * **Power Gem** (Red) - Shots light in spans of 3 flashing red shots, with the center of the three shots lit for 30% damage and a value that can be built up with shots to the left spinner (one rip only) or disc; and the other two lit for 15% damage and half of the value. The critical hit shots are lit in this order: Captain Marvel, pop bumper lane, upper loop, Tower. This order will loop if not enough damage has been done. Deal enough damage to light the left orbit for Final Blow for the current critical hit value x the number of critical hits collected (+1).
 * **Space Gem** (Purple) - Defeat Corvus by making combo shots. Shoot either the right orbit or upper loop to parry, and then shoot the left orbit to attack Corvus (and score 50,000 points per bumper for 5 seconds). The attack & bumper value can be multiplied by 2x or 4x by making a combo shot to the right orbit or upper loop. The upper loop always qualifies the left orbit for 2x the base value. Completing three attacks will light the left ramp and right orbit for Final Blow, with a higher bonus at the right orbit.
 * **Time Gem** (Orange) - To defeat Proxima, shoot the left ramp and gauntlet ramp once each, then shoot for the cycling lit drop target on the grid. The lit target starts at 3x value, but with each shot to an unlit drop target, the multiplier decreases. Repeat the sequence 3 times to win, with the speed of the moving drop target increasing each time.
 * **Reality Gem** (Yellow) - Every spin of the disc will light up the letters in STRANGE, and light all major shots yellow. The currently flashing letters in STRANGE multiple the values collected from the lit shots, with the pop bumper lane and upper loop scoring an additional 2x; these letters slowly extinguish, with later letters being active for a much shorter time, but they can be added back by spinning the disc. Shoot 8 total yellow arrows to defeat Ebony Maw and win the mode.
 
-### Portal Locks & Victory Laps
+### Portal Locks & Victory Laps {#heading--portallock}
 Prior to starting a **[Gem Quest](#heading--gemquests)**, up to 2 **Portal Locks** can be qualified and collected at the disc through:
 * **[Secret Skill Shot](#heading--skillshots)** #1
 * 4, 10, 20, etc. **[Combos](#heading--combos)**
@@ -124,7 +125,7 @@ Prior to starting a **[Gem Quest](#heading--gemquests)**, up to 2 **Portal Locks
 
 Portal Locks enable 2x / 3x scoring for the next Gem Quest as long as you keep the balls in play. Completing a Gem Quest while these locked balls are still in play enables **Victory Laps** at all major shots, which can be built up and relit by shooting the disc and are multiplied by the number of balls in play (pop bumper lane and upper loop score 2x).
 
-### Collecting & Placing Gems
+### Collecting & Placing Gems {#heading--gemplacing}
 If you complete a **[Gem Quest](#heading--gemquests)**, **Collect Gem** will light at the right ramp and take priority over advancing towards any further quests until the Gem has been placed on a shot. Shoot a flashing Gem shot to place the Gem there, and light the disc to qualify the next Gem Quest. Placing a Gem on a shot will provide a perk determined by the Gem and the shot itself. Certain perks only have a limited number of uses; more uses can be added by using the **Space Gem** to change the Gem's location or by scoring **Change Gems**, lit every time the *[Avengers have been assembled](#heading--assemble)*, and then using the flippers and action button to determine each gem's new position.
 
 The perks for each Gem are:
@@ -214,7 +215,7 @@ Soul Gem Jackpot enabled. Failed Gem Quests can be replayed. **Black Order Multi
 * Multiball extension in **[Black Order Multiball](#heading--bomb)** that can be used by holding down the action button. This replenishes your balls and activates the ball saver for a short time. However, if you fail to collect the Super Jackpot during the mode, you will lose the Soul Gem.
 * Soul Gem can be reacquired by scoring a Super Jackpot in **Black Order Multiball** or winning **[Black Order Battle Royale](#heading--battleroyale)**.
 
-## Avengers Assemble:
+## Avengers Assemble: {#heading--assemble}
 The Black Order is a big team with many members spread across the universe, but so are the Avengers... Assemble all six Avengers by shooting their shots enough times to qualify **[mini-wizard modes](#heading--assemblemodes)** and light **Change Gems**. After you've collected an Avenger, continue shooting that Avenger's shot/feature to upgrade them to level 1 and level 2. Each level-up requires more shots, comes with their own perks, and enhances the benefits of the **[Gems](#heading--gemplacing)** placed there. Advance any Avenger to level 2 for a *[Trophy](#heading--trophies)*.
 
 The six required Avengers, listed from the left to right side of the playfield, are as follows:
@@ -319,23 +320,23 @@ Thanos Modes:
 
 After making enough progress on both **[Gem Quests](#heading--gemquests)** and **[Avengers Assemble](#heading--assemble)**, the next shot to the right ramp when the portal has been opened will start a battle against Thanos. There are two modes using this structure: **Thanos Attacks!** occurs after obtaining at least two Gems and the **Soul Gem**, while **Battle Thanos** occurs after attempting all six Gem Quests and playing all three **mini-wizard modes**.
 
-Thanos Attacks!:
+Thanos Attacks!: {#heading--assemblemodes}
 After obtaining at least two Gems and the **Soul Gem**, the next shot to the lit right ramp will begin this mode where the player must defend any Gems they have collected. First, shoot a Gem shot to select it, then shoot the left orbit, left ramp, and the right orbit; then shoot the right ramp to defend that Gem, all within 45 seconds per Gem (lit shots add 5 seconds, and drop targets add 15 seconds to the timer). **Flank Attack** and the **Mind Gem** can be used to collect any lit shot, but won’t spot the right ramp. There is a short ball saver at the start of the mode.
 
 If the mode ends through timing out or draining, Thanos will take the gem you were trying to defend away. When you're down to the last undefended gem, the defense for that gem starts immediately. The number of Gems you have before starting this mode determines the value of the shots; the more you have, the higher the scoring is. 
 
 If you successfully defend all of the Gems you have collected, you will win back a previously lost Gem (if you’ve failed a previous Gem Quest) or start the 3-ball **[Super Victory Laps](#heading--supervictory)** multiball.
 
-### Battle Thanos:
+### Battle Thanos: {#heading--battlethanos}
 After attempting all six Gem Quests and playing all three **[mini-wizard modes](#heading--assemblemodes)**, the next shot to the lit right ramp will start the final battle against Thanos. This mode starts as a four-ball Multiball, with sets of shots flashing both red and blue to deal damage to Thanos. Hitting the disc will rotate these shots around; if you hit a shot that is flashing both colors at once, 2x damage will be delivered. The gems impact how quickly your health is drained during this mode when you enter the single-ball phase. Completing THOR will add a ball. 
 
 After enough damage has been dealt, the final blow will be at the Tower, which will defeat Thanos once and for all, and show a final victory cutscene before displaying the mode total and proceeding to 6-ball **[Super Victory Laps](#heading--supervictory)**. If you start this mode after collecting all 6 Gems, you automatically complete the mode and score a 1 billion point bonus for your hard work.
 
-### Super Victory Laps:
+### Super Victory Laps: {#heading--supervictory}
 A 3 ball multiball version can be started by successfully defending all Gems in Thanos Attacks, without having failed a Gem Quest; while a 6 ball multiball version can be started by completing Battle Thanos. Super Victory Laps is a higher scoring version of normal **Victory Laps** where the base value starts at 500,000 points rather than 250,000, and all scores are multiplied by the number of balls in play.
 
-## Multiball Modes:
-### Iron Man Multiball
+## Multiball Modes: {#heading--multiball}
+### Iron Man Multiball {#heading--immb}
 Spell I-R-O-N at the return lanes (which only change by spinning the disc, not via lane-change!), or collect "Light Lock" from the **[computer grid](#heading--computergrid)**, to light the 3 locks at the Tower shot (only one lock for subsequent multiballs). Lock 3 balls to start Iron Man Multiball. If **Iron Man** has been advanced to *[level 2](#heading--assemble)* before starting Iron Man Multiball, all jackpot scoring during the multiball will be doubled.
 
 Iron Man Multiball works in different phases, and each phase awards higher base jackpot values than the last. In each phase, two jackpot shots light at a time, and collecting them both will qualify the super jackpot at the Tower for 10 seconds, with a double super jackpot opportunity if two balls are shot into the tower at once. The jackpots start at 1 million and increase by 500,000 per jackpot phase played in the same multiball attempt. Shots to the disc will increase the jackpot by 12,500 per spin until Iron Man Multiball ends. 
@@ -350,7 +351,7 @@ Collecting the two jackpots during the fourth phase will light the disc for a Su
 
 Balls can be added during Iron Man Multiball once per activation by completing the IRON lanes, then shooting the Sanctum target behind the disc. 
 
-### Thor Multiball
+### Thor Multiball {#heading--tmb}
 Thor Multiball is an easy objective for novice players to start, simply requiring three shots to the captive ball to start it at first (T & H are already spotted for you at the start of the game). 
 
 The second Thor Multiball requires spelling T-H-O-R twice to light; the third and thereafter require spelling T-H-O-R three times. If **Black Widow** has reached *[level 1](#heading--assemble)*, the left inlane will light the captive ball to collect 2 THOR letters for 5 seconds. Advancing **Thor** to level 2 before starting Thor Multiball will cause all jackpot scoring during the multiball to be doubled.
@@ -361,7 +362,7 @@ This sequence then repeats - 2 jackpots then captive ball, 3 jackpots then capti
 
 Spell STRANGE at the disc to summon the Eye of Agamotto, then shoot the Sanctum target to add another ball into play! Every time Thor Multiball is played in a game and a ball has been added, more and more spins will be required to light the Sanctum target.
 
-## Other Scoring:
+## Other Scoring: {#heading--otherfeatures}
 ### Computer Grid Awards:
 
 The currently lit award on the Computer Grid cycles until any drop target is hit - complete the remaining drop targets, or make enough **[Hawkeye Combos](#heading--combos)**, to collect the award. Collecting 3 awards, thus completing a line on the grid, will award features or start a **[Super Mode](#heading--supermodes)**. These are randomly arranged each game (they will remain the same for all the players in a multiplayer game), so the same row won’t always award the same feature or start the same Super Mode every game. 
@@ -395,7 +396,7 @@ Qualified by playing all 6 **[Super Modes](#heading--supermodes)**, this multiba
 
 In this Multiball, all shots are lit in colors that represent the different inserts on the bingo grid (ie. left orbit = yellow, Tower = teal, etc.). Completing a shot will spot its corresponding grid lamp and score a jackpot; making a bingo on the grid will score a super jackpot. Completing a "double" bingo awards two double super jackpots (4x), and completing a "triple" bingo awards three triple super jackpots (9x). The Jackpot value can be boosted by the drop targets and each super jackpot also boosts the jackpot value. Completing the drop targets during this Multiball will award an additional ball, up to two times.
 
-Combos, Combo Jackpot & Hawkeye Combos:
+Combos, Combo Jackpot & Hawkeye Combos: {#heading--computergrid}
 **Combo** shots flash white after making any major shot on the playfield (or flashing rainbow if in **[Super Combos](#heading--supermodes)**). Combo scoring increases based on the *[trophies](#heading--trophies)* that have been obtained, up to 20k per gold trophy. Certain thresholds of combos will light the insert at the right orbit in rainbow colors to collect the **Combo Jackpot**, which scores all the points that were scored from previous combo shots again. The shot has to go all the way around the right orbit to count, and if the ball drains while Combo Jackpot is lit, it will have to be relit on the next ball. 
 
 The number of combos made accumulates across your entire game, and reaching certain thresholds provides different awards: 
@@ -414,10 +415,10 @@ The number of combos made accumulates across your entire game, and reaching cert
 
 **Hawkeye Combos** can be scored by repeatedly shooting the right ramp to increase the combo multiplier (up to 3x & 3 shots towards the next award), followed by a shot to the upper loop to collect the combo. These combos don't progress towards the awards listed above, though scoring 3, 8, 13, etc. Hawkeye Combos spots the currently lit **[grid square](#heading--computergrid)** and a *Trophy* can be scored after 10, 20, and 30 Hawkeye Combos.
 
-### Arc Reactor Bonus:
+### Arc Reactor Bonus: {#heading--arcreactor}
 Completing the drop targets will light the Tower for the Arc Reactor Bonus, which can be multiplied up to 4x depending on the strength of the shot. The base value of the bonus can be boosted by collecting unlit IRON letters, and multiplied by collecting the 2x Arc Reactor **[grid award](#heading--computergrid)** or having **Iron Man** at *[Level 1](#heading--assemble)*. The base value of the Arc Reactor Bonus is 75k, and carries over between balls until it has been collected.
 
-### Hawkeye Challenge:
+### Hawkeye Challenge: {#heading--hawkeyechallenge}
 Shoot the 3 Bullseye targets enough times, then shoot Avengers Tower to start **Hawkeye Challenge** when lit. If Hawkeye Challenge is already lit and you reach a target completion threshold, the point value for completing Hawkeye Challenge will be increased by 2 million points. The bullseye targets award the following:
   - 1 completion - Light Hawkeye Challenge
   - 3 completions - Light **[Extra Ball](#heading--extraballs)**
@@ -430,10 +431,10 @@ Hawkeye Challenge starts at level 1, and increases in level each time it is succ
 * Pro (Level 2): Timed release, hit the inner loop for an **[Extra Ball](#heading--extraballs)**.
 * Marksman (Level 3): Random release after all three lock inserts light, hit the inner loop for an uncollected **[Gem](#heading--gemquests)** + 10M.
 
-### Shield Bonus:
+### Shield Bonus: {#heading--shieldbonus}
 Pop bumpers increase your current Shield Bonus based on how high of a *[level](#heading--assemble)* **Captain America** is, and also increase the base value of it by a much smaller amount. Shooting the upper loop lights Captain America for 15 seconds to collect the Shield Bonus and a *[Trophy](#heading--trophies)*. Once collected, the value resets. The Shield Bonus can be doubled until it is collected by collecting 2x Shield off the **[Computer Grid](#heading--computergrid)**; level 2 Captain America also doubles it, as does the **[Reality Gem](#heading--gemplacing)**. The base value of the Shield Bonus is 6 million, and carries over between balls until it has been collected.
 
-### Captain Marvel Count-Up:
+### Captain Marvel Count-Up: {#heading--marvelcountup}
 Shots to the Captain Marvel shot are accumulated throughout the game, and awards can be collected by making enough shots. On the Pro, making enough spins will collect the award, while on the Premium / LE, the ramp has to be made. If the Power Gem is placed on this shot, each spinner or ramp hit will count as double towards the progress. Awards are:
 
 - 3 ramps/90 spins - **[Binary Hurry-Up](#heading--binary)** + Light **[Mystery](#heading--mystery)**
@@ -446,7 +447,7 @@ Shots to the Captain Marvel shot are accumulated throughout the game, and awards
 - 48 ramps/1440 spins - *Gold Trophy*
 - 50 ramps/1500 spins - Light **[Extra Ball](#heading--extraballs)**
 
-#### Binary Hurry-Up:
+#### Binary Hurry-Up: {#heading--binary}
 Quick, two-shot hurry-up starting at 5 million points. Shoot the left ramp or Captain Marvel to collect the value, then shoot the shot you didn't make to collect another hurry-up starting at double the value. The points increase by 1 million each time the hurry-up is collected. On the Prem / LE model, each completed hurry-up results in +1X added to the Captain Marvel ramp multiplier, which maxes out at 5X. This multiplier isn't available on the Pro.
 
 ### Mystery:  
@@ -467,7 +468,7 @@ Mystery can be lit at the Ant-Man shot in several ways, either from enough shots
 - +5x Bonus
 - Light **[Change Gems](#heading--gemplacing)**
 
-Extra Balls:
+Extra Balls: {#heading--mystery}
 Extra balls can be qualified at the Sanctum target through these methods:
 - 3 completions of the Bullseye targets
 - 2 waves of **[Super Targets](#heading--supermodes)** 
@@ -476,7 +477,7 @@ Extra balls can be qualified at the Sanctum target through these methods:
 - Late-game **[Computer Grid Award](#heading--computergrid)**
 - 50 **[combos](#heading--combos)**
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--funwithbonus}
 Each of the following are how many of these you've made THIS ball:
 * Switches x 250
 * **[Computer Grid](#heading--computergrid)** Squares x 25K
@@ -492,7 +493,7 @@ These are saved throughout your whole game:
 
 All multiplied by the bonus X, which can be increased by making shots to the pop bumper lane or from **Computer Grid** awards, to a max of 25x.
 
-### Gem Mania (Topper / IC Mode):
+### Gem Mania (Topper / IC Mode): {#heading--gemmania}
 (Also known as: Stone Frenzy, Ornament Chaos, Egg Madness, etc.)
 
 This 3-ball multiball mode can be started in two different ways:
@@ -504,7 +505,7 @@ After achieving either method, Gem Mania instantly begins for 1M. All shots will
 
 If two balls drain before scoring the 6th final jackpot, the gauntlet ramp will remain lit for 10 seconds to score one last final jackpot times the current multiplier. Up to three balls can be added, even during single-ball play, by spelling THOR at the captive ball.
 
-## Trophies:
+## Trophies: {#heading--trophies}
 Trophies are the game's achievement system for various gameplay goals - completing any **[Gem Quest](#heading--gemquests)**, **[multiball](#heading--multiball)**, **[count-up feature](#heading--otherfeatures)**, **[super mode](#heading--supermodes)**, or **[mini-wizard mode](#heading--assemblemodes)**. These are awarded at Bronze, Silver, or Gold levels. Trophies increase the **[Combo](#heading--combos)** values and add up in **[bonus](#heading--funwithbonus)**, but above all, collecting 24 out of the game's 32 trophies is the only way to access the game's true wizard mode, **[Trophy Mania](#heading--trophymania)**.
 
 Hard Mode can be enabled in the settings. This disables 8 of the 32 trophies, but all scoring during Trophy Mania will be tripled if you reach it!
@@ -555,7 +556,7 @@ At 12 Trophies and 24 Trophies, a ball will be added. Collecting 24 trophies fil
 
 Once the mode is over, you're back to square one. If you have all six gems, **[Gem Quests](#heading--gemquests)** will be disabled for the rest of the game, though **[mini-wizard modes](#heading--assemblemodes)** to be played. The trophy case will reset, making it possible to get another **[Extra Ball](#heading--extraballs)** from 8 trophies, but it will be very tough to get to Trophy Mania again in the same game.
 
-## FAQ:
+## FAQ: {#heading--faq}
 **I've never played this pinball machine before, and it looks like so much to take in! What should I do?**
 
 The game can easily be divided into three aspects: Gem Quests (STRANGE then the right ramp), assembling the Avengers (shoot their shots enough times), and super modes (complete lines of computer grid awards). Most of the complexity in *Avengers Infinity Quest* comes from the specific Gem perks. A good strategy for beginner players is to focus on scoring the first Portal Lock at 4 combos before their first Gem Quest, then starting Thor Multiball with captive ball hits during the Gem Quest.

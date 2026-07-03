@@ -44,7 +44,7 @@ source: https://tiltforums.com/t/weird-als-museum-of-natural-hilarity-rulesheet/
   - [Running With Scissors](#heading--scissors)
 - [Strategies](#heading--strategies)
 
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Creative Director: Stephen Silver
 - Artwork: Matt Andrews
 - Software: Micheal Ocean, Greg Goldey & Gerry Stellenberg
@@ -60,7 +60,7 @@ source: https://tiltforums.com/t/weird-als-museum-of-natural-hilarity-rulesheet/
 
 *Weird Al's Museum of Natural Hilarity* is the first licensed game released by Multimorphic, developers of the P3 pinball platform. The machine takes place in (what did you expect?) a museum full of odd exhibits and items based on Weird Al's catalogue of parodies and original songs. Weird Al acts as the museum curator, guiding players through the ins and outs of this museum-turned-pinball machine as they try to complete all 10 modes in five exhibit halls.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 - Shoot the shots corresponding to each Exhibit Hall, followed by the scoop behind the drop target, to choose one of the two **[Exhibit Hall Modes](#heading--halls)** associated with the most recent Hall shot. Alternatively, complete the VIP standup targets, then shoot the center pair of pop-up scoops to get your choice of a mode from *any* Hall. Introductions to each mode are shown on playfield LCD screen and the backglass LCD screen once the mode has been started. 
 - Play a mode from each Hall to qualify **[You Make Me](#heading--youmakeme)** mini-wizard mode. Winning/completing each mode is not required.
 - **[Multiballs](#heading--multiball)** may be stacked onto running modes, or onto each other. Modes may not be stacked onto running multiballs.
@@ -69,7 +69,7 @@ source: https://tiltforums.com/t/weird-als-museum-of-natural-hilarity-rulesheet/
 - Shoot the Lite UHF Lock target and Lock a ball in the camera lock from the upper playfield three times to start **[UHF Multiball](#heading--uhf)**.
 - Play all 10 Exhibit Hall modes, all 3 main multiballs, **[My Bologna](#heading--bologna)** mini-mode, and You Make Me to qualify **[Running With Scissors](#heading--scissors)** wizard mode.  Winning/completing each mode and multiball is not required.
 
-## Layout:
+## Layout: {#heading--layout}
 Multimorphic's most intricate and nuanced layout to date, with a remarkable # of shots available from a total of 5 flippers! (the two main flippers, two upper flippers, and an upper playfield mini-flipper).  Besides the two banks of side targets and row of individually controlled wall/scoop segments on every P3 game... there are a myriad of standup targets, 3 ramps -- including an industry-first ascending Spiral Ramp, 2 orbits, a U-turn mini-loop, 2 side loops, a drop target-protected scoop, and a through-the-pops scoop shot guarded by a triple pop bumper nest. 
 
 Weird Al also features Multimorphic's first Upper Playfield (called the "Mezzanine"), with a 5th flipper -- of the 2" variety -- with a total of *six* shots available to that one little flipper! 
@@ -122,12 +122,12 @@ Two major interactive mechanical toys are featured:  a rotating hamster wheel an
    - *Dead-End standup target*: multi-state shot, in this state when UHF Lock is *not* lit or when My Bologna mode is running. See rules for Ketchup standup target.
    - *UHF Lock*: when active, a wireform that feeds the UHF Camera physical ball lock. It's in this state immediately after a Skill Shot (for a Super Duper Skill Shot) or when lit for a UHF lock. 
 
-## Skill Shot:
+## Skill Shot: {#heading--skillshot}
 Ball will be "plunged" (kicked out) to the Left Orbit to feed your upper left flipper -- **note: On default settings, you must use the auxiliary white buttons to control the upper flippers.** Immediately shoot the Spiral Ramp to score a skill shot for 250K. 
 - Super Skill Shot: Quickly shooting the mezzanine loop will award a Super Skill shot for 50K. These are repeatable (unlimited) on a resetting timer. 
 - Super Duper Skill Shot: Shoot the Camera Lock for a 500K Super Duper Skill Shot. This also locks a ball for **[UHF Multiball](#heading--uhf)**.
 
-## Exhibit Hall Modes & VIP Pass:
+## Exhibit Hall Modes & VIP Pass: {#heading--halls}
 Players start each game in the museum lobby, or Great Hall. You're always only three shots away from starting an Exhibit Hall mode at any time: one playfield shot to qualify/select your Hall, one shot to knock down the Ticket Counter drop target, and final shot to the now-accessible Ticket Counter scoop. 
 
 Five shots on the playfield correspond to different exhibit halls in the museum, each containing 2 modes based on a song from Weird Al's catalog. Shoot any of the shots listed below just once to light that Hall as the next one to visit. Once a Hall has been selected, shoot the scoop behind the ticket counter drop target to select a mode. The lit Hall will change to the most recently made shot. 
@@ -148,19 +148,19 @@ Once you have made sufficient shots during any mode, the Ticket Counter scoop wi
 
 Each song can only be played once per game, until **[Running With Scissors](#heading--scissors)** has been played.  
 
-### Amish Paradise
+### Amish Paradise {#heading--amish}
 Three chores will be placed on select shots. Hit the corresponding shot to complete chore and add it to the chore board. Once you have completed two of each chore, the spiral ramp will be temporarily lit to Raise The Barn (a mode jackpot of sorts). Whether you Raise the Barn or not, the first phase then repeats, with less easy shots lit for chores.
 
 The mezzanine shots have no impact on this mode.
 Threshold to light Exit: ??
 
-### White & Nerdy
+### White & Nerdy {#heading--nerdy}
 Lucrative, but dangerous mode involving a pair of two shots that move across the playfield. Each shot collects an artifact, scores 150K, starts a new pair of shots from the opposite side of the direction just collected, and increases the speed on the "Weird-O-Meter" on your segway, thus increasing the speed that the lit shots move at (which is somehow *always* in sync with the song). Each shot during the mode scores 25K more than the last. 
 
 The mezzanine shots have no impact on this mode.
 Threshold to light Exit: ??
 
-### Sports Song
+### Sports Song {#heading--sports}
 Main shots (ramps, loops, etc) will be perpetually lit green, and all standup targets will be perpetually lit red. 
 - Making a green shot will score a point for your team, "Us," and award 100k. Making consecutive green shots without hitting a red shot will progressively add 100k to the value awarded. 
 - Hitting a red shot will score a point for your opponent, "Them," award 5k and reset the base value back to 100k. 
@@ -168,20 +168,20 @@ Main shots (ramps, loops, etc) will be perpetually lit green, and all standup ta
 
 Threshold to light Exit: ??
 
-### Weasel Stomping Day
+### Weasel Stomping Day {#heading--weasel}
 Shoot any standup target to stomp on weasels - it's a tradition, so it must be okay. Each target shot scores 100K + 25K per shot. Great mode to stack with a multiball.
 
 The mezzanine targets do not impact this mode.
 Threshold to light Exit: ??
 
-### Word Crimes
+### Word Crimes {#heading--grammar}
 The first mode in pinball to test you while you play! Four shots on the playfield are lit, each randomly corresponding to a different letter (A, B, C, or D) to a grammar question shown on the display. Each answered question -- whether right or wrong -- tallies your progress on a scantron sheet, and then brings up a new question with newly shuffled letter answer positions. 
 - Collecting "streaks" of correct answers scores more, while collecting a wrong answer resets the streak.
 
 The mezzanine shots do not impact this mode.
 Threshold to light Exit: ??
 
-### I'll Sue Ya
+### I'll Sue Ya {#heading--sue}
 In this dynamic multi-phase mode, there are alternating Build and Collect phases:
 * Build your Case phase: each of the song's verses have 30 seconds to spend trying to make your case by repeatedly shooting any of the lit standup targets to increase your built Damages value by 10K per target. 
 * Award Damages phase: Following each Build phase, this phase lasts for 30 seconds (during each chorus), for shooting the lit shot(s) repeatedly to collect the Built value. This alternating phase pattern repeats multiple times within the song. 
@@ -192,7 +192,7 @@ In this dynamic multi-phase mode, there are alternating Build and Collect phases
 The mezzanine targets do not award target shots during the Build phase.
 Threshold to light Exit: ??
 
-### Mission Statement
+### Mission Statement {#heading--synergy}
 The phases of this progress with the song. You alternate between a Build Stock Value phase and a Sell Stock phase.  
 * Build phase: the left ramp, spiral ramp/right side loop and right orbit/ramp will be lit to build stock value. The stock starts at 10k, and increases by 50k each time you hit one of the shots. If you take too long to make a shot, your stock price will decay 10k. Your built stock value carries throughout the entire mode, enabling some big paydays in the latter Sell phases. 
 * Sell phase: one of the scoops will be raised on a short timer, and sometimes will move to a second scoop location after the timer expires, depending on the which Sell phase you're in. Hit the scoop as many times as you can to sell stock (collect your built value). Your Stock Value will not reset upon each sale. 
@@ -201,18 +201,18 @@ The phases of this progress with the song. You alternate between a Build Stock V
 The mezzanine shots have no impact on this mode.
 Threshold to light Exit: ??
 
-### Traffic Jam
+### Traffic Jam {#heading--traffic}
 You begin in a traffic jam with your major shots lit with red Stoplight icons -- don't shoot them! Jackpots are scored on the left ramp or right ramp when they are lit green. To light a ramp green, hit one of the lit targets on that side of the playfield. This activates that direction's turn signal and lights the corresponding side's ramp green for a few seconds. Every green shot scores more than the last, but shooting red shots reduces the value.
 
 The mezzanine shots have no impact on this mode.
 Threshold to light Exit: ??
 
-### Germs
+### Germs {#heading--germs}
 This mode has 2 phases. The first phase is a single ball mode in the LCD screen section of the playfield the with the walls up. You need to turn 20 red germs green by hitting them with the ball. The red germs will multiply and also attack your flippers, weakening them. Hitting the walls too many times in the same place will "break" the petri dish and lower that wall segment. If you exit through the scoop the mode ends. If you probe all 20 germs, the walls will lower and you will be in a 3-ball frenzy multiball where everything scores 20k.  You can then stack other multiballs onto the Germ MB phase, but not start any new modes.
 
 Threshold to light Exit: Not applicable
 
-### Like A Surgeon
+### Like A Surgeon {#heading--surgeon}
 Inspired by the classic board game *Operation*, you need to remove the items without touching the sides. Various major shots will be lit with "good" stethoscope shots around the playfield, and the "bad" targets adjacent to the good shots will be indicated in red. Hitting enough stethoscope shots will save a patient. Hitting red shots 3 times will kill a patient.
 
 After a certain # of easy shots (L ramp and U-turn mini-loop), you'll be required to shoot either of the side loops from the upper flippers to continue progress toward saving a patient.
@@ -287,14 +287,14 @@ Germs Multiball
 
 Multiball phase of **Germs** mode, earned by probing 20 Al-moebas.  See mode rules for details.  It can have other Multiballs stacked onto it, but no other modes can be stacked onto it.
 
-Other Scoring:
-### My Bologna
+Other Scoring: {#heading--multiball}
+### My Bologna {#heading--bologna}
 Collect nine food items from lit inlanes or mezzanine targets to light My Bologna mini-mode. One inlane is always lit during single-ball play, and the player toggles which inlane is lit with the Upper Flipper (white) button. Shoot the mezzanine via either the lit Spiral Ramp or Right Ramp to start the mode. The goal is to build as tall a sandwich as possible. The mezzanine loop will add bologna to the sandwich, with each consecutive shot adding an addition slice (i.e. second shot adding 2 slices instead of one). Hitting the condiment targets will add other items to the sandwich. When you exit the mezzanine that order will be finished and you can shot the ramp again to start a new sandwich, until the song expires or you shoot the Ticket Counter.
 - If you defer starting My Bologna when lit, and instead collect enough food from lit inlanes to qualify another My Bologna, your next My Bologna will be worth +1x scoring.
 - Similar to the Exhibit Hall song modes, you can prematurely exit My Bologna mode by shooting the red-lit ticket counter, rather than waiting for the song to end.
 - My Bologna *cannot* be stacked onto a running Exhibit Hall mode.
 
-### Shirts / Gift Shop
+### Shirts / Gift Shop {#heading--shirts}
 There are 17 shirts available in the game. Each shirt permanently increases your playfield multiplier by +0.1x for the remainder of the game. Shirts are earned by hitting the pop bumpers (the Gift Shop). There is one shirt in the main hall (1) , one in each of the songs (10), each of the multiballs (3), my bologna (1), YMM (1) and Secret shirt (1) (I think).
 
 Additionally, awards are given at certain number of shirts
@@ -303,16 +303,16 @@ Additionally, awards are given at certain number of shirts
 
 Shooting the orbits 3 times will open the Gift Shop. This will cause the next shot to the orbit to catch the ball on the magnet and drop it into the pops. Note: when the Right Orbit is in its Ramp state, shots to the Right Ramp do not count toward your Orbit total.
 
-### Combos
+### Combos {#heading--combos}
 Shooting major shots as Combos during single-ball play will award points, and also provide a BonusX for that ball only, based on the maximum Combo streak you achieve during the ball.  Ex: a 3-way Combo will provide a 3x BonusX.
 
-### Squeezebox Combos
+### Squeezebox Combos {#heading--squeezebox}
 Shooting either the of the upper side loop shots (the lowered Spiral Ramp or the Sport & Leisure left upper side loop) as part of a combo will award a Squeezebox Combo, with the potential to repeat a "figure 8" of alternating each from the upper flippers for increasing points.
 
 - Shooting one Squeezebox Combo during a ball will provide a 2x multiplier on your EOB Bonus. This is multiplicative with your regular Combo BonusX, and not additive.
 
-## Other Features:
-### Supply Closet
+## Other Features: {#heading--features}
+### Supply Closet {#heading--supply}
 This is the mystery award. You light the Supply Closet scoop by hitting the supplies and closet standups near the pops. Awards include:
   * 100k points
   * 250k points
@@ -322,17 +322,17 @@ This is the mystery award. You light the Supply Closet scoop by hitting the supp
   * Free Shirt
   * **[Drink from the Firehose](#heading--dftfh)** ticket
 
-### Free passes
+### Free passes {#heading--freepass}
 There are **no traditional extra balls** in the game, but you can earn Free Passes, which are untimed ball saves (regardless of whether an outlane or a SDTM drain) that will continue your ball without collecting your EOB Bonus and without providing a new Skill Shot chance. 
 - Tilting will cancel an earned Free Pass -- it will not carry to your next ball.
 
-### Spatula Saves
+### Spatula Saves {#heading--spatula}
 Earn outlane Spatula Saves on one lit outlane, with ability to lane-change between the two outlanes via either upper flipper (white) button. A Spatula Save will be lit on the same side as the lit Meal Ticket inlane, and only available during single-ball play. Earn them by shooting 9 mezzanine loops when *not* in My Bologna mode or during Super Skill Shots. Spatula Saves can be stacked (shown by a multiplier on the Spatula icon), and carry between balls.
 
-### Drink from the Firehose
+### Drink from the Firehose {#heading--dftfh}
 You can earn a Drink from the Firehose ticket by completing enough shots in **[UHF Multiball](#heading--uhf)**, or as a mystery award from the Supplies Closet. When you drain, you will be put into a mini game with the opportunity to save your ball. The game will launch 10 balls, one at a time, on the left feeding your upper left flipper. You must make 3 spiral ramp shots to win the mode and earn the ability to keep playing that ball. All other flippers are disabled. If you fail, then your ball ends, and EOB Bonus begins.
 
-### End-of-Ball Bonus
+### End-of-Ball Bonus {#heading--bonus}
   * A great line-by-line recap of your accomplishments during that ball, accompanied by an iconic repeating polka riff.
   * Base points awarded for just about everything important that you can collect during *that ball only*:
       * Exhibit Halls visited: 10K
@@ -348,8 +348,8 @@ You can earn a Drink from the Firehose ticket by completing enough shots in **[U
   * Qualifying VIP and failing to shoot the ball into the raised scoops awards negative points on bonus.
   * Tilting will mock you and hilariously still take you through your line-by-line Bonus recap, so that you can regret what you just lost (not just displaying a total Bonus lost). 
 
-## Wizard Modes:
-### You Make Me
+## Wizard Modes: {#heading--wizard}
+### You Make Me {#heading--youmakeme}
 Qualify You Make Me mini-wizard mode by visiting each of the 5 exhibit halls (play one of the two songs). This will light the VIP standup targets. Hit the 3 targets to raise the two center scoops to start You Make Me.
 
 This mode rapidly cycles between build phase and collect phase
@@ -359,7 +359,7 @@ This mode rapidly cycles between build phase and collect phase
 
 There is an add-a-ball available after achieving the countdown of shots required on the screen.
 
-### Running With Scissors
+### Running With Scissors {#heading--scissors}
 **Qualifying Running With Scissors**
 
 You must play every song in the game. 10 exhibit hall songs, 3 multiball songs (DTBS, UHF, HWS), My Bologna and You Make Me. When ready, shoot the ticket counter to start the mode.
@@ -376,7 +376,7 @@ Completing the run will finish the game and roll the credit video.
 
 If you fail, by draining or running out of time, you can re-enter to try again. progress of completed rooms is saved.
 
-## Strategies:
+## Strategies: {#heading--strategies}
 - Start Exhibit Hall modes, then stack on a multiball or two. Though be careful of stacking multiballs onto modes where you break your scoring streak value by hitting a "wrong" shot.
 - Earn Spatula Saves and Free Passes. Get good at looping in the mezzanine.
 - If you're going for the wizard modes, then end your modes early at the ticket counter, so you can move onto your next mode.

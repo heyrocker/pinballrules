@@ -8,13 +8,13 @@ source: https://tiltforums.com/t/creating-a-rulesheet-for-sharkeys-shootout/345
 
 # Creating a
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Stern
 - Release Date: September 2000
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/creating-a-rulesheet-for-sharkeys-shootout_GRwv0)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 The skill shot is the center top lane. The initial skill shot score is 5,000,000 then increases by 5,000,000 each additional time. Hitting the skill shot will also start Bumper Pool.
 
 Shooting certain shots increases the Prize Money value. You collect prize money ("winnings") by beating opponents, spelling PAYOFF, and smaller unrelated amounts from jackpots and super jackpots.  Winnings are awarded during Bonus (x multiplier).  The under-ramp lane usually spots 2 PAYOFF letters.  It may also build the Prize Money value.

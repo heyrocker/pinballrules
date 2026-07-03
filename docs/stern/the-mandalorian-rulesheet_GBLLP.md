@@ -40,7 +40,7 @@ source: https://tiltforums.com/t/the-mandalorian-rulesheet/7056
    * [You Have What I Want](#heading--want)
  * [This Is The Way (Wizard Mode)](#heading--wizard)
 
-## Game Information
+## Game Information {#heading--gameinfo}
 The story of *The Mandalorian* is set after the fall of the Galactic Empire and before the emergence of the First Order. The series follows the travels of a lone gunfighter in the outer reaches of the galaxy, far from the authority of the New Republic.
 
 In this action-packed pinball quest, players are transported to a galaxy far, far away as they play as the Mandalorian, teaming up with key allies and protecting Grogu, while battling dangerous enemies and forces across their journey. 
@@ -65,7 +65,7 @@ In this action-packed pinball quest, players are transported to a galaxy far, fa
 * Release Date: May 11, 2021
 * Wiki Rulesheet based on Code Rev: 1.42
 
-## Rules Overview
+## Rules Overview {#heading--overview}
 - Shoot both ramps to light a Mission at the Scoop.
    - The scoop will spot ramp shots to light a Mission (only for the first 2 modes, by default)
 - Shoot up the middle enough times to start a Razor Crest Multiball. If you play a multiball, you need to complete a Hunter mode to re-light the middle shot to work toward Razor Crest Hurry-Up and then your next Razor Crest Multiball. If you drain, the Razor Crest sequence will be re-enabled at the start of your next ball.
@@ -90,11 +90,11 @@ In this action-packed pinball quest, players are transported to a galaxy far, fa
 
 Layout
 
-| Premium/LE: | Pro:
+| Premium/LE: | Pro: {#heading--quickstrategy}
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2021/05/Mandalorian-Premium-Playfield-01-knnfad-scaled-917x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2021/05/Mandalorian-Pro-Playfield-01-afkjhadf-scaled-917x1536.webp)
 
-## Modes of Play
+## Modes of Play {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 * **Standard:**
 See below for full rulesheet.
@@ -119,7 +119,7 @@ In the Challenge mode, you directly play the the "You Have What I Want" wizard m
 * **DJ Mixer:**
 Typical jukebox feature as seen in most modern Sterns, allowing you to play the music featured in the machine, including a number of specific playlists.
 
-## Skill Shots
+## Skill Shots {#heading--skillshots}
 **Regular Skill Shot:** The ball falls into the CHILD top lanes area by default. A strong shot will always fall through the "C" lane, so either time your plunge accordingly or nudge the ball through either of the two cycling lit lanes. Skill shots award 1 million points (+1M per skill shot) and these awards:
   * +2 Bonus X
   * Light **[The Child](#heading--child)**
@@ -130,7 +130,7 @@ Typical jukebox feature as seen in most modern Sterns, allowing you to play the 
    * Left ramp - Starts currently lit **[Encounter](#heading--encounters)**.
    * Center ramp - Starts currently lit **[Razor Crest Multiball or Hurry-Up](#heading--razorcrest)** depending on what feature will be started next.
 
-## Razor Crest Multiballs
+## Razor Crest Multiballs {#heading--razorcrest}
 The Razor Crest is the Mandalorian's ship, which originally served as a military patrol craft prior to the rise of the Galactic Empire and helped him during his early years as a bounty hunter.
 
 There are three Razor Crest Multiball modes that can be played throughout the game - they cannot be replayed until *This Is The Way* has been activated. These three multiball modes are started by shooting the center Razor Crest target with enough strength to register a direct hit enough times; the multiball is determined by the currently flashing numbered green insert, which is changed by hitting the "BOBA" and "FETT" standup targets when a multiball isn't currently lit, and is started with a shot that heads all the way around the center ramp. Each successive Razor Crest feature started requires an additional target hit.
@@ -143,10 +143,10 @@ The three multiball modes are:
 * **(2) Jetpack Multiball**: All shots are lit purple to score jackpots and increase the Super Jackpot value; shots can't be repeated until a different shot is made. During the jackpot phase, the left ramp will always divert balls onto the mini playfield, where shots to any of the six standup targets (now flashing purple) will score jackpots and add to the Super Jackpot value, with an add-a-ball for hitting all six targets. Super Jackpot lights at the U-Turn after multiball ends.
 * **(3) Pirates Multiball**: Shoot waves of lit shots to take out pirates and score jackpots while keeping the rhydonium stable with switch hits and shots to the spinner. Each jackpot shot can only be made once per wave, and each wave requires one additional jackpot shot to complete. Complete Wave 3 to light the Super Jackpot at the U-Turn shot; after collecting the Super Jackpot, Wave 1 starts again with each jackpot now requiring two shots to each purple arrow.
 
-### Razor Crest Hurry-Up
+### Razor Crest Hurry-Up {#heading--razorcresthurryup}
 Razor Crest Hurry-Up lights at the center ramp after the first and second Razor Crest Multiballs and is started in the same way, sharing the number of center target hits required to start it. This is a timed hurry-up mode where the player must make a certain number of shots to the Razor Crest target, collecting hurry-up values for each shot. The base hurry-up value, and the number of shots required to win the mode, increases based on the number of active **[Playfield Multipliers](#heading--pfx)** (+2 shots per multiplier). Hitting the target the required number of times or running out of time ends the mode.
 
-## Missions
+## Missions {#heading--missions}
 Missions are 60-second timed, story-based modes that can be lit at the scoop by making a shot to both the left and right ramps; if a mission isn't lit, the qualified mission can be changed by shooting either 2x target to both sides of the right ramp. After making all flashing yellow shots during a mission, typically ending with the scoop, the player will score a timer bonus worth 225,000 x the number of seconds remaining when they won the mode. Using **[Whistling Birds](#heading--equipment)** collects all of the mission's currently lit shots.
 
 Every completed mission adds 2.5 million to **[end-of-ball bonus](#heading--bonus)**, and playing all five missions is required to qualify **[I Like Those Odds](#heading--miniwizards)**. Once a ball drains or the timer ends, the currently active mission will end in failure and can't be played again until **This Is The Way** has been started. Starting 2 missions lights the **[extra ball](#heading--extraballs)**.
@@ -159,7 +159,7 @@ The five missions are:
 * **(4) Defeat the Mudhorn**: Four flashing yellow shots must be made, which are changed by the pop bumpers; if either orbit is made, the ball will be diverted into the CHILD rollover lanes and increase the value for the yellow shots. The left scoop will light to finish the mode after all four yellow shots are made, and the left and right ramp will be lit for one-time bonus shots when the scoop lights.
 * **(5) Infiltrate the Freighter**: One shot to the U-turn will light both the left ramp and left orbit for a brief period of time; shooting either of those shots will light the left scoop to finish the mode. The right ramp will also light when the final shot is lit for a bonus.
 
-## Encounters
+## Encounters {#heading--encounters}
 Encounters are three untimed modes played on the Mando helmet-shaped mini playfield. The Pro version has a single-flipper mini playfield, Prem / LE has a tilting mini playfield with two flippers.
 
 An Encounter can be started by shooting the left ramp until the insert in front of the left ramp changes to flashing red (1 ramp shot for the first Encounter + 2 per further Encounter started), at which point all left ramp shots will send the ball to the mini playfield for Encounter scoring. Encounters may be played during normal single-ball play or while Missions are running, but are otherwise delayed until currently active modes have been finished. The three Encounters listed on the playfield are identical in regards to rules, but use different scenes from the show and require more target hits per Encounter; all three must be completed, in order, to qualify **[You Have What I Want](#heading--miniwizards)**.
@@ -168,8 +168,8 @@ Each Encounter requires three waves of lit target hits indicated by the yellow f
 
 Soft plunges and orbits that enter the mini playfield start a Sneaky Encounter, with a starting value that carries over multiple entries. This encounter has a 10 second timer that resets as successful target shots are made (progressing through blue - purple - green), and when the ball exits the mini playfield. 
 
-## Other Features
-### Equipment
+## Other Features {#heading--otherfeatures}
+### Equipment {#heading--equipment}
 Throughout the game, the Mandalorian acquires several pieces of equipment. Only one use of each piece of equipment can be qualified at a time, and equipment can be qualified by:
 
 * Buying it at the **[Foundry](#heading--foundry)**
@@ -183,7 +183,7 @@ The five pieces of equipment are:
 * **Rising Phoenix (Pro) / Jet Pack (Premium / LE) (Red):** Press the action button to instantly complete a wave of targets during an **[Encounter](#heading--encounters)**. On the Premium / LE models, this also levels the mini playfield when used.
 * **Armor:** Adds additional time to the ball save timer, both in single-ball and multiball play. This piece of equipment can only be collected once per game.
 
-### Foundry & Beskar
+### Foundry & Beskar {#heading--foundry}
 The Foundry has many items in stock for those who have enough Beskar to pay for them, and is dedicated to helping Mandalorian warriors in battle.
 
 Beskar can be collected through the following methods:
@@ -220,12 +220,12 @@ If an item is incompatible with what you currently have (e.g. an item you alread
 
 If the **topper** is connected, collecting 20,000 Beskar will light the foundry for **[Beskar Bonanza](#heading--bonanza)**. Beskar collected carries over between games.
 
-### Hunter
+### Hunter {#heading--hunter}
 As a bounty hunter, going on hunts is one of the easiest ways to collect Beskar. Completing the left bank of standup targets at any time during normal play will light *Hunter* on one of the inlanes, which can be toggled between lit inlanes with either flipper button and can start at any time during single-ball play. Rolling through a lit inlane begins a 25-second timed Hunter mode to collect Beskar to trade at the Foundry.  While your Beskar slowly builds through shots and switch hits, completing Hunter missions is one of the most lucrative sources of Beskar. Three different Hunts are available that change the displays seen during the mode.
 
 Shoot the flashing orbit, then shoot the opposite orbit to collect a minimum of 250 Beskar and end the Hunt; the Beskar can also be built by 25 per shot by hitting the lit left or right ramp. Completing a Hunt will also start a 75-second **[playfield multiplier](#heading--pfx)** and enable the **[Razor Crest](#heading--razorcrest)** if it isn't currently lit.
 
-### Scope
+### Scope {#heading--scope}
 Another weapon built into the Mandalorian's immense arsenal, the scope enables the Mandalorian to make precise hits on enemies from any distance. Make a shot to all three shots with blue arrow inserts (U-Turn, left 2x target, and right ramp) to light Scope at the left inlane for a 5-second timed shot with a brief grace period, with different awards available at each of the shots that were used to light Scope:
 
 - U-Turn - 2 random pieces of **[equipment](#heading--equipment)**, or points if all equipment has already been collected.
@@ -234,7 +234,7 @@ Another weapon built into the Mandalorian's immense arsenal, the scope enables t
 
 Hitting any lit arrow before the timer expires collects the corresponding award and starts a 75-second **[playfield multiplier](#heading--pfx)**. All three Scope awards can only be collected once per set; once a set is complete, one of the four wizard modes must be played to re-qualify Scope.
 
-### Ambush
+### Ambush {#heading--ambush}
 If no other modes are running and the U-Turn (Pro) / right scoop (Prem / LE) has been shot, all six major shots might light for about 5 seconds; two out of the six shots will start Ambush, while the others will escape and score a bonus of 2 million. On competition settings, the second shot will always start the mode. After the first Ambush has been played, the number of lit shots that might start the mode will decrease to 5.
 
 This is a unique hurry-up mode that starts with the U-turn / reverse scoop lit red to stop the value counting down on the display, and all other shots lit in white to add a few seconds of time and increase the displayed value. Shooting the U-turn / reverse scoop locks in the value, and lights all shots blue (except for the U-turn and right ramp) to add to the value further and return to the white stage to potentially increase the ambush value further again. Shooting the right ramp when all shots are lit blue will end the mode and award the value, meaning the mode can go on for as long as you like if you continuously increase the value. 
@@ -245,7 +245,7 @@ Bonus awards are given out if the player pushes their luck and continues the Amb
 
 With all multipliers active, the max Ambush value is 720M! [:arrow_forward:](https://youtu.be/Ew_P40Fq4EA?t=209)
 
-### The Child Mystery Award
+### The Child Mystery Award {#heading--child}
 Grogu, a Jedi being of the same species as Yoda, fell into the Mandalorian's care near the beginning of his journey. Gideon and others continue attempting to reclaim their ownership of him, but the Mandalorian isn't willing to give him up.
 
 Qualify the CHILD mystery award by shooting either orbit once, and every two, three, etc. times thereafter. When lit, shots to the orbits will divert to the rollover lane area to collect an award based on the rollover that was made. If no rollover is made, the award lit at the "D" insert is scored; and using **[Whistling Birds](#heading--equipment)** while the five awards are lit will score them all. The display will show which award is available at which rollover.
@@ -264,7 +264,7 @@ Awards include:
 * Light **[Extra Ball](#heading--extraballs)**
 * Special
 
-### Playfield Multipliers
+### Playfield Multipliers {#heading--pfx}
 Three "+1x" multiplier inserts with colored rings are seen above the right slingshot. Each insert lit adds +1x to playfield scoring when running. Lighting all three will instead award +5x for a total of 6x. Multipliers start automatically when earned and share the same timer.
 
 Completing **[This Is The Way](#heading--wizard)** and earning your Signet will add +1x playfield multiplier for the remainder of the game. A 75-second playfield multiplier (either Hunter or Scope) can also be started from selecting it in the **[Foundry](#heading--foundry)**, and by making enough restart shots during **[Ambush](#heading--ambush)**.
@@ -275,18 +275,18 @@ The multiplier inserts blink purple when active, and strobe between blue / purpl
 * Blue - 75 seconds. Awarded by successfully completing a **[Scope](#heading--scope)** shot.
 * Green - 30 seconds. Awarded by hitting the two green Boba Fett targets. Subsequent multipliers require more hits to start, and the timer will start 10 seconds lower if started again on the same ball (minimum of 10 seconds).
 
-### Super Pops & Super Spinner
+### Super Pops & Super Spinner {#heading--superpops}
 One of the two bumpers towards the bottom of the CHILD lanes can be lit for 50,000 points each by spelling CHILD, or from the skill shot. **[CHILD mystery award](#heading--child)** may also light both bumpers for super pops.
 
 Super spinner is started upon collecting 100 spinner hits on a single ball, or from the mystery award. Every spinner hit for the remainder of the ball scores 50,000 points, increasing by 10,000 per left orbit shot to a maximum of 100,000.
 
-### Extra Balls
+### Extra Balls {#heading--extraballs}
 Lit extra balls can be collected at the left scoop, and can be lit by:
  * Starting 2 **[Missions](#heading--missions)** 
  * Purchasing one at the **[Foundry](#heading--foundry)** for 600 Beskar (one time only)
  * **[The Child's mystery award](#heading--child)**
 
-### End-of-Ball Bonus
+### End-of-Ball Bonus {#heading--bonus}
 End of ball bonus is determined by:
 - Switch bonus 
 - 2.5 million per **[Super Jackpot](#heading--razorcrest)** scored
@@ -294,10 +294,10 @@ End of ball bonus is determined by:
 
 multiplied by the bonus multiplier, which increases by +1x by completing CHILD and also increases by +2x from a successful **[skill shot](#heading--skillshots)**. Switch bonus resets between balls.
 
-## Topper Exclusive Modes
+## Topper Exclusive Modes {#heading--topper}
 Two features can only be accessed if The Mandalorian topper is installed. One of these features resets at the start of each game, while the other retains progress across games.
 
-### Mandalorian Madness
+### Mandalorian Madness {#heading--madness}
 Fill out the grid on the left side of the topper by:
 
 - Winning a **[Mission](#heading--missions)**
@@ -319,7 +319,7 @@ If "Mission" isn't lit at the left ramp, shooting it will send the ball to the E
 
 Super Jackpots increase in value when stacked, and each Super Jackpot adds a ball. The multiball ends when time runs out.
 
-### Beskar Bonanza
+### Beskar Bonanza {#heading--bonanza}
 The right side of the topper has a meter dedicated to the **[Beskar](#heading--foundry)** players collect during the game. Once any player has gotten the meter to 20,000 Beskar, the next shot to the Foundry will instantly award one of *every* item in the Foundry, meaning:
 - All **[equipment](#heading--equipment)**
 - Starting the currently lit **[mission](#heading--missions)**
@@ -332,22 +332,22 @@ The right side of the topper has a meter dedicated to the **[Beskar](#heading--f
 
 Once Beskar Bonanza has been scored, the Beskar meter resets to 0.
 
-## Mini-Wizard Modes
+## Mini-Wizard Modes {#heading--miniwizards}
 To access **[This Is The Way](#heading--wizard)**, three mini-wizard modes must be started, corresponding to the three sets of inserts listed above the flippers. These mini-wizard modes are:
 
-### Precious Cargo
+### Precious Cargo {#heading--cargo}
 Play all 3 **[Razor Crest Multiballs](#heading--razorcrest)** once, then shoot the Razor Crest enough times to start this mini-wizard mode. (need more info)
 
-### I Like Those Odds
+### I Like Those Odds {#heading--odds}
 Play all 5 **[Missions](#heading--missions)** once, then this mini-wizard mode will start as the 6th mission. This wizard mode is split into three phases: 
 - Shoot both ramps and the Razor Crest once each. Shoot the scoop to finish the phase. 
 - Shoot the above shots again, along with the U-turn. Shoot the scoop to finish the phase. 
 - 4-ball multiball then begins. Make every major shot to win the mode and start a wizard frenzy for 60 seconds (every switch scores 250,000 points).
 
-### You Have What I Want
+### You Have What I Want {#heading--want}
 Play all 3 **[Encounters](#heading--encounters)** once, then shoot the left ramp 7 times to start this mini-wizard mode. (need more info)
 
-## This Is The Way
+## This Is The Way {#heading--wizard}
 Play all three of the **[mini-wizard modes](#heading--miniwizards)**, then make all six major lit shots followed by the left scoop, to start *This Is The Way* and attempt to earn your Signet. 
 
 This mode consists of three rounds, each of which alternates between a single-ball phase and *Multiball Bonus Round*. The single-ball phases start with a ball saver, where you must make 5 shots to qualify the scoop, left ramp, or center shot to start the multiball phase. The first round will have three shot choices per shot, the second will have two, and the third will have one.

@@ -32,7 +32,7 @@ source: https://tiltforums.com/t/star-wars-stern-rulesheet/2812
   - [End-of-Ball Bonus](#heading--bonus)
 - [Jedi Multiball (Wizard Mode)](#heading--wizard)
  
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Lead Designer: Steve Ritchie
 - Code/Rules: Dwight Sullivan
 - Software Support Engineers: Corey Stup, +?
@@ -41,12 +41,12 @@ source: https://tiltforums.com/t/star-wars-stern-rulesheet/2812
 - Computer Graphics Art Director: 
 - Lead Sound Designer: Jerry Thompson
 - Release Date: August 2017
-- Wiki Rulesheet based on Code Rev: 1.22
+- Wiki Rulesheet based on Code Rev: 1.31
   - Edit the Code revision, if applicable, when you make changes
 
 ***Star Wars*** is the third pinball adaptation of the Original Trilogy, released in summer 2017 and designed by Steve Ritchie. Players take their pick between four key characters from the original films, and have to survive challenges across four different planets.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 * Keep shooting the center standup target bank to maintain your **shot multipliers**. Use the action button to toggle between on (green) and off (red); when they're turned off, use the flippers to change their location.
 * Shoot the shots corresponding to each planet to light **planet modes**. Select modes using the flippers and action button. Modes from different planets can be stacked (this is disabled in competition mode).
   * The final mode of each planet is a **planet multiball**. Shoot the flashing shots to complete the objectives and start victory 6-ball multiball. Complete FORCE before time runs out to light add-a-ball - hold the action button to use it.
@@ -54,15 +54,15 @@ source: https://tiltforums.com/t/star-wars-stern-rulesheet/2812
 * Shoot the red targets to light the TIE Fighter target for **TIE Fighter Hurry-Up**. After collecting the hurry-up, mash the action button as many times as possible to destroy additional TIE Fighters, and eventually start **TIE Fighter Multiball**.
 * Shoot yellow shots to light the Death Star for **Hyperspace Hurry-Up**. Collect enough hurry-ups to start **Hyperspace Multiball**.
 
-### Strategy:
+### Strategy: {#heading--strategy}
 - Choose your character based on your understanding of the game mechanics. Luke & R2-D2 tend to be the most newcomer friendly characters.
 - Always keep track of your shot multipliers and which shots are currently lit for them. If they're about to time out, backhanding the center target bank is a reliable way to reset the timer. These are where the big points come from!
 - During planet multiballs (after each set of missions), instead of going for the flashing shots, try aiming for the red targets or the yellow shots. TIE Fighter & Hyperspace Multiball can both be started during these final multiball modes and reset the ball saver time.
 - Lightsaber Duel generally isn't worth pursuing as it can only be started while nothing else is running. However, the fourth FORCE target award, Double Multipliers, is very worthwhile. Try scoring Double Multipliers during a mode to prevent being stuck in "Lightsaber Duel jail".
 - Never risk control of the ball to fire off a few errant shots at TIE Fighters. Determine where the ball is going to rebound and whether or not you can reliably save it before committing to mashing the action button.
 
-## Layout:
-## Character Select & Paths:
+## Layout: {#heading--layout}
+## Character Select & Paths: {#heading--characters}
 At the start of the first ball, *Star Wars* allows you to choose a character. Each character has special benefits that help you out through gameplay. Also, depending on the character you choose to play as, certain **[planet modes](#heading--planets)** may not be accessible. The selectable characters are:
 
 - **Luke** (Doubled scoring during **[Lightsaber Duel](#heading--duel)**)
@@ -72,11 +72,11 @@ At the start of the first ball, *Star Wars* allows you to choose a character. Ea
 
 At the start of each ball, each character also has a "path" of four awards that can be selected using the flippers and is locked in when the ball enters play. The complete list can be viewed at /stern/star-wars-stern-rulesheet_G5vLR/215. These awards are generally beneficial to the current character and are subject to change if certain modes are running.
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 - Shoot the flashing 3-bank target for **[Bonus X](#heading--bonus)**. Each time the skill shot is made, the target gets faster and the Bonus X at stake increases. The middle target scores the most.
 - Shoot the roving FORCE target to spot the next **[FORCE target award](#heading--force)**. This skill shot can be collected at any time but is disabled once the wrong drop target is shot.
 
-## Planet Modes:
+## Planet Modes: {#heading--planets}
 Four shots on the playfield correspond to different planets; shoot any of the four shots three times each to qualify the modes for the shot's corresponding planet. Each planet has up to three modes (which vary depending on the selected **[character](#heading--characters)**), and completing all of them will qualify the planet's final multiball mode. Each planet qualifying shot scores points that seem to be based on the number of modes available.
 
 If a mode isn't already active, shooting any qualified planet's shot will allow you to choose a mode, or pass if you desire. Two modes from different planets can be played at once, but each planet's final multiball mode must be played on its own. Modes do not time out, although many of them are based around short hurry-ups. For each of the final multiball modes, the number of balls is equal to the number of modes for that planet you had to play +1. Complete the FORCE targets, then hold the action button, to add a ball once per final multiball; this can be carried over into other multiballs if not used.
@@ -110,10 +110,10 @@ Winning two missions lights the left ramp for **[extra ball](#heading--extraball
   - *III: The Rancor* (Luke) - Shoot ramps to light the 3-Bank of standup targets to damage the Rancor. The value can be built up with further ramp shots; and the second 3-Bank hit requires both ramps to be made to qualify it.
   - *Final: Escape from Tatooine*: Alternate shots between the left ramp and right mini-loop to progress the story of Luke getting to Jabba's yacht, retrieving Leia, and escaping the yacht. There are 9 parts to the story. Along the way, shots to the 3-Bank, right ramp, and right scoop will increase your award value. **[Victory Multiball](#heading--victorymb)** begins on the final shot of the multiball.
 
-### Victory Multiball:
+### Victory Multiball: {#heading--victorymb}
 After completing the final multiball mode for any **[planet](#heading--planets)**, Victory Multiball begins, sending 3 additional balls into play. The goal of Victory Multiball is to complete 6 major shots for big points, and to collect medals (bronze - silver - gold). Medals determine the points scored at the start of **[Jedi Multiball](#heading--wizard)**, which can potentially be a very high-scoring collect. Once Victory Multiball ends, the corresponding planet is disqualified; it can be relit after playing the wizard mode.
 
-## FORCE Targets:
+## FORCE Targets: {#heading--force}
 Complete the FORCE targets to qualify awards. The FORCE targets can be completed at any time during play, and can even be completed off of a **[skill shot](#heading--skillshots)** to the drop target bank. **[Planet mode](#heading--planets)** behavior takes priority over the target awards, and after they have been completed five times, no further awards can be collected until **[Lightsaber Duel](#heading--duel)** ends.
 
 - 1st Completion: **[Light Mystery](#heading--mystery)**
@@ -122,28 +122,28 @@ Complete the FORCE targets to qualify awards. The FORCE targets can be completed
 - 4th Completion: **[Double Multipliers](#heading--shotx)** (until the multiplier timer expires)
 - 5th Completion: **[Light Lightsaber Duel](#heading--duel)**
 
-### Lightsaber Duel:
+### Lightsaber Duel: {#heading--duel}
 After completing the **[FORCE targets](#heading--force)** five times, and if no other modes are currently active, the left ramp lights to start **Lightsaber Duel**. This is a timed mini-wizard mode that takes priority over all other modes in the game once started, and carries over between balls until completed.
 
 The object of Lightsaber Duel is to delay Vader while your other allies escape. Shoot the blue shots (both mini-loops and right ramp) to help them escape, and shoot the red shots (left ramp and 3-Bank) to increase your time. The FORCE targets will increase the award values, which will also be increased if **[Luke](#heading--characters)** was selected at the start of the game. After helping all three allies escape, shoot the right loop to win the mode. Completing this mode is one of the requirements for **[Jedi Multiball](#heading--wizard)**.
 
-## Multiball Modes:
-### TIE Fighters & TIE Fighter Multiball:
+## Multiball Modes: {#heading--multiballs}
+### TIE Fighters & TIE Fighter Multiball: {#heading--ties}
 The red arrows in front of certain targets on the playfield, as well as the LCD screen at the back-center of the game, represent TIE Fighters. These targets move around the playfield once collected, and after enough have been collected (5 the first time, 10 for 2nd time, 15, etc.), the TIE Fighter target will light for **TIE Fighter Hurry-Up**. Shoot the TIE Fighter target to cash out the value, and the game's lighting will go dark red as a loud alarm starts blaring. Your goal at this time is to **keep mashing the action button**! Every second action button press during the 7-second timer destroys another TIE Fighter for a percentage of the hurry-up value (odd-numbered presses fire a laser that *might* destroy one), and defeating 35 TIE Fighters (110 subsequently) starts **TIE Fighter Multiball**.
 
 TIE Fighter Multiball is a 3-ball Multiball where all major shots are lit for Jackpots worth 750k. Once all Jackpots are collected, shoot the left ramp for a Super Jackpot that can be built up by shooting the flashing red 3-bank Targets. The Super Jackpot is worth 4M + 100k for every advance. Scoring from this multiball is relatively low, and it should primarily be used as backup during any **[final planet multiball](#heading--planets)**. 
 
 TIE Fighters also count up to other awards throughout the game. Defeating 80 TIE Fighters lights the **[extra ball](#heading--extraball)**, which can also be lit after defeating enough advanced TIE fighters on the center LCD screen. 100 TIE Fighters have to be defeated to qualify **[Jedi Multiball](#heading--wizard)**.
 
-### Hyperspace Hurry-Up & Hyperspace Multiball:
+### Hyperspace Hurry-Up & Hyperspace Multiball: {#heading--hyperspace}
 Complete the inlane rollovers, which cycle with the flippers, to light the right ramp and left loop for **Hyperspace Hurry-Up**. When the mode is started, shoot the left mini-loop for a hurry-up value. You can increase the value of the hurry-up before the mode by completing the inlane lights or by shooting an unlit right ramp. Collecting two Hyperspace Hurry-Ups (+1 per subsequent multiball) will begin **Hyperspace Multiball**.
 
 Hyperspace Multiball starts by locking the ball, either at the left mini-loop (*Pro*), or by sending it looping around the hyperspace wireform (*Prem / LE*). The ball must be knocked out of the left mini-loop to set the jackpot value on the Pro, and you can complete the sequence a second time if successful for even bigger jackpots; or on the Prem / LE, additional balls can be sent into the wireform to increase the jackpots and number of balls for the multiball. If time runs out, or the two hurry-ups are completed (Pro), multiball begins.
 
 Shoot the yellow shots to score jackpots based on the initial value that was collected; and shoot enough of them to light the left mini-loop for another jackpot hurry-up. Scoring from this multiball is relatively low, and it should primarily be used as backup during any **[final planet multiball](#heading--planets)**. 
 
-## Other Scoring:
-### Jedi Training:
+## Other Scoring: {#heading--other}
+### Jedi Training: {#heading--training}
 Complete every blue standup target on the playfield once in about 30 seconds to advance your Jedi level. The higher your level, the more points that the targets score, and the higher your **[end-of-ball bonus](#heading--bonus)** will be. The levels are as follows:
 - Youngling - 250k for completion, 25k per target
 - Padawan - 1M for completion, 100k per target
@@ -154,43 +154,43 @@ Each Jedi Training level advanced also completes a set of **[FORCE targets](#hea
 
 Becoming a Jedi Master is required to qualify **[Jedi Multiball](#heading--wizard)**.
 
-### Video Mode:
+### Video Mode: {#heading--videomode}
 Complete the **[FORCE targets](#heading--force)** three times to light Video Mode at the right mini-loop. Alternatively, Video Mode can be played as **[Hoth I](#heading--planets)** as **[Leia or Han Solo](#heading--characters)**. 
 
 Use the flippers to steer the Millennium Falcon through an asteroid field, and use the center button for a speed boost. Points are awarded based on the number of asteroids dodged, and a large bonus can be scored if you avoid getting hit at all. **[Shot multipliers](#heading--shotx)** *do* apply to Video Mode scoring too, so be sure to have the right loop multiplied before shooting it.
 
-### Shot Multipliers:
+### Shot Multipliers: {#heading--shotx}
 Strategic use of the shot multipliers is key to high-scoring games on *Star Wars*. The shot multipliers start at 2x and can be toggled on (green) and off (red) with the action button; when turned off, you can move the shot multipliers either left or right by using the flippers. 
 
 At lower multipliers, a spread of three shots has the green "X" lit. Hitting any 3-bank target increases the shot multiplier by +1x, up to a maximum of 20x, and the overall multiplier can be doubled from the fourth **[FORCE target award](#heading--force)** to a maximum of 40x. As the multiplier increases, the "spread" of shots will decrease to 2 at 5x (7x with **[R2-D2](#heading--characters)**), and then finally only 1 shot at 10x (14x with **R2-D2**). The multiplier resets to 2x if a 3-bank target has not been hit in a while - and the higher your multiplier is, the faster it times out. 
 
-### Escape from Boba Fett:
+### Escape from Boba Fett: {#heading--boba}
 Shooting combo shots will light the shots that ended the combo with a white arrow. Complete four white arrow shots, with the last two in non-mode play, to begin this timed hurry-up mode. 
 
 Escape from Boba Fett is a sequence of five hurry-ups: left ramp, right mini-loop, right ramp, left orbit, and left ramp again. Shooting the 3-bank will add more time to the mode. Make good use of your **[shot multipliers](#heading--shotx)** during this mode - the final score can be huge, especially with the initial score boost from playing as **[Han Solo](#heading--characters)**. Completing this mode is one of the qualifications for **[Jedi Multiball](#heading--wizard)**.
 
-### Pict-o-Pops:
+### Pict-o-Pops: {#heading--bumpers}
 Shooting the bumpers at any time during normal play can award one of many features. There are specific symbols for each award; look in the Instant Info to see what each symbol represents (need complete list). 
 
-### Mystery:
+### Mystery: {#heading--mystery}
 The first **[FORCE target award](#heading--force)** lights Mystery at the right scoop for 3 different awards at once. These awards include instantly lighting **[planets](#heading--planets)** and others. Bonus Hold is also accessible from Mystery, which can lead to ridiculously large **[end-of-ball bonuses](#heading--bonus)**.
 
 Placing a **[shot multiplier](#heading--shotx)** on the lit Mystery award multiplies all point values awarded from it.
 
-### Escape (Ball Save):
+### Escape (Ball Save): {#heading--escape}
 The second **[FORCE target award](#heading--force)** lights Escape at the right outlane. This is a virtual ball save on the Pro, and a gate that opens to send the ball back to the plunger on Prem / LE. It can also be awarded from **[Mystery](#heading--mystery)**.
 
-### Extra Balls:
+### Extra Balls: {#heading--extraball}
 Extra balls can be lit at the left ramp by:
 - Winning enough **[planet modes](#heading--planets)** (Percentage-based, starts at 3)
 - Destroying enough **[TIE Fighters](#heading--ties)** (Percentage-based, starts at 80)
 - Destroying enough **[Advanced TIE Fighters](#heading--ties)** on the center screen (how many?)
 - Percentage-based **[Pict-o-Pops](#heading--bumpers)** award
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 Bonus is largely switch-based but also takes into account the player's current **[Jedi Training level](#heading--training)** and how many **[planet modes](#heading--planets)** were played this ball, all multiplied by the **bonus multiplier** that can be increased via **[skill shots](#heading--skillshots)** or by completing the top lanes. Bonus hold can be awarded via **[mystery](#heading--mystery)**; this holds over both the bonus and the bonus X, and if collected on the last ball, rewards the end-of-ball bonus twice.
 
-## Jedi Multiball (Wizard Mode):
+## Jedi Multiball (Wizard Mode): {#heading--wizard}
 The final wizard mode of the game. Light Jedi Multiball at the left ramp by completing the following tasks:
 
 - Become a **[Jedi Master](#heading--training)**

@@ -43,7 +43,7 @@ source: https://tiltforums.com/t/foo-fighters-rulesheet/8162
   - [Toy Time Multiball (Topper Mode / Mini-Wizard Mode)](#heading--toytimemb)
   - [The Final Battle (Wizard Mode)](#heading--final)
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: Jack Danger
 - Code/Rules: Tanio Klyce, Raymond Davidson
 - Lead Mechanical Engineer: 
@@ -51,12 +51,12 @@ source: https://tiltforums.com/t/foo-fighters-rulesheet/8162
 - Display and Animations: 
 - Sound Design: Bob Baffy, select contributions by Tanio Klyce
 - Release Date: March 2023
-- Wiki Rulesheet based on Code Rev: 1.03
+- Wiki Rulesheet based on Code Rev: 1.04
   - *Edit the Code revision, if applicable, when you make changes*
 
 Jack Danger's first full-fledged pinball machine. *****Foo Fighters***** is based on a fictional Saturday morning cartoon series where the band is a group of heroes with a giant robot, fighting against a being known only as the Overlord that aims to reformat the world and erase all music from existence. Players take control of the Fighters' stylish van, mod it out, and save the cities that the Overlord has conquered while defeating his army of spider-bots.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 - Shoot white arrows to light the left ramp for city mode. They score more if you complete them on your first try and / or mod out your van by shooting the paddle behind the drop targets. Mini-wizard modes at three and six cities saved.
 - Shoot the captive ball to charge up your action button. This allows you to press it to collect lit shots during modes and multiballs.
 - Shoot the Overlord until the insert there turns green and then lock a ball there; shoot the captive ball there enough times for Overlord multiball. Multiball increases in value every time it is started but the shots needed for it also increase.
@@ -67,12 +67,13 @@ Jack Danger's first full-fledged pinball machine. *****Foo Fighters***** is base
 - Bot target hits light the “bot award” target. 1st award lights ball save at right outlane, 2nd lights modulator frenzy (shoot paddle target for random van mods), 3rd lights left ramp for bot frenzy (shoot the spinner for big points and targets to multiply them).
 - FooBot multiball (mini-wizard) can be started after playing all major objectives; view status report for part information.
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 |![](https://sternpinball.com/wp-content/uploads/2023/02/FooFighters-Premium-Playfield-anjef-scaled-955x1536.webp)|![](https://sternpinball.com/wp-content/uploads/2023/02/FooFighters-Pro-Playfield-nkadfa-scaled-950x1536.webp)|
 
-## Modes of Play:
+## Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:**
@@ -91,7 +92,7 @@ Not from the gameplay menu, but the following is changed if a Competition Instal
   - Overdrive post save compensation ball save 2 seconds (on PREMIUM)
   - Area 51 progress spotting on ramp set to OFF (on PREMIUM)
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 A skill shot opportunity is presented at the start of each ball, and after locking the ball at the **[Overlord](#heading--overlord)**. All skill shots award +5 seconds of ball save time.
 
 - Plunge the ball into the **[Rock-O-Meter](#heading--pfx)** lane to advance it. The advance is determined by which insert on the Rock-O-Meter is flashing - try to time it for when the top insert is flashing as this lights an entire insert. Scores 100k x the lit insert (1, 2, or 3).
@@ -105,7 +106,7 @@ A skill shot opportunity is presented at the start of each ball, and after locki
 - Plunge the ball into the left inlane for 2.5M & additional ball save time.
 - Plunge the ball into the left outlane for 5M & light **[Overdrive](#heading--mystery)**.
 
-## Van Modes (Cities):
+## Van Modes (Cities): {#heading--vanmodes}
 The overarching goal of *****Foo Fighters***** is to tour the US, find the cities the Overlord has taken over, and prevent his efforts to reformat their citizens.
 
 Shoot white shots to spell V-A-N and light "Start Van Mode" at the left ramp. Only one white shot is needed to light the left ramp for the first mode, up to a maximum of three white shots. As the game progresses, less and less white shots are available. If the player drains without completing a van mode, the left ramp will be immediately lit to select another mode on the next ball.
@@ -151,7 +152,7 @@ Fully complete three van modes to enable the **[Austin](#heading--austin)** and 
   - Award increment: 100k per roving shot + 10k per spin; caps at 5M
   - 3x Value + 2x Progress Shot: The non-spinner lane roving shot
 
-### Van Mods:
+### Van Mods: {#heading--mods}
 After shooting all three drop targets, the MOD-ulator target behind them will be lit for a short time to level up the van mod indicated by the flashing insert on the left side, which cycles between the three available mods. You lock in your cycling mod when you knock down the first drop in the bank. Keep shooting it to advance the level, before the 10-second timer runs out. If the mod has already been collected, the drop targets can be completed further times to collect more mods, or to upgrade the level of a collected mod.
 
 The second bot award, **[MOD-ulator Frenzy](#heading--modulator)**, also allows the player to rapidly advance and collect mods while the mode is active. 
@@ -173,15 +174,15 @@ The level of each mod can be identified by the color of its insert:
 
 Van mods also increase the base jackpot values in **[D.C.](#heading--dc)**.
 
-## Side Modes:
-### MOD-ulator Frenzy:
+## Side Modes: {#heading--sidemodes}
+### MOD-ulator Frenzy: {#heading--modulator}
 After hitting all four standup targets scattered around the playfield, the **[Bot Award](#heading--botawards)** target on the far right will light. **MOD-ulator Frenzy** will start on the next shot to the paddle target once the *second* Bot Award has been collected.
 
 MOD-ulator Frenzy is a great way to quickly accumulate **[van mods](#heading--mods)** and can be brought into all other game modes, but cannot be accessed during any **[wizard mode](#heading--wizard)**. For a timed period, the three van mods (from top to bottom: engine, speakers, bomb) rapidly cycle, and every shot to the paddle target advances the lit mod. 
 
 If MOD-ulator Frenzy is started *during* a **[van mode](#heading--vanmodes)**, the mod boosts will be instantly applied to the ongoing mode.
 
-### Bot Frenzy:
+### Bot Frenzy: {#heading--botfrenzy}
 (Song: Chiptune cover of *Monkey Wrench*)
 
 After hitting all four standup targets scattered around the playfield, the **[Bot Award](#heading--botawards)** target on the far right will light. **Bot Frenzy** is lit at the left ramp at the *third* Bot Award collected.
@@ -192,7 +193,7 @@ One second of ball save time is given at the start of bot frenzy for every bot d
 
 Starting **Bot Frenzy** awards the **[right arm of the FooBot](#heading--foobotmb)**. Upgrade it by scoring at least 25M during the frenzy.
 
-### Supersonic Radio:
+### Supersonic Radio: {#heading--supersonic}
 (Song: *Walk*)
 
 Every time a **[mystery award](#heading--mystery)** is scored at the radio standup targets on the left side of the playfield, the radio dial on the LCD display will advance (it won't advance if you fail to collect the mystery award in time). Once the dial has reached the correct frequency, as indicated by the black outline, **Supersonic Radio** mode will start. This usually takes about 6 mystery awards.
@@ -203,8 +204,8 @@ The Supersonic Radio timer is indicated by the same radio dial you advanced to s
 
 Starting **Supersonic Radio** awards the **[right leg of the FooBot](#heading--foobotmb)**. Upgrade it by scoring the radio jackpot at the end of the mode.
 
-## Multiball Modes:
-### Overlord Multiballs:
+## Multiball Modes: {#heading--multiballs}
+### Overlord Multiballs: {#heading--overlord}
 Shoot the Overlord or the targets surrounding it during single ball play to advance towards and start Overlord Multiballs: *All My Life*, *Monkey Wrench*, and *The Pretender*, in that order. Each multiball must be played before progress can be made towards qualifying the next one. **[Area 51 Multiball](#heading--area51)** can be progressed towards and started during any Overlord Multiball.
 
 The requirements to qualify each multiball are:
@@ -244,17 +245,17 @@ The **[FooBot left arm](#heading--foobotmb)** is locked behind the Overlord mult
 
 **Pro:** Shoot the right ramp 5 times to get the Foo Fighters closer to Area 51, and eventually start Area 51 multiball. Subsequent multiballs require 9 shots to the right ramp. This multiball can be progressed towards and started during any **[Overlord Multiball](#heading--overlord)**.
 
-During multiball, all shots are lit for jackpot (750k), and the two bot targets flanking the right ramp (along with the right ramp itself) are lit to increase the jackpot value (by 750k). After collecting 8 jackpots, shoot the right ramp followed by the UFO captive ball as a combo to score the super jackpot worth 1M + (750k per lit shot collected), which can continue to be increased by shooting other shots until it has been collected. Scoring the super jackpot enables the jackpots again and increases the jackpot value by 500k.
+During multiball, all shots are lit for jackpot (750k), and the two bot targets flanking the right ramp (along with the right ramp itself) are lit to increase the jackpot value (by 750k). After collecting 8 jackpots, shoot the right ramp followed by the UFO captive ball as a combo to score the super jackpot worth 1M + (1.25M per lit shot collected), which can continue to be increased by shooting other shots until it has been collected. Scoring the super jackpot enables the jackpots again and increases the jackpot value by 500k.
 
 **Prem/LE:** Shots to the right ramp divert the ball to the Area 51 mini-playfield. Complete the targets, then shoot the spinner, then the loop, and finally the secret files target at the back to start Area 51 Multiball. For the first Area 51 multiball, progress is spotted with each right ramp shot - subsequent multiballs require more hits to the upper playfield shots, and won't spot progress. This multiball can be progressed towards and started during any **[Overlord Multiball](#heading--overlord)**.
 
-During multiball, all shots are lit to score jackpots (750k) and increase the super jackpot value; the jackpot value can be increased by 500k by making shots on the upper playfield. After collecting 8 jackpots the upper playfield diverter will raise revealing the Secret Files target for the Super Jackpot.
+During multiball, all shots are lit to score jackpots (750k) and increase the super jackpot value; the jackpot value can be increased by 750k by making shots on the upper playfield. After collecting 8 jackpots, the upper playfield diverter will raise revealing the Secret Files target for the Super Jackpot, worth 1M + (1.25M per lit shot collected), which can continue to be increased by shooting other shots until it has been collected. Scoring the super jackpot enables the jackpots again and increases the jackpot value by 500k.
 
-After draining out of Area 51 multiball on Prem / LE, "fresh jackpot(s)" worth the highest jackpot value scored can be collected at the secret files target on the upper playfield for 30 seconds.
+After draining out of Area 51 multiball on Prem / LE, "fresh jackpot(s)" worth 50% of the highest jackpot value scored can be collected at the secret files target on the upper playfield for 30 seconds.
 
 Starting Area 51 multiball awards the **[FooBot head](#heading--foobotmb)**, which can be upgraded by scoring the super jackpot during the multiball.
 
-Combotron Multiball:
+Combotron Multiball: {#heading--area51}
 (Song: *Best of You*)
 
 The player can start **[combos](#heading--combotron)** by quickly making shots marked with the Combotron symbol in succession. The symbols spawn as shots with the symbol are made or the side ramp is shot. A shot to the Overlord will then cash out the combo. Start and cash out 6 combos this way to light the side ramp for **Combotron Multiball**. Combotron multiball can be started during **[Area 51 multiball](#heading--area51)** and vice versa, but cannot be started during an **[Overlord multiball](#heading--overlord)**.
@@ -265,15 +266,15 @@ This 3-ball multiball is all about trying to keep combos lasting as long as poss
  
 Starting Combotron multiball awards the **[FooBot chest](#heading--foobotmb)**. Upgrade it by scoring at least 25M during the multiball.
 
-## Other Features:
-### Overdrive Ball Save:
+## Other Features: {#heading--otherfeatures}
+### Overdrive Ball Save: {#heading--overdrive}
 The left outlane is lit for **Overdrive** at the start of the game. Once used, it can be relit via completions of the **[Sonic Radio targets](#heading--mystery)**.
 
 On Prem / LE, the Deadpost will raise when the ball rolls over the left outlane. Hold up the left flipper quickly to save the ball. Make any shot immediately after saving the ball for an Overdrive award of 2M + 1M per previous Overdrive award. Complete the Sonic Radio targets once to relight Overdrive; the number of target completions needed increases by 1 with each subsequent Overdrive activation.
 
 On Pro models, this is a virtual ball save. Hold the left flipper up when it activates for the Overdrive score award. It takes 2 Sonic Radio target completions to relight Overdrive the first time, increasing by 1 each time.
 
-### Sonic Radio Targets:
+### Sonic Radio Targets: {#heading--mystery}
 Each completion of the Sonic Radio targets enables a radio mystery award at the targets for a limited time - the player must collect this mystery award to advance the dial and lock it in, otherwise it will reset. During wizard modes, awards can be scored at the targets, but the dial rule won't apply. Possible radio mystery awards are:
 
 - Add-a-ball (during multiball, once per multiball)
@@ -302,7 +303,7 @@ In Competition Mode, the mystery award follows a fixed order (aside from the add
 
 Maxing out the radio dial by scoring five mystery awards starts **[Supersonic Radio mode](#heading--supersonic)**.
 
-### Combotron:
+### Combotron: {#heading--combotron}
 Shooting any shot marked with a Combotron insert will begin combo sequences. Spawn these shots by either shooting lit combo shots, or by shooting the side ramp.
 
 The Combotron is the icon at the bottom right corner of the display. Each shot on the playfield is marked with a circle insert representing a different segment of the Combotron (on Prem / LE, the upper playfield shots are mapped to the side ramp and side loop and are an alternate way to achieve those shots). Making these shots as combos scores points indicated by the color of the combo on screen, which increase as more shots are made and as full sets of combos are completed. Shooting the Overlord while a combo is active cashes out and completes the combo for 3x the current combo value (5x for a direct hit into the back targets).
@@ -322,26 +323,26 @@ Combo shots are worth 25k + 5k per band member combo x the current level each sh
 
 Cashing out six combos at the Overlord targets lights the side ramp for **[Combotron Multiball](#heading--combotronmb)**.
 
-### UFO Captive Ball:
+### UFO Captive Ball: {#heading--ufocaptiveball}
 Rolling over the loop switch by shooting the UFO captive ball enough times (8 switch hits +4 to advance levels) will light the action button to collect the "most valuable" shot during **[Van Modes](#heading--vanmodes)**. The captive ball cannot be advanced while any **[multiball mode](#heading--multiballs)** is active, unless you shoot it immediately after a left crossover shot combo.
 
 You can earn up to 3 action button uses at a time (yellow if one use, green if two, red if three). The number of shots needed to light one depends on whether you currently have any - as you collect uses, further uses are easier to qualify. 
 
 After advancing towards **[Area 51 multiball](#heading--area51)**, the captive ball is lit for a UFO bonus that can be advanced by captive ball hits prior to scoring it, and multiplied by 2x if quickly shot via the upper flipper from the "reformatted" lane near it. Making this combo also adds +1 to the UFO captive ball progression regardless of any ongoing modes.
 
-### Super Spinner:
+### Super Spinner: {#heading--superspinner}
 Roll through either of the left and right return lanes three times to enable one of the inlanes for super spinner, which can be toggled with the flippers. Super spinner lights the spinner to score 5x the spinner value for a limited time.
 
 The base spinner level can be increased by shooting it enough times or via a **[radio mystery award](#heading--mystery)**.
 
-### Playfield Multiplier:
+### Playfield Multiplier: {#heading--pfx}
 Roll through the lit Rock-O-Meter lane while the "battery" insert is lit, either indirectly or through right orbit shots, three times to start a 40-second timed 2x playfield multiplier. Completing the process of qualifying the playfield multiplier again while it's running will reset the timer and increase the multiplier to 3x. Completing it while 3x is running will add 10 seconds to the playfield multiplier timer.
 
 The Rock-O-Meter is advanced by making **[skill shots](#heading--skillshots)** to the lane or by shooting the right orbit.
 
 Subsequent playfield multipliers are more difficult to start. The "battery" to advance the Rock-O-Meter eventually has to be lit at the right orbit by shooting the MOD-ulator target (on a timer at the highest difficulty). 
 
-### Bot Awards & Bot Frenzy:
+### Bot Awards & Bot Frenzy: {#heading--botawards}
 Shoot the 4 standup targets to destroy spider-bots with each unlit target shot, and light the Bot Award target for an award after hitting all four. Every bot award also scores the **Bot Bonus**, worth 500k x the number of bots destroyed.
 
 - 1 set: Light **ball save** at the right outlane
@@ -351,19 +352,19 @@ Shoot the 4 standup targets to destroy spider-bots with each unlit target shot, 
 
 Certain rules take into account the bots that have been destroyed over the game. **[Extra ball](#heading--extraballs)** is lit at the Bot Award target after 10 and 30 bots have been destroyed, 50k is awarded in **[end-of-ball bonus](#heading--bonus)** per bot destroyed, and 1 second of ball save time is given at the start of **[bot frenzy](#heading--botfrenzy)** for every destroyed bot.
 
-### Lightning Target:
+### Lightning Target: {#heading--lightning}
 The lightning target is located slightly above the entrance to the **[Rock-O-Meter lane](#heading--pfx)** and covers a surprisingly large amount of distance. Hitting the lightning target lights the lightning bolt inserts at the left and right ramps for 50k - make these ramp shots as combos to increase the current lightning target value by 50k and award it again. 
 
 Collecting 10 lightning target hits starts a 30-second timed Super Lightning mode (5 seconds are added for every target hit and lit lightning ramp scored prior). During Super Lightning, the left and right ramps are lit to award 10x the lightning value that was built up through target hits or combos prior. 
 
-### Ray Gun Targets:
+### Ray Gun Targets: {#heading--rayguns}
 Shatzing / alley passing either ray gun target will enable a 2x shot multiplier on the next shot made following the ray gun target completion - 4x if the player *immediately* shoots the ray gun target on the other side. This multiplier stacks with the permanent ones that can be earned from **[Foo-Bot parts](#heading--foobotmb)**, the timed **[playfield multiplier](#heading--pfx)**, and the 2x jackpot multiplier during **[Overlord Multiball modes](#heading--overlord)**. Shots spotted via the **[action button](#heading--ufocaptiveball)** are not subject to these multipliers.
 
 If the left crossover shot is made with a shot multiplier active, they will also apply to the next upper flipper shot (either upper loop or side ramp).
 
 The ray gun targets are relit by rolling through their respective inlane.
 
-### Extra Balls:
+### Extra Balls: {#heading--extraballs}
 Extra ball can be lit at the Bot Award target by:
 - Completing two **[Van Modes](#heading--vanmodes)**
 - After destroying 10 and 30 **[spider-bots](#heading--botawards)**
@@ -371,7 +372,7 @@ Extra ball can be lit at the Bot Award target by:
 
 If extra balls are disabled or the extra ball cap has been reached, 10M points are awarded instead. This is multiplied by **[playfield](#heading--pfx)** and **[ray gun](#heading--rayguns)** multipliers.
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 Bonus is determined by: 
 - **[Van mode](#heading--vanmodes)** shots - 100k x the number of lit mode shots this ball
 - **[Van mods](#heading--mods)** collected - 100k x the number of mods collected or advanced this ball
@@ -380,8 +381,8 @@ Bonus is determined by:
 
 All multiplied by the bonus X, built at the paddle target when drops are still active. If you have 1 or 2 drop targets knocked down and hit the MOD-ulator target, they will reset and you will progress toward increasing your Bonus X (1 circle if 2 drops down, 2 circles if 1 drop down). The circular inserts indicate your progress toward increasing your Bonus X. The number of completions required increases for further multipliers.
 
-## Wizard Modes:
-### Austin (Mini-Wizard Mode):
+## Wizard Modes: {#heading--wizard}
+### Austin (Mini-Wizard Mode): {#heading--austin}
 (Song: *Times Like These*)
 
 Complete 3 **[Van Modes](#heading--vanmodes)** to qualify this as an option on the Van Modes map. Either this mode or **[D.C.](#heading--dc)** can be selected, the other wizard mode is then qualified after completing 6 Van Modes.
@@ -391,7 +392,7 @@ Spider-Bots! For each van mode you managed to complete in one try, your starting
 
 Shoot the red shots to score jackpots determined by the player's performance in the **van modes** (1.5M + 500k per van mode completed in one try) +50k per jackpot, and increase the value of the super jackpot, worth the jackpot total, by +1x. The super jackpot is collected at the blue shot, whose location can be changed by shooting the Overlord. Each super jackpot adds +100k value to the jackpots that follow it. Scoring a 5x super jackpot, by scoring 4 jackpots before the super jackpot, will add a ball; two more add-a-balls are awarded for the first 6x and 7x super jackpots.
 
-### D.C. (Mini-Wizard Mode):
+### D.C. (Mini-Wizard Mode): {#heading--dc}
 (Song: *Holding Poison*)
 
 Complete 3 **[Van Modes](#heading--vanmodes)** to qualify this as an option on the Van Modes map. Either this mode or **[Austin](#heading--austin)** can be selected, the other wizard mode is then qualified after completing 6 Van Modes.
@@ -402,7 +403,7 @@ All band member shots are lit for jackpots determined by the **mods** the player
 
 If the player manages to score all 6 unique super jackpots and reassemble the van, victory laps will start.
 
-### FooBot Multiball (Mini-Wizard Mode):
+### FooBot Multiball (Mini-Wizard Mode): {#heading--foobotmb}
 (Song: *My Hero*)
 
 Completing certain game features will collect a FooBot part and light its insert. There are Upgrade Criteria for the game feature that will instead make the insert flash, as indicated below.
@@ -430,14 +431,14 @@ The jackpot value for this multiball starts at 3M, but each jackpot shot is incr
 - Right ramp - 10% of points scored during **[Area 51 Multiball](#heading--area51)**
 - Right orbit - 10% of points scored during **[Bot Frenzy](#heading--botfrenzy)**
 
-### Toy Time Multiball (Mini-Wizard Mode):
+### Toy Time Multiball (Mini-Wizard Mode): {#heading--toytimemb}
 Once all six unique **[band member combos](#heading--combotron)** have been scored, a shot to the left ramp will start Toy Time multiball. If the topper is installed, progress towards this multiball is maintained across games by default and it will be lit as soon as the last band member combo has been made. Otherwise, all six combos have to be scored within one game, and all six **[van modes](#heading--vanmodes)** must be completed as well, to qualify Toy Time multiball.
 
 This hectic 3-ball multiball involves qualifying, lighting, and scoring jackpots at each band member shot. Shoot a band member shot to lock the shot in, then light the jackpot there by collecting switch hits. Once the jackpot is lit, it can either be instantly scored, or other shots can be made to increase its value. Regardless of value, collecting the jackpot will add a ball. Collect a jackpot at all six band member shots to light a super jackpot at the FooBot target, worth the total score from all combined jackpots and instantly awarding or upgrading a **[FooBot part](#heading--foobotmb)** if all parts have been found.
 
 During the multiball, a ball can be locked temporarily at the Overlord by hitting both targets surrounding him, then shooting the back targets. While the ball is locked, all switch hits count double towards lighting the next jackpot, and the jackpot increases from other shots are doubled as well.
 
-### The Final Battle (Wizard Mode):
+### The Final Battle (Wizard Mode): {#heading--final}
 The left ramp will light to commence the final battle against the Overlord after completing all three of the following tasks:
 - Saving all **[cities](#heading--vanmodes)** from the Overlord's forces, including **[Austin](#heading--austin)** and **[D.C.](#heading--dc)**
 - Playing all three **[Overlord Multiballs](#heading--overlord)**

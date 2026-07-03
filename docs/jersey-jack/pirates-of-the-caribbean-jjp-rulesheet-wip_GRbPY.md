@@ -8,14 +8,14 @@ source: https://tiltforums.com/t/pirates-of-the-caribbean-jjp-rulesheet-wip/4169
 
 # Pirates of the Caribbean JJP
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Jersey Jack Pinball
 - Release Date: January 2018
 - Original Wiki Rulesheet hosted on [Tilt Forums](/jersey-jack/pirates-of-the-caribbean-jjp-rulesheet-wip_GRbPY)
 
 Pirates of the Caribbean is JJP's 4th game. Designed by newcomer Eric Meunier, POTC carries on the Jersey Jack tradition of making immersive machines for everyone. The game is a different adventure every time you play it, with different modes and different characters to choose from. The machine also features 6 Multiball modes and 5 mini wizard modes (one for each of the five movies), and tons of side objectives.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **Layout**:
 
 - The Depths - Hole to the very left of the machine that kicks the ball out into the "P" lane, which feeds the ball to the left flipper. This is fed by the Maelstrom, Abyss, and the Captain's Quarters. It can also be shot by a lucky bounce from the slingshots. A shot that lands in the Depths will award a Skull Hold (holds the value of the currently highest value Skull to the next ball.)

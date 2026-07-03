@@ -8,7 +8,7 @@ source: https://tiltforums.com/t/kiss-wiki-rulesheet/732
 
 # KISS
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Stern
 - Release Date: May 2015
 - Wiki Rulesheet based on Code Rev: 1.40.0
@@ -16,7 +16,7 @@ source: https://tiltforums.com/t/kiss-wiki-rulesheet/732
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/kiss-wiki-rulesheet_G4qX5)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **Choosing Songs (Modes):** At the start of a ball, you are be able to choose a song. You will always be able to choose at the start of the game. You must complete a song before you can select another one (mode progress carries over ball to ball).
 
 **Skill Shot:** There isn't a skill shot in the current code, but if you can trigger the right loop switch and then fall back into it, you can trigger any right loop awards. The same is true for the left loop if you can plunge soft enough to delay the left loop switch hit long enough.

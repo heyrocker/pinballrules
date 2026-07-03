@@ -10,13 +10,13 @@ source: https://tiltforums.com/t/ultraman-wiki-rulesheet/7456
 
 **ULTRAMAN RULESHEET**
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Spooky Pinball
 - Release Date: September 2021
 - Original Wiki Rulesheet hosted on [Tilt Forums](/spooky/ultraman-wiki-rulesheet_GBLLd)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **-Layout-**
 
 **Outlanes:** Standard layout.

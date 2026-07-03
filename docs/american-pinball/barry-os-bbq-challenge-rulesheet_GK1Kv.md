@@ -28,7 +28,7 @@ source: https://tiltforums.com/t/barry-os-bbq-challenge-rulesheet/9023
 * [Mini-Wizard Modes](#heading--miniwizardmodes)
   * [Meat Coma Multiball (Mini-Wizard Mode)](#heading--meatcoma)
 
-## Skill Shots
+## Skill Shots {#heading--skillshots}
 You can select which skill shot you're shooting for with the flippers before plunging. Hitting a shot or some number of switch hits will deactivate it. Hitting unique skill shots across a game will increase the value and the multiplier - hitting multiple skill shots throughout the game will increase the base value.
 
 - **BBQ Targets**: 500k + 250k + Easier **[BBQ PIT](#heading--bbqpit)** Targets (hitting one target will spot another)
@@ -41,7 +41,7 @@ You can select which skill shot you're shooting for with the flippers before plu
 - **Left Inlane**: 2.5M + 1.25M + **[Challenge](#heading--challenges)** Scoring Increases
 - **Left Outlane**: 3M + 1.5M + **[FIRE](#heading--fire)** Boosted (adds 1M to all FIRE hurry-ups)
 
-## Cook-Offs
+## Cook-Offs {#heading--cookoffs}
 The goal of ***Barry O's BBQ Challenge*** is to face off against the six "Stars of BBQ" and cook up different recipes. These start with 3 orange shots to complete and increase as you play. The order in which you face the Stars is solely cosmetic and does not affect the game.
 
 The recipe value grows from switch hits and various game features (ie. repeated shots to the left ramp) but resets when you drain.
@@ -58,7 +58,7 @@ Each star upgrades your trophy and gives a +1x multiplier toward your cash-out a
 
 Complete 3 cook-offs to start **[Meat Coma Multiball](#heading--meatcoma)**.
 
-### BOSS and CHEF Lanes
+### BOSS and CHEF Lanes {#heading--boss}
 The top lanes act similarly to the ones on *Barracora* or the return lanes on *John Wick*. The right flipper changes the bottom row (from left to right), and the left flipper changes the top row (from right to left). BOSS on the upper row can only be completed if the ball rolls over lanes with CHEF letters on the lower row already lit.
 
 - Completing CHEF increases bumper values by 1k each completion, increases the value of the **[recipe](#heading--cookoffs)** currently being served by 150k + 25k per completion for the ball, and awards one lit orange arrow shot toward the current recipe (the farthest left lit shot).
@@ -66,7 +66,7 @@ The top lanes act similarly to the ones on *Barracora* or the return lanes on *J
 
 BOSS Assistant can be given from **[right orbit skill shots](#heading--skillshots)** or after completing **[Drag Race](#heading--challenges)**. This makes it easier to complete either BOSS or CHEF for the next completion only.
 
-### FIRE Hurry-Up
+### FIRE Hurry-Up {#heading--fire}
 The FIRE lanes start a short hurry-up feature. A score will roll up quickly (200k - 1M base value), resetting after hitting its maximum and cycling until the mode is completed. 
 
 Making either blue orbit shot will finish the mode, and add the base value to your score and the recipe value. Failing to complete the feature before the time runs out will *half* your recipe value, so watch out!
@@ -77,7 +77,7 @@ Each FIRE hurry-up completed during a ball will add a +0.5x multiplier to the ne
 
 Starting the FIRE hurry-up with an outlane will save your ball, though you'll still need to handle that fire...
 
-### Side Dishes
+### Side Dishes {#heading--sidedishes}
 There are many different side dishes that can be earned, but the side dish names themselves have the same function no matter which one you get. Earn side dishes by completing the drop targets near the right orbit. Each drop target completion also increases the **[Bonus X](#heading--bonusx)** and spinner values, and **sweeping** them doubles the effect.
 
 The first two drop target completions in a **[cook-off](#heading--cookoffs)** give you Stars for “Side Dish 1” and “Side Dish 2”. Subsequent completions still add to your **[end-of-ball bonus](#heading--bonus)** and add value to the “Side Dishes” line for the trophy cash-out when you finish a cook-off.
@@ -92,7 +92,7 @@ There are also three inserts in front of the drop targets that cycle through but
 
 Collect all three of the flashing inserts at the drop targets to start **[Side Dish Multiball](#heading--sidedishmb)**.
 
-## Hot Rod Challenges
+## Hot Rod Challenges {#heading--challenges}
 Hitting the orbits with flashing "Qualify Challenge" inserts will qualify a Challenge at the open saucers. Once qualified, the challenge you will play is lit in the inserts at the bottom of the screen. The flippers change the lit Challenge insert, as well as bumpers and targets. 
 
 Hitting an open saucer with a lit "Start Challenge" circular insert will start the next challenge. The player can raise the value of the next Challenge's shots before starting it by hitting purple arrow shots around the playfield first, or completing the **[drop targets](#heading--sidedishes)** when "increase challenge value" is lit. However, if they drain before starting the Challenge, those value increases will be lost.
@@ -111,8 +111,8 @@ The timed challenges all involve the lit purple shots across the playfield. On c
 
 Every shot made during a challenge also increases **[end-of-ball bonus](#heading--bonus)** by 350k per lit shot.
 
-## Multiballs
-### Pitmaster Multiball
+## Multiballs {#heading--multiballs}
+### Pitmaster Multiball {#heading--pitmaster}
 Pitmaster Multiball is started by locking at least one ball in either of the side saucers, and then hitting the saucer further back on the right side of the playfield. 
 
 Pitmaster Multiball starts by briefly displaying the progressive jackpot... and then showing all of the progress you'll have to make to get there, scrolling down to the base multiball jackpot. The progressive jackpot normally carries over across players and games, but is standardized at 500M on tournament mode. Regardless of settings, the progressive jackpot will increase by the multiball jackpot value you brought in.
@@ -127,7 +127,7 @@ Shooting a jackpot unlights it and moves you up the ladder by one step (two step
 
 The multiball jackpot resets after you play Pitmaster Multiball.
 
-### Side Dish Multiball
+### Side Dish Multiball {#heading--sidedishmb}
 Collecting all the flashing inserts at the **[side dish drop targets](#heading--sidedishes)** (ie. completing the drop targets three times) will start Side Dish Multiball. Red shots score jackpots, worth the base multiball jackpot value (increased by hitting orange shots during **[cook-offs](#heading--cookoffs)**. The jackpot value will increment after several switch hits, shown via a countdown on the playfield LCD screen. 
 
 Relight all jackpots by completing the drop targets. Even if you collect all the flashing jackpot shots, there will always be at least one jackpot ready that will move after you shoot it.
@@ -136,29 +136,29 @@ The base multiball jackpot resets after you play Side Dish Multiball.
 
 The second Side Dish Multiball requires you to collect two complete sets of the side dish inserts to start it.
 
-### Firework Frenzy
+### Firework Frenzy {#heading--fireworks}
 If the player has already locked balls for **[Pitmaster Multiball](#heading--pitmaster)** at either the left or lower right saucer, they can hit these locked balls (called "Bash Locks") to collect fireworks. Firework frenzy starts after collecting 10 fireworks this way.
 
 Instead of using the base jackpot value, jackpots during firework frenzy start at 5M and can be increased at the left ramp or by collecting jackpots at saucers. Once a saucer is made, a countdown begins. If the countdown reaches zero, any locked balls will be ejected. Any fireworks scored by locking balls, or hitting a ball already in a saucer, will reset the timer.
 
 Locking balls in other saucers continues to award jackpots - locking all remaining balls in saucers before the timer runs out adds a ball and awards a super jackpot. 
 
-## Other Scoring
-### Bonus X
+## Other Scoring {#heading--other}
+### Bonus X {#heading--bonusx}
 The center grid indicates the current Bonus X, which has a maximum of 21x (1x + 2x + 3x + 4x + 5x + 6x). Increase the Bonus X via the **[drop targets](#heading--sidedishes)**, **[BOSS awards](#heading--boss)**, and the Double Bonus X **[BBQ PIT](#heading--bbqpit)** award.
 
-### Playfield Multiplier
+### Playfield Multiplier {#heading--playfieldx}
 The right ramp has inserts in front of it that display the playfield multiplier. Hitting it will increment the playfield multiplier by +0.5x for about 30 seconds, such that it becomes 1.5x, 2x, etc. up to a maximum of 4x. Enhance this feature from right ramp **[skill shots](#heading--skillshots)**, **[BBQ pit awards](#heading--bbqpit)**, or **[BOSS awards](#heading--boss)** to make it easier to build or last longer.
 
-### BBQ PIT Targets
+### BBQ PIT Targets {#heading--bbqpit}
 Completing the BBQ stand-up targets on the left and the PIT targets in the middle will grant various awards throughout the game. The stand-up target on the right will change what will be awarded. This is displayed on the right-hand side of the main screen.
 
-### Combos & Combomania
+### Combos & Combomania {#heading--combos}
 Hitting shots in succession will award combos indicated by white arrows. Combomania starts at 15 combos for the game and subsequent Combomanias require more than the last.
 
 Combomania is a 60-second feature where 1-way combos also score. It can be brought into a multiball, but cannot be started while already playing a multiball.
 
-### End of Ball Bonus
+### End of Ball Bonus {#heading--bonus}
 Bonus points at the end of the ball are determined by:
 
 - 250k x Ball in Play
@@ -173,8 +173,8 @@ Bonus points at the end of the ball are determined by:
 
 All multiplied by the **[Bonus X](#heading--bonusx)**.
 
-## Mini-Wizard Modes
-### Meat Coma Multiball
+## Mini-Wizard Modes {#heading--miniwizardmodes}
+### Meat Coma Multiball {#heading--meatcoma}
 Win three **[cook-offs](#heading--cookoffs)** to start the mini-wizard multiball mode, Meat Coma, immediately afterward. 
 
 Six "areas" are lit in red for jackpots: Both ramps, both orbits, and the 2 stand-up banks. Hitting one removes the red from the area. Hitting any target in a bank removes the red lights from the whole bank.

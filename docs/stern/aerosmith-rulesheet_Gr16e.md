@@ -28,7 +28,7 @@ source: https://tiltforums.com/t/aerosmith-rulesheet/2499
   - [Medley Multiball](#heading--medleymb)
   - [Final Tour](#heading--finaltour)
 
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Lead Designer: John Borg
 - Code/Rules: Lonnie Ropp
 - Lead Mechanical Engineer: 
@@ -43,21 +43,22 @@ source: https://tiltforums.com/t/aerosmith-rulesheet/2499
 
 ***Aerosmith*** was the first Stern Pinball release designed with the new LCD feature in mind (though *Batman '66* was the first to be produced). Designed by John Borg, this Lonnie Ropp-coded game is a relatively standard "shooting gallery" affair featuring several songs that determine the shots lit on the playfield, and two multiball modes. Jacky, the jester behind the toybox, constantly throws insults your way as you play.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 - Choose a **song** at the start of the ball. Each song lights different sets of shots - complete the flower on the display by shooting enough shots to win the song and start a unique **super feature**. Left eject selects a song if time runs out or it has been completed.
 - Shoot the toybox then shoot the lock saucer for **Toybox Multiball**. Press the action button to abort multiball and potentially lock up to 6 balls when indicated.
 - Shoot the orbits to light locks at the elevator eject. Collect 3 elevator locks for **Elevator Multiball**. Alternate between lit jackpots at the major shots and the elevator.
 - Complete AEROSMITH to light **shot multipliers** and **mystery**.
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 - Plunge the ball lightly into the lock saucer to score a Hidden Skill Shot, worth 500k points (+500k per skill shot) and +1 **[Smart Missile](#heading--smartmissiles)**. 
 - Hold the left flipper and short plunge so the ball falls to the right flipper. The three shots that can be made from the right flipper will light - shoot the lit shot to score a Super Skill Shot worth 1M points (+1M per skill shot) and +2 **Smart Missiles**.
 
-## Songs:
+## Songs: {#heading--songs}
 A song can be selected at the start of each ball using the flippers. Each song is associated with a 60-second timed mode where certain shots are lit to make progress, shown on the flower on the display. Making any lit shot during a mode lights **Crank it Up** at the left scoop to boost mode scoring and generally make the mode easier to win. Once a song has been selected, if you drain while time is still remaining, you will be locked into that song until you complete it or change it. After the mode either times out or you finish it, shoot the scoop while the record insert is flashing to choose your next mode; this is always available if a song is over during single-ball play.
 
 Each lit shot during songs scores **coins**. These are used to determine the values of the **super features** that light after completing the mode, and reset once the ball drains. Making combo shots nets you more coins, and thus, more points. Super features remain active until the required amount of shots have been completed.
@@ -76,8 +77,8 @@ The song modes are, from top left to bottom right:
 
 Starting three songs during a game lights the **[extra ball](#heading--extraballs)**. Qualifying every song and playing both **[multiball modes](#heading--multiballs)** qualifies **[Medley Multiball](#heading--medleymb)**; while completing them all qualifies **[Final Tour](#heading--finaltour)**.
 
-## Main Multiballs:
-### Toybox Multiball:
+## Main Multiballs: {#heading--multiballs}
+### Toybox Multiball: {#heading--toysmb}
 Shoot the toybox to light lock at the lock saucer; you can light up to 6 locks at a time prior to collecting any of them, and subsequent Toybox Multiballs require one more toybox hit to light each lock. Pressing the action button after at least 3 balls have been locked aborts the multiball - this can be very helpful as 6-ball Toybox Multiball has 2x base jackpot values. If the lock saucer fails to eject the ball into the toybox, it will try to reload it; and if balls were already locked there, the ball will hit Jacky in the face instead!
 
 At the start of Toybox Multiball, the locked balls come pouring out of the toybox and your goal is to make all 8 shots twice. Base jackpot value is 500K + 50k per jackpot, and the 8th jackpot is a super jackpot. After scoring two super jackpots, roving shot is lit for double jackpot, followed by a double super jackpot at the lock saucer to complete the multiball and reset the jackpot sequence.
@@ -86,19 +87,19 @@ Shooting the toybox during Toybox Multiball lights the lock saucer to re-lock up
 
 If **[smart missiles](#heading--smartmissiles)** are active, they will spot lit jackpot shots if a **[song](#heading--songs)** shot is also lit there. **[Mystery](#heading--mystery)** will award add-a-ball the first time it is collected during multiball.
 
-### Elevator Multiball:
+### Elevator Multiball: {#heading--elevatormb}
 Shoot both orbits (and / or the drop target on Prem / LE) to light elevator locks; subsequent Elevator Multiball attempts require multiple shots to both orbits to light each lock. Collecting 3 elevator locks starts Elevator Multiball. During the multiball, all major shots are lit. Shoot one and now only the Elevator scoop will be lit for jackpot (1st floor, 2nd floor, etc.). You must repeat this sequence for all major shots, which will then lite Super Jackpot at the Elevator shot. The super jackpot base value is a percentage of the sum total of all jackpots collected - 100% for a perfect attempt, 75% for 2 attempts, or 50% for 3 or more. Collect the super jackpot to complete the multiball.
 
 There is progress memory saved between Elevator Multiball attempts. **[Mystery](#heading--mystery)** will award add-a-ball the first time it is collected during multiball.
 
-## Other Scoring:
-### Smart Missiles:
+## Other Scoring: {#heading--other}
+### Smart Missiles: {#heading--smartmissiles}
 Smart Missiles can be qualified at the action button by making **[skill shots](#heading--skillshots)** or from random **[mystery](#heading--mystery)** awards. Smart missiles spot lit shots during **[songs](#heading--songs)** and prioritize the shots on the left side of the playfield; they also collect whatever else is lit at the shot that was spotted.
 
-### Shot Multipliers:
+### Shot Multipliers: {#heading--shotx}
 Complete the AEROSMITH targets to qualify the "X" inserts at all major shots. The next major shot you make with a flashing "X" insert scores double for the remainder of the ball, and qualifying *every* "X" insert on a single ball enables a roving "X" insert for 3x.
 
-### AEROSMITH Mystery:
+### AEROSMITH Mystery: {#heading--mystery}
 Complete the AEROSMITH targets to light mystery at the left eject. Awards include:
 
 - Add-A-Ball (during **[multiball](#heading--multiballs)**)
@@ -114,27 +115,27 @@ Complete the AEROSMITH targets to light mystery at the left eject. Awards includ
 - Light **[Extra Ball](#heading--extraballs)** (percentage-based)
 - Light **Special** (percentage-based)
 
-### 2x Playfield Targets (Prem / LE Exclusive):
+### 2x Playfield Targets (Prem / LE Exclusive): {#heading--doublepf}
 Five targets are located behind the upper playfield flipper on Prem / LE models of the game. Complete all five of the targets with backhanded shots, then shoot the loop exit out of the upper playfield to start 2x scoring for 60 seconds. This can also be started as a **[mystery award](#heading--mystery)** on the Pro model.
 
-### VIP Pass:
+### VIP Pass: {#heading--vip}
 VIP Pass ball save is lit at the right outlane by completing the two targets flanking the toybox enough times. If the targets are completed when the ball save is lit, the value of the VIP Pass will increase. 
 
-### Dead Shot Jackys:
+### Dead Shot Jackys: {#heading--deadshot}
 During **[songs](#heading--songs)**, every shot that isn't currently lit to score points adds a Dead Shot Jacky, which can be seen at the left of the display. On default settings, scoring 5 Dead Shot Jackys along with other variable numbers lights **[extra ball](#heading--extraballs)** at the left eject.
 
-### Extra Balls:
+### Extra Balls: {#heading--extraballs}
 Extra balls can be lit at the left eject by:
 
 - Starting 3 **[songs](#heading--songs)**
 - Collecting enough **[Dead Shot Jackys](#heading--deadshot)**
 - Percentage-based **[mystery award](#heading--mystery)**
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 End-of-ball bonus is relatively small, determined by the types of shots that were made on the preceding ball. Bonus X is increased up to 10x by completing the three "DUDE" inlanes, which cycle with the flippers.
 
-## Wizard Modes:
-### Medley Multiball:
+## Wizard Modes: {#heading--wizard}
+### Medley Multiball: {#heading--medleymb}
 Medley Multiball is a mini-wizard mode qualified by scoring at least 1 award in all **[songs](#heading--songs)**. Shooting the left saucer will begin the mode. Before the mode starts, you will be awarded a 10 million point bonus (+10M) for every song you've completed before starting Medley Multiball. For instance, if you've completed 2 songs, then you'll get 10 + 20M for a total of 30M. Completing all songs before starting the mode will score a 200 million "Perfect Bonus" and qualify **[Final Tour](#heading--finaltour)** after the mode ends. 
 
 This is a stage-type add-a-ball MB requiring you to complete certain shots corresponding to each song, but only for the songs that you did _not_ complete during regular mode play.  When you complete a stage, you immediately move onto the next stage (song) and one ball is added to the fun with a short ball saver. The order of the stages are determined by the order of the songs you played. A listing of the tasks required for each song is below. Note that if a song is "completed" during Medley Multiball, it will be considered "completed" for good. Even after you drain down to single-ball play, there's a generous grace period to complete the shots needed to get to the next stage.
@@ -150,5 +151,5 @@ This is a stage-type add-a-ball MB requiring you to complete certain shots corre
 
 Completing all nine songs during Medley Multiball will qualify the left scoop to score the Medley Multiball Super Jackpot, determined by ?????.  Collecting the Super Jackpot will end the mode, drain all balls in play, and return you to single ball play (with **Final Tour** ready.) 
 
-### Final Tour:
+### Final Tour: {#heading--finaltour}
 Final Tour is a giant frenzy qualified by completing all 9 **[songs](#heading--songs)**, whether it be during **[Medley Multiball](#heading--medleymb)** or normal play. The goal of Final Tour is to advance through 24 Cities by completing sets of 8 shots. The first eight shots are worth 10 million, the second eight shots are worth 20 million, and the third eight shots are worth 30 million. Completing all 24 shots will qualify the left scoop for the Final Tour Super Jackpot of 100 million, which will end the mode when it's collected and return you to single ball play to do it all again. Note that *all* shots in this mode ARE multiplied by all applicable multipliers, so this mode can be huge if you play it out well.

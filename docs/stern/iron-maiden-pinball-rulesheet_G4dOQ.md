@@ -37,7 +37,7 @@ source: https://tiltforums.com/t/iron-maiden-pinball-rulesheet/3787
   - [End of Ball Bonus](#heading--bonus)
   - [Strategies](#heading--strategies)
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: Keith Elwin
 - Code/Rules: Rick Naegele and Keith Elwin
 - Lead Mechanical Engineer: Harrison Drake
@@ -50,27 +50,28 @@ source: https://tiltforums.com/t/iron-maiden-pinball-rulesheet/3787
 
 Iron Maiden: Legacy of the Beast is Keith Elwin’s first ever design for Stern Pinball. Using graphics and cutscenes from the video game of the same name, Iron Maiden puts the player in the role of Eddie, battling against other Eddies, collecting their cards, and finding treasure along the way. This table may have a unique layout, but the rules are accessible for everyone from novices to more advanced pinball players.
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2018/10/IM-Premium-Playfield-01a-854x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2018/10/IM-Pro-Playfield-01a-852x1536.webp)
 
-## Modes of Play:
+## Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:** See below for full rulesheet.
 - **Competition:** Same as *Standard* but with elements of randomness removed.
 - **DJ Mixer**: NOT a gameplay mode. This mode operates like a Jukebox, allowing you to play the music featured in the machine, including a number of specific playlists.
 
-## Song Choice:
+## Song Choice: {#heading--songchoice}
 At the start of each ball, you can select your soundtrack of choice. This is cosmetic only, it doesn't affect gameplay. On subsequent balls, the chosen song will continue from when you drained, unless you cycle through other songs before you plunge a ball.
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 * Soft plunge into the skill shot target to score a **skill shot** for 1M, +1 **[EDDIE letter](#heading--eddiebattles)**, and +5 seconds of ball saver time.
 * Hold the left flipper and plunge to the inner orbit. The ball will roll back down to the upper flipper. Shoot the Super Jackpot target to score a **Super Skill Shot** worth 5M, a lit **[Playfield X](#heading--pfx)**, and +10 seconds of ball saver time.
 * There are also at least three Secret Skill Shots..
 
-## Eddie Battles:
+## Eddie Battles: {#heading--eddiebattles}
 Qualify one of the five Eddie Battle mode by shooting white arrows to spell EDDIE. Once EDDIE is completely spelled out, the "Battle" insert lights at the Pharaoh center ramp shot -- shoot it to start the flashing mode.  You are spotted two EDDIE letters toward your first mode. As you complete modes, subsequent modes become harder to qualify by reducing the number of white arrows available to spell EDDIE and not spotting any free letters. It will eventually cap out at 2 random lit shots that change when they're hit.
 
 If EDDIE is *not yet* fully spelled, then shooting the left spinner will change the flashing mode. Once EDDIE is completed, the flashing mode is locked in and cannot be changed. You cannot replay a previously played mode until after you play all five modes plus 2 Minutes to Midnight. You also may not make progress toward your next mode while your current mode is being played. Single-ball modes can be stacked with either **[Trooper](#heading--troopermb)** or **[Mummy](#heading--mummymb)** Multiball, provided that the mode was started prior to the start of the multiball. 2-ball Eddie Battles are mutually exclusive and cannot be stacked with any other multiball.
@@ -83,7 +84,7 @@ Winning any Eddie Battle lights the bullseye target to score a **[Soul Shard](#h
 * **Hallowed Be Thy Name**: Complete the lit shots, in order, as quickly as possible. Four orange arrow shots are lit at the start - both ramps and both orbits. Shooting any orange arrow unlights it for the remainder of the mode. The sequence is as follows: orange arrow (3M), captive ball (5M), orange arrow (3M), all three drop targets (10M), orange arrow (3M), bullseye target for 10M + 1M per time remaining + lights the **Soul Shard**.
 * **Flight of Icarus**: Shoot alternating lit ramps for 2M (+150K increment for each ramp shot, lit or unlit). Combo ramps on a 5 second timer for incremental multiplied scoring (ex: 1st combo at 2x, 2nd at 3x, etc). The multiplied value is factored in after the 150K increment is added, and shooting the same ramp within the 5-second combo timer will reset that timer. Once you've earned the 20M points required to qualify the **Soul Shard**, you can shoot the bullseye target to end the mode early and light the Soul Shard, or you can "risk it" and play it out like normal.
 
-### Soul Shards:
+### Soul Shards: {#heading--soulshards}
 Completing any **[Eddie battle mode](#heading--eddiebattles)** will light the bullseye target for 10 seconds to collect a Soul Shard, worth a hurry-up starting at 20% of the points earned during the battle x2 or x3 depending on the position of the bullseye target hit. Shoot the bulls-eye target within 10 seconds (regardless of starting hurry-up value) to collect the Soul Shard. If you drain or if the Hurry-Up expires, then you do not get credit for the Soul Shard.
  
 In addition to the hurry-up points, Soul Shards:
@@ -96,14 +97,14 @@ After playing **2 Minutes to Midnight**, the next **[level 3 Mystery award](#hea
 
 *Note:* If you collect the final shot of a mode during the mode's grace period (whether an expiring timer or draining out of multiball), even if you collect the points award for the final shot, you will **not** start the Soul Shard hurry-up sequence.
 
-### 2 Minutes to Midnight:
+### 2 Minutes to Midnight: {#heading--2mtm}
 The 6th **[Eddie battle mode](#heading--eddiebattles)** is **2 Minutes to Midnight**. This single-ball, timed mode starts with a generous initial ball-save time. There is a timer counting *up* to midnight. The timer starts at "2 minutes to midnight" but counts up at double speed, making the mode timer effectively 60 seconds. If the timer reaches midnight, the mode ends. Shooting any "X" standup target adds 5 seconds to the timer, one time only; therefore **[Playfield X](#heading--pfx)** can only be activated if one was qualified prior to starting the mode.
 
 At the start of the mode, 5 major shots are lit (corresponding to each of the modes) for 1M + 15% of the total points earned from the respective mode & its corresponding **[Soul Shard](#heading--soulshards)**. Collect all lit shots once to light super jackpot at the Super Jackpot target worth the value of all shots, which only resets at the end of the mode. Each lit shot extinguishes after being collected and only relight once all shots have been made. Collecting all lit shots adds +1x to the Super Jackpot multiplier if it is already lit. The multiplier is reset after the super jackpot is scored.
 
 Starting 2MTM immediately awards the **[Soldier Eddie card](#heading--eddiecards)** at level 1, while scoring a 2x Super Jackpot through the process described above awards the card at level 2. After 2 Minutes to Midnight, the Eddie Battle modes reset and can be played again, but the difficulty of spotting EDDIE letters the 2nd+ time around does *not* reset.
 
-## Power Features:
+## Power Features: {#heading--powerfeatures}
 Make shots around the playfield many times to enable Power Features. The features are:
 
 * Power Spinners
@@ -116,7 +117,7 @@ The remaining hits to *activate* a power feature are displayed on the left side 
 
 Complete all five Power Features to light the bullseye target for **[Cyborg Multiball](#heading--cyborgmb)**.
 
-### Power Jackpot:
+### Power Jackpot: {#heading--powerjackpot}
 Once any of the five **[Power Features](#heading--powerfeatures)** are completed, the Power Jackpot is available to cash in at the Orb target and that Feature's yellow triangle insert begins pulsing. There are many ways to increase or even multiply the value of the Power Jackpot:
 
 - Completing any **Power Feature** - +3M
@@ -129,12 +130,12 @@ Once any of the five **[Power Features](#heading--powerfeatures)** are completed
 
 Like all other scoring in Iron Maiden, the Power Jackpot can be *further* multiplied by activating **[Playfield X](#heading--pfx)** before collecting it.
 
-### Cyborg Multiball:
+### Cyborg Multiball: {#heading--cyborgmb}
 Complete all **[Power Features](#heading--powerfeatures)** to qualify Cyborg Multiball at the bullseye target / center ramp. During Cyborg Multiball, light all of the Power Feature inserts by hitting their corresponding features each at least once to light the Super Jackpot at the Orb, determined by the shots collected prior and starting at 4M (only resetting at the end of the multiball). Collecting a Super Jackpot increases the multiplier for subsequent Super Jackpots by +1x, and the first two Super Jackpots during the multiball add-a-ball. The multiplier resets to 1x at the end of the multiball. As the X targets play a role in lighting the super jackpot, **[Playfield X](#heading--pfx)** can only be activated during the multiball by bringing one into it.
 
 Starting Cyborg Multiball lights the **[Cyborg Eddie card](#heading--eddiecards)** at level 1, and scoring a 5x Super Jackpot nets you the card at level 2. After completing Cyborg Multiball, the Power Features reset and increase in value and difficulty.
 
-## Trooper Multiball:
+## Trooper Multiball: {#heading--troopermb}
 Complete the **[drop targets](#heading--droptargetawards)** when "Light Lock" is flashing (two drop target completions the first time) to light all 3 locks at the orbits. Hit the green arrow orbit shot(s) to virtually lock a ball. For the first multiball, both the left orbit and the right loop are lit to lock a ball. For subsequent multiballs, each Lite Lock award only lights one ball lock, and only one shot is lit for a lock. Lock 3 balls to start Trooper Multiball.
 
 Trooper is a 3-ball multiball (4-ball multiball if **[Mummy Multiball](#heading--mummymb)** was lit, and the third lock was collected after grazing the captive ball on the way in). At the start, all shots are lit in blue for 1x jackpot and will unlight when collected. Collecting 3 Jackpots lights the first Super Jackpot at the corresponding target. Scoring the Super Jackpot relights collected jackpots with +1x scoring, while uncollected shots remain lit at their previous scoring level. Jackpot shot color progression denoting which shots are multiplied at different levels is reverse rainbow: BGYOR (blue, green, etc). Collecting all the lit jackpots will also reset all jackpots to the next multiplier level, but will not automatically score the Super Jackpot.
@@ -143,7 +144,7 @@ Completing the drop targets during Trooper Multiball will light the bullseye tar
 
 Collecting a Super Jackpot during Trooper Multiball will award the **[Trooper Eddie card](#heading--eddiecards)** at level 1, while the card can be awarded at level 2 Eddie card by either advancing all Jackpots to 3x (yellow) or scoring a single 5x (red) Jackpot. All shots' Jackpot levels carry over between Trooper multiballs.
 
-## Mummy Multiball:
+## Mummy Multiball: {#heading--mummymb}
 Shoot the Sarcophagus captive ball twice (5 times for subsequent multiballs) to light the Mummy Lock (center ramp on Pro, left ramp on Prem / LE). After locking the ball, spell MUMMY at the captive ball with five more shots to qualify Mummy Multiball, which starts on the next captive ball hit. Third and subsequent Mummy Multiballs require two hits per MUMMY letter.
 
 During Mummy Multiball, qualify jackpots at the captive ball by scoring 10 switch hits + 10 per jackpot. Jackpot qualifications cannot be stacked, and each jackpot spots a MUMMY letter (and lights the left ramp for double switch hits + another jackpot at the captive ball - 2x if the switch hit threshold was reached - on Prem / LE). Spell MUMMY to light Super Jackpot at the bullseye target, multiplied depending on the target hit position. For subsequent jackpot rounds, values are doubled, but only shooting the captive ball when the corresponding MUMMY letter is lit will score a jackpot. MUMMY letter progress toward Mummy SJP is recalled between subsequent Mummy multiballs, but not your switch hit progress within a letter.
@@ -156,7 +157,7 @@ Add-a-Balls are available by completing all yellow shots at a given level, and t
 
 Score the first Super Jackpot during Mummy Multiball to collect the **[Mummy Eddie card](#heading--eddiecards)** at level 1, and score a second Super Jackpot (doesn't have to be during the same multiball) to collect the card at level 2.
 
-## Eddie Cards:
+## Eddie Cards: {#heading--eddiecards}
 Collect the 4 Eddie Cards to qualify **[Number of the Beast](#heading--notb)**. Level 1 Eddie Cards add +5M to **[Power Jackpot](#heading--powerjackpot)** and vanish at the end of a failed **Number of the Beast** attempt, while Level 2 Eddie Cards are tougher to obtain but are retained across **Number of the Beast** attempts, add +15M to **Power Jackpot** value each, and light a **[Tomb Treasure](#heading--tombtreasures)** if all four have been collected at level 2. 
 
 **Eddie Card requirements are:**
@@ -168,7 +169,7 @@ Collect the 4 Eddie Cards to qualify **[Number of the Beast](#heading--notb)**. 
 |Trooper Eddie|**[Trooper MB](#heading--troopermb)** Super Jackpot|**Trooper MB** All Jackpots at 3x *or* 5x Jackpot|
 |Soldier Eddie|Start **[2 Minutes to Midnight](#heading--2mtm)**|**2 Minutes to Midnight** 2x Super Jackpot|
 
-### Number of the Beast (Wizard Mode):
+### Number of the Beast (Wizard Mode): {#heading--notb}
 Collect all 4 **[Eddie Cards](#heading--eddiecards)** at either level 1 or 2 to qualify **Number of the Beast** wizard mode. 
 
 This is an untimed single-ball mode with a 30-second initial ball save. Three shots are lit with red arrows - shoot any one of them to light the bullseye target shot to enable counter-attacks, though this target has to be made within 5 seconds and the shots relight when time runs out. After a lit bullseye target hit, all shots are lit yellow for 10 seconds to score counter-attacks against the Beast. You cannot shoot the same shot consecutively, and 15 counter-attack shots are required to defeat the Beast. You can re-qualify and repeat the counter-attack phase as needed.
@@ -177,7 +178,7 @@ If you lose your ball, you lose your battle against the Beast and have to *re-qu
 
 Defeating the Beast disables the flippers, drains your ball, and awards 100M plus the values of any **[Soul Shards](#heading--soulshards)** that were collected earlier. Normal gameplay resumes on your current ball in play, also with a fresh ball saver. Once the Beast has been defeated, it cannot be challenged again until **[Run to the Hills](#heading--rtth)** has been played.
 
-## Tomb Treasures:
+## Tomb Treasures: {#heading--tombtreasures}
 Completing various objectives throughout the game lights the Tomb (Pro: right loop, Prem / LE: left ramp) to collect a Tomb Treasure. There are 10 different awards to collect, given in the following order:
 1) 15M
 2) Super Slings (slingshots worth 250k + 1K increment for rest of ball)
@@ -200,18 +201,18 @@ There are exactly 11 different objectives, including the five **[Soul Shards](#h
 6) Win **[Number of the Beast](#heading--notb)**
 7) Collect all 4 **[level 2 Eddie cards](#heading--eddiecards)**
 
-### Can I Play With Madness:
+### Can I Play With Madness: {#heading--caniplaywithmadness}
 This multiball mode is started as the third **[Tomb Treasure](#heading--tombtreasures)** on Prem / LE models of Iron Maiden, along with models that have Insider Connected enabled. It can be disabled as a settings adjustment.
 
 Can I Play With Madness starts as a 2-ball multiball with one lit red shot that the player can move to the right of the playfield with the right flipper, or to the left of the playfield with the left flipper. Once the lit shot is made, a ball is added and 2 moving red shots are lit. Shoot the red shots to turn them green, but avoid shooting them again as they will revert back to red. Shooting the orb locks in lit shots for 10 seconds, and turning all red shots green adds another ball into play. Rinse and repeat until multiball ends. (*On Prem / LE, shooting the scoop under the center ramp when lit green will temporarily hold the ball.*)
 
-### Run To The Hills (Super Wizard Mode):
+### Run To The Hills (Super Wizard Mode): {#heading--rtth}
 Collecting the 10th **[Tomb Treasure](#heading--tombtreasures)** begins the elusive 6-ball multiball wizard mode, **Run to the Hills**. This multiball starts with a generous ball save and seems to be a hybrid of both **[Cyborg](#heading--cyborgmb)** and **[Trooper Multiball](#heading--troopermb)**'s rules: all shots are persistently lit for a jackpot, collecting one of each Power feature in order from top-left to bottom-right lights the Super Jackpot at the center ramp, and collecting the Super Jackpot adds +1x to all Jackpots. Spell MUMMY at captive ball to add balls into play.
 
 After starting **Run to the Hills**, **Tomb Treasure** progress resets, all **[Soul Shards](#heading--soulshards)** are cleared, and all **[Eddie cards](#heading--eddiecards)** reset.
 
-## Other Features:
-### Drop Target Awards:
+## Other Features: {#heading--otherfeatures}
+### Drop Target Awards: {#heading--droptargetawards}
 Complete the drop targets to collect the flashing award seen to the left of the targets, given in the following order (starting at Light Orb at the start of a new game, or Adv. Bonus X on competition settings):
 - Adv. Bonus X (maxes out at 50x)
 - Light **[Orb](#heading--orbaward)**
@@ -219,7 +220,7 @@ Complete the drop targets to collect the flashing award seen to the left of the 
 
 Sweep all three drop targets in a single shot to collect 2x the drop target value (increased by hitting the Orb) and two awards at once. Note that awards can be skipped under certain circumstances; Adv. Bonus X is disabled after reaching 50x bonus, Light Orb is disabled after getting the mystery award to level 3 (collect the award to re-enable it), and Light Locks is disabled if the third lock is currently lit.
 
-### Loop Jackpot:
+### Loop Jackpot: {#heading--loopjackpot}
 Shoot either upper loop to increase the value of, and eventually light, the Loop Jackpot. Loop awards are displayed by the big loop inserts, and are additive when more than one insert is flashing. Each loop scores the lit value, adding it to the Loop Jackpot and increasing it by 250K, up to a max base value of 2.5M. The lit loop value decreases over time back to 250K. Shooting the big loop without holding the upper left flipper scores and adds 2x the current loop value, while one shot to the mini-loop scores and adds 3x the current loop value, and lights the 2x Loop insert for about 6 seconds; once the timer expires or the loop value decays back to 250K, 2x Loop is disabled.
 
 Loop Jackpot is enabled after 5 (+2) shots to any loops, indicated by the bright red insert; and if the qualifying shot was via the big loop, the up-post will divert the ball to the mini flipper. Every loop jackpot is worth the total value that was built up with loop shots prior to lighting the jackpot, and can be collected for 12 seconds with +1x multiplier per shot - after reaching 4x, the ball will be diverted to the upper left flipper, and the third and subsequent Loop Jackpots can only be multiplied by not raising the upper left flipper. The loop value resets after each Loop Jackpot collected. Loop Jackpot is disabled if the ball drains, even if it has just been qualified, and the timer for subsequent Loop Jackpot shots pauses for nothing.

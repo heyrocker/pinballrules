@@ -47,7 +47,7 @@ source: https://tiltforums.com/t/stern-jurassic-park-rulesheet/5644
   - [When Dinosaurs Ruled the Earth (Ultimate Wizard Mode)](#heading--wdrte)
 - [Competition Install Notes](#heading--competitioninstall)
 
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Lead Designer: Keith Elwin
 - Code/Rules: Rick Naegele, Keith Elwin
 - Lead Mechanical Engineer: Harrison Drake
@@ -60,12 +60,13 @@ source: https://tiltforums.com/t/stern-jurassic-park-rulesheet/5644
 
 Jurassic Park is the second Stern Pinball machine designed by Keith Elwin. Directly after the events of the film, Nedry’s computer virus has continued to plunge the park into chaos - meaning the dinosaurs are loose and the employees are in danger. The player has to rescue as many staff as they can and capture the dinosaurs, all while trying to survive the horrors of the abandoned park and eventually staging an escape.
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2019/07/JurassicPark-Premium-Playfield-912x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2019/07/JurassicPark-Pro-Playfield-912x1536.webp)
 
-## Modes of Play:
+## Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:** See below for full rulesheet.
@@ -76,7 +77,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 - **Team Play:** Splits players into teams that share all game progress.
 - **DJ Mixer:** NOT a gameplay mode. This mode operates like a Jukebox, allowing you to play the music featured in the machine, including a number of specific playlists.
 
-## Basics:
+## Basics: {#heading--summary}
 - Nedry has taken full control of Jurassic Park following the evacuation of John Hammond and the park's first visitors. The player must evacuate all remaining staff and capture the escaped dinosaurs.
 - Shoot lit white arrows to spell MAP, then the left ramp to enter a Paddock. In any Paddock, shoot the flashing red "rescue" shots until the yellow "trap" targets light. Hit as many as required, then capture the dinosaur by hitting the yellow / green flashing shot. Each dinosaur has unique perks shown on the display.
 - Completing certain tasks lights the left target for Control Room. Three modes are available and can be chosen using the flippers and action button.
@@ -87,7 +88,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 - If "Smart Missile" is lit at the left return lane from enough "rescue" shots, use the action button to select which award you want, then shoot the target between the bumpers.
 - Hit the three purple standups, then the large standup near the side ramp for helpful supply drops and 2x scoring. Make upper loop shots to light the large standup for even better awards.
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 The skill shot on *Jurassic Park* is a combo sequence: following a full plunge, the left ramp must first be shot, then the right ramp, then the side ramp, then the right orbit. The base value of the skill shot is 2M; each shot in the sequence awards 2x (Super Skill Shot), 4x (Double Super), and 6x (Ultra Super) the base value, and adds 3 additional seconds of ball save time (and lights **[escape](#heading--outlanes)** at the left outlane if all four shots were completed). Making any skill shot increases the base value by 1M for the next ball's skill shot. 
 
 While lit for Skill Shots, the shots involved in the sequence will *not* start modes qualified on the prior ball. However, they *will* collect **[CHAOS letters](#heading--chaosmb)** and **[Rescues](#heading--rescues)** if they are currently lit, and the **[Extra Ball](#heading--ebs)** at the right ramp can be collected.
@@ -100,7 +101,7 @@ While lit for Skill Shots, the shots involved in the sequence will *not* start m
 
 **MXV Skill Shot**: Completing the normal Double Super Skill Shot sequence with a shot to the upper loop immediately before the side ramp will score the MXV Skill Shot. The side ramp will switch from scoring 4X the initial shot to instead score as a Super Skill Shot of 8X the initial shot. This sequence also awards a 2-way combo worth at least 2M.
 
-## Paddock Modes (Dinosaurs):
+## Paddock Modes (Dinosaurs): {#heading--paddocks}
 The Paddocks make up the majority of Isla Nublar and are home to many different dinosaur species - until they broke loose and began to target the staff. To light "Advance Paddock", shoot the white arrows to spell MAP. The first Paddock requires only one white arrow shot to light "Advance Paddock", while further Paddocks require three. Shoot the left ramp when lit to advance to the next Paddock, or shoot the truck to change between the left or right paths shown above the flippers.
 
 After shooting the left ramp, the ball will be held at the left inlane and information about the paddock will be shown on screen before the ball is released. Your goal in each Paddock is threefold:
@@ -114,7 +115,7 @@ After capturing your first dinosaur, **[Control Room](#heading--controlroom)** i
 
 After leaving either Level 4 Paddock, spelling MAP again will light the left ramp for **[Visitor's Center](#heading--miniwizardmodesvisitorcenter)**.
 
-### Rescues:
+### Rescues: {#heading--rescues}
 Before the trap can be set, at least 1 rescue will have to be made to qualify it. The first Paddock only requires 1 rescue; harder paddocks may require up to 4. The moving green arrow represents the position of the dinosaur, while the lit red Rescue shots represent staff in the park who are in danger of being injured. 
 
 The dino (green arrow) will move towards the closest lit Rescue shot; the speed that the dinosaur moves at is determined by its "aggression" trait. If the dino moves to a shot that is lit for Rescue before you collect it, the green arrow will start blinking faster and faster before the park staff is injured and Rescue is unlit at that shot. Shooting the dino shot - even if Rescue isn't lit at that shot - temporarily slows the dino by pausing its pursuit for a few seconds. They can also be slowed down by using the action button when lit for **[Super Tranquilizer](#heading--towerawards)**.
@@ -133,14 +134,14 @@ The total number of Rescues across your game also count up to qualify additional
 
 After the dinosaur has been **[captured](#heading--capture)**, the player can continue collecting Rescues and advancing towards Perfect Paddock during normal play.
 
-### Capturing the Dinosaurs:
+### Capturing the Dinosaurs: {#heading--capture}
 After collecting the minimum number of **[rescues](#heading--rescues)** required for the current Paddock, the Set Trap targets on both sides of the truck will light. Easier paddocks will only require you to hit one of those two targets; harder paddocks will eventually require hitting *both* targets, or even having to hit both targets *in order*. Harder paddocks also require the player to shoot the Helipad before being able to capture the dinosaur, with only a short timer to capture the dinosaur before you have to refuel the helicopter by shooting the Helipad again. Once either the Set Trap targets have been completed or the Helipad has been shot, shooting the flashing green / yellow shot will capture the dinosaur.
 
 (*Note: if all of the staff in a Paddock have been either rescued or injured, the dinosaur will begin to move back to the shot where it started from and eventually escape, and none of its Bounty, Perks, or other capture benefits will be awarded. Avoid these by balancing out the priority of Rescue shots, making sure that there are enough staff remaining to distract the dinosaur while trying to capture it.*)
 
 (*Note: If there are no staff members left in a paddock, but you still require rescues to set the trap, the trap targets will light anyway. Giving you a small window to capture the dinosaur and gain its perk*)
 
-#### Paddock List:
+#### Paddock List: {#heading--paddocklist}
 A list of every Paddock's dinosaur, as well as their characteristics, can be viewed below. These are included only for completion's sake. The Levels listed below represent the "outside pairs" of Paddocks. The .5 levels are the Super Predators (the Paddocks up the middle of the map), which can be skipped through intentional truck positioning.
 
 *Dinosaur Characteristics*: Each dinosaur has different characteristics that impact gameplay:
@@ -260,7 +261,7 @@ A list of every Paddock's dinosaur, as well as their characteristics, can be vie
 |Perk Awarded|2x **[Chaos Jackpots](#heading--chaosmb)**|2x **[Raptor Jackpots](#heading--raptormb)**|
 |Bonus X|N/A|N/A|
 
-## T-Rex Events:
+## T-Rex Events: {#heading--trexevents}
 Shoot the truck to complete "T-REX" and light the left ramp to start a T-Rex Event mode. The first two T-Rex Events award letters for any truck hit; later events require a full turn of the truck. 
 
 On default settings, *Feed T-Rex* is always played as the first mode of the game, and the other three modes cycle with shots to the truck in the following looping order: Chase -> Encounter -> Rampage -> Chase. On Prem/LE, a lit L ramp will literally feed the animatronic T-Rex, while the Pro will hold the ball via the left inlane up-post during each mode's introductory sequence. (*On Competition Install settings, the first available mode will not necessarily be *Feed T-Rex*, and the *Feed T-Rex* mode will not start immediately on spelling completion at the captive ball.*) 
@@ -274,7 +275,7 @@ Completing any single-ball T-Rex Event awards a **[Fossil](#heading--fossils)** 
 * **T-Rex Encounter**: Shoot the truck for 2M; then, alternate between orange arrows (4M, then 8M, then 11M) to free the trapped worker and the left ramp to distract the T-Rex (5M). The difficulty of the shots determine the value: the Helipad and center spinner score 1x, the right ramp scores 2x, and the right orbit scores 3x. Free three trapped workers to finish the mode and collect a **[Fossil](#heading--fossils)**.
 * **T-Rex Rampage**: Shoot the left or right ramp to lower the T-Rex, then shoot the left ramp to collect 10M (+5M per left ramp shot). Shooting the Raptor Tower or Helipad prior to the left ramp will multiply the award by 3x or 2x, respectively, and the two multipliers can be stacked for a 6x multiplier. You can repeat this sequence an unlimited amount of times until the mode timer expires, and completing the sequence three times collects a **[Fossil](#heading--fossils)** when either the timer expires or you drain.
 
-## Control Room Modes:
+## Control Room Modes: {#heading--controlroom}
 Control room modes are lit by: 
  - **[Capturing your first dinosaur](#heading--capture)**
  - **[Spelling CHAOS twice](#heading--chaosmb)**
@@ -293,17 +294,17 @@ Helipad (7M) -> Left Ramp (6M) / Spinner (8M) / Control Room (15M) / Raptor Pit 
 Spinner (9M) -> Supply Drop (15M) / Loop (20M) / Raptor Tower (25M)
 Complete all three sets of combos to light the final shot at the control room. The final shot value is the sum of all of the 2nd shots of each combo + the time bonus (1M x seconds remaining) & awards a **[Fossil](#heading--fossils)**. 
 
-### Invalid Frenzy:
+### Invalid Frenzy: {#heading--controlroominvalid}
 This hidden mode is awarded if all three **[Control Room modes](#heading--controlroom)** have been played and the player lights & starts it using whatever method they haven't used yet, *or* if they select "??INVALID??" off of the **[Smart Missile](#heading--smartmissile)**.
 
 This is a four-ball multiball where the jackpot is qualified at the control room shot by hitting a certain number of switches. Once collected, the control room will immediately relight for a triple jackpot. After collecting the triple jackpot the process of lighting the jackpot resets, and it will have to be re-lit again via more switch hits than before. “Major" switches will build the jackpot value faster than "minor" switches and the jackpot value becomes locked once it is lit. 
 
 Hitting any switch in the raptor pen will build towards an add-a-ball, with additional hits required for each subsequent add-a-ball.
 
-## Multiballs:
+## Multiballs: {#heading--multiballs}
 (Note - ***Add-A-Balls*** can be collected during any Multiball by qualifying the Supply Drop target, then shooting it. Chaos Multiball is the exception to this rule, described below.)
 
-### Chaos Multiball:
+### Chaos Multiball: {#heading--chaosmb}
 Five shots are marked with letters in the word CHAOS. Each letter must be collected in sequential order to light the pops target for Chaos Multiball. On subsequent attempts, two completions of CHAOS will be required to light Chaos Multiball; other awards, such as points or lighting **[Control Room](#heading--controlroom)**, will be substituted for the first spelling of CHAOS. You can also collect letters in CHAOS off of **[Supply Drop](#heading--supplydrop)**, or complete CHAOS in one shot off of a successful **[Smart Missile](#heading--smartmissile)** award.
 
 **Phase 1**
@@ -315,7 +316,7 @@ Scoring at least one of these letters will award you with a **[Fossil](#heading-
 
 Hitting the pop bumpers enough times (10 for the first add-a-ball) will immediately launch another ball into play with a short ball saver. Each add-a-ball requires 10 more pops than the last. While **supply drops** won’t award add-a-balls during this mode, it is possible to claim one during the grace period after Chaos Multiball ends.
 
-### Raptor Tri-Ball:
+### Raptor Tri-Ball: {#heading--raptormb}
 Complete the Raptor Pen standup targets two times (+1 per subsequent attempt) to light Raptor Capture at the center target. A shot to the dead end lane will instantly count as a completion of all of the targets. After a raptor has been captured, additional shots to the enclosure will weaken the fence; once the integrity is at 0%, one last shot to the dead-end lane will start Raptor Tri-Ball. The first Raptor Tri-Ball starts with the fence at 50% integrity, and the fence integrity decreases more on shots to the dead end lane. The lightning bolt inserts will flash when Raptor Tri-Ball is ready to start. You can also start Raptor Tri-Ball for free off of a successful **[Smart Missile](#heading--smartmissile)** award. 
 
 Raptor Tri-Ball is a four-phase multiball, with rules that pay homage to the Tri-Ball from Data East's original *Jurassic Park* pinball machine. 
@@ -340,13 +341,13 @@ All CHAOS shots are lit red for Raptor Rampage victory lap jackpots. Each shot u
 **All phases**
 Hitting all three targets in the Raptor Pen and then making the dead-end lane will double all Jackpots collected for 15 seconds. Hitting the now-captive ball on the Prem / LE will reset the 15 second timer; on the Pro model, the same basic rule applies to get 2x scoring, but the ball cannot be locked. 
 
-### King of the Island Multiball:
+### King of the Island Multiball: {#heading--kotimb}
 Navigate to the Spinosaurus **[Paddock](#heading--paddocks)** and capture the Spinosaurus to qualify King of the Island Multiball at the left ramp. This multiball must be played before moving on to the next Paddock, and takes priority over all other features.
 
 This is a 3-ball switch-based Multiball where certain thresholds of switches qualifies light all major shots. Shoot one lit shot to collect a 1x jackpot. Then repeat the switch collection phase, followed by all major shots (except ones already collected) lit again for +1x to the jackpot value (2x, 3x, etc, up to 5x), but after locking in that shot jackpot, you then have to re-shoot your prior collected jackpot shots to requalify the switch phase. The multiplier keeps increasing for each subsequent jackpot. Each Jackpot has a different color corresponding to its multiplier, in the order of the rainbow (starting at red). 
 
-## Other Modes & Features:
-### Smart Missile:
+## Other Modes & Features: {#heading--other}
+### Smart Missile: {#heading--smartmissile}
 Collecting enough **[rescues](#heading--rescues)** lights the left inlane for "Smart Missile". The next time the ball rolls through the lit left inlane, the inlane up-post (ala Cactus Canyon) will hold the ball and call for a shot to the pops standup target. Once the Smart Missile is activated, you will have 3 seconds to choose what you want the Smart Missile to award, using the action button to cycle through the awards; the award chosen when the timer expires will be scored with a successful shot to the target, in addition to 10M (+5M) for each successful Smart Missile that has been launched during the current game. Smart Missile alternates with **[Super Spinner](#heading--superspinner)** via truck hits.
 
  There are six possible choices, shown on the display in this order:
@@ -385,12 +386,12 @@ Thus when the whole spinner is lit, you will get 225K/spin. Shoot the spinner to
 
 If the right inlane is lit for "Super Spinner" after collecting enough **[rescues](#heading--rescues)**, rolling through the inlane will cause each spin to be multiplied by the current **[Bonus Multiplier](#heading--bonus)**, +2x if the Spitter was **[captured](#heading--paddocks)**, for a limited time. The lit inlane disappears when the ball drains and alternates with **[Smart Missile](#heading--smartmissile)** with truck hits.
 
-Pteranodon Attack:
+Pteranodon Attack: {#heading--superspinner}
 After four shots to the right ramp, Pteranodon Attack will start. This is a timed frenzy mode where all switches add 25K (+10K each subsequent Pteranodon Attack) to an award collected at the right ramp, which can be rebuilt/re-collected while there's time left in the mode. Each threshold of 12 switches adds a multiplier to your next award that resets when the award is collected, or the ball drains. When the mode times out, the multiplier carries over to the next Pteranodon Attack, but not the award value. (*Note: the timer will not pause in the pops nor during game stoppages such as mode introductions.*) As of 1.10, if you drain while Pteranodon Attack is running, your multiplier *does* reset to 1x.
 
 Completing **[Fossil Set 1](#heading--fossils)** will add +10x to the next Pteranodon Attack value instantly! And collecting a Pteranodon Attack award of 50M+ will award a wildcard **Fossil**.
 
-### Loop Awards:
+### Loop Awards: {#heading--loopawards}
 Loop shots count-up to various awards throughout the course of the game:
 - 3, 13, 23, etc.: Qualifies **[Super Supply Drop](#heading--supersupplydrop)**
 - 8, 18, 38, etc.: Increasing points
@@ -398,7 +399,7 @@ Loop shots count-up to various awards throughout the course of the game:
 
 If the Triceratops has been **[captured](#heading--paddocks)**, then awards are scored every 4 loops instead of 5. This perk affects ALL increments of awards going forward.
 
-### Tower Awards & Super Tranquilizer:
+### Tower Awards & Super Tranquilizer: {#heading--towerawards}
 Side ramp shots also count-up towards various awards throughout the course of the game:
 - 5: 3M 
 - 10: 5M 
@@ -411,12 +412,12 @@ Each award scored off of the side ramp also qualifies the **Super Tranquilizer**
 
 Making an upper loop - side ramp combo awards 3x the side ramp points and counts as two side ramp shots.
 
-### Amber Bonus:
+### Amber Bonus: {#heading--amberbonus}
 The bumpers build your Amber Bonus throughout the entire game. Collect the Amber Bonus at the lit pops standup, which is lit by going through the rollover above the pops. Collecting the Amber Bonus does *not* reset it -- it will relight and continue growing from the prior collected value. **[Capturing dinosaurs](#heading--capture)** adds multipliers to your next Amber Bonus collect with a bonus +1x for **Perfect Paddocks**, which stack until collected. The current Amber Bonus is also collected during **[end-of-ball bonus](#heading--bonus)** -- thus, any built Amber Bonus multiplier is used when your ball ends, and does not carry to the next bal -- and can be repeatedly collected during the first four **[Super Supply Drop](#heading--supersupplydrop)** awards.
 
 Completing **[Fossil Set 3](#heading--fossils)** will add a 10x multiplier to the next Amber Bonus.
 
-### Supply Drop & 2x Scoring
+### Supply Drop & 2x Scoring {#heading--supplydrop}
 Shoot the flashing blue targets to light the Supply Drop target for a mystery award. If **[Super Supply Drop](#heading--supersupplydrop)** is lit, that award takes priority. Collecting either type of Supply Drop lights the "Light 2x Scoring" standup to enable double scoring for 45 seconds.
 
 Possible Supply Drop awards:
@@ -432,7 +433,7 @@ Possible Supply Drop awards:
 - Set Trap
 - Call Helicopter
 
-### Super Supply Drop:
+### Super Supply Drop: {#heading--supersupplydrop}
 Qualified at the Supply Drop target after 3 (+10) **[Loops](#heading--loopawards)** have been collected, or via the **[Smart Missile](#heading--smartmissile)** award. Collected via same target as a normal **[Supply Drop](#heading--supplydrop)**, but flashing instead of solidly lit, and takes precedence over normal Supply Drops. 
 
 (note: Only 1 super supply drop can be qualified at once, so make sure to collect it before reaching the next treshold)
@@ -458,7 +459,7 @@ Qualified at the Supply Drop target after 3 (+10) **[Loops](#heading--loopawards
 
 * **Goat Mania**: For 40 flips, all *Amber Frenzy* features are running and every Amber switch triggered plays a goat sound. If the topper was installed, this can also be started by spelling JURASSIC PARK on the topper with successful **[Paddock](#heading--paddocks)** completions.
 
-### DNA Combos:
+### DNA Combos: {#heading--dna}
 There are 11 unique *DNA Combos* that will award:
 - Points (1M point base value) and boost value of all other combos.
 - 400K points per unique DNA Combo in **[bonus](#heading--bonus)**.
@@ -486,7 +487,7 @@ Combo logic:
 |Spitter|Helipad Ramp|Left Ramp|Right Loop|||
 |Pteranodon|Helipad Ramp|Left Ramp|Right Ramp|||
 
-### 6-Way Combo:
+### 6-Way Combo: {#heading--6way}
 There are 6 unique shots that can be shot in **any** order to award 2/3/4/5/6-way combos:
 - Spinner
 - Upper Loop
@@ -512,14 +513,14 @@ The base value for a 2-way combo starts at 250K (+50K for each **[DNA Combo](#he
 
 Scoring a 6-way combo will also award a **[Fossil](#heading--fossils)**
 
-### Trifecta Award:
+### Trifecta Award: {#heading--trifecta}
 Bonuses are awarded for **[capturing](#heading--paddocks)** dinosaurs and acquiring their respective **[fossils](#heading--fossils)** and **[DNA strands](#heading--dna)**, with additional bonuses for collecting their respective **Perfect Paddock** awards. 
 
-### Outlanes:
+### Outlanes: {#heading--outlanes}
 * **Escape**: The far left *Light Escape* standup is lit via the rollover at the top entrance to the pop bumper area. With default settings, this is initially lit for 20 seconds, and if claimed within that time period, will light the *Escape* virtual ball save in the left outlane. The *Light Escape* 20 second timer decreases by 4 seconds each subsequent time it is lit, down to a minimum of 6 seconds. One of the **[Smart Missile](#heading--smartmissile)** and **[Super Supply Drop](#heading--supersupplydrop)** awards is “Super Escape”, which lights *Escape* for the rest of the ball (specifically, the escape *target* when the ball save is *not* lit).
 * **Nedry**: If lit, a system malfunction will save balls that drain down the right outlane. Light it by hitting the *Lite 2x Scoring* standup enough times (3, 15, or 30) - progression won't resume until it has been used. The right outlane also scores a small bonus that increases upon further shots to the 2x Scoring target.
 
-### Extra Balls:
+### Extra Balls: {#heading--ebs}
 Six Extra Balls can be collected in this game, through the following methods:
 * Lights Extra Ball at the right ramp:
   * Score 6 **[Rescues](#heading--rescues)**
@@ -532,7 +533,7 @@ Six Extra Balls can be collected in this game, through the following methods:
 
 If Extra Balls are set to points, they score 15M (which can be doubled).
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 Bonus is based on your performance cumulatively throughout the game, and not just that ball.
 
 Add up the following:
@@ -577,7 +578,7 @@ Wizard Modes:
 
 Three mini-wizard modes exist - play all three wizard modes to qualify **[Escape Nublar](#heading--escapenublar)**. *Completion* of all of these mini-wizard modes is a requirement for the *[ultimate final wizard mode](#heading--wdrte)*. You only get one attempt at each mini-wizard mode, so make them count!
 
-Visitor’s Center:
+Visitor’s Center: {#heading--fossils}
 Mini-wizard mode for reaching the Visitor Center by **[navigating the Paddocks](#heading--paddocks)**, lit at the left ramp in the same way as the Paddocks by shooting the white arrow shots. 
 
 Before starting this mode, a bonus is immediately awarded based on the quality of performance and difficulty of the path you took to get to the Visitor's Center. The bonus is calculated based on quantities of the following:
@@ -595,14 +596,14 @@ When the shots reach the Raptor Pen, only the back target of the pen will be lit
 
 If you drain down to one ball but haven't yet reached the Raptor locks, the mode does *not* end yet. Once you make the first Raptor lock shot, you must complete the raptor locks while in multiball to win the mode and play Victory Targets.
 
-### Museum Mayhem:
+### Museum Mayhem: {#heading--miniwizardmodesmuseummayhem}
 Play through all four **[T-Rex Events](#heading--trexevents)**, then spell T-Rex at the truck once more to light the left ramp for Museum Mayhem.
 
 The mode starts in single-ball play. The T-Rex must put an end to the raptors who have been terrorizing the park. Two green shots, representing raptors, move across the playfield; one starts at the right orbit, the other starts at the left ramp. These shots move one shot over to the left after about 5 seconds; if the Control Room is lit, it’ll move over to the Helipad after enough time has passed without shooting it. The shots will move even if you've cradled up, so take your time to wait for shots that you're good at hitting. Nailing the first raptor will score 5M and then light the center Raptor Pen target to score 10M. Hitting this target will then light the left ramp to allow the T-Rex to kill the raptor for 20M. (On the Premium / LE, the T-Rex will throw the ball in a random direction during this mode if the left ramp is lit.)
 
 After defeating both raptors this way, the truck will light for 10M. Making the truck will then light the left ramp for 75M and allow you to escape the museum! A 3-ball Multiball will then start, where all shots are lit for victory Jackpots starting at 3 million (+250K) a shot. After draining out of the victory multiball, the Compsognathus **[Fossil](#heading--fossils)** is awarded. 
 
-### Secure Control Room:
+### Secure Control Room: {#heading--miniwizardmodessecurecontrolroom}
 After playing all three **[Control Room modes](#heading--controlroom)**, shoot the control room shot again to begin Secure Control Room. 
 
 In this single-ball mini-wizard mode, raptors are peeking inside the control room, and they want in! The mode begins with one shot lit for a hurry-up. Collecting it will start a new hurry-up on a different shot, with a higher value than the prior one. Repeat until you've collected a hurry-up from all major shots to light the control room lane for the sum total of all hurry-up collects, finishing the mode and awarding the Stegosaurus **[Fossil](#heading--fossils)**.
@@ -620,19 +621,19 @@ The shot order is fixed as follows:
 * Pops target
 * Control room
 
-### Escape Nublar (Wizard Mode):
+### Escape Nublar (Wizard Mode): {#heading--escapenublar}
 After playing all three of the above wizard modes, shoot the left ramp to start Escape Nublar. The goal of Escape Nublar is to navigate back through the Paddocks to the main gate, while rescuing any remaining staff and dinosaurs, before the volcano erupts. This is a single-ball wizard mode where you have three "balls" (trucks) to complete the mode. Tilting counts as an immediate mode loss, and thus, ends your game - however, your supply of tilt warnings is replenished when you lose a truck. Each Paddock consists of two phases. 
 * **Rescue Phase**: This consists of collecting rescues by hitting all the lit rescue shots for 500K x number of **[Rescues](#heading--rescues)** pre-Nublar + 1M x Rescue Streak, doubled by the center Raptor Pen target. Unlike Paddock mode behavior you see in the rest of the game, what you see is what you get: once you shoot all the lit Rescues, that's it. There will not be additional Rescues that continue popping up after shooting the last lit Rescue. Once all lit rescues have been collected, if you have *not* captured that Paddock's dinosaur during normal gameplay, you will need to hit the Set Trap targets to rescue the dinosaur from that paddock. If you had already captured the dino in that Paddock, this part is skipped. Also, there will be more lit rescues you have to collect if you're visiting a Paddock you didn't visit during normal gameplay. Turning the truck during rescue phase shifts all remaining rescue shots one to the left/right.
 * **Navigate Phase**: After collecting all Rescues (and the dinosaur, too, if applicable), this phase requires you to find a safe exit from the paddock. Several red arrows are lit, which may or may not expose a safe opening out of the paddock. If the path is blocked by lava then you must find another path by shooting additional red arrow(s). There is no indication beforehand whether a path will work or not; you just have to shoot one and hope for the best. The further you are into the mode, the more likely it is you will hit a bad path. When a safe path is found, the left ramp will light up to advance to the next paddock. The truck direction dictates which paddock you will navigate to next, and you can change this at any time before shooting the ramp.
 * **Sudden Death**: If your truck runs out of fuel (and time has run out), Sudden Death begins. All remaining lit rescues are lost, as well as the opportunity to capture the dino (if applicable), and you have 15 seconds to leave the paddock before it becomes engulfed and that truck is lost. If you were in the Rescue Phase, you go straight to the start of the Navigate Phase, otherwise you simply continue the Navigate Phase as before. There is no way to add fuel during this phase. If you successfully exit the Paddock in time, your truck is refueled, you proceed to the next Paddock, and your Rescue Streak remains intact.
 * **Helipad Hurry-Up**: Navigating back through the main gate lights the Helipad hurry-up based on number of rescues, dinosaurs captured and number of paddocks cleared. Shoot the Helipad to escape the island. You will also collect a large "island bonus" based on how many paddocks were covered overall, ranging from about 125M to 550M. Win or lose, after this mode is played, your **GAME ENDS** regardless of whether you were on your last ball (unless you've qualified *When Dinosaurs Ruled the Earth*, but then your game ends after *that*.)
 
-### When Dinosaurs Ruled the Earth (Ultimate Wizard Mode):
+### When Dinosaurs Ruled the Earth (Ultimate Wizard Mode): {#heading--wdrte}
 Secret super-wizard "epilogue" mode awarded for successfully completing Visitor's Center, Museum Mayhem, Secure Control Room, and Escape Nublar.
 
 Timed 6-ball 60-second multiball with unlimited ball save. All Amber features are running (scoring 1/2 your Amber value) and all shots are lit for jackpots of roughly 1.5x your **[Amber value](#heading--amberbonus)**, which should be huge by this point in the game. When time runs out, all balls are drained and your **GAME ENDS**.
 
-## Competition Install Notes:
+## Competition Install Notes: {#heading--competitioninstall}
 - Escape is not lit at the beginning of the game.
 - Feed T-Rex is not fixed as the first mode, and won't start with the captive ball hit that awards "X" in T-REX.
 - Amber awards from Super Supply Drops are deterministic (pops first, then...?).

@@ -103,7 +103,7 @@ In this challenge mode, you attempt to get each of the turtles back to the LAIR 
 - **DJ Mixer**
 NOT a gameplay mode. This mode operates like a Jukebox, allowing you to play the music featured in the machine, including a number of specific playlists.
 
-Turtle Select and Levels:
+Turtle Select and Levels: {#heading--gameinfo}
 At the beginning of the game, you select one of the 4 turtles. Each turtle has their own set of perks awarded by leveling up through the **[Training](#heading--training)** mode, and a certain shot that lights for their **[skill shot](#heading--skillshots)** award. The turtles' levels are reset at the end of the game unless the player has an Insider Connected account, in which case they will be saved between games. You start at level 1 and therefore receive that perk at the start of the game. 
 
 Turtle | Corresponding Shot | Level 1 | Level 2 | Level 3 | Level 4 
@@ -115,11 +115,11 @@ Turtle | Corresponding Shot | Level 1 | Level 2 | Level 3 | Level 4
 
 *Note:* Not sure where else to put this but I figure it’s worth noting, Raphael’s 3x PF and 3x Episodes are multiplicative and will boost your episode scoring (shots and completion bonus) by 9x (10.7x when you also consider the +30% Training Boost)!
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 - (Pro only) Plunging into the flashing top lane (always the one on the right) increases the **[bonus multiplier](#heading--bonus)** by +1x. Hold the left flipper if you want the ball to pass through the orbit and go right to the upper flipper.
 - When you plunge the ball, a 15 second timer will activate to shoot the lit shot that corresponds to your selected **[turtle](#heading--turtleselect)**. If you went for the above skill shot, the timer doesn't begin until after the ball exits the pops. Making the skill shot scores + 250k per skill shot and lights the Weapon insert on the right or left inlane for **[Weapon Hurry-Up](#heading--whu)**. The skill shot only disappears when the timer runs out.
 
-## Episodes:
+## Episodes: {#heading--episodes}
 Shredder has devised a cross-dimensional device that could spell doom for the Turtles. The turtles' adventures take them everywhere from the streets of New York to the decrepit world of Dimension X, all the while taking on and defeating villains.
 
 There are eight **Episodes** that can be started during the game, each corresponding to a different villain; most can be played in any order though some can only be played after an earlier episode has been played, whether won or lost. 
@@ -136,7 +136,7 @@ Episodes are typically timed, starting with 30 seconds and adding time by shooti
 
 When you start an episode you are awarded **Episode Start Points**. For episodes 1 through 6 this value starts at 275k and increases by 25k for every episode you've played; for episodes 7 and 8 this value seems to be boosted by 100k (375k).  
 
-#### 
+####  {#heading--tsvp}
 **Episode Scoring:**
 While each episode has its own unique rules, lit shots, and scoring quirks; there is a **Typical Shot Value Progression (TSVP™)** that starts at 100k, and increases by 10k, then by 10.5k, 11k, 11.5k, etc. Some episodes include exceptions to the TSVP™ as noted below. In addition, there is an **Episode Completion Shot Increase** of +25k for each episode completed, so 25k is added to a shot's base value before applying any multiplier. This appears to also apply to other episode shots that do not follow the TSVP™, though there is at least one exception.
 
@@ -243,7 +243,7 @@ During Turtle Power Multiball, shoot the green shots for jackpots, starting at 1
 
 Shoot all 4 Turtle Shots to light "Turtle Power" flashing for an Add-A-Ball at the Right Ramp, and re-light all of the Turtle Shots -- these also count as jackpots. There is no limit on the number of Add-A-Balls, but obviously there is a limit on the number of balls that can be in play.
 
-### Ninja Pizza Multiball:
+### Ninja Pizza Multiball: {#heading--npmb}
 Shoot the Ninja Pizza Parlor three times during single-ball play to lock balls and start Ninja Pizza Multiball. At the start of multiball, a list of perks is seen based on the *toppings* the player collected while locking balls (read more below), and the three balls are released from the pizza parlor onto the spinning disc to start multiball.
 
 Shoot lit shots to defeat Foot Soliders, each shot defeats a different number of Foot Soldiers:
@@ -272,7 +272,7 @@ Defeat 6 Foot Soldiers to light Mondo Jackpot at the Krang Loop - repeated shots
 |**Chili Peppers**|Super Starts Lit |Jackpoto Grande is lit at the start of multiball||
 |**Mushrooms** (Prem/LE only)|Timed Lock |Lair Lane will hold a ball and start a timed 2x scoring multiplier||
 
-### Mondo Jackpots and Jackpoto Grande Values:
+### Mondo Jackpots and Jackpoto Grande Values: {#heading--mondo_y_grande}
 In both of the main multiballs, Mondo Jackpots and Jackpoto Grande/Super Jackpot are available. Mondo Jackpot is lit (white) at the Upper Loop by shooting enough shots (4 green shots for TPMB and defeating 6 Foot Soldiers for NPMB) and Jackpoto Grande/Super Jackpot is lit at the under-flipper shot by collecting a Mondo Jackpot. Collecting a Mondo Jackpot will also light a Double Mondo Jackpot (blue), collecting a Double Mondo Jackpot will light a Triple Mondo Jackpot (red). Both Double and Triple Mondo Jackpots are on a timer and will time out if not hit.
 
 **Mondo Jackpot Values:**
@@ -283,8 +283,8 @@ In both of the main multiballs, Mondo Jackpots and Jackpoto Grande/Super Jackpot
 - NPMB = 3M + 500K per Mondo since last Super
 - TPMB = 500K (+125K), multiplied by the number of Supers collected (max of 3x)... *though the bug still applies to Supers as well, so first Super is currently 1M (500K x2)*
 
-## Other Features and Scoring:
-### Pict-O-Pops:
+## Other Features and Scoring: {#heading--other}
+### Pict-O-Pops: {#heading--bumpers}
 Each hit to an individual pop bumper will change which Pict-O-Pops award that pop bumper has lit, the awards' pictures are broken into 3 tiles, each corresponding to each pop bumper. When 2 of these tiles match, the award will be locked in and all 3 pop bumpers will continue to cycle through the remaining tile until it matches the 2 locked in tiles and give that award. Then it will repeat the process.
 
 Possible awards include:
@@ -306,19 +306,19 @@ Possible awards include:
 - Bonus Held
 - Special
 
-### Weapon Hurry-Ups:
+### Weapon Hurry-Ups: {#heading--whu}
 After successfully making a **[skill shot](#heading--skillshots)**, one of the inlanes will have its "Weapon" insert lit. Roll over the lit Weapon inlane, which toggles with the flippers, to start a hurry-up with a base value of 500k at one of the orbits. Shoot the lit orbit to collect the hurry-up and light the center ramp for another hurry-up worth the base value + the first shot collect value. The value of the hurry-up bottoms out at 50k before timing out entirely. The base value of the hurry-up can be increased by 125k from the [**Pict-o-Pops**](#heading--bumpers), this applies to the base value of the first and second shots.
 
 In **Co-op mode**, the total number of Weapon Hurry-Up shots increases for each Weapon Hurry-Up qualified by previous teammates on the same number ball, they don't need to be started or completed. So if Player 1 qualifies WHU on Ball 1, Player 2 could potential qualify WHU, start it, complete it, and then complete it again. If the first 3 players qualified WHU on the same number ball, Player 4 could potentially qualify it themselves, start it, and then collect it 4 times for some decent points! The points for the Co-op Weapon Hurry-Up build the same as during standard play, each subsequent shot is worth the base value of 500k + the previous shot's collect value. So, in theory, it is possible to collect 500k > 1M > 1.5M > 2M > 2.5M > 3M > 3.5M > 4M for a total of 18M points.
 
-### 1-2-3 Foot:
+### 1-2-3 Foot: {#heading--foot123}
 At the start of each ball, the inner left inlane is lit to start 1-2-3 Foot. As soon as the ball rolls through this inlane during single-ball play, 1-2-3 Foot will start. Follow the lit 1-2-3 inserts to complete the combo; either right ramp - center ramp - left ramp, or right ramp - upper loop - center ramp will complete the sequence. The player has 15 seconds to make each shot, though 1-2-3 Foot shots that have already been made will also add time. So if time is running low, hitting the right ramp to keep it going is a good option.
 
 The "Foot Value" starts at 50k, increasing by 1k for every spinner spin, the current value can be seen in the top left area of the display. The first shot of the combo is worth 1x the Foot Value, the second shot is worth 2x, and the 3rd shot is worth 3x, for a total of a 6x Foot Value for completing 1-2-3 Foot. Completing it will also prevent 1-2-3 Foot from being lit at the start of any remaining balls. Each shot also adds to the “Foot Defeated” counter in **[bonus](#heading--bonus)**.
 
 *Note:* 1-2-3 Foot can also be re-lit as a Pict-O-Pops award. (Can it re-light this way if you've completed it?)
 
-### Training:
+### Training: {#heading--training}
 Every odd-numbered LAIR target completion lights the Lair Lane for **Training**, if Training is already lit, the 2x Target will be lit to start 2x playfield scoring instead. These difficult, timed modes are tough but quite rewarding as they increase all scoring by +10% for the rest of the game once won (up to +30% scoring), qualify **[Neutrino Pizza Party](#heading--neutrino)**, and are the only way to level up your selected **[Ninja Turtle](#heading--turtleselect)**. If the LAIR Target isn't lit (L-A-I-R inserts cycling), it must be re-enabled by starting an **[episode](#heading--episodes)**.
 
 Training Modes are timed, starting with 15 seconds and the LAIR Target will add 10 seconds to the timer to a max of 20 seconds (*this max might be higher*), other targets make a sound like they are subtracting time but only flash the red G.I. and stress you out. Each Training Mode has a set of shots that must be made in order:
@@ -328,31 +328,31 @@ Training Modes are timed, starting with 15 seconds and the LAIR Target will add 
 
 *Note:* If your Left Ramp is lit to qualify "Start Episode" prior to starting the Training Mode, shooting the Left Ramp to complete your the mode will qualify it for "Start Episode" as well.
 
-### Neutrino Pizza Party:
+### Neutrino Pizza Party: {#heading--neutrino}
 After completing a **[Training Mode](#heading--training)**, during normal play, completing the two Dimension X Targets before they time out will light the Left Ramp to start **Neutrino Pizza Party**. Progress towards completing the targets can still be made in other modes even if they aren't seen flashing. (*Will it still award progress? Or is it just able to time out?*)  You can only play Neutrino Pizza Party once per game. 
 
 Neutrino Pizza Party is a single-ball mode, and starts with a set 30-second timer. During the mode, 1 shot is lit blue for 350K (left orbit, then left ramp, right ramp, right orbit, repeat) and the rest of the shots are lit red. Shooting the red shots will unlight that shot and build the value of all future blue shots by 200K (+100K) up to a cap of 5M. Shooting the blue shot will collect its value and reset the mode timer to nearly 30 seconds (seems like one less second for each reset). The blue shot value never resets. When time runs out or the player drains, the mode ends.
 
-### 2x Playfield:
+### 2x Playfield: {#heading--2x}
 Every even-numbered LAIR Target completion lights the center target to start 30 seconds of 2x playfield scoring. Shoot the center target while 2x playfield is running to add 5 seconds to the timer. (2x playfield can be increased to 3x playfield from **[Raphael's level 3 perk](#heading--turtleselect)**.) If the LAIR Target isn't enabled, it must be re-enabled by starting an **[episode](#heading--episodes)**.
 
-### Pizza Eating Contest:
+### Pizza Eating Contest: {#heading--pizza}
 Pizza slices can be scored in several ways throughout the game - 5 are spotted at the start of the game if you're playing as **[Michelangelo](#heading--turtleselect)**, and shots to the Pizza Targets either during normal play or during **[Ninja Pizza Multiball](#heading--npmb)** will add slices. After collecting 7 pizza slices, the lights will dim and the Pizza Targets will start strobing - shoot either target at this time to begin the Pizza Eating Contest. Time to mash that action button, as you have 6 seconds to collect up to 40 more pizza slices - 1 slice per action button press. The faster you collect them, the higher the value scored will be, usually around 2 to 3 million points!
 
 Pizza slices also count up towards several other awards, points after certain thresholds and a lit **[extra ball](#heading--extraballs)** after around 60 or so pizza slices.
 
-### Krang Kombo:
+### Krang Kombo: {#heading--krangkombo}
 Repeatedly make shots to the upper loop to increase the Krang Kombo value, then shoot the center ramp to cash the value out. The Kombo value maxes out at 500k (with three upper loop shots before timing out), and collecting a Max Krang Kombo is required to qualify the **[Cowabunga Wizard Mode](#heading--cowabunga)**. 
 
-### Glider (Prem / LE Exclusive):
+### Glider (Prem / LE Exclusive): {#heading--glider}
 On the Prem/LE, by using the player-controlled diverter, you can shoot the Left Ramp repeatedly to "Build Glider Value," after a certain number of shots (3? or what is max?) you will max out the Glider Value. Shooting the Right Ramp when "Collect Glider Value" is lit will collect it at its current value.
 
 *Note: More Information needed: values, when lit, etc.*
 
-### Battle Again:
+### Battle Again: {#heading--battleagain}
 Every odd-numbered APRIL target completion lights one of the outlanes for "Battle Again" ball save. If "Battle Again" is already lit when a completion would normally award it, it will instead start an **[April Hurry-Up](#heading--april)**. The lit outlane will alternate with slingshot hits (Game Adjustment #18 can instead allow the lit outlane to alternate with the flipper buttons). If the APRIL Target isn't enabled, it must be re-enabled by starting an **[episode](#heading--episodes)**.
 
-### April Hurry-Up:
+### April Hurry-Up: {#heading--april}
 Every even-numbered APRIL Target completion lights the Right Ramp for **April Hurry-Up**. Shoot the APRIL Target when the hurry-up is running to increase the value by an additional 62% the first time and add time (shooting the APRIL Target will continue to add time by adding to the value but won't increase past the boosted 162% value), and shoot the Right Ramp to cash it out. If the APRIL Target isn't enabled, it must be re-enabled by starting an **[episode](#heading--episodes)**.
 
 April Hurry-Up starts at 100k; this value can be increased by 75k from the "Increase April Hurry-Up" **[Pict-O-Pops](#heading--bumpers)** award, and will be increased by the following amounts if the hurry-up is started during the following features:
@@ -363,14 +363,14 @@ April Hurry-Up starts at 100k; this value can be increased by 75k from the "Incr
 - **[Final Battle](#heading--finalbattle)** - +2.5M
 - **[Cowabunga](#heading--cowabunga)** - +5M
 
-### Extra Balls:
+### Extra Balls: {#heading--extraballs}
 Extra balls can be lit at the pizza parlor from:
 
 - Starting two **[Episodes](#heading--episodes)**
 - Collecting enough **[pizza slices](#heading--pizza)**
 - Percentage-based **[Pict-O-Pops](#heading--bumpers)** award
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 Bonus is determined through:
 - Base bonus (switch hits, etc.)
 - Foot defeated (either through **[1-2-3 Foot](#heading--foot123)** or during **[Ninja Pizza Multiball](#heading--npmb)**) * 10k points
@@ -379,8 +379,8 @@ Bonus is determined through:
 
 All multiplied by the bonus multiplier, which increases by +1x through top lane completions and as a **[Pict-O-Pops](#heading--bumpers)** award
 
-## Wizard Modes:
-## Team-Up Multiball:
+## Wizard Modes: {#heading--wizard}
+## Team-Up Multiball: {#heading--tumb}
 After playing any 4 **[episodes](#heading--episodes)**, Team-Up Multiball will be lit at the Left Ramp. Depending on the **[turtle](#heading--turtleselect)** the player selected, the player will have to make different Turtle Shots to rescue them from the Bad Guys' clutches. Each turtle also teams up with a different ally.
 
 Each completed episode provides the following perks for the multiball:
@@ -418,7 +418,7 @@ Raphael can do a similar thing in Pizza Party (Victory Laps) with "6x scoring" (
 
 *Note:* This is significantly easier to do with the saved Turtle Levels enabled by Insider Connected.
 
-## Final Battle:
+## Final Battle: {#heading--finalbattle}
 Final Battle is qualified at the pizza parlor after playing all 8 **[episodes](#heading--episodes)**. At the start of the mode, points are awarded for each completed episode. 250k are awarded for any failed episode, and an increasing amount of points are scored for each completed episode as follows: 500k - 1.25M - 2M - 2.75M - 3.5M - 4.25M - 5M - 5.75M. So, if you complete all 8 episodes, you will be awarded 25M points total for starting Final Battle. These points can be multiplied by **[2x playfield](#heading--2x)** or by Raphael's boosted 3x playfield perk.
 
 This episode works in phases:
@@ -431,7 +431,7 @@ This episode works in phases:
 
 During any multiball phase, completing the LAIR Target will light the Lair Lane for an add-a-ball. The mode ends when the player drains all balls or makes the final Left Ramp shot.
 
-## Cowabunga Multiball:
+## Cowabunga Multiball: {#heading--cowabunga}
 To qualify Cowabunga Multiball:
 - Collect a **[Max Krang Kombo](#heading--krangkombo)**
 - Collect Jackpoto Grande (during either **[main multiball](#heading--multiballs)**)

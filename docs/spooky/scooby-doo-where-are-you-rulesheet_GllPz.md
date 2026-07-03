@@ -30,7 +30,7 @@ source: https://tiltforums.com/t/scooby-doo-where-are-you-rulesheet/8008
   - [Would've Gotten Away With It...](#heading--meddlingkids)
   - [Scooby Doo, Where Are You?](#heading--final)
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: Spooky Luke & Corwin "Bug" Emery
 - Code/Rules: Spooky DJ & Luke Peters
 - Lead Mechanical Engineer: Duane Foust
@@ -43,12 +43,13 @@ source: https://tiltforums.com/t/scooby-doo-where-are-you-rulesheet/8008
 
 ***Scooby Doo, Where Are You?*** is based on the 1969 Hanna-Barbera cartoon series that defined TV animation for generations. Load up the Mystery Machine as you try to solve mysteries and capture their culprits with the help of "those meddling kids".
 
-## Rules Overview:
-## Layout:
+## Rules Overview: {#heading--overview}
+## Layout: {#heading--layout}
+
 | All Models: | 
 | --- |
 
-## Character Select Perks:
+## Character Select Perks: {#heading--characters}
 At the start of the game, players can choose their member of Mystery Inc. Several perks are still in the works, but each character has strengths that affect certain game features.
 
 - **Daphne**: +5 seconds to all ball save timers
@@ -57,7 +58,7 @@ At the start of the game, players can choose their member of Mystery Inc. Severa
 - **Shaggy**: Awarded 2x trap door ball saves when SD standing targets completed
 - **Velma**: Requires 2 fewer clues to qualify a case
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 The skill shot is indicated by a flashing red light on the playfield. Use the flipper buttons to change the available inserts. The skillshot can be placed on the left drop targets, the character orbits, or the standup targets.
 
 * Left Drop Target Bank: Spawns additional Scooby Snacks
@@ -66,7 +67,7 @@ The skill shot is indicated by a flashing red light on the playfield. Use the fl
 
 **Secret Skill Shot** happens when your select the Left Drops as the skill shot and when you hit the lowermost drop target for 100k points
 
-## Cases:
+## Cases: {#heading--mysteries}
 Shoot the flashing fingerprint shots to qualify a case at the Mystery Machine. The first case is qualified after two clues, with subsequent cases requiring additional fingerprint shots. Cases are randomized with the left spinner, but it can be locked in by pressing the launch button.
 
 Within each case the player must collect the number of clue shots, as indicated by the magnifying glass located on the bottom left of the display. Each case also has a timer themed as a "Bravery Meter". This meter also acts as a multiplier for all shots during the mode, so keeping your characters bravery high throughout the case will maximize scoring. Bravery can be restored by collecting **[Scooby Snacks](#heading--snacks)**. 
@@ -94,7 +95,7 @@ From left to right, the rules for each mystery mode are:
 
 Complete all seven mysteries to light the center ramp for **[Would've Gotten Away With It...](#heading--meddlingkids)**
 
-## Character Modes:
+## Character Modes: {#heading--characters}
 Shoot the character orbits to qualify a unique mode for each member of Mystery Inc. Once qualified the modes can be started with a shot to the Left VUK. If multiple characters have been qualified the last character shot collected will be the next mode started.
 
 - **"Run Daphne Run":** Run away from the monster by shooting purple shots. Each successful shot will advance Daphne closer to the exit. Watch out though, as you advance through the mode, more shots will be blocked by the monster. Shooting a green shots will instead move the monster closer. If playing as Daphne, holding the Action Button will pause the monster.
@@ -115,51 +116,51 @@ Play all five character modes to light the center ramp for **[The Gang's All Her
 
 (*Currently not implemented.*)
 
-## Multiball Modes:
-### Mystery Machine Multiball:
+## Multiball Modes: {#heading--multiballs}
+### Mystery Machine Multiball: {#heading--mysterymachine}
 Light the Mystery Machine for lock by shooting the two spinners enough times - one is at the left ramp, the other is at the entrance to the Mystery Machine. Once three balls have been locked, Mystery Machine Multiball will begin.
 
 All four of the character orbits are lit, and making any of them three times each will light a jackpot that can be collected at their shot for the remainder of the mode. If the inserts on each character orbit are synced up (ie. the same number of jackpots has been scored at all four shots), super jackpot will be lit at the Mystery Machine - up to 3x super jackpot if all three inserts are lit at the four shots. The super jackpot deactivates if the inserts fall out of sync, but shots can be locked in by shooting the Mystery Machine to prevent this. If all three super jackpots have been scored, character orbits are lit for jackpot for the remainder of the multiball.
 
-### Captain Cutler Multiball:
+### Captain Cutler Multiball: {#heading--cutler}
 Make each of the four Captain Cutler footprint shots on the upper playfield twice, then bash the diving helmet between them to start Captain Cutler Multiball.
 
 Shots to Captain Cutler light jackpots that can be collected at randomly lit shots, and time out after about 10 seconds. The jackpot value increases with each shot.
 
-### Scooby Snack Multiball:
+### Scooby Snack Multiball: {#heading--snacks--MB}
 To enable the apron lock, complete all 4 SD targets (targets next to major shots on the lower playfield).  Once apron lock is active, either lock a ball on the left apron lock via VUK behind the scooby snacks drop targets (Velma ramp) or on the right apron lock via upper playfield shot to the Scooby-Doo ramp.  Shoot again all 4 SD targets and lock the 2nd ball on the opposite apron lock.
 
 Scooby Snack Multiball is currently the only mode that is stackable over other modes (including Mystery Machine MB).
 
 (more to come on SSMB rules)
 
-## Other Features:
-### Scooby Snacks:
+## Other Features: {#heading--other}
+### Scooby Snacks: {#heading--snacks}
 Shoot the two banks of drop targets on the left side of the playfield to light major shots for snacks, and shoot the shots where they're lit to collect them. Snacks increase the **[Bravery Meter](#heading--mysteries)** during mysteries. 
 
-### Ruh-Roh Ballsave:
+### Ruh-Roh Ballsave: {#heading--ruhroh}
 Light both left outlanes to save your current ball.
 
-### Extra Balls:
-### End-of-Ball Bonus:
-### Trap Door Ball Save:
+### Extra Balls: {#heading--extraball}
+### End-of-Ball Bonus: {#heading--bonus}
+### Trap Door Ball Save: {#heading--trapdoor}
 The trap door is a drop target between the flippers that pops up to save the ball from draining SDTM. There are two ways to engage the drop target:
 
 * Engage the trap door (up) by hitting the clue stand-ups on either side of the center ramp.   
 * Hit each of the lit dog tag targets by the left ramp and Mystery Machine
 
-### Green Ghouls Hurry-Up:
+### Green Ghouls Hurry-Up: {#heading--greenghouls}
 There is an on-screen clock. Slings will advance the hands of this clock. When the clock strikes midnight the Green Ghouls will get light at the inlanes.  Rolling over a lit inlane will spawn a Green Ghoul that roams the playfield!  Shoot the ghouls for points.  When two Green Ghouls are spawned, hit them as they crossover with a single shot to win a jackpot.  If you let the Green Ghoul across the playfield without hitting it, you will lose progress towards any **[Character Modes](#heading--characters)** not yet qualified.
 
-### Combo System:
+### Combo System: {#heading--combos}
 Combos are scoring opportunities that happen when you sequence shots back-to-back quickly building a potential score. In Scooby Doo, the combo shots are lit blue arrow shots at the character orbits. Hitting any blue arrow again within about 5 seconds builds the combo. Each combo shot is worth the value of the previous shot plus an additional 10,000 points, with no limit. When the combo times out, its value resets. Use the Info Screen to see progress towards the various permutations of combos.
 
-## Wizard Modes:
-### The Gang's All Here:
+## Wizard Modes: {#heading--wizard}
+### The Gang's All Here: {#heading--gang}
 Play all five **[character modes](#heading--characters)** to light the center ramp for this wizard mode.
 
-### Would've Gotten Away With It...
+### Would've Gotten Away With It... {#heading--meddlingkids}
 Complete all seven **[mysteries](#heading--mysteries)** to light the center ramp for this wizard mode.
 
-### Scooby Doo, Where Are You?
+### Scooby Doo, Where Are You? {#heading--final}
 Complete both **[The Gang's All Here](#heading--gang)** and **[Would've Gotten Away With It...](#heading--meddlingkids)** to light the center ramp for the final wizard mode.

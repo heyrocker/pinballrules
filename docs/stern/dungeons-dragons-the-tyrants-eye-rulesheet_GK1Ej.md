@@ -52,7 +52,7 @@ source: https://tiltforums.com/t/dungeons-dragons-the-tyrants-eye-rulesheet/9267
   - [Rescue the King (Wizard Mode - Barbarian Unlock)](#heading--wizardrescue)
   - [The Undermountain (Wizard Mode - Ranger Unlock)](#heading--wizardundermountain)
 
-# Game Information & Overview:
+# Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: Brian Eddy
 - Code/Rules: Dwight Sullivan, Corey Stup, Elizabeth Gieske, David Sullivan
 - Lead Mechanical Engineer: Thomas Malcolm
@@ -66,7 +66,7 @@ source: https://tiltforums.com/t/dungeons-dragons-the-tyrants-eye-rulesheet/9267
 
 ***Dungeons & Dragons: The Tyrant's Eye*** is the fourth Brian Eddy-designed pinball machine following his return to Stern in 2019. Tiamat, a once-banished five-headed dragon, plans to spread darkness across Faerun. Players choose their class and embark on a journey to stop the threat. This machine features the PinSave feature, allowing players to resume playing from where they left off last game if they are using Insider Connected.
 
-# Layout:
+# Layout: {#heading--layout}
 ## Pro
 ![DungeonProTopPlayfield-adfkjehfa3-scaled|257x500, 100%](upload://wthIwrbOa9zAjrpaoYAb9dF0Hj2.jpeg)
 
@@ -78,7 +78,7 @@ Playfield features exclusive to the Premium/LE models include:
 * Rath sculpt will eject pinballs during **[Dragon Multiball](#heading--dragon)**.
 * A pop-up scoop will raise out of the playfield to capture a ball and start **[Dungeon Crawl](#heading--dungeons)** mode, and as a featured shot in other modes.
 
-# Modes of Play:
+# Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:** Standard play starts a new campaign.  Players logged into Insider Connected can resume a saved campaign for a character, or use the saved character in a "one-shot" new campaign by holding the action button on the character select screen.  One-shot campaign progress is not saved. See sections below for full game rules/details.
@@ -88,7 +88,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 - **Reset Progress:** Clears saved campaign progress, item upgrades, and sets level 1 for all characters for the scanned Insider Connected account. Also removes access to Bard / Ranger / Barbarian. This is recommended after game code updates for balancing changes, although this is not required and characters are currently backwards compatible.
 - **Prolonged Competition Install:** Competition mode default game mode till next reboot.
 
-# Character Selection / Leveling Up:
+# Character Selection / Leveling Up: {#heading--class}
 Select a character at the start of the game by using the right flipper button to cycle through the available options.  Each character is assigned a fixed class.
 
 Characters will level up automatically as they gain experience points (XP).  This is typically through completing battles, finding treasure, and completing modes/quests.  The other three members of the player's party are level-matched to the player's character.  Equipped items are "copied" to the other party members, although they only impact the Armor Class (AC) or ToHit rolls of the rest of the party.
@@ -118,14 +118,14 @@ The stats are described in the status report as follows:
 - **Wisdom**: Increases time for all timers.
 - **Charisma**: Increases luck.
 
-## Insider Connected Save Features:
+## Insider Connected Save Features: {#heading--insiderconnected}
 If the player signs in using Insider Connected, campaign progress with the selected character is automatically saved.  Each character's stats, items, and campaign progress are saved separately.  Character level/items/stats are not "shared" between separate campaigns. The **[legendary equipment](#heading--legendary)** earned through later levels of **[dungeon crawl](#heading--dungeons)** also disappears once the game ends regardless of whether the player is signed in.
 
 Logged in players can choose to start a new campaign with a character that does not have a saved campaign, resume a character's saved campaign progress, or hold the action button to do a "one shot" and start a new campaign with the saved character from the beginning without saving progress.
 
 For the cooperative game mode, each player's party members are level and item matched to their selected/loaded character just as if they were playing solo.
 
-# Skill Shots:
+# Skill Shots: {#heading--skillshots}
 - Short plunge and hit the upper loop.
 - Short plunge and hit the switch near the gelatinous cube, either directly by shooting the shortcut loop or with a well-aimed plunge.
 - **Super skill shot**: hit the left eject, then side ramp, then right ramp.
@@ -313,7 +313,7 @@ The meter starts at 100% stealth and decreases each time the ball hits a sling. 
 
 If the stealth meter reaches 0%, a battle starts which pauses the main objectives until the battle is completed.  Battles are only triggered once per stealth mode, so successfully completing the battle will allow unhindered main objective completion.
 
-Dungeon Crawls:
+Dungeon Crawls: {#heading--map}
 Light dungeon crawl by hitting the Dungeon standup targets near the right orbit and side ramp, or spot targets by hitting the center spinner. Once lit, start the dungeon crawl mode based on the table model:
 
 * Pro - Hit the spinner again within 15 seconds.
@@ -336,8 +336,8 @@ If the player drains during dungeon crawl, their progress will be saved. The pla
 
 On competition mode, the player can only start one dungeon crawl per ball in play.
 
-# Multiballs:
-## Dragon Multiball / Town Celebration Multiball:
+# Multiballs: {#heading--multiballs}
+## Dragon Multiball / Town Celebration Multiball: {#heading--dragon}
 Hit the 3-bank standup targets under Rath to spell DRAGON to light this multiball at the right orbit and side ramp (the latter shot is only lit when no other modes are running). The first time it is started in a game, letters will be spotted for every 2 3-bank targets completed. Afterwards, all three must be hit to spot a letter. The current Dragon Multiball level per party member is saved via Insider Connected, and maxes out at level 10.
 
 Dragon Multiball is a 6 (Pro) / 8 (Prem / LE) ball multiball mode with an unlimited ball save. One **[shield](#heading--shield)** use is added as soon as the multiball starts. The player must hit Rath the listed number of times before enough balls drain. Playing as the **[Dragonborn](#heading--class)**, Ardor, reduces the amount of shots it takes to defeat the dragon. Every dragon defeated will increase the player's **level** by 1.
@@ -352,7 +352,7 @@ If the player defeats Rath, the game immediately begins Town Celebration Multiba
 
 Draining down to one ball ends the Town Celebration Multiball.  After completing Town Celebration Multiball, the next purchase from **[Fizmo](#heading--fizmo)** will be 50% off its normal price for that town.
 
-## Gelatinous Cube Multiball:
+## Gelatinous Cube Multiball: {#heading--cube}
 Shoot the left orbit to lower the ramp at its entrance, then shoot the left ramp. This must be repeated 1-4 times, with the same ball, before it will be held at the gelatinous cube magnet.
 The amount of shots required can be set by the operator and defaults to medium:
 
@@ -523,15 +523,15 @@ End-of-Ball Bonuses:
 * 10k per **[gems](#heading--gems)**
 * 10k points per **[belongings](#headed--belongings)** collected, 100k per set
 
-Wizard Modes:
-## Tiny's Dice Game (Mini-Wizard Mode):
+Wizard Modes: {#heading--other}
+## Tiny's Dice Game (Mini-Wizard Mode): {#heading--tinys}
 Qualified by buying from **[Fizmo](#heading--fizmo)** in a town shop, or by starting three **[modes](#heading--quests)** (either numbered modes or town dungeons). Once lit, shooting the center spinner starts the timed mode.
 
 Hitting the center spinner collects the spinner value (25k per spin). All other shots are lit to add a small amount of time and increase the number on the dice, and are cleared when hit or when the die reaches 20. The maximum value of a spin (excluding bumps that were awarded from **[Fizmo](#heading--fizmo)** is 500k (25k x 20).
 
 *Prem/LE Only* - The dungeon entrance will pop up and down during the mode.  Hitting the entrance will increase the spinner value. 
 
-## Tavern Brawl (Mini-Wizard Mode):
+## Tavern Brawl (Mini-Wizard Mode): {#heading--tavern}
 Tavern Brawl is a two ball multiball mode qualified after completing all of the following: 
 
 - Starting **[dragon multiball](#heading--dragon)**
@@ -548,7 +548,7 @@ Hit the bank of three gold standup targets to spell DRAGON.  Completing DRAGON w
 
 *Prem/LE Only* - DRAGON isn't required to light the super jackpot, just the add-a-ball. Instead, after hitting any dragon shot, the dungeon shot will raise for a short time. Hitting the dungeon shot lights the super jackpot.
 
-## Ritual of the Chosen (Bard Unlock):
+## Ritual of the Chosen (Bard Unlock): {#heading--wizardritualchosen}
 Ritual of the Chosen is a wizard mode located in **[Dragonspear Castle](#heading--dragonspear)** that is available after clearing the Town Dungeon mode, **The Lich of Dragonspear Castle**. After finishing the Town Dungeon, the side ramp, center shot, and right ramp are lit blue to start this mode.
 
 The mode is a repeating set of tasks across 5 dragon battles.  Each level/battle starts with a 15 second timer and unlimited ball saver, where drains subtract 8 seconds from the timer.  Shooting green lit shots will "lock" pinballs for the next mode and extends the timer.  Starting with level 2, green shots will also heal your party.
@@ -565,7 +565,7 @@ The table will drain all of the balls in play before starting the next level tim
 
 Completing this mode resets the campaign map and unlocks the Bard as a selectable **[character](#heading--class)** in future game starts.
 
-## Rescue the King (Barbarian Unlock):
+## Rescue the King (Barbarian Unlock): {#heading--wizardrescue}
 Rescue the King is a wizard mode located in **[Gauntlgrym](#heading--gauntlgrym)** that is available after clearing the Town Dungeon mode, **The Battle of Gauntlgrym**. After finishing the Town Dungeon, the side ramp, center shot, and right ramp are lit blue to start this mode.
 
 This mode is a 7-phase fight that incorporates elements of all of the prior **[map modes](#heading--map)**. 
@@ -580,7 +580,7 @@ This mode is a 7-phase fight that incorporates elements of all of the prior **[m
 
 Completing this mode resets the campaign map and unlocks the Barbarian as a selectable **[character](#heading--class)** in future game starts.
 
-## The Undermountain (Ranger Unlock):
+## The Undermountain (Ranger Unlock): {#heading--wizardundermountain}
 The Undermountain is a wizard mode that can only be accessed by going certain paths in the **[The Lich of Dragonspear Castle](#heading--dragonspear)** or **[The Battle of Gauntlgrym](#heading--gauntlgrym)** town dungeons:
 
 - During the former: select "Stay and fight Sammaster" then defeat him.

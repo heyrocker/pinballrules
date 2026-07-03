@@ -8,13 +8,13 @@ source: https://tiltforums.com/t/sorcerers-apprentice-rulesheet/7191
 
 # Sorcerer's Apprentice
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Multimorphic
 - Release Date: September 2021
 - Original Wiki Rulesheet hosted on [Tilt Forums](/multimorphic/sorcerers-apprentice-rulesheet_G8llL)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 Sorcerer's Apprentice is a complete game of the Multimorphic P3 Cosmic Cart Racing playfield module. The primary goal is to master the art of magic and eventually defeat the Sorcerer.
 
 The game takes place in 4 different locations: The Workshop, the Bazaar, The Dunes and the Oasis. Each location has 4 modes: a spell, a key, a chest and a multiball mode. You navigate between locations by hitting the labeled shots while not in a mode.

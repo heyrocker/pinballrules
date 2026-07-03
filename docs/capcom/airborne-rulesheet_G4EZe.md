@@ -8,14 +8,14 @@ source: https://tiltforums.com/t/airborne-rulesheet/5670
 
 # Airborne
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Capcom
 - Release Date: March 1996
 - Original Wiki Rulesheet hosted on [Tilt Forums](/capcom/airborne-rulesheet_G4EZe)
 
 Airborne is a 1996 pinball machine released by the short-lived Capcom Coin-Op pinball company. The machine was the first in almost a decade to be designed by Claude Fernandez, whose previous work included several early 80s Bally machines. The game places the player in the role of a pilot, who participates in six different international air shows, performing stunts and just showing off. This game is notable for its confusing ramp layout in the center and some difficult rules, which I intend to clear up a bit here... over 20 years since the machine first hit arcades. 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **Layout:**
 
 - Left outlane - Not quite standard... at the bottom of the outlane, there is a diverter that can allow the ball to access a lock at certain times during game play. On the first ball of the game, the unlit lock will act as a one-time only kickback, but this function disappears as soon as either a ball is locked there or the first ball drains. 

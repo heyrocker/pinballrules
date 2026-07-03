@@ -8,13 +8,13 @@ source: https://tiltforums.com/t/shaq-attaq-rules/3007
 
 # Shaq Attaq Rules
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Gottlieb
 - Release Date: February 1995
 - Original Wiki Rulesheet hosted on [Tilt Forums](/gottlieb/shaq-attaq-rules_G4PoV)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 This description came from @pinballguru in a Pinburgh 2017 thread. In order to ensure it doesn't get lost forever, I'm adding it to the Rulesheets category.
 
 Shaq Attaq is a "Set the Table" kind of rule set. Players should use their first two balls to qualify the Modes and Multiball. Avoid starting any modes since you want them to run simultaneous, along with Multiball. If you can qualify all (4) modes and Multiball then you will find a hidden feature at mode start. Plunge a ball for "Alley Oop" when you want to save the mode start. Each Alley Oop shot also awards 1 Game Ball.

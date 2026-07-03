@@ -42,7 +42,7 @@ source: https://tiltforums.com/t/jaws-rulesheet/8781
   - [Say Ah! (Prem / LE Mini-Wizard Mode)](#heading--sayah)
   - [Smile, You Son of A... (Wizard Mode)](#heading--smile)
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: Keith Elwin
 - Code/Rules: Rick Naegele, Elizabeth Gieske
 - Lead Mechanical Engineer: Harrison Drake
@@ -55,7 +55,7 @@ source: https://tiltforums.com/t/jaws-rulesheet/8781
 
 Summer has arrived in the small New England town of Amity, and threatening sharks have put the town's beaches in danger. The player is assigned to save the town by rescuing beachgoers, closing the beaches, and taking on bounties to defeat the invading sharks, in hopes of eventually defeating Jaws, the Great White shark himself.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 - Complete the bash boat to light **shark encounter** modes at five different shots. Keep shooting the bash boat either during or before them for encounter boosts. Hit the blue shots to advance and complete the modes.
 - To lure out the shark and start **Jaws Multiball**...
   - Chum the water at the captive ball, then shoot the red arrows to add to the chum line.
@@ -66,12 +66,13 @@ Summer has arrived in the small New England town of Amity, and threatening shark
 - Light **gear** at the right ramp by collecting quickshots (hit the lit harpoon lane followed by the shark fin). Each piece of gear has unique benefits and the right flipper changes the lit gear. Once all six gear pieces have been found, they can be sold for a large bonus and the final bounty hunt for the great white shark will be qualified.
 - Complete the white arrows at the left target bank to light the right lane for **fish finder**. Shoot any of the flashing left targets from the upper flipper to score the lit award. 
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 |![](https://sternpinball.com/wp-content/uploads/2024/01/Jaws-Premium-Playfield-3rkjna3f-scaled.webp)|![](https://sternpinball.com/wp-content/uploads/2024/01/Jaws-Pro-Playfield-3rnaef-scaled.webp)|
 
-## Modes of Play:
+## Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:**
@@ -88,7 +89,7 @@ See below for full rulesheet.
 - **Competition Install**
 Not from the gameplay menu, but the following is changed if a Competition Install is performed from the utilities menu:
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 The multi-level skill shot changes at the start of each ball, once the previous one has been scored. You get a maximum of three skill shot attempts per ball.
 
 - **Level 1**: Plunge into the pop bumper for 5M.
@@ -112,7 +113,7 @@ There are also two **secret skill shots** and a **super secret skill shot**:
 Note: on Prem / LE models, if shark hits are available, secret skill shots at the captive ball area cannot be hit.
 [/details]
 
-## Shark Encounters:
+## Shark Encounters: {#heading--encounters}
 **Shark Encounters** are the main modes of the game. They can be started at any of the five "beach" shots, after enough shots to the captive ball / bash boat - 1 shot + 1 shot per Shark Encounter mode played.
 
 Shooting any shot that feeds the left inlane, followed by the captive ball / bash boat, awards 2x damage.
@@ -153,7 +154,7 @@ Play all five shark encounters to light **[4th of July](#heading--fourth)** mini
 
 After playing the above mini-wizard mode, the shark encounters can be played again as "challenges". Encounter boosting is disabled for shark encounter challenges, and their timers are decreased to 30 seconds as well, but mode scoring is doubled. In place of increasing the machete multiplier, each completed shark encounter challenge increases a shot multiplier at the shot used to start the respective mode, for the rest of the game.
 
-## Closing the Beaches / Beach Closed Hurry-Ups:
+## Closing the Beaches / Beach Closed Hurry-Ups: {#heading--beaches}
 There are five different beaches surrounding Amity that need to be closed in the wake of approaching shark attacks, represented by five different shots on the playfield. To close each beach, three beachgoers must be rescued at their respective shots - they can be found by shooting for the shark tower targets surrounding each shot.
 
 Beachgoers cannot be rescued during multiball modes, they become temporarily unlit but return when the multiball ends.
@@ -170,7 +171,7 @@ Additionally, a ball saver is active during the 5th hurry-up. Draining during th
 
 Rescuing 8 beachgoers awards an **[extra ball](#heading--extraballs)** and lights **[gear](#heading--gear)**. 
 
-## Bounty Hunts:
+## Bounty Hunts: {#heading--bounty}
 **Bounty hunts** are started at the right ramp after enough fishing reel spins - or, if one isn't currently running, **[Quint's Shack](#heading--shack)** can light a bounty hunt. Unlike typical modes, bounty hunts run in the background of normal single-ball play, are untimed, and only require the player to complete the tasks assigned on the display. Progress on bounty hunts are maintained from ball to ball.
 
 The four sharks a player can hunt for are:
@@ -195,7 +196,7 @@ If the shark was not captured during **bounty hunt multiball**, the player can r
 
 Once the player captures all four sharks, or sells all of their **[gear](#heading--gear)** to Quint, a hidden **[fifth bounty hunt](#heading--greatwhite)** will be qualified...
 
-### Bounty Hunt Multiballs:
+### Bounty Hunt Multiballs: {#heading--bountymb}
 Sharks are vicious creatures and must be weakened before they can be successfully caught. After completing the requirements for a **[bounty hunt](#heading--bounty)** and shooting the fishing reel, a multiball will start where the player reels in the shark and weakens it. 
 
 The multiball for each bounty hunt shark slightly varies depending on which shark was reeled in:
@@ -220,7 +221,7 @@ Once the shark has been captured, **celebration multiball** will start. Shoot th
 
 The super jackpot is lit at the captive ball / shark shot when 2 or more arrows are unlit. Collecting a super jackpot relights a green arrow. Relighting all green arrows unlights the super jackpot. Super jackpots are worth (jackpot value) x (number of unlit lower playfield jackpots + 1). Note that the 2 upper playfield shots on Prem / LE do not count towards the super jackpot multiplier. Collecting all of the green arrows lights a massive super jackpot which relights all green arrows when collected.
 
-## Jaws Multiballs:
+## Jaws Multiballs: {#heading--jaws}
 To lure out Jaws, the player first must *chum the water* by shooting the captive ball with the chum bucket sculpt above it. Shooting the flashing red arrows will add to the red LED lights on the **"chum line"**. The total value of the chum line shots determines the jackpot value for the multiball that follows. For the first Jaws Multiball, 1 hit to the chum bucket starts the chum line, then 3 red arrows are lit at the left orbit, wave ramp, and center ramp, moving to the right every few seconds and wrapping around from the right ramp back to the left orbit, and the chum bucket remains lit to also advance the chum line. For Jaws Multiball 2, starting the chum line requires 2 hits to the chum bucket, and the red arrows unlight when hit or when moving past the right ramp. Once all 3 red arrows are gone, the chum bucket lights 3 new red arrows. For Jaws Multiball 3, starting the chum line requires 3 chum bucket hits, and the chum bucket no longer advances the chum line once it's started.
 
 For the first Jaws Multiball, once the chum line is completed, all the three shots that feed the left flipper (i.e., harpoon insert shot, left orbit, and center ramp) will be lit yellow to raise the shark fin. Shoot the shark fin to attach a barrel. For the remaining Jaws Multiballs, completing the chum line lights Ready Barrel at the target bank, then completing the targets lights only the left orbit and harpoon lane will be lit yellow to raise the shark fin.
@@ -239,7 +240,7 @@ Once any Jaws Multiball has been completed, **victory combos** will start (which
 
 The center ramp lights to start **[Smile, You Son of A...](#heading--smile)** final wizard mode as soon as Jaws Multiball 3 ends. Once this option becomes available, the player can opt to start the final wizard mode or "keep chumming" and play for other objectives; the final wizard mode will then relight the next time the chum line is completed.
 
-### Flip-Lock:
+### Flip-Lock: {#heading--fliplock}
 ***Jaws*** features a Flip-Lock mechanic at the mini-flipper during all multiball modes. If a ball is being held at the flipper, press the action button and the mini-flipper will remain raised, allowing multiball to be played with fewer balls. If the player wants to release the ball from the Flip-Lock prematurely, they can hold the action button and the flipper will automatically lower.
 
 If 2 balls are in play and the 2nd ball drops into the mini-flipper lane while Flip-Lock is active, the mini-flipper will automatically perform a quick release then flip to send the lower ball back into play then catch the upper ball. This does not occur when there are 3 or more balls in play.
@@ -252,8 +253,8 @@ The following **[bounty hunt sharks](#heading--bounty)** add perks to Flip-Lock,
 - **Thresher**: Multiball scores are doubled if the ball is held in the flip-lock.
 - **Tiger**: Flip-Lock is no longer limited to once per ball. Instead, it relights after 5 major shots have been made.
 
-## Other Scoring:
-### Gear Collection:
+## Other Scoring: {#heading--otherscoring}
+### Gear Collection: {#heading--gear}
 Gear can be lit at the right ramp in various ways:
 
 - Making a **[level 2 or 3 skill shot](#heading--skillshots)**
@@ -299,7 +300,7 @@ The gear cash-out value cannot be multiplied by **[Machete](#heading--machete)**
 
 If all gear has been used, draining will automatically remove the gear from the player's collection without the chance to sell them.
 
-### Fish Finder:
+### Fish Finder: {#heading--fishfinder}
 Fish Finder is qualified at the left target bank.
 
 *On Pro*: Fish Finder is qualified by simply hitting the stand-up targets in single-ball play, regardless of whether the arrows are lit. The first Fish Finder award is qualified after 3 hits, increasing by 1 hit for each subsequent award. When Fish Finder is lit, further hits do not count towards qualifying the next award.
@@ -320,7 +321,7 @@ Normally, the lit award changes with bumper hits if "activate fish finder" isn't
 
 Collect all five awards to light **[super cast 'n catch](#heading--supercast)** at the center ramp.
 
-### Quickshots:
+### Quickshots: {#heading--quickshots}
 If the harpoon lane isn't lit to **[attach a barrel to Jaws](#heading--jaws)**, it can be lit for quickshot by rolling through the right lane above the mini-flipper. Shoot the fin drop target shortly following the harpoon lane shot to collect the quickshot award. The timer decreases with every quickshot collected.
 
 The base value starts at 3M and increases by 200K for each **[beachgoer](#heading--beaches)** rescued.
@@ -331,14 +332,14 @@ Every completed quickshot - or switch the ball rolls over after passing through 
 
 Make 3 quickshots for an **[extra ball](#heading--extraballs)**.
 
-### Feeding Frenzy:
+### Feeding Frenzy: {#heading--feeding}
 A timed **feeding frenzy** mode starts after collecting enough complete sets of shark tower targets: 2 are needed for the first one, then 5 for the second, etc.
 
 During feeding frenzy, each shot to the flashing shark tower targets scores a value that increases with every switch hit (15k for spins, 75k for other switch hits), and gets multiplied with each flashing shark tower target hit: 1x for the first target, 2x for the second, and 3x for the third. The feeding frenzy total is maintained across the entire game and is awarded in **[bonus](#heading--bonus)** at the end of each ball. Every subsequent feeding frenzy in a game adds 250k to the base target value.
 
 Feeding frenzy *cannot* be started during any **multiball mode**. However, it can be brought into them.
 
-### Quint's Shack:
+### Quint's Shack: {#heading--shack}
 The right ramp is lit for Quint's Shack after advancing ORCA with strong shots up the left "wave" ramp - "sneak attacks" (missed shots that fall onto the right ramp exit) won't count.
 
 If **[Quint's challenge](#heading--challenge)** is lit at the right return lane, ORCA cannot be advanced and Quint's Shack can't be relit until Quint's challenge has been started.
@@ -357,7 +358,7 @@ If **[bounty hunt](#heading--bounty)** isn't lit, then Quint's Shack will *alway
 - +1x bonus
 - 5M
 
-### Quint's Challenge:
+### Quint's Challenge: {#heading--challenge}
 *Completing* ORCA at the left "wave" ramp lights the right return lane for Quint's Challenge, and will light one shot to start a combo. The combo sequence only starts when the first shot is made, and each successive challenge increases in difficulty with shorter timers for each shot. For knots level 3 and 4, the player has a limited time to make the initial shot that starts the combo.
 
 Quint's Challenge is also lit after collecting the 5th successful **[Pipit](#heading--pipit)** award.
@@ -387,7 +388,7 @@ Normally, only one attempt is given per knot. Capture the **[thresher shark](#he
 
 Tying a knot during Quint's Challenge increases the **[bonus multiplier](#heading--bonus)**. The first knot of a game adds +1x to bonus *only for this ball*, but the 2nd+ knots add +1x to bonus for the rest of the game. Each tied knot also increases the award for **[selling your gear](#heading--gear)** by 50M.
 
-### Pipit:
+### Pipit: {#heading--pipit}
 Completing the left target bank while "Pipit" is lit will throw a stick for Pipit to fetch at a random shot (lit purple and fades to white as time decreases). Collect the lit shot before time runs out to score 5M x a multiplier that increases each time Pipit has successfully fetched the stick and decreases with each failure.
 
 Pipit will also find awards for you with every stick he successfully fetches, given in the following order:
@@ -401,7 +402,7 @@ Pipit will also find awards for you with every stick he successfully fetches, gi
 
 If any of the above awards are already available, ie. life ring or Quint's challenge is already lit, +1x Machete (temporary) will be awarded in its place. 
 
-### Machetes (Shot Multipliers):
+### Machetes (Shot Multipliers): {#heading--machete}
 Completing the left target bank while "light machete" is lit will light a return lane for "machete". This corresponds to a shot multiplier, awarded on the next shot made after either rolling through the lit return lane, or shooting a ramp that feeds the general area of that lane. If the base machete multiplier is at 4x, then the harpoon lane must be hit to relight "light machete" at the target bank.
 
 The machete multiplier starts at 2x and can be increased by +1x **permanently** by...
@@ -418,14 +419,14 @@ and **temporarily** increased from...
 
 Machete cannot be lit *during* **[multiballs](#heading--jaws)** unless lit via Pipit, or during **[wizard modes](#heading--wizard)**, but they can be brought into them at their current value.
 
-### Life Ring:
+### Life Ring: {#heading--lifering}
 Shoot the "light life ring" target once, then shoot it again while it's flashing to qualify the life ring ball save. The "life ring" insert above the left outlane only lights for a short time after pressing the action button (when flashing orange), so it must be timed well to save balls that drain there. 
 
 A grace period is provided for the first life ring award in a game, and will save the ball even if the left outlane has already been registered. Afterwards, the life ring timer will decrease with every successful use.
 
 Life ring also lights with every shot to its target during the **[super life ring](#heading--fishfinder)** fish finder mode, and as the third award from **[Pipit](#heading--pipit)**, if it isn't already lit.
 
-### Character Combos:
+### Character Combos: {#heading--combos}
 There are seven unique shot sequences on ***Jaws*** that award increasing points (5M + 5M) when completed, each displaying a memorial for a certain character. These character combos can only be completed during single-ball play. Each unique combo adds +250k to all further **[closed beach](#heading--beaches)** shots. 
 
 - **Chrissie Watkins**: Left orbit - right ramp - center ramp
@@ -436,7 +437,7 @@ There are seven unique shot sequences on ***Jaws*** that award increasing points
 - **Sam Quint**: Reel spinner - harpoon lane - captive ball / shark
 - **Goat**: Center ramp - right ramp - chum bucket
 
-### Orca Wheel Awards (Prem / LE):
+### Orca Wheel Awards (Prem / LE): {#heading--wheel}
 The upper playfield on Prem / LE models of ***Jaws*** has an associated wheel award. It lights at the start of the game, and can then be lit at the Orca's steering wheel spinner with enough shots to the lookout tower ramp on the upper playfield. Press the action button to lock in the displayed award once the dial is over it. 
 
 The five awards are, from top to bottom:
@@ -453,7 +454,7 @@ Points can also be scored after enough lookout tower shots, or steering wheel sp
 
 There is a special combo on the Prem / LE called the **Quint Combo**, awarded for shooting the lookout tower ramp immediately followed by the right ramp when the ball exits out of the upper playfield. Quint Combos start at 5M and increase +500k per combo, to a max of 10M. The Quint combo value resets at the end of each ball.
 
-### Extra Balls:
+### Extra Balls: {#heading--extraballs}
 Extra ball is awarded instantly...
 - After rescuing 8 **[beachgoers](#heading--beaches)**
 - On the 3rd **[quickshot](#heading--quickshots)** scored
@@ -462,14 +463,14 @@ Extra ball is awarded instantly...
 
 If disabled, extra ball scores 15M. The 15M compensation for these extra balls can be multiplied by **[machete](#heading--machete)**.
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 * Ball Bonus (more information needed)
 * **[Feeding Frenzy](#heading--feeding)** points
 
 All multiplied by the bonus multiplier which increases as knots are tied during **[Quint's challenge](#heading--challenge)**.
 
-## Wizard Modes:
-### 4th of July (Mini-Wizard Mode):
+## Wizard Modes: {#heading--wizard}
+### 4th of July (Mini-Wizard Mode): {#heading--fourth}
 Start all five **[shark encounters](#heading--encounters)** to light this mini-wizard mode at the center ramp.
 
 Keep all five beaches open before it's too late! The five shots that were used to start the encounters are the same shots you have to make during this mode. Each shot is lit on a timer indicated by the inserts in front of it; once the beach closed insert is lit, you won't be able to make that shot any more.
@@ -484,7 +485,7 @@ A shot to the harpoon lane, or any Orca upper playfield shot (Prem / LE), will r
 
 Every firework collected during 4th of July adds 150k to the jackpots during **[super celebration multiball](#heading--smile)**.
 
-### Rescue & Search Multiballs:
+### Rescue & Search Multiballs: {#heading--searchrescue}
 Once all five **[beaches](#heading--beaches)** have been completely evacuated and closed, the ball will drain and the player will be given a choice between either **Rescue Multiball** or **Search Multiball**. If the player has only one beachgoer left, and another mode is currently running, the final beachgoer won't be lit until the mode ends. A ball save is also given while the final hurry-up is available.
 
 - **Rescue Multiball**: The beachgoers have to be evacuated before the shark devours them! Shoot the flashing shots to score 1x, 2x, and 3x jackpots depending on the beachgoers that were successfully saved at that shot. One *blue* shot represents the pursuing shark, which will eat beachgoers at the corresponding shot unless the player can shoot the blue shot in time. Spot the current blue shot by completing the 3-bank or hitting the lookout tower ramp (Prem / LE). Once all fifteen beachgoers have been either evacuated or devoured, the super jackpot can be scored by first shooting the boat captive ball, then repeatedly hitting the fin target. Each shot to the fin target increases the subsequent super jackpot value by 2M to a max of 30M, and it can be scored as many times as possible before time runs out. Balls can be added by hitting the chum bucket six times.
@@ -498,7 +499,7 @@ Different perks are applied to **[super celebration multiball](#heading--smile)*
 - Rescue Multiball - increases bumper hits to 10M per hit during the multiball.
 - Search Multiball - forces all jackpots to stay lit during the multiball.
 
-### Great White Multiball:
+### Great White Multiball: {#heading--greatwhite}
 The final bounty hunt for the Great White will become available from the **[bounty hunt selection](#heading--bounty)** once the player has sold all of their **[gear](#heading--gear)** to Quint, or completed bounty hunts for all four sharks. If a bounty hunt is currently active, it must be finished before the player can start the Great White bounty hunt.
 
 The Great White is aptly named as it's the greatest of all the shark species; "Bruce" is one himself, but plenty of others have invaded the seas around Amity Island. The player will have to use all of their experience hunting for and capturing sharks to catch this beast.
@@ -513,7 +514,7 @@ Great White multiball is a frantic 6-ball multiball with a 30-second ball saver.
 
 Once the multiball ends by draining down to a single ball, the total will be displayed, but the Great White will evade your capture. **[He'll be back...](#heading--smile)**
 
-### Super Cast 'n Catch:
+### Super Cast 'n Catch: {#heading--supercast}
 Collect all five **[fish finder](#heading--fishfinder)** awards to light this mini-wizard mode at the center ramp. 
 
 This is a hybrid single-ball / multiball mode where the goal is to collect and score as many cast n' catch awards as possible. The player must first lock a ball at the mini-flipper via any shot that feeds it, starting a timer for the flip-lock. Then, a new ball will be sent into play, and the player can shoot the center ramp to lock in the cast 'n catch award (between 500k to 5M, the maximum value increasing by 1M with every jackpot stage started). If the flip-lock times out, the player will need to lock a ball there again to return to increasing / locking in the cast 'n catch award.
@@ -522,7 +523,7 @@ Once the cast 'n catch award has been locked in, the award can be scored for 15 
 
 Super Cast 'n Catch ends when only one ball remains in play and the jackpot stage has been played at least once.
 
-### Say Ah!:
+### Say Ah!: {#heading--sayah}
 This mini-wizard mode is exclusive to the Prem / LE models of ***Jaws***, which feature the Orca mini-playfield and **[wheel awards](#heading--wheel)**. Once all five wheel awards have been scored in a single game, the sixth wheel award will automatically be lit. Shooting the wheel will light **Say Ah!** at the center ramp when no other modes are running. If other wheel award modes were running before starting **Say Ah!**, they will automatically end.
 
 **Say Ah!** is a 3-ball multiball timed for 60 seconds, which activates all five wheel awards with increased scoring: 
@@ -536,7 +537,7 @@ Ball save is active for the entirety of the 60 second mode, and no other modes c
 
 If **Say Ah!** has been played during a game, all switch values will be increased by 50k during **[super celebration multiball](#heading--smile)**.
 
-### Smile, You Son of A... (Wizard Mode):
+### Smile, You Son of A... (Wizard Mode): {#heading--smile}
 The final wizard mode is lit at the center ramp after playing **[Jaws Multiball 3](#heading--jaws)** (Cage Dive), so long as no other modes are running. If the player wants to keep playing for other objectives, shooting the center ramp will allow them to choose between starting the wizard mode or continuing for game progression by choosing "keep chumming".
 
 This wizard mode reflects the crew's final battle against Jaws and is split into three phases, each ending with a hurry-up shot worth 1M x seconds remaining in the mode. The timer for each phase starts at 60 seconds, and each hurry-up collected adds to the timer (40 seconds for phase 2, 30 seconds for phase 3; if the **[oxygen tank](#heading--gear)** gear is active then +8 seconds will be added to all timers).

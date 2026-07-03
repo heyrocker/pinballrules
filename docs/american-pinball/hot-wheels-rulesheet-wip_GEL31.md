@@ -8,14 +8,14 @@ source: https://tiltforums.com/t/hot-wheels-rulesheet-wip/6633
 
 # Hot Wheels
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: American Pinball
 - Release Date: June 2020
 - Original Wiki Rulesheet hosted on [Tilt Forums](/american-pinball/hot-wheels-rulesheet-wip_GEL31)
 
 The third game from American Pinball, Hot Wheels engrosses players in a thrilling journey through the streets of Hot Wheels City. The evil Draven and his army of Creatures are causing havoc, and it's up to you to restore order with the aid of epic vehicles!
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **Playfield**
 
 A tour of the playfield, starting from the left flipper and working our way around clockwise:

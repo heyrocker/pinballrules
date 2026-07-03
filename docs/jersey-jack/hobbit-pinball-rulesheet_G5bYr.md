@@ -14,14 +14,14 @@ Jersey Jack loves flowcharts, and they have one for the Hobbit [here](http://159
 
 Thanks to anyone who ends up contributing to this, anyone whose footage I use to help get information, and to Bradish Street Pinball Parlor for getting a Hobbit in to mess around with.
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Jersey Jack Pinball
 - Release Date: March 2016
 - Original Wiki Rulesheet hosted on [Tilt Forums](/jersey-jack/hobbit-pinball-rulesheet_G5bYr)
 
 The Hobbit is a wide-body from Jersey Jack Pinball released in March 2016. The game features 31 modes, 2 multiballs, and some Super features to boot. The LCD screen in the backglass will give you everything you need to know; there is no "Instant Info" in this game! 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **Layout**
 
 The major shots in this game are as follows:

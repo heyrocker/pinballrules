@@ -33,7 +33,7 @@ source: https://tiltforums.com/t/looney-tunes-rulesheet/9499
   - [Factory Mayhem (Mini-Wizard Mode)](#heading--factory)
   - [Duck Amuck (Wizard Mode)](#heading--duck)
 
-# Game Information & Overview:
+# Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: 
 - Code/Rules:
 - Lead Mechanical Engineer:
@@ -47,18 +47,18 @@ source: https://tiltforums.com/t/looney-tunes-rulesheet/9499
 
 ***Looney Tunes*** is the third pinball machine based on the iconic Warner Bros. cartoons, released by Spooky Pinball in early 2024 (using the same layout as *Texas Chainsaw Massacre* but with different rules). The machine takes place at the ACME factory, which contains a vault dedicated to the escapades of the cartoon characters in their original theatrical shorts, and a plethora of wild inventions that can change the course of gameplay if used wisely. 
 
-# Layout:
-# Skill Shots:
+# Layout: {#heading--layout}
+# Skill Shots: {#heading--skillshots}
 - **Skill Shot**: At the start of each ball, there will be a strobing light on the ACME Vault targets. Time your launch so that the ball strikes the strobing target. Typically, the auto-plunger will send the ball into the center drop target.
 - **Super Skill Shot**: Prior to launching the ball, press the action button to enable the Super Skill Shot. To score it, hit the upper left loop immediately after the ball is plunged.
 - **Secret Skill Shot**: Shhh. Be vewy, vewy quiet! It’s a secret.
 
-# Lighting Modes:
+# Lighting Modes: {#heading--reel}
 At the start of the game, each of the arrows will be lit white to represent lost filmreel segments to collect. Once three segments have been collected, the ACME Crate (the center shot) or the ACME Vault (from the upper flipper) can be hit to start an **[episode](#heading--modes)**. The number of lost film arrows lit at a time decreases over the course of the game, as more and more episodes are started and completed, but more arrows can be lit by shooting the ACME Vault.
 
 To start **[Area 51 & 3/4 modes](#heading--area5134)**, the spinner must be hit a certain number of times. Each mode can then be started at the left ramp. There are a total of 3 modes in this subcategory and all 3 are mutually exclusive.
 
-## Episodes (Modes):
+## Episodes (Modes): {#heading--modes}
 Episodes are the main modes of the game, and each one is based on a classic *Looney Tunes* theatrical short. None of the modes are timed conventionally, but some include timers for specific phases, or ways to fail the mode by hitting incorrect shots. All episodes are available at the start of the game, excluding **Rabbit Punch** which must be unlocked by collecting all three **[combo jackpots](#heading--combos)** at the right ramp.
 
 After completing an episode, the ACME Vault will light to score an **encore bonus**. This is a hurry-up starting at 10% of the points scored during the episode, doubled if the ACME Vault was shot without hitting any targets near it. Completing episodes also lights **[extra ball](#heading--extraballs)** (at 3 episodes) and **special** (at 6 episodes).
@@ -84,7 +84,7 @@ roaming shot and light shots on either side. Shooting any of these shots while t
 - **Hyde and Go Tweet** (1960): Sylvester may have bitten off more than he can chew - Tweety has become a giant bird monster thanks to Hyde's formula! All of the main shots will be lit yellow, and collecting any 3 shots will light the right orbit diverter for a hurry-up. After the hurry-up has been collected, the remaining uncollected yellow shots will be relit to qualify another hurry-up. If the player fails to shoot the hurry-up in 20 seconds, the left ramp diverter and ACME Crate will
 also be lit to collect it. The mode is completed after scoring both hurry-ups.
 
-## Area 51 & 3/4 Modes:
+## Area 51 & 3/4 Modes: {#heading--area5134}
 These three modes can be started at the left ramp after enough spinner hits have been made at the left orbit. These modes lack the **encore bonus** that the **[episodes](#heading--modes)** do, but each one unlocks a different **[item](#heading--items)** that can be earned at the crate after completing each mode. 
 
 The modes are based on the following shorts, respectively: **Haredevil Hare** (1948), **Hare-Way to the Stars** (1958), and **Duck Dodgers in the 24 1/2th Century** (1953).
@@ -94,37 +94,37 @@ The modes are based on the following shorts, respectively: **Haredevil Hare** (1
 them quickly, then hit a hurry-up at the Acme Crate to escape back to Earth. Be careful—if too many Instant Martians swarm the playfield, you’ll be in serious trouble!
 - **Planet X**: Duck Dodgers and Marvin the Martian have just landed on Planet X! At the start of the mode, all the main shots will be illuminated purple. Shoot any of these shots to turn them blue, claiming that section of the planet in the name of Earth. But beware—every few seconds, Marvin the Martian will randomly claim a shot for Mars (“isn’t that lovely?”). Maximize your score by controlling as much of the planet as possible when the timer runs out!
 
-# Multiballs:
+# Multiballs: {#heading--multiballs}
 All multiballs excluding **TNT Add-A-Ball** are mutually exclusive and cannot stack with each other. **[Modes](#heading--reel)** cannot be started during any multiball besides **TNT Add-A-Ball**, but they can be stacked with multiballs if the mode is started before.
 
-## TNT Add-A-Ball:
+## TNT Add-A-Ball: {#heading--tnt}
 Light the add-a-ball by completing the TNT targets at the bottom right of the playfield. Then, add a 2nd ball into play by shooting the lane hidden below the upper right flipper.
 
 TNT Add-A-Ball is a frenzy mode where all switches score the current frenzy value, increased with shots to the TNT targets. During the frenzy, a single ball can be held in the lane under the right upper flipper for 15 seconds, doubling all frenzy values while the ball is being held. 
 
 This is a true add-a-ball, meaning that you are able to start **[Episodes](#heading--modes)** and other **multiball modes** with the extra ball on the playfield. In this case, you don’t need to start the mode prior to starting the multiball.
 
-## Anvil Hurry-Up / Anvil Frenzy:
+## Anvil Hurry-Up / Anvil Frenzy: {#heading--anvil}
 Light Anvil Hurry-Up by shooting the left ramp, then hit the ACME Crate to collect it. Each hurry-up scored lights the virtual lock at the left ramp. Anvil Frenzy starts when two balls have been locked this way.
 
 Anvil Frenzy is a 2-ball multiball where jackpots are lit at all major shots excluding the upper loops, and are increased with each shot to the left ramp. Collect all of the jackpots to light the ACME Crate for a super jackpot. While the ball is being held by the magnet after scoring a super jackpot, knock the captured ball into the ACME Crate using the other ball to score a mega jackpot!
 
-## Giant Rocket Multiball:
+## Giant Rocket Multiball: {#heading--rocket}
 Shoot the captive ball to count down the fuse: 5 strong shots to the captive ball will light the lock at the right orbit. Lock three balls there to start Giant Rocket Multiball. The difficulty of lighting the lock increases with each multiball played.
 
 Giant Rocket Multiball is a 3-ball multiball where jackpots will be lit at each of the major shots, and each jackpot relights one of the fuse inserts at the captive ball. This means that after scoring five jackpots, the fuse will be fully relit, and a hurry-up at the captive ball will start. Shoot the captive ball to collect the super jackpot: the faster you hit it, the more points you'll score!
 
 After playing this multiball the first time, the next multiball started this way will instead be **[Rocket Skates Multiball](#heading--skates)** and have different, more valuable rules.
 
-## Rocket Skates Multiball:
+## Rocket Skates Multiball: {#heading--skates}
 This multiball replaces **[Giant Rocket Multiball](#heading--rocket)** every other time it is played. More captive ball hits will be required to light the locks for this multiball than before.
 
 After locking the third ball, the player will be given three opportunities to lock additional balls before the multiball truly starts. Balls can be locked at either the left ramp, ACME Crate, or TNT lane. Each physical lock can only hold one ball, so as balls are locked, fewer shots will be available. Locking a ball or draining will advance to the next opportunity. Successful or not, the multiball will start following the third attempt.
 
 Rocket Skates Multiball is a 3-ball to 6-ball multiball that ends once the super jackpot is scored or the player returns to single ball play. All major shots are lit yellow to score a jackpot, then red to score a 2x jackpot. Once three 2x jackpots have been collected, the ACME Crate will open for a final super jackpot multiplied by the number of balls in play and multiplied again by the number of 2x jackpots (so the maximum super jackpot multiplier is 36x). As soon as a super jackpot has been collected, the multiball ends, all balls will drain, and single ball play will resume.
 
-# Other Scoring:
-## ACME Crate / Items:
+# Other Scoring: {#heading--other}
+## ACME Crate / Items: {#heading--items}
 Shooting the ACME Crate three times will send the ball into the crate and award an item, changed by hitting the left eject when "advance item" is lit. More and more crate hits are required to award subsequent items, and some items can only be earned if certain criteria have been accomplished as listed in the below table. 
 
 If an item is available, use it by pressing the action button. Players can have more than one item available at a time - if they do, the secondary flipper buttons on the sides of the cabinet will change what item will be activated next.
@@ -158,32 +158,32 @@ Hitting the crate also lights a random red arrow shot. Collecting these red arro
 |**Paint-A-Tunnel**|Open next crate|Open 4 crates|
 [/details]
 
-## Roadrunner Loops:
+## Roadrunner Loops: {#heading--roadrunner}
 The upper loops are the Roadrunner shots and advance towards multiple rules when hit:
 
 - Each loop adds +10 MPH, and consecutive loops add +1x multiplier to the MPH added. The MPH starts at 35 and each threshold of 35 MPH increases the **[end-of-ball bonus multiplier](#heading--bonus)**. The maximum MPH is 350 (10x bonus) and reaching 200 MPH lights **[extra ball](#heading--extraballs)**.
 - Each loop also adds a lit insert to the 12 inserts that surround the loop. Once all 12 are lit, the Roadrunner Jackpot can be scored by shooting the loop in either direction, and multiplied by making consecutive loop shots without missing.
 
-## Combo Jackpots:
+## Combo Jackpots: {#heading--combos}
 Shoot lit shots in succession to score combos and progress towards lighting one of the boxing maneuvers at the right ramp: jab, hook, then uppercut. When a maneuver is lit, a jackpot will be scored based on the total combined value of the combos that led up to it. 
 
 Collect all three punches to light the **extendo-punch** insert for **[Factory Mayhem](#heading--factory)** and qualify the **Rabbit Punch** mode the next time **[start episode](#heading--reel)** is available.
 
 Increase the base combo scoring by scoring **Super Genius** awards at the TNT lane when nothing is lit there.
 
-## Blueprints (Playfield X):
+## Blueprints (Playfield X): {#heading--pfx}
 All scoring increases by 10% every time a part of the requirements for **[factory mayhem](#heading--factory)** have been completed, in addition to another more substantial multiplier described below.
 
 There is a hidden lane behind the upper left flipper that lights playfield X if it is hit. This is a tough shot to hit intentionally, but rebounds off of the captive ball while holding the upper left flipper can sometimes rebound into this hidden lane. If playfield X is already lit, hitting this lane will increase its value by +1x, to a maximum of 6x.
 
 To activate playfield X, roll through a lit return lane. The lit lane cycles with the flippers. Playfield X lasts for 30 seconds before it ends.
 
-## Hare Restore (Outlane Ball Save):
+## Hare Restore (Outlane Ball Save): {#heading--ballsave}
 The carrot targets are located between the loops and ramps on the upper playfield. Hit 5 carrot targets to light the outlane ball save at both outlanes.
 
 Progress cannot be made towards outlane ball save if one is already lit, and the number of carrot targets required to light subsequent outlane ball saves increases each time one is used.
 
-## Extra Balls & Special:
+## Extra Balls & Special: {#heading--extraballs}
 Light extra ball at the right orbit by...
 
 - Completing 3 **[episodes](#heading--modes)**
@@ -194,25 +194,25 @@ There is also a **special** that can be lit at the outlanes by completing 6 **ep
 
 Each method of lighting an extra ball or special can only be done once per game.
 
-## End-of-Ball Bonus:
+## End-of-Ball Bonus: {#heading--bonus}
 Build up your bonus by collecting character shots around the playfield. Every major shot builds the base bonus, with full sets of characters adding a larger amount.
 
 The bonus is then multiplied based on the current **[Roadrunner speed](#heading--roadrunner)**, to a max of 10x bonus.
 
-# Wizard Modes:
-## Taz-Mania (Mini-Wizard Mode):
+# Wizard Modes: {#heading--wizard}
+## Taz-Mania (Mini-Wizard Mode): {#heading--taz}
 Hitting the ACME Crate will spawn a red shot at a random position around the playfield. Collecting one will advance the tornado lights shown on the backboard. When the tornado lights are complete and no mode is currently running, shooting the ACME Crate or Vault will start Taz-Mania.
 
 - *Phase 1* (1-Ball): Jackpots will spawn randomly around the playfield. Taz will always turn towards the most recently lit jackpot. Collecting three jackpots will light the ACME Crate for a super jackpot. Collect the super jackpot to proceed to the next phase.
 - *Phase 2* (2-Ball): Jackpots will be lit at each of the main shots on the right side or left side of the playfield. Taz will always turn towards the side where the jackpots are currently lit. Jackpots will unlight as they are collected, but will relight the next time Taz spins back to that side. Collecting five jackpots will light the ACME Crate for a super jackpot. Collect the super jackpot to proceed to the next phase.
 - *Phase 3* (3-Ball): This is a 60-second multiball with unlimited ball save. During this phase, all major shots will be lit for jackpots that build the super jackpot at the ACME Crate. The goal of this phase is to stop Taz from spinning - with each shot, he will spin more and more slowly. This progress is tracked on the tornado lightstrip on the backboard.
 
-## Factory Mayhem (Mini-Wizard Mode):
+## Factory Mayhem (Mini-Wizard Mode): {#heading--factory}
 Light this mini-wizard mode by completing the five inserts listed above the flippers:
 
 *TBD*
 
-## Duck Amuck (Wizard Mode):
+## Duck Amuck (Wizard Mode): {#heading--duck}
 This wizard mode can be started as the final **[episode](#heading--modes)** after all of them have been played.
 
 *TBD*

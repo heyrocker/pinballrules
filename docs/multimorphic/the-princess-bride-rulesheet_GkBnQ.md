@@ -33,7 +33,7 @@ source: https://tiltforums.com/t/the-princess-bride-rulesheet/9250
 - [Competition Mode](#heading--comp)
 
 
-# Game Information:
+# Game Information: {#heading--gameinfo}
 Vendor: Multimorphic
 Released: 2024
 Wiki update based on Code Rev: 1.1.4.1
@@ -50,12 +50,12 @@ Wiki update based on Code Rev: 1.1.4.1
 - Mechanical: TJ Weaver, Trey Jones
 - Music and Sound: Matt Kern, Paul Farrer
 
-# Gameplay Overview:
+# Gameplay Overview: {#heading--overview}
 Immerse yourself in the world of The Princess Bride as you join your favorite characters in reliving each iconic scene as Modes and Multiballs, played out before your eyes. Shoot the three shots marked as Castle, Florin, and Guilder to choose different Story Modes.  Collect 6-fingered glove shots to play [***Prepare to Die Multiball***](#heading--ptdmb) and spell TRUE LOVE at the side targets to play [***True Love Multiball***](#heading--truelove).  
 
 After you master the basics, enjoy exploring the myriad ways to enhance your ability to further progress through the story and increase your scoring via both traditional stacking and thematically interwoven boosts between the Shot Features, Story Modes, Multiballs, and Skill Shots.
 
-# Playfield Walkthrough:
+# Playfield Walkthrough: {#heading--playfield}
 From left to right:
 
 - The left side targets (below the upper left flipper) are used to spell out TRUE to advance [***True Love Multiball***](#heading--truelove).
@@ -76,14 +76,14 @@ From left to right:
 - Tilt Warnings Remaining indicator: shown near the apron in the left outlane.
 
 
-# Flipper Button Functions
+# Flipper Button Functions {#heading--buttons}
 - Red buttons: main/lower flippers
 - White buttons: upper flippers
 - Yellow buttons: HOLD for detailed Instant Info
     - Left Yellow button: Chapter and [***Narrative Streak***](#heading--narrative) details
     - Right Yellow button:  Mode & Multiball boost details
 
-# Skill Shots (Farm Boy)
+# Skill Shots (Farm Boy) {#heading--skillshots}
 The game has 3 levels of Farm Boy skill shot combos available. Completing each combo sequence awards one use of [***As You Wish***](#heading--asyouwish), which allows for the GUILDER modes to be played as a two-ball multiball. The skillshots must be achieved in order. Once a skill shot sequence is collected, subsequent balls will restart on the last uncollected sequence, wrapping around back to the first skill shot combo after completing the third combo. It is possible to complete and collect multiple skill shot combos in a single ball, with each consecutive skill shot becoming more lucrative.
 
 The skillshots do not immediately turn off if some non-combo minor switches are hit, and it is possible to recover and complete the sequence. Follow the Westley icons at the top of the playfield screen which light the shots, and will turn off when Farm Boy is no longer available.
@@ -92,10 +92,10 @@ The skillshots do not immediately turn off if some non-combo minor switches are 
 - Center Ramp -> Left Orbit -> Left Ramp (Sequence 2)
 - Center Ramp -> Left Ramp -> Right Orbit -> Upper Loop (Sequence 3)
 
-# Character Progress
+# Character Progress {#heading--characters}
 Completion of Modes and collecting Multiball super jackpots awards Character progress for the Westley, Buttercup, Inigo, and Fezzik in the given scene. In order to unlock the final wizard mode, Four White Horses, you must collect 4 segments (adjustable) of each Character’s progress as indicated on the scoreboard displays. The notes below will outline what Character(s) will be earned by completing each mode and multiball.
 
-### Character Progress & Narrative Streak Reference Table
+### Character Progress & Narrative Streak Reference Table {#heading--modelist}
 Mode/Multiball | Narrative Order | Region | Westley | Buttercup | Inigo | Fezzik 
 --- | --- | --- | --- | --- | --- | --- 
 [**True Love Multiball**](#heading--truelove) | N/A | N/A | X | X |  |
@@ -116,7 +116,7 @@ Mode/Multiball | Narrative Order | Region | Westley | Buttercup | Inigo | Fezzik
 [**Four White Horses**](#heading--horses) | 14 |  |  |  | 
 
 
-# Story Modes
+# Story Modes {#heading--modes}
 Modes in The Princess Bride are tied to the three regional shots (CASTLE, FLORIN, GUILDER) and are qualified by hitting the shots a number of times (default settings: 2 for the first mode, 3 for the second+ mode in each region). The final shot will prompt you to pick a mode from that region’s selections.
 
 Each region has 3 modes to select from initially, plus a 4th mini wizard mode to select after the respective three regional modes have been played once. These modes do not need to be completed to unlock the 4th mode. 
@@ -125,7 +125,7 @@ Each region has 3 modes to select from initially, plus a 4th mini wizard mode to
 - Modes may be completed *in order* of the story to contribute to a [***Narrative Streak***](#heading--narrative) bonus scoring (see below). 
 
 
-### Mode Scoring Boost Reference Table
+### Mode Scoring Boost Reference Table {#heading--modelist}
 Region | Mode | Boosted by | In-Mode Boost  
 --- | --- | --- | ---
 [**Castle**](#heading--castle) | [**Buttercup’s Nightmare**](#heading--nightmare) | [The Promise of a Woman](#heading--promise) | 
@@ -143,10 +143,10 @@ Guilder | [**Battle of Wits**](#heading--wits) | [As You Wish Multiball](#headin
 Guilder | [**Fire Swamp (Mini Wizard)**](#heading--swamp) | # of completed Guilder modes | Avoid hazards
 
 
-## Castle Modes
+## Castle Modes {#heading--castle}
 Castle modes are qualified and started at the left ramp.
 
-### Buttercup’s Nightmare
+### Buttercup’s Nightmare {#heading--nightmare}
 - Narrative Order: 7 ([***Fire Swamp***](#heading--swamp) before, [***There Will Be Blood Tonight***](#heading--blood) after)
 - Character Progress: Buttercup
 - Boosted by: [***The Promise of a Woman***](#heading--promise) feature
@@ -159,7 +159,7 @@ Points are awarded at lit shots and targets. The upper flippers are active durin
 Completion of this mode currently also awards [***Pit of Despair***](#heading--pit); or -- if Pit of Despair is already qualified -- a [***Miracle Pill***](#heading--pills)!
 
 
-### Mawidge
+### Mawidge {#heading--mawidge}
 - Narrative Order: 11 ([***Miracle Max (Mini Wizard)***](#heading--max) before, [***Storming the Castle***](#heading--storming) after)
 - Character Progress: Buttercup
 - Boosted by: [***Rugen Ramps***](#heading--rugenramps)
@@ -170,7 +170,7 @@ This mode is all about whuv. Twoo Whuv. But you want to move Buttercup and Humpe
 Once six shots are collected, a new short timer begins to complete the mode by hitting the castle shot and collect a hurry-up worth the sum of the mode shots.
 
 
-### Storming the Castle
+### Storming the Castle {#heading--storming}
 - Narrative Order: 12 ([***Mawidge***](#heading--mawidge) before, [***To The Pain (Mini Wizard)***](#heading--pain) after)
 - Character Progress: Inigo, Westley, Fezzik
 - Boosted by: [***The Dread Pirate Roberts Spinner***](#heading--pirate) feature
@@ -179,7 +179,7 @@ Once six shots are collected, a new short timer begins to complete the mode by h
 Prepare to storm the castle by hitting roving scoops. Scoops will pop up from left to right, wrapping back around to the left. Hitting two scoops will increase the speed of the scoop sequence. After 4 made scoops, hit the left ramp to complete the mode.
 
 
-### To The Pain
+### To The Pain {#heading--pain}
 - Narrative Order: 13 ([***Storming the Castle***](#heading--storming) before, Four White Horses after)
 - Character Progress: N/A
 - Boosted by: N/A
@@ -191,11 +191,11 @@ Coming to the end of the story and Westley is still feeling the effects of being
 - Scoring is also based on number of completed Castle modes.
 
 
-## Florin Modes
+## Florin Modes {#heading--florin}
 Florin modes are qualified and started at the left orbit.
 
 
-### Shrieking Eels
+### Shrieking Eels {#heading--eels}
 - Narrative Order: 1 (No modes before, [***Cliffs of Insanity***](#heading--cliffs) after)
 - Character Progress: Buttercup, Fezzik
 - Boosted by: [***Cliffs Double Scoring***](#heading--cliffs2x) feature
@@ -206,7 +206,7 @@ Hit shots indicated by the Buttercup icons that are scattered around the playfie
 Scoring for this mode can be *doubled* by quickly hitting the green-lit side loop one time when the ball is first launched into play.
 
 
-### There Will Be Blood Tonight
+### There Will Be Blood Tonight {#heading--blood}
 - Narrative Order: 8 ([***Buttercup’s Nightmare***](#heading--nightmare) before, [***Guide My Sword***](#heading--guide) after)
 - Character Progress: Fezzik, Inigo
 - Boosted by: [***Rhyme Time***](#heading--rhyme)
@@ -219,7 +219,7 @@ Time to sober up Inigo! TWBBT has two phases, each with distinct timers:
 Scoring for this mode can be *doubled* by quickly hitting the green-lit side loop one time when the ball is first launched into play.
 
 
-### Guide My Sword
+### Guide My Sword {#heading--guide}
 - Narrative Order: 9 ([***There Will Be Blood Tonight***](#heading--blood) before, [***Miracle Max (Mini Wizard)***](#heading--max) after)
 - Character Progress: Fezzik, Inigo
 - Boosted by: [***Crossing Swords***](#heading--swords) feature
@@ -234,7 +234,7 @@ The mode completes on the third successfully shot scoop.
 Note: no multiball progress can be made nor can be stacked onto GMS mode.
 
 
-### Miracle Max
+### Miracle Max {#heading--max}
 - Narrative Order: 10 ([***Guide My Sword***](#heading--guide) before, [***Mawidge***](#heading--mawidge) after)
 - Character Progress: N/A
 - Boosted by: N/A
@@ -250,11 +250,11 @@ This mode has multiple phases:
 Scoring is based on number of completed Florin modes.
 
 
-## Guilder Modes
+## Guilder Modes {#heading--guilder}
 Guilder modes are qualified and started at the Cliffs shot and always begin with the [***Cliffs of Insanity***](#heading--cliffs) mini-mode until COI is completed.  
 Completing any Guilder Battle mode will also start a Humperdinck Hurry up at the pair of standup targets near the right orbit. The starting value will be correlated with your scoring in the mode, and counting down until hit.
 
-## As You Wish Multiball Option
+## As You Wish Multiball Option {#heading--asyouwish}
 - Guilder Battle modes can be played as a two-ball multiball using an As You Wish (AYW) award. 
 - Doing so upgrades you to untimed 2x scoring in the mode. If you do play as a multiball, draining down to one ball immediately ends the mode -- Double the risk, double the rewards.  
 - AYW can be earned via [***Skill Shots***](#heading--skillshots), a [***The Dread Pirate Roberts Spinner***](#heading--pirate) feature award, or as a [***Mystery Award***](#heading--mystery). 
@@ -264,7 +264,7 @@ Completing any Guilder Battle mode will also start a Humperdinck Hurry up at the
 - Completing any Battle mode in As You Wish MB will also award victory laps at the completion of the mode. Shots will light starting at 10k and will be available for 60 seconds or until a ball is drained. After enough shots are hit, the captive ball will be lit to increase the shot value, carrying between plays of Battle Victory Laps.
 
 
-### Cliffs of Insanity
+### Cliffs of Insanity {#heading--cliffs}
 - Narrative Order: 2 ([***Shrieking Eels***](#heading--eels) before, [***Battle of Steel***](#heading--steel) after)
 - Character Progress: None
 - Boosted by: N/A
@@ -277,7 +277,7 @@ Notes:
 - After completing COI, you do not have to play COI again to start subsequent Guilder Battle modes. 
 
 
-### Battle of Steel
+### Battle of Steel {#heading--steel}
 - Narrative Order: 3 ([***Cliffs of Insanity***](#heading--cliffs) before, [***Battle of Strength***](#heading--strength) after)
 - Character Progress: Westley, Inigo
 - Boosted by: [***As You Wish***](#heading--asyouwish)
@@ -290,7 +290,7 @@ Why are you smiling? Because this mode can be played fully left handed! The left
 - AYW: one additional final shot required
 
 
-### Battle of Strength
+### Battle of Strength {#heading--strength}
 - Narrative Order: 4 ([***Battle of Steel***](#heading--steel) before, [***Battle of Wits***](#heading--wits) after)
 - Character Progress: Westley, Fezzik
 - Boosted by: [***As You Wish***](#heading--asyouwish)
@@ -304,7 +304,7 @@ This mode has 2 phases:
    - AYW: one additional final shot required
 
 
-### Battle of Wits
+### Battle of Wits {#heading--wits}
 - Narrative Order: 5 ([***Battle of Strength***](#heading--strength) before, [***Fire Swamp***](#heading--swamp) after)
 - Character Progress: Westley, Buttercup
 - Boosted by: [***As You Wish***](#heading--asyouwish) and [***Unique Combos***](#heading--unique) feature
@@ -318,7 +318,7 @@ Defeat a Sicilian when death is on the line by collecting the letters IOCANE (in
 - AYW: one additional final shot required
 
  
-### Fire Swamp
+### Fire Swamp {#heading--swamp}
 - Narrative Order: 6 ([***Battle of Wits***](#heading--wits) before, [***Buttercup’s Nightmare***](#heading--nightmare) after)
 - Character Progress: N/A
 - Boosted by: N/A
@@ -338,7 +338,7 @@ Try to survive the fire swamp while avoiding its hazards — it only sounds impo
 - Character Progress: N/A
 
 
-## Narrative Streak Scoring
+## Narrative Streak Scoring {#heading--narrative}
 Completing the Story Modes in the narrative order (as listed in the book on the playfield display or backbox display, or by holding the left yellow button), including wizard and mini-wizard modes, will provide additional points collected in End-of-Ball Bonus as a % of the points scored during the Modes in the Narrative Streak and increased by the streak's length. 
 - It’s worth noting that the streak can start anywhere in the list and continue on from there — it does not need to start with Shrieking Eels, for example.
 - Additionally, if a mode is failed, the narrative streak can still continue by playing the mode again and completing it before starting any other mode.
@@ -347,7 +347,7 @@ Completing the Story Modes in the narrative order (as listed in the book on the 
 - Any completed portion of a Streak gets awarded during that ball's EOB Bonus.  A Streak can continue across balls -- with the continually incrementing % amount -- but only the newly completed mode(s) will be counted in that new ball's EOB Bonus. For example, if you began your Streak with Buttercup's Nightmare, you can collect the Streak Bonus from your second mode in the Streak (There Will Be Blood Tonight) on ball 1, and from Guide My Sword and Miracle Max on ball 2.
 
 
-# Multiballs
+# Multiballs {#heading--multiballs}
 There are two muliballs in the game that are not tied to any modes: True Love, and Prepare to Die
 
 Multiball | Qualify | Helper | Boost | Boost during...  
@@ -356,7 +356,7 @@ Multiball | Qualify | Helper | Boost | Boost during...
 [**Prepare to Die Multiball**](#heading--ptdmb) | Collect 6 Glove shots | Spot jackpot progress via [***There Will Be Blood Tonight***](#heading--blood) and [***Inconceivable Loops***](#heading--inconceivable) | | More Glove shots before collecting each Jackpot 
 
 
-## True Love Multiball
+## True Love Multiball {#heading--truelove}
 - Narrative Order: N/A
 - Character Progress: Westley and Buttercup
 - Boosted by: [***Mawidge***](#heading--mawidge)
@@ -377,7 +377,7 @@ The number of shots required to get to the super Jackpot phase is controlled by 
 Scoring a Super Jackpot returns the scoring to the letter collect phase, and the first SJP awards an add-a-ball as well as Character progress for both Westley and Buttercup.
 
 
-## Prepare to Die Multiball
+## Prepare to Die Multiball {#heading--ptdmb}
 - Narrative Order: N/A
 - Character Progress: Inigo
 - Boosted by: [***Inconceivable Loops***](#heading--inconceivable) feature and [***There Will Be Blood Tonight***](#heading--blood)
@@ -410,7 +410,7 @@ In addition to normal stacking on an eligible already-running mode, PTDMB can be
 - [***Pit of Despair***](#heading--pit)
 
 
-# Shot Features and Scoring Boosts
+# Shot Features and Scoring Boosts {#heading--features}
 Shot Features are short, (mostly) timed mini-modes that can run concurrently with most Modes and Multiballs. Performing well during Shot Features awards +1x scoring boosts to the next play of certain Story Modes during your game.  Timed Features are qualified by repeatedly shooting various shots and run for 30 seconds. 
 - The number of shots remaining to begin each Feature is listed next to the respective Feature icon on the scoreboard displays.
 - Successive Feature plays throughout the game require more shots to qualify.
@@ -432,19 +432,19 @@ Feature | Shot | Gives Boost to: | Additional Perk
 [***Unique Combos***](#heading--unique) | Brief shot markers (no scoreboard icon) | [***Battle of Wits***](#heading--wits)
 
 
-### Rugen Ramps
+### Rugen Ramps {#heading--rugenramps}
 Boosts [***Mawidge***](#heading--mawidge)
 
 Qualify and start by hitting left ramp. Shoot the left ramp three times to complete.
 
 
-### Rhyme Time
+### Rhyme Time {#heading--rhyme}
 Boosts [***There Will Be Blood Tonight***](#heading--blood)
 
 Qualify and start by hitting the left orbit. Shoot the left orbit 3 times to complete.
 
 
-### Crossing Swords
+### Crossing Swords {#heading--swords}
 Boosts [***Guide My Sword***](#heading--guide) as well as any next Story Mode
 
 Hit all stand up targets (previously hit targets will be lit solid blue). The final standup target needed will flash blue and have a shot indicator on the playfield monitor to start Crossing Swords. 
@@ -453,31 +453,31 @@ Hit all stand up targets (previously hit targets will be lit solid blue). The fi
 - Additionally, every captive ball hit during Level 1 adds +0.1x scoring to the next Story Mode you play that ball (+0.2x for Level 2 of this feature, etc). This general Mode scoring boost can be combined across multiple plays of Crossing Swords, but if you drain, you lose this Mode scoring boost.
 
 
-### The Promise of a Woman
+### The Promise of a Woman {#heading--promise}
 Boosts [***Buttercup’s Nightmare***](#heading--nightmare)
 
 Qualify by hitting the center ramp. Start at the center ramp and hit the center ramp 5 times *consecutively* to complete. 
 
 
-### Cliffs Double Scoring
+### Cliffs Double Scoring {#heading--cliffs2x}
 Qualify by hitting the Cliffs *drop target*. Provides a timed 2x playfield multiplier, with the time remaining indicated near the flippers on the monitor as well as by the ball on the cliffs physically “counting down” as it descends. Hitting the Cliffs drops 3 times during the feature will provide the "completion" award of +1x scoring to next play of [***Shrieking Eels***](#heading--eels), and each 3 hits to the Cliffs drop adds +10 seconds to the Double Scoring timer (up to max timer of 30).  
 - Note: the ball physically held on the Cliffs is not a "ball in play" -- you are not in a multiball. After the Cliffs 2x timer ends or if you drain your turn during Cliffs 2x, the ball will return to the trough
 
 
-### Inconceivable Loops (untimed)
+### Inconceivable Loops (untimed) {#heading--inconceivable}
 Hitting the upper loop shot at any time will score points and various awards for cumulative Loops reached throughout your game.  Consecutive Loops multiply that loop's scoring.  
 Awards:
 - Qualify [***Pit of Despair***](#heading--pit)
 - Easier [***Prepare to Die Multiball***](#heading--ptdmb) (next play only)
 
 
-### The Dread Pirate Roberts Spinner
+### The Dread Pirate Roberts Spinner {#heading--pirate}
 Boosts [***Storming the Castle***](#heading--storming)
 
 Qualify and start at the right orbit spinner. Different awards, including a scoring boost to Storming the Castle, an [***As You Wish***](#heading--asyouwish), or points, can be awarded by the number of spins in a burst on the spinner. The playfield monitor will show the current number of spins indicated in the upper right, which will reset a second or so after the last spin is counted.
 
 
-### Unique Combos (untimed)
+### Unique Combos (untimed) {#heading--unique}
 Boosts [***Battle of Wits***](#heading--wits)
 
 Hitting any playfield "flow" shot will start a brief combo opportunity comprised of different *unique* shots in the combo.  The shots that can continue the Unique Combo will be indicated by a red dot over a yellow diamond shot marker at the top of the playfield screen. 
@@ -485,8 +485,8 @@ Hitting any playfield "flow" shot will start a brief combo opportunity comprised
 - Completing a 5-way Unique Combo -- or completing a 4-way Unique Combo three different times -- will award a [***Miracle Pill***](#heading--pills). 
 
 
-# Other Gameplay Elements
-## Pit of Despair
+# Other Gameplay Elements {#heading--other}
+## Pit of Despair {#heading--pit}
 The Pit of Despair (PoD) is a way to resurrect your ball/turn (including — yes — tilting out!). You can qualify PoD by hitting the side loop, completing [***Buttercup’s Nightmare***](#heading--nightmare), or via [***Mystery Award***](#heading--mystery). Once qualified, PoD will start when you drain/tilt.
 
 Pit of Despair is a survivor-style multiball and by default, starts as a single-ball mode, and 3 (or 5) shots must be made to save your ball. The first shot is timed, though subsequent shots are not. All successful shots add a ball with no ball-save. If you drain a single ball, you become All Dead, so careful ball management is key. 
@@ -499,7 +499,7 @@ If you activate PoD by tilting or if you qualify Pit of Despair a second time af
 - Second+ PoD (or a PoD activated by tilting): Center Ramp, Left Orbit, Left Ramp, Right Standup Targets, Max's Hut
 
 
-## Miracle Pills (Extra Balls)
+## Miracle Pills (Extra Balls) {#heading--pills}
 Miracle Pills acts as an "Extra Ball" in TPB. They are awarded by completing the [***Miracle Max (Mini Wizard)***](#heading--max) mode and via the other methods described below. A Miracle Pill is consumed on drain of the current ball and immediately returns the ball to play without tallying an End-of-Ball Bonus and without ending any Mode or Feature that is currently running (think of the spatula save in Weird Al and you'll get the idea).  The resurrected ball will also enjoy a lengthy ball-save. 
 - Just like extra balls, Pills can be stacked.
 - Unlike [***Pit of Despair***](#heading--pit), Pills will *NOT* activate if you tilt -- so don't tilt! 
@@ -527,7 +527,7 @@ If Competition Settings are enabled, each Pill will instead bank a dynamic value
 Just like the Miracle Pill in Normal Settings, you won't actually use your Pill (in this case, score your banked Miracle Pill Points) until you drain your ball -- so don't tilt!  And just like Default Settings, you can resurrect any Pill Points you tilt away *if you succeed* at a PoD you also have qualified when you tilt. 
 
 
-## Mystery Awards
+## Mystery Awards {#heading--mystery}
 Mystery awards are qualified and collected by repeatedly hitting the drop in front of Max's Hut. A non-comprehensive list of awards:
 
 - Tilt Warning Forgiveness (this COMPLETELY refills your tilt warnings, and is not a flat +1 tilt warning. Nice!)
@@ -540,13 +540,13 @@ Mystery awards are qualified and collected by repeatedly hitting the drop in fro
 - Open All Regions
 
 
-## Bonus Multiplier
+## Bonus Multiplier {#heading--bonusx}
 The bonus multiplier can be increased by completing KISS in the inlanes and outlanes.  Use the white auxiliary buttons to rotate the lit letters (configurable to red primary buttons in settings or to cycle with spinner rotations, if you wish). BonusX via KISS caps out at 5x and subsequent collections of KISS will award points instead of further BonusX. After achieving 3x, rolling through a lit KISS letter will unlight it, making further completions more difficult!
 
 It is possible to achieve a 6x Bonus Multiplier, if Bonus Multiplier is advanced through a mystery award!
 
 
-## End of Ball Bonus
+## End of Ball Bonus {#heading--bonus}
 Many components comprise the end of ball bonus. Bonus can be multiplied up to 5x by completing the KISS lanes.
 
 - [***Narrative Streak***](#heading--narrative)
@@ -560,11 +560,11 @@ Many components comprise the end of ball bonus. Bonus can be multiplied up to 5x
 - The number of modes played awards 3k each
 
 
-# General Strategies
+# General Strategies {#heading--strategies}
 [[*feel free to contribute*]]
 
 
-# Competition Mode
+# Competition Mode {#heading--comp}
 *IMPORTANT: notes on two settings the TD/operator will need to change are listed at the end of this section.*
 
 The Princess Bride is the rare P3 game that has a Competition Mode option in Settings → Gameplay → General.  Turning it on makes the following changes: 

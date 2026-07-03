@@ -36,7 +36,7 @@ source: https://tiltforums.com/t/stranger-things-rulesheet/6093
   - [End-of-Ball Bonus](#heading--bonus)
 - [Strategies](#heading--strategies)
 
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Lead Designer: Brian Eddy
 - Code / Rules: Lonnie Ropp, Mike Vinikour
 - Artwork: 
@@ -45,7 +45,7 @@ source: https://tiltforums.com/t/stranger-things-rulesheet/6093
 
 *Stranger Things* is the first Stern Pinball machine designed by Brian Eddy, after a long hiatus from pinball design. The pin is based on the first two seasons of the popular Netflix sci-fi series.
 
-## Modes of Play:
+## Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:** See below for full rulesheet.
@@ -53,7 +53,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 - **Challenge:** Play any wizard mode as a challenge mode. There is also a Demogorgon challenge mode with a high score for the most successful kills.
 - **DJ Mixer:** NOT a gameplay mode. This mode operates like a Jukebox, allowing you to play the music featured in the machine, including a number of specific playlists.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 - The six objectives listed on the center of the playfield must be solidly lit to start the final showdown, meaning all missions must be played to access it.
   - Make a 5-way combo - preferably early on, as this adds 10M to end-of-ball bonus.
   - Make three shots to either ramp or orbit to start a chapter from Season 1 or Season 2. Shoot the flashing shots to win the chapter and collect drawings. Wizard modes are qualified after 4, 8, 10, and 12 chapters. Starting enough chapters lights an extra ball.
@@ -64,23 +64,24 @@ These modes are accessible by holding both flipper buttons during attract mode u
 - Shoot the Burn it Back loop to advance towards extra ball, Spell of Protection ball save & 2x Scoring at the kicker.
 - Complete the return lanes, which cycle with the flippers, to advance Bonus X and light mystery at the left standup target. 
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2019/12/StrangerThings-Premium-Playfield-5gonrffa-scaled-911x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2019/12/StrangerThings-Pro-Playfield-Closed-343nfkjanfd-scaled-917x1536.webp)
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 There are three skill shots that can be scored once the ball enters the plunger lane:
 - **Skill Shot** - Plunge for flashing drop target. Awards 5M + 1M per skill shot.
 - **Super Skill Shot** - Soft plunge towards the flippers, then shoot the kicker. Awards 10M + 2.5M per super skill shot.
 - **MXV Super Skill Shot** - Make both skill shots on the same plunge! This requires a rebound off the flashing drop target that bounces into the kicker. Along with points from both normal skill shots, this awards 25M + 5M per MXV Super Skill Shot, along with a **[drawing](#heading--drawings)**.
 
-## Main Objectives:
+## Main Objectives: {#heading--objectives}
 Directly above the flippers, six inserts are listed from left to right: **[5-Way Combo](#heading--5way)**, **[Send it Back](#heading--senditback)**, **[Demodog!](#heading--demodog)**, **[Demogorgon!](#heading--demogorgon)**, **[Light the Fire](#heading--lightthefire)**, and **[Telekinesis Multiball](#heading--tk)**. Each insert solidly lights once their corresponding task has been completed. Once all inserts are solidly lit, the player will be able to attempt the **[Final Showdown](#heading--wizard)**. 
 
 Each objective will be listed in their own section, though Chapters will be grouped together as both sets are started similarly.
 
-### 5-Way Combo:
+### 5-Way Combo: {#heading--5way}
 This objective solidly lights after collecting a 5-way combo. To collect it, you must shoot five shots, with each shot being within a few seconds of the last, and as long as they abide by the following:
 
 * The **left orbit, left ramp**, **burn it back/right inner loop, or right ramp** can be shot five times in a row or any combination of those shots ***Note: When ball lock is lit, it's much harder to combo using the left ramp b/c the combo countdown timer between shots appears to keep running while the ball is being held behind the up-post.*
@@ -91,7 +92,7 @@ This objective solidly lights after collecting a 5-way combo. To collect it, you
 
 Scoring a 5-Way Combo also adds 10 million points to **[end-of-ball bonus](#heading--bonus)** for the rest of the game. Credit for the 5-Way Combo objective can also be collected from the **[mystery award](#heading--mystery)**.
 
-## Chapters:
+## Chapters: {#heading--chapters}
 The **[Send it Back](#heading--senditback)** and **[Light the Fire](#heading--lightthefire)** objectives are solidly lit once both sub-wizard modes have been completed. These are qualified after completing all six chapter missions from both seasons, for a total of 12 chapters total.
 
 * Start a chapter by completing a set of three inserts underneath the left orbit, left ramp, right ramp, or right orbit. Shooting one of the aforementioned shots will light an insert underneath that shot
@@ -105,7 +106,7 @@ The **[Send it Back](#heading--senditback)** and **[Light the Fire](#heading--li
 * Completing a chapter will award 1 or 2 **[drawings](#heading--drawings)** depending on how you complete it (see each chapter's section for details).
 
 
-### Season 1 Chapters:
+### Season 1 Chapters: {#heading--season1}
 **Where’s Barb?** (40 sec)
 * All shots are lit, with the saucer flashing. Complete the mode by shooting the shot that Barb is at (random). Shots start at 1M and increase +250k for every shot that Barb isn't occupying. 
 * Finding Barb on the very first shot awards 40M & an extra drawing!
@@ -149,7 +150,7 @@ The **[Send it Back](#heading--senditback)** and **[Light the Fire](#heading--li
 * Shooting the spinner will move the lit shot
 * **[+2 Drawings](#heading--drawings):** Complete chapter without using the spinner to move a shot. *Note: Starting this mode from the left standup/mystery lane tends to disqualify you from collecting 2 drawings b/c it hits the spinner on the way down.*
 
-### Season 2 Chapters:
+### Season 2 Chapters: {#heading--season2}
 **Quarter Hunt** (45 sec)
 * All switches are worth 50k
 * Every 25 switch hits will score a level up (progress bar at bottom of display), worth additional points (1M, 2.5M, 5M, and 10M).
@@ -190,23 +191,23 @@ The **[Send it Back](#heading--senditback)** and **[Light the Fire](#heading--li
 * **[+2 Drawings](#heading--drawings)** by completing the chapter with only shots to the left standup/mystery lane or Burn it Back loop (flashing shots).
 
 
-#### Total Isolation:
+#### Total Isolation: {#heading--isolation}
 Once each shot's three inserts have been collected, the next shot to the left ramp will begin a **Total Isolation** multiball mode. Total Isolation 1 is qualified after playing 4 **[chapters](#heading--chapters)**, and Total Isolation 2 is qualified after playing 8 chapters. Normal add-a-ball rules apply to both multiball modes.
 
 - **Total Isolation 1**: Multiball similar to Total Annihilation from *Attack from Mars*, where all the major shots are lit to score Jackpots (albeit they can’t be shot over and over) and the center scoop will score a Super Jackpot worth the total of all the previously collected Jackpots after enough Jackpots have been collected. Jackpots start at 1M increasing by 100K per shot; if jackpots are shot as a combo, they are doubled. 3 Jackpots are required to qualify the first Super Jackpot, increasing by 1 Jackpot each time; and the third Super Jackpot will add a ball. Once all shots are required to collect the Super Jackpot, it reverts back to 6 shots for a Super Jackpot, and only 5-6 shots will be lit instead of all of them.
 - **Total Isolation 2**: Every major shot flashes for points. Hit a shot and it turns solid; then, shoot it again for a double jackpot. Making combos during this multiball also doubles the jackpot values. Do this for all lit shots to light the Super Jackpot at the center, for the combined value of all shots made.
 
-#### Send it Back:
+#### Send it Back: {#heading--senditback}
 After all 6 **[Season 1 chapters](#heading--season1)** have been played, the next shot to the left ramp will start Send it Back and solidly light its corresponding insert. Starting Send it Back awards a jackpot of 10M per **[drawing](#heading--drawings)** collected.
 
 Alternate shots between the major flashing shots and the center shots (DEMODOG targets, or the center scoop). Repeat this process once per major shot. The Demogorgon will be qualified after all major shots have been made; use the center ramp to bash the Demogorgon (or mouth shot for an instant kill) for a super jackpot worth the total points from the wizard mode. Normal play then resumes.
 
-#### Light the Fire:
+#### Light the Fire: {#heading--lightthefire}
 After all 6 **[Season 2 chapters](#heading--season2)** have been played, the next shot to the left ramp will start Light the Fire and solidly light its corresponding insert. Starting Light the Fire awards a jackpot of 10M per **[drawing](#heading--drawings)** collected.
 
 Shoot the center shots (DEMODOG targets, or the center scoop) over and over. Each shot lights one of the DEMODOG targets.  Once all targets are lit, the center becomes unlit. Then you need to complete all the DEMODOG targets. The super jackpot, worth the total points from the wizard mode, can be collected at either the left standup lane or the kicker after completing the DEMODOG targets; the kicker scores double the super jackpot value. Normal play then resumes.
 
-### Demodog Attack:
+### Demodog Attack: {#heading--demodog}
 Spelling DEMODOG with direct shots to the standup targets (or the saucer for the first Demodog Attack mode) will light the left standup lane to start Demodog Attack. All three Demodog modes must be played to solidly light the **Demodog!** objective's insert. Completing a Demodog Attack mode also awards a **[drawing](#heading--drawings)**.
 
 **[Chapters](#heading--chapters)** can't be started while Demodog Attack modes are running, but if they were started before the Demodog Attack mode, they will continue running. **[Demogorgon Modes](#heading--demogorgon)** and **[Telekinesis Multiball](#heading--tk)** can also be progressed towards and started during these modes.
@@ -228,7 +229,7 @@ Spelling DEMODOG with direct shots to the standup targets (or the saucer for the
 * **[+1 Drawing](#heading--drawings)** awarded for shooting all eight shots
 * **Demodog!** objective insert will light solid upon starting 
 
-### Demogorgon Modes:
+### Demogorgon Modes: {#heading--demogorgon}
 Complete the drop targets to spell words and light Demogorgon Ready - each mode requires one more completion of the drop targets than the last. Once the drop targets are lowered and the purple arrow is strobing, shoot up the middle to start a Demogorgon Mode. Some are single ball and some are multiballs.
 (*Note - if you can sneak the ball behind the drops before all of them are down and register the center shot, all remaining drops will be spotted and the current word will be awarded*). All five Demogorgon Modes must be played in order to solidly light the **Demogorgon!** objective.
 
@@ -240,24 +241,24 @@ During Demogorgon Modes, the action button flashes red, and pressing the button 
 - **Run Will!**: 4-ball multiball. Phase one, shot the Demogorgon during the hurry-up to lock in the jackpot value. Phase two, all the *drops* are lit for jackpots. Collect those to light the Demogorgon for a Super Jackpot hurry-up worth the total collected jackpot values; however, the ramp leading up to the Demogorgon will lower and raise every second or two. Collect the Super Jackpot to start the jackpot phase again and work towards another Super Jackpot hurry-up.
 - **Can't Stop This!**: 5-ball multiball. Unlimited ball save for 60 seconds. Shoot red jackpots lit across the playfield - once all shots have been made once, the ramp will lower for a Super Jackpot at the Demogorgon mouth worth the total combined jackpot values, maxing out at 100M; then the jackpots will relight for another attempt at the Super Jackpot. Try to collect as many Super Jackpots before the timer runs out!
 
-### Telekinesis Multiball:
+### Telekinesis Multiball: {#heading--tk}
 Light locks by shooting the green standup targets on each side of the left ramp. For the first multiball, completing both targets once lights all three locks. For the second and third, completing both targets lights one lock. For the fourth and thereafter, two sets of targets light each lock. Shoot the left ramp to lock balls. 3rd lock starts the multiball. Chapters can be started before activating Telekinesis Multiball, but not during it.
 
 (*On the Prem / LE, if another multiball is started while balls have already been locked for Telekinesis Multiball, pressing the action button will **swipe a ball**, adding a ball to the active multiball. However, swiping a ball will require another shot to the left ramp to lock a ball after multiball ends. There is no limit to how many times this feature can be used.*)
 
 During Telekinesis Multiball, shoot 5 lit jackpots to light Super Jackpot at the left saucer for 6M; collect the Super Jackpot to solidly light the **Telekinesis Multiball** insert and collect a **[drawing](#heading--drawings)**. The left ramp will also be lit to lock a ball for 20 seconds to double the Super Jackpot value (Pro); or up to two balls can be locked on the magnet for 2x / 3x Super Jackpot (Prem / LE). Regular jackpot values start at 1.1 million and go up by 100k per Super Jackpot. All values can be doubled again through **[2x Scoring](#heading--double)**.
 
-### Final Showdown:
+### Final Showdown: {#heading--wizard}
 Once all six objectives have been solidly lit, the next shot to the left ramp will start the Final Showdown. Starting Final Showdown awards a jackpot of 10M per **[drawing](#heading--drawings)** collected. (no spoilers here, though there is a surprise at the end of the game if you complete this mode.)
 
-## Other Scoring:
-### The Upside Down:
+## Other Scoring: {#heading--other}
+### The Upside Down: {#heading--upsidedown}
 At random times (based on switch hits), the game might go into an alternative mode. Although progress towards starting **[Chapters](#heading--chapters)** and **[Telekinesis Multiball](#heading--tk)** isn't visible during this mode, they can both be started during Upside Down 1 (but not during Upside Down 2). Upside Down can also start during a chapter.
 
 - **Upside Down 1**: Each drop target scores a hurry-up value starting at 7.5M, which doesn't reset with each shot. Max value if all drops are hit quickly is 30 million.
 - **Upside Down 2**: The ramps and orbits are lit for a hurry up of 10 million; each shot adds a multiplier to the value, to a max of 4x for the final shot. Carefully combo all these shots for big scoring, especially with **[2x Scoring](#heading--double)**. Max value is around 80 to 90 million.
 
-### Burn it Back:
+### Burn it Back: {#heading--burnitback}
 Shots to the Burn it Back loop count up over the course of a game and award certain features after enough shots have been made:
 
 - **[Extra Ball](#heading--extraballs)** after 1-10 Burn it Back loops and then once again at 50 loops
@@ -266,15 +267,15 @@ Shots to the Burn it Back loop count up over the course of a game and award cert
 
 *Note: Spell of Protection and 2x Scoring alternate as awards after 3, 4, 5, 6 and then every 7 loops.* 
 
-#### Spell of Protection:
+#### Spell of Protection: {#heading--spell}
 Spell of Protection is lit at the left outlane after a certain amount of **[Burn it Back](#heading--burnitback)** loops, or from a **[mystery award](#heading--mystery)**. When lit, the ball will be saved from a drain down the left outlane.
 
 Lighting Spell of Protection if it has already been lit will increase its value by 250K.
 
-#### 2x Scoring:
+#### 2x Scoring: {#heading--double}
 2x Scoring is lit at the saucer after a certain amount of **[Burn it Back](#heading--burnitback)** loops. Shoot the saucer when lit to start 60 seconds of double scoring.
 
-### Dart (Pop Bumpers):
+### Dart (Pop Bumpers): {#heading--dart}
 Enough pop bumper hits will increase their value, evolve Dart and eventually award a drawing. The level Dart is at will affect the scoring on the **[Season 2 chapter](#heading--season2)**, **Lure Dart**. Pops start at 10k per hit and increase by 3k after every level. It takes 25 pops to reach the first level and then it takes same amount +5 more to reach the next. The first few levels and their awards are as follows:
 
 * **25 pops** - evolve Dart (13k per pop)
@@ -284,7 +285,7 @@ Enough pop bumper hits will increase their value, evolve Dart and eventually awa
 
 *Note: Future pop advances appear to only increase the value of the pops*.
 
-### Drawings:
+### Drawings: {#heading--drawings}
 Completing certain objectives will collect drawings. Certain objectives will collect 2 drawings at once when achieved. Each drawing adds 10M to the jackpot collected at the start of all three wizard modes, and adds 2M to **[end-of-ball bonus](#heading--bonus)**. Collecting 11 drawings in a single game will light an **[extra ball](#heading--extraballs)**. 
 
 Drawings can be collected by:
@@ -296,7 +297,7 @@ Drawings can be collected by:
   - 4th increase in pop bumpers - 130 bumper hits (+1 Drawing)
   - Random **[mystery award](#heading--mystery)** (+1 Drawing)
 
-### Mystery Award:
+### Mystery Award: {#heading--mystery}
 Odd-numbered completions of the return lanes, which can be cycled with the flippers, light the mystery award at the left standup lane. During timed modes, including **[2x Scoring](#heading--double)**, every other mystery award will add time to the mode; and if ball save isn't active, the first mystery award qualified during any multiball mode will add a ball.
 
 Mystery is pseudo-random and will generally help the player out, but is deterministic in tournament mode.
@@ -324,7 +325,7 @@ The mystery animation shows a 20-sided dice roll, with each side corresponding t
 20. **[Spell of Protection](#heading--spell)** 
 
 
-### Extra Balls:
+### Extra Balls: {#heading--extraballs}
 Extra Ball can be lit at the left standup lane by:
 - Starting 3 **[Chapters](#heading--chapters)**
 - Starting 6 **Chapters**
@@ -332,7 +333,7 @@ Extra Ball can be lit at the left standup lane by:
 - Scoring 50 **Burn it Back** loops
 - Rolling 2 on the **[Mystery Award](#heading--mystery)** (percentage-based)
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 Bonus automatically carries over between balls (outside of **chapter** scoring), and is determined by totaling:
 - 10 million if a **[5-Way Combo](#heading--5way)** is achieved
 - **[Demogorgon Modes](#heading--demogorgon)** started x 2M
@@ -344,7 +345,7 @@ Bonus automatically carries over between balls (outside of **chapter** scoring),
 
 Bonus Hold can be awarded from the **[Mystery Award](#heading--mystery)**, which will hold the bonus multipliers to the next ball. If Bonus Hold is awarded on the last ball, the bonus will be awarded twice with multipliers.
 
-## Strategies:
+## Strategies: {#heading--strategies}
 Stacking strategies:
 - General modern pinball strat of stacking Telekinesis Multiball onto a running mode applies.  Chapter modes must be started either prior to MB, or with the same shot to start MB.  An even better stack is to bring Demodog mode to the party, in which case you **must** use the following sequence: Start Chapter mode -> Start Demodog -> Start Telekinesis MB.
 - I wouldn't recommend stacking Telekinesis onto a non-MB Demogorgan mode, unless you know you're able to consistently kill the Demogorgan with a mouth shot.  Otherwise, the big ramp flap gets in the way of your Mystery (Add-a-ball) and the Burn It Back shot.

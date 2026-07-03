@@ -35,7 +35,7 @@ source: https://tiltforums.com/t/the-munsters-rulesheet/4781
   - [Bonus](#heading--bonus)
 - [Munster Madness (Wizard Mode)](#heading--munstermadness)
 
-## Game Information
+## Game Information {#heading--gameinfo}
 - Lead Designer: John Borg
 - Code/Rules: Dwight Sullivan
 - Lead Mechanical Engineer:
@@ -48,7 +48,7 @@ source: https://tiltforums.com/t/the-munsters-rulesheet/4781
 
 *The Munsters* is Stern's first 2019 title, designed by John Borg and coded by Dwight Sullivan. Taking influence from the 60s TV series about a supernatural family with surprising humanity, The Munsters features a simple rule sheet suitable for novices.
 
-## Rules Overview
+## Rules Overview {#heading--overview}
 - Play and complete [**Family Members**](#heading--familymembers) to light [**Playfield X**](#heading--kitty) at the Kitty target and to light [**Munster Madness**](#heading--munstermadness).
   - Shoot Herman to start a hurry-up, then shoot the magnetized ball to start Herman Multiball.
   - Shoot the ramps to draw out Spot from under the stairs, and play catch with him at his target under the left ramp.
@@ -58,12 +58,13 @@ source: https://tiltforums.com/t/the-munsters-rulesheet/4781
 - Shoot the Dragula lane for random awards, and to boost the values of family members for a short time.
 - Complete modes and other features to light [**Super Jackpots**](#heading--superjackpots) at the Dragula Lane. Stack multiple [**Super Jackpots**](#heading--superjackpots) with **[Playfield X](#heading--kitty)** active to increase the value!
 
-## Layout
+## Layout {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2019/01/Munsters-Premium-Playfield-863x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2019/01/Munsters-Pro-Playfield-863x1536.webp)
 
-## Modes of Play:
+## Modes of Play: {#heading--modesofplay}
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:
 
 - **Standard:**
@@ -79,13 +80,13 @@ Unique 2-ball multiball frenzy. Shoot shots to add balls and targets to keep the
 - **DJ Mixer**
 NOT a gameplay mode. This mode operates like a jukebox, allowing you to play the music featured in the machine, including a number of specific playlists.
 
-## Skill Shots
+## Skill Shots {#heading--skillshots}
 There are various Skill Shots on this machine, which can be changed using the flippers. All of the skill shots award a base value of 250k, +1 Bonus X, and 25k per second remaining when the skill shot was made.
 - Skill Shot - Plunge into the lit lane. The lane can't be changed, it is always the right lane - which means you have to either plunge lightly or hope the ball enters the right lane on its own. Short plunging directly to the right flipper and shooting the left ramp also scores a Skill Shot. 
 - Super Skill Shot - Hold in the left flipper button and shoot the right ramp to score a Super Skill Shot for 500k.
 - Double Super Skill Shot (Prem/LE) - Hold in both left flipper buttons, then shoot the scoop followed by a shot to the saucer in Grandpa's Laboratory to score a Double Super Skill Shot for 1M and collect a **[mystery award](#heading--mysteryaward)** if lit.
 
-## Family Members
+## Family Members {#heading--familymembers}
 The main goal of *The Munsters* is to at least start all of the family members' modes. There are five members to collect: [**Herman**](#heading--herman), [**Spot**](#heading--spot), [**Lily**](#heading--lily), [**Grandpa**](#heading--grandpa), and [**Raven**](#heading--raven). The modes increase in "level" each time they are started. 
 
 Each time a member is started, the [**Kitty Target**](#heading--kitty) will be qualified to increase the playfield multiplier, and the Raven advances will be qualified at the left ramp (after the mode has finished). Each level also awards 100k + 25k per level completed, and adds 10k to end-of-ball bonus.
@@ -175,7 +176,7 @@ There are 10 (on the Pro) or 11 (on the Prem/LE) different ways to qualify the D
 
 Other Scoring
 
-Chattering Teeth
+Chattering Teeth {#heading--herman}
 Hitting any purple target collects one set of chattering teeth, and then will start flashing. Hit the flashing target again before it times out for 2 chattering teeth. Collecting chattering teeth allows the player to start **[Grandpa](#heading--grandpa)**'s modes at the scoop, and count up towards various other awards throughout the game:
 
 - 12 - +1x bonus (Pro) / Light **Grandpa's Laboratory** (Prem / LE)
@@ -237,7 +238,7 @@ Combos
 
 Make shots in succession to score combo points. These can be collected at any time during play. On the Premium / LE, combo rules also apply to Grandpa's Laboratory.
 
-Secret Mania
+Secret Mania {#heading--eddie}
 Originally an Easter egg in early code revisions, Secret Mania can now be lit at the Grandpa scoop in two different ways: either after collecting 130 **[chattering teeth](#heading--teeth)** or as a random **[mystery award](#heading--mysteryaward)**.
 
 This mutually exclusive mode with fun, fast-motion animations lights all 7 family members' areas for increasing scores starting at 200k + 25k per shot. Playfield multipliers apply to each award, and each individual area advances in value as more shots to it are made.
@@ -259,7 +260,7 @@ Munster Madness (Wizard Mode)
 
 This is a 4-ball Multiball wizard mode (using a 5th ball in Grandpa's Laboratory on the Prem / LE). It can be started at the scoop by completing one level for all of the **[Family Members](#heading--familymembers)**, and after any modes already in progress have finished. Just like the other modes in this game, Munster Madness has two levels.
 
-Level 1
+Level 1 {#heading--extraball}
 - **Stage 1:** Shoot three major areas three times in 15 seconds, in this order: Herman, Raven, Lily. This stage ends either when all areas have been completed or the timer for each area runs out. For subsequent cycles, Spot (left ramp target) and Grandpa (scoop) are added following Lily. On the Premium / LE model, you can also collect Jackpots in Grandpa’s Laboratory.
 
 - **Stage 2:** Shoot the scoop to collect a Hurry-Up value determined by the points you collected during the previous stage. After collecting the Hurry-Up or having it time out, you will return to the previous stage  where another hurry-up can be qualified (albeit with more shots).

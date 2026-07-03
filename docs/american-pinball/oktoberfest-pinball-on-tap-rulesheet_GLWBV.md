@@ -8,14 +8,14 @@ source: https://tiltforums.com/t/oktoberfest-pinball-on-tap-rulesheet/5353
 
 # Oktoberfest: Pinball on Tap
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: American Pinball
 - Release Date: October 2018
 - Original Wiki Rulesheet hosted on [Tilt Forums](/american-pinball/oktoberfest-pinball-on-tap-rulesheet_GLWBV)
 
 American Pinball's second game about a sprawling, historic festival with beer, games, and fun attractions! It's a Joe Balcer design with programming work done by Josh Kugler and Joe Schober, art by Jeff Busch, and audio by Matt Kern. A shout-out to everyone at American Pinball who produced this game.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 _Oktoberfest_ is a traditional mode-based game with two main multiballs, controllable magnets (dubbed MagNabs), a strategic beer stein collecting mechanic, and lots of ducks.
 
 This rulesheet is a wiki; feel free to contribute!

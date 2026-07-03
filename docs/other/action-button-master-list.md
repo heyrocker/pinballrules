@@ -6,14 +6,15 @@ source: https://tiltforums.com/t/action-button-master-list/9237
 
 # Action Button Master List
 
-# Action Button Master List
+# Action Button Master List {#heading--top}
 - [Stern Pinball](#heading--stern)
 - [Jersey Jack Pinball](#heading--jjp)
 - [Spooky Pinball](#heading--spooky)
 
 I've seen a lot of people wondering what the action button does on current pinball machines, so I figured creating this thread with links to each guide and quick info about what each action button does would help ease the pain a little as pretty much every game uses a different function for it!
 
-## Stern Pinball:
+## Stern Pinball: {#heading--stern}
+
 |Game | Color | Should I Slam It While Draining? | Function 1 | Function 2 | Function 3 | Function 4|
 |--- | --- | --- | --- | --- | --- | ---|
 |[Pokemon by Stern Pinball](/stern/pokemon-rulesheet_GV8wB/20) | Red (1), Green (2) | Situational | Activates a Pokedex Assist used to spot shots during **CATCH! hurry-up** or **rival battle**. | Adds a ball to multiball once the BATTLE targets have been completed. | |
@@ -50,7 +51,8 @@ I've seen a lot of people wondering what the action button does on current pinba
 |[Star Trek (Stern)](/stern/star-trek-wiki_Gryw4) | Red (1) | Situational | Activates proton torpedoes qualified at the right standup targets. Proton torpedoes deal 1 shot of damage to the **Vengeance**. |  |  | |
 |AC/DC | Red (1), ? (2) | Situational | Uses a **VIP pass**, qualified via super skill shots, to spot a mode or multiball shot (or the bell shot if qualified via enough tunes 'n stuff awards). |  |  | |
 
-## Jersey Jack Pinball:
+## Jersey Jack Pinball: {#heading--jjp}
+
 |Game | Color | Should I Slam It While Draining? | Function 1 | Function 2 | Function 3 | Function 4|
 |--- | --- | --- | --- | --- | --- | ---|
 |[Harry Potter](/jersey-jack/harry-potter-rulesheet_GWyBj/6) | Gray (1), Purple / Orange (2) | No | Changes the currently lit Diagon Alley shop. | Uses a **Bombtastic Bomb** to automatically complete the current lesson. | |
@@ -61,7 +63,8 @@ I've seen a lot of people wondering what the action button does on current pinba
 |[Pirates of the Caribbean (JJP)](/jersey-jack/pirates-of-the-caribbean-jjp-rulesheet-wip_GRbPY) | Yellow (1), Red (2), Various (3) | Yes | Collects **gold** when mashed after making lit chapter shots or completing the GOLD targets. | When a ball is loaded in the cannon, fires it at the Black Pearl. | When no gold is available, pressing the button cycles through the next award for completing **PIRATE** lanes. Green is related to add-a-ball in multiball; purple is related to playfield X. | |
 |[The Hobbit](/jersey-jack/hobbit-pinball-rulesheet_G5bYr) | Green (1), Yellow (2), Red (3, 4) | No | Selects the **skill shot** when a new ball is about to be plunged. | Uses the **ring**, charged up via switch hits. The ring can postpone mode or lock shots, attempt beast backstabs during hurry-ups, or award points if none of the above are viable. | Fires the ball from the Windlance kickback when available at the start of modes or during **Smaug multiball** for the super jackpot. | If **precious** is lit at the right outlane, locks in the line's position to potentially escape from Gollum and continue play.|
 
-## Spooky Pinball:
+## Spooky Pinball: {#heading--spooky}
+
 |Game | Color | Should I Slam It While Draining? | Function 1 | Function 2 | Function 3 | Function 4|
 |--- | --- | --- | --- | --- | --- | ---|
 |Beetlejuice | Blue / Purple (1), Red (2), Orange (3) | Yes | Uses the **magna-save** between the flippers. Qualified at the start of each ball and by swatting the undead fly using the launch button when it appears. | *When held*: maintains the current shot value during **As Seen on TV** mode. | *When mashed*: lowers the Sandworm during **Walk With Rhythm** Sandworm mode.

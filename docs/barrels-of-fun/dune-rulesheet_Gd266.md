@@ -51,7 +51,7 @@ source: https://tiltforums.com/t/dune-rulesheet/9850
 - [Alternate Game Modes](#heading--alternategamemodes)
   - [Barrel Ball](#heading--barrelball)
 
-# Game Information:
+# Game Information: {#heading--gameinfo}
 - Concept: David Van Es
 - Game Design: David Van Es & Travis Moseman
 - Engineering/Mechanics: Travis Moseman
@@ -65,18 +65,18 @@ source: https://tiltforums.com/t/dune-rulesheet/9850
 - **Wiki Rulesheet based on Code Rev: 2026.03.30**
   - Edit the Code revision, if applicable, when you make changes 
 
-# Rules Overview
+# Rules Overview {#heading--rulesoverview}
 Power Over Spice… Is Power Over Everything
 
 Based on the Academy Award-winning film franchise from Legendary Entertainment, step into the world of Arrakis and develop your skills to fight alongside the Fremen and House Atreides against the dreaded Harkonnen army! Through day and night, do you have what it takes to survive this unforgiving desert planet and harness its power to the fullest?
 
-# Layout
+# Layout {#heading--layout}
 ![](https://shop.kollectfun.com/wp-content/uploads/2025/04/Dune-PF-down.png)
 
-# Skill Shots
+# Skill Shots {#heading--skillshots}
 The plunger on this game is player-controlled. Plunging at full strength will usually result in the ball completing the orbit.
 
-## Regular Skill Shots
+## Regular Skill Shots {#heading--regular-skill-shots}
 Skill shots are selectable with the right flipper prior to the plunge. The currently selected skill shot will appear with an orange arrow. To collect the award, no other switch may be triggered. **The skill shot value and award are both doubled if you do not flip before making the shot.**
 
 1. **Scoop (Front):** Collect 10 water/spice - 2,500,000 pts (5,000,000 if doubled, awards 20 resources)
@@ -85,7 +85,7 @@ Skill shots are selectable with the right flipper prior to the plunge. The curre
 
 The resource type awarded depends on the current time period: water during day, spice during night.
 
-## Secret Skill Shots
+## Secret Skill Shots {#heading--secret-skill-shots}
 These are not selectable - just hit them directly from the plunge:
 
 1. **Tunnel:** 10,000,000 pts - Spinners generate more resources for the rest of the ball
@@ -95,14 +95,14 @@ These are not selectable - just hit them directly from the plunge:
 
 ---
 
-# Day & Night Cycle
+# Day & Night Cycle {#heading--daynightcycle}
 The game cycles between day and night. The HAL lighting will be orange (day) or blue (night). You can track the advancement of the current cycle on the half moon at the top of the LCD screen. Each switch hit (on switches tagged for time progression) will make progress towards the next cycle. By default, a day/night lasts **200 switch hits** (configurable in settings).
 
 You can play one mode per cycle:
 - **Day:** Harvester Battle
 - **Night:** Prophecy Mode
 
-## Time Progression Details
+## Time Progression Details {#heading--time-progression-details}
 - **Acceleration:** During day, if a Harvester Battle has been started this cycle, time progresses at **2x speed**. During night, if a Prophecy mode has been started, time progresses at **2x speed**.
 - **Hold Point:** At 80% of the cycle, if time is prevented (e.g., during a running mode), progress pauses until the mode ends. This prevents the cycle from changing mid-mode.
 - **Pending Modifiers:** Some Bene Gesserit awards (super spinners, double resources) are "pending" and activate at the start of the next appropriate cycle.
@@ -110,7 +110,7 @@ You can play one mode per cycle:
 
 ---
 
-# Resources
+# Resources {#heading--resources}
 There are 2 resources in the game: Water & Spice. The current quantities collected are tracked at the upper left & right respectively of the LCD screen. Both resources cap at **100** by default.
 
 Small dots in front of each shot (blue for Water, orange for Spice) represent collectable resources. Making a shot will collect all resources in front of it. There are **5 resource dot clusters** mapped to: left ramp, left orbit, center, pit, and right orbit.
@@ -123,15 +123,15 @@ Each resource collected during the game will be tallied during the end of ball b
 
 **Tilt Penalty:** All water and spice are set to **0** on tilt.
 
-## Water
+## Water {#heading--water}
 Generated at night. Water will be consumed during a Harvester Battle, acting as a mode timer. Once water has run out, the battle will end. Water remaining also increases the sacrifice jackpot value. Each water collected scores **50,000 pts**. Bonus value: **13,000 per water** collected during the ball.
 
-## Spice
+## Spice {#heading--spice}
 Generated during the day. All spice will be consumed when reaching the cash-out decision in a Prophecy mode, increasing its jackpot value by **1,000,000 for each spice** consumed (minimum jackpot: 5,000,000). Each spice collected scores **50,000 pts**. Bonus value: **22,000 per spice** collected during the ball.
 
 ---
 
-# Items
+# Items {#heading--items}
 Items can be collected by hitting the 3 drop targets next to the upper flipper.
 
 The active item can be changed by using the **right flipper**, cycling from top to bottom.
@@ -140,13 +140,13 @@ First drop target hit will lock the item to be collected. You need to drop them 
 
 After collecting the first item of a type, you will need to collect the other 2 item types before being able to collect another of the same type.
 
-## Sand Snork
+## Sand Snork {#heading--sandsnork}
 Left outlane ball save. Load/enable at the yellow-lit left ramp once collected from the drops. An unused loaded Snork will be ejected at the end of your ball, but you'll begin next ball with lit left ramp for easy reload. On default settings, you can stack up to **3 Snorks** in your inventory (configurable).
 
-## Lasgun
+## Lasgun {#heading--lasgun}
 Blue shot during Harvester Battles to deal massive damage and/or destroy the harvester. You begin each game with **1 Lasgun** in your inventory (configurable 0–3). Lasgun shot difficulty is configurable: EASY (both right ramp and side ramp), HARD (only side ramp), or HYBRID (first two battles either ramp, then only side ramp).
 
-## Thumper
+## Thumper {#heading--thumper}
 Playfield multiplier. Press the **action button** to deploy all thumpers at once. Value increases the more Thumpers you have when you activate: 1 = 2x, 2 = 3x, 3 = 4x. Deploying thumpers also calls the worm, which approaches over ~20 seconds. As the worm approaches, a **worm jackpot** builds based on distance segments:
 
 **Worm Distance Multiplier Table:**
@@ -172,7 +172,7 @@ You **cannot** use Thumpers during Prophecy modes.
 
 ---
 
-# Harvester Battle
+# Harvester Battle {#heading--harvesterbattle}
 There are 6 Harvester inserts on the playfield and you can battle one per day cycle. The **2nd Harvester** successfully destroyed awards an **extra ball** (configurable: 0–6).
 
 Each battle adds more defenders and health to the Harvester. Soldier positions scale with battles completed:
@@ -192,10 +192,10 @@ Water is consumed during a battle. If water runs out before the Harvester is des
 - Water > 30: 20 seconds
 - Otherwise: 30 seconds
 
-## Battle Retry Mechanic
+## Battle Retry Mechanic {#heading--battle-retry-mechanic}
 If a battle times out (Harvester not destroyed), the battle state is saved - soldier status, harvester health, thopter count, and battle phase. On the next day's battle, the game resumes from where you left off with the same bonus time calculation.
 
-## Shot Types During Battle
+## Shot Types During Battle {#heading--shot-types-during-battle}
 - **Worm area:** Switches on the side and inside the Worm damage the Harvester (500,000 pts per hit).
 - **Red shots:** Harkonnen soldiers defending the Harvester (750,000 pts per kill, 5 water per collect).
 - **Yellow roving shots:** Ornithopters, also shown on the playfield screen (5,000,000 pts per kill).
@@ -210,7 +210,7 @@ After completing a battle, the **Hunter-Seeker** becomes available.
 
 ---
 
-# Prophecy Modes
+# Prophecy Modes {#heading--prophecymodes}
 Prophecy modes are only available during **night time** and are prevented during multiball.
 
 The next mode will have its insert flashing yellow. You can change which mode is next by doing the **right orbit** to move forward, or **left orbit** to move backward through the mode list.
@@ -232,7 +232,7 @@ Each prophecy mode has a mid-point cash out option. At that point, you can choos
 
 Once completed, the prophecy mode insert will stay lit: **Green** if you cashed out at the mid-point, **Yellow** for full completion.
 
-## Train
+## Train {#heading--train}
 Spar with Gurney Halleck to hone your fighting skills.
 
 Start by shooting a ball into the desert power field. Doing so will auto-plunge a second ball.
@@ -255,7 +255,7 @@ Following this, the captive ball will release and a hurry-up jackpot will start 
 
 **Perk:** Gurney will take out soldiers in Harvester Battle.
 
-## Survive
+## Survive {#heading--survive}
 Need to find the right pitch to compel the Harkonnen soldier to ungag Jessica.
 
 A single shot is the correct one. All shots will be lit at the start. When a shot is made, if not the correct one, it will unlight all shots on the side of the playfield that doesn't contain the correct shot.
@@ -274,7 +274,7 @@ Continuing, Paul & Jessica need to reach 5000m of altitude to survive the storm.
 
 **Perk:** One "The Voice" right outlane save per ball. These saves can stack - if you already have one and earn another, it's stored for future balls.
 
-## Ride
+## Ride {#heading--ride}
 Shoot lit shots to find the best Thumper location.
 
 - Check sand: **3,750,000 pts**
@@ -291,7 +291,7 @@ Finally, Worm will complete its rise and release the previously captured ball on
 
 **Perk:** Thumper adds a ball once per Desert Power Multiball.
 
-## Rescue
+## Rescue {#heading--rescue}
 Rescue crew members by hitting lit targets then shoot the scoop to board the thopter!
 
 All stand up targets are lit (7 total) representing crew members that need rescuing. Hit 2 targets to light a hurry-up at the scoop and to send the crew to safety on an ornithopter. Once a target is hit, it will not relight.
@@ -306,7 +306,7 @@ Continuing, the Worm will let go of the ball and you have to redo the 2 targets 
 
 **Perk:** Water consumption in Harvester Battle is slower.
 
-## Fight
+## Fight {#heading--fight}
 Complete the lit shots to help Paul face off against Jamis and join the Fremen.
 
 - Shot base: **1,350,000 pts**
@@ -321,7 +321,7 @@ Continuing, new combo is Left ramp, Right ramp, 2x Center ramp, Middle spinner &
 
 **Perk:** Double damage in Harvester Battles (damage multiplier = 2x).
 
-## Awaken
+## Awaken {#heading--awaken}
 Shoot any shot to attract the Worm, then strike again before it escapes.
 
 **Phase 1 - Attract the Worm:** All 9 shots are available. Shoot any shot to lure the worm there (**370,000 pts** per lure). Then quickly shoot the same shot again before the worm flees. Successfully catching the worm scores **4,380,000 pts** (decreasing by **100,000** per catch). Repeat until enough catches are made.
@@ -337,8 +337,8 @@ Shoot any shot to attract the Worm, then strike again before it escapes.
 
 ---
 
-# Side Quests
-## Feyd Rautha's Arena Battle
+# Side Quests {#heading--sidequests}
+## Feyd Rautha's Arena Battle {#heading--feydrauthasarenabattle}
 Qualified as the 4th Bene Gesserit award.
 
 This is a major single-ball mode with a unique **defense system** and **3-shot combo** mechanic. The display switches to greyscale during the fight.
@@ -368,7 +368,7 @@ This is a major single-ball mode with a unique **defense system** and **3-shot c
 
 **Pity Points:** Repeated/non-advancing shots score **75,000 pts** (÷10 if already made).
 
-## Hunter-Seeker
+## Hunter-Seeker {#heading--hunterseeker}
 Qualified by making the **jump ramp shot** (ball must hit the harvester switch after the jump ramp) when no Harvester Battle is ongoing and insert is flashing white (qualified after completing a battle).
 
 The Hunter-Seeker appears as a single **roving lit shot** that moves from left to right across all 9 shot positions, spending **5 seconds** at each position. During the 1-second transition between positions, both the old and new positions are valid.
@@ -381,12 +381,12 @@ The Hunter-Seeker appears as a single **roving lit shot** that moves from left t
 
 Shoot the lit shot to catch the Hunter-Seeker and collect the current value. If the Hunter-Seeker reaches the end (position 8) without being caught, it escapes and no points are awarded.
 
-## Sandwalk Combo
+## Sandwalk Combo {#heading--sandwalkcombo}
 The side ramp (both upper loop and lower exit) starts a sandwalk combo when lit gold. The left orbit also continues an active sandwalk. Starting value: **4,000,000 pts**, increasing by **250,000** each time.
 
 After a sandwalk ends, there is a **1-second grace period** before it fully resets, and a **3-second timer** before the sandwalk relights. Incomplete sandwalks still add **half the base value** to the Run value.
 
-### Run From Shai-Hulud
+### Run From Shai-Hulud {#heading--runfromshaihulud}
 After completing a configurable number of sandwalks (default **3**, increases by 1 after each run up to a configurable maximum of **10**), the side ramp lights **solid gold** for a Run.
 
 The Run has a configurable duration (default **30 seconds**). During the Run, make **5 side ramp shots** to complete it. The Run is a timed mode with its own overlay display; a warning video plays when 5 seconds remain. Double-flipping during the intro animation skips straight into the Run.
@@ -397,7 +397,7 @@ Completing the Run awards a **DUNE letter**. Failing to complete it within the t
 
 The Run prevents Battles, Prophecy modes, Fedaykin Multiball, Desert Power, and DUNE wizard modes while active.
 
-## Spice Dreams
+## Spice Dreams {#heading--spicedreams}
 While a ball is locked in the Sand Trap and Fedaykin Multiball is not running, hitting the **left inlane** qualifies a Spice Dream and the Sand Trap triangle insert flashes orange. You then have 5 seconds to shoot the ball into the Sand Trap to collect it. If the timer expires, the opportunity is lost.
 
 **A collected Spice Dream awards:**
@@ -414,7 +414,7 @@ While a ball is locked, each hit on the Sand Trap drop target builds your Spice 
 
 ---
 
-# Bene Gesserit Awards
+# Bene Gesserit Awards {#heading--benegesseritawards}
 Mystery award collected at the left ramp each cycle between day/night (except first cycle). Left ramp will be lit purple when available.
 
 Awards are drawn from 3 pools in a fixed rotation order: **Common, Common, Rare, Special** (then repeats). 
@@ -457,8 +457,8 @@ When a pool award would be useless (for example, spice filled to maximum capacit
 |Max spice but already at max spice|1,000,000|
 ---
 
-# Multiballs
-## Desert Power
+# Multiballs {#heading--multiballs}
+## Desert Power {#heading--desertpower}
 Desert Power multiball locks can be activated by hitting the Thumper bumper. The number of thumper hits required increases with each multiball played: **(multiballs_played × 2) + 2** hits needed.
 
 After the first Desert Power multiball, you will need to hit the Thumper item drop target (blue) to reactivate the Thumper bumper for lock activation. It will be flashing between blue and green to indicate this.
@@ -467,7 +467,7 @@ Once activated, the locks will be active at the left & right orbit shots. After 
 
 Note: By default (configurable), Desert Power multiball will be automatically qualified if not played before ball 3 is started.
 
-### Build Phase
+### Build Phase {#heading--build-phase}
 Before starting the multiball, you can increase the jackpot value by sending the ball into the desert power field (pit). The trapped ball becomes a bash toy.
 
 - **Base jackpot:** 5,000,000
@@ -477,14 +477,14 @@ Before starting the multiball, you can increase the jackpot value by sending the
 
 The build phase lasts approximately **10 seconds**. After that, the worm path fills up and the message changes to "Shoot Worm To Start Multiball!" The jackpot value then begins to **decrease over time** (every 3 seconds) down to a floor equal to the starting jackpot value.
 
-### Active Phase
+### Active Phase {#heading--active-phase}
 Jackpot shots are lit orange. The "side" jackpot shots can be moved one shot over by using the switch in front of the Worm area. Hit the same switch repeatedly to send the jackpot all the way to the right or left for maximum multiplier. Each step moved from the starting location provides a multiplier (2x, 3x & 5x respectively). Shot will move back to the center after some time if the switch is not hit.
 
 Once 3 jackpots are collected, the super jackpot phase will be qualified. To start it, you need to send a ball in the desert power field. You then need to use the other ball(s) to bash the captive ball to build the super jackpot. This will deplete a meter on screen. Once it is empty, the captive ball will be released. Collect the super jackpot at the spinner in the desert power field. Hitting it by entering the desert power field from the front will provide a 2x multiplier. The value of the super jackpot will be the value of the 3 jackpots collected combined. Super jackpot bash time is configurable (default **20 seconds**).
 
 Once the super jackpot has been collected, the 3 jackpot shots will be relit to do the cycle again, as long as at least 2 balls remain in play.
 
-## Fedaykin
+## Fedaykin {#heading--fedaykin}
 2-ball Multiball at the middle-right kickback lane (Sand Trap).
 
 The drop target must be hit first to allow access to the Sand Trap. For the first Fedaykin multiball, only one hit is required. Each subsequent time, one additional drop target hit is required. The number required is shown by the number of lit red bars behind the drop target. Lock difficulty is configurable (EASY: always 1 hit, MEDIUM: max 2, HARD: max 3).
@@ -510,7 +510,7 @@ In Fedaykin Multiball, the Sand Trap will be lit. Shooting the Sand Trap will do
 
 ---
 
-# Pain Box
+# Pain Box {#heading--painbox}
 Left outlane ball save opportunity. Is automatically available at the start of ball 2 by default (configurable: 0–10, 0 to disable). Note: a loaded Sand Snork will take precedence over the Pain Box and immediately save your ball, leaving your Pain Box to be used on a future left outlane drain.
 
 When active, visible with the purple insert above the left outlane, will trigger the ball to be captured into the apron. Player needs to hold the action button and keep it pressed until proven worthy.
@@ -523,7 +523,7 @@ Kickback ball save time is configurable (default **3 seconds**).
 
 ---
 
-# DUNE Letters
+# DUNE Letters {#heading--duneletters}
 You need to light all four DUNE letters to qualify each mini-wizard mode. Once a mini-wizard mode has been played, you need to relight the letters again. The mini-wizard modes (4 in total) are played in order (or selectable - see DUNE Mode Selection below). Each letter scores **750,000 pts**.
 
 You gain a letter by:
@@ -538,13 +538,13 @@ You gain a letter by:
 
 ---
 
-# Mini-Wizard Modes
-## DUNE Mode Selection
+# Mini-Wizard Modes {#heading--miniwizardmodes}
+## DUNE Mode Selection {#heading--dunemodeselection}
 When enabled (configurable, default on), and fewer than 3 DUNE modes have been played, the player can **choose which DUNE mode to play** (Battle of Arrakeen, Fall of Sietch Tabr, or Liberate Arrakis) using flipper buttons and the action button. A **9-second timer** counts down (resets on input). In tournament mode or when only one option remains, selection is skipped and the next mode in order is played automatically.
 
 The 4th DUNE mode is always Voice From the Outer World.
 
-## Battle of Arrakeen
+## Battle of Arrakeen {#heading--battleofarrakeen}
 The Harkonnens are attacking Arrakeen to eliminate the Atreides.
 
 - Single-ball mode
@@ -553,7 +553,7 @@ The Harkonnens are attacking Arrakeen to eliminate the Atreides.
 - Shoot the Harvester (jump shot at the back of the Worm) to complete the mode and collect the hurry-up value.
 - Completing the mode awards a DUNE letter.
 
-## Fall of Sietch Tabr
+## Fall of Sietch Tabr {#heading--fallofsietchtabr}
 Hunt Harkonnen in the blowing sand. Save as many Fremen as you can.
 
 **Phase 1 - Hunt Harkonnen:**
@@ -567,7 +567,7 @@ After these 6 kills, the Harkonnen are retreating. Head for the Sietch at the ri
 **Phase 3 - Save Fremen:**
 Shoot any shot (Right ramp, desert power field front or back, Center ramp) that goes into the Sietch area to save as many Fremen as you can (**370,000 pts** per Fremen with **5,000 boost**). Each switch hit & spinner spin inside the desert power field will save 1 Fremen. Do this as many times as possible before time runs out (**30 seconds**) for the mode completion.
 
-## Liberate Arrakis
+## Liberate Arrakis {#heading--liberatearrakis}
 Unleash desert power on the Harkonnens and Sardaukar. Take down the Baron. Jackpot values are based on your performance in Desert Power and Fedaykin Multiballs.
 
 **Phase 1 - Call the Worms:**
@@ -598,7 +598,7 @@ After 10 Harkonnens have been defeated, shoot the worm 3 times to break down the
 **Phase 7 - Defeat the Baron:**
 Once the remaining ball is released, a hurry-up starts at the left orbit. The hurry-up begins at half the total jackpots collected throughout the mode and counts down over 20 seconds to a floor of 10% of its starting value. Shoot the left orbit to collect and defeat the Baron.
 
-## Voice From the Outer World
+## Voice From the Outer World {#heading--voicefromtheouterworld}
 The final wizard mode. Paul must defeat Feyd-Rautha in single combat.
 
 **Setup:** 2-ball minimum is maintained throughout. All other game systems are prevented (resources, time, items, battles, prophecies, etc.).
@@ -626,7 +626,7 @@ When either fighter reaches low health, the fight intensifies. A hurry-up activa
 
 ---
 
-# Bonus
+# Bonus {#heading--bonus}
 End of ball bonus is calculated as:
 
 **(Total Water × 13,000 + Total Spice × 22,000) × Multiplier**
@@ -637,7 +637,7 @@ End of ball bonus is calculated as:
 
 ---
 
-# Extra Balls
+# Extra Balls {#heading--extraballs}
 - 2nd Harvester Battle won (configurable: 0–6, default 2)
 - Bene Gesserit award (from the Rare pool)
 - Replay score (configurable - not by default, need to change in settings)
@@ -645,13 +645,13 @@ End of ball bonus is calculated as:
 
 ---
 
-# Easter Egg
+# Easter Egg {#heading--easteregg}
 On your last end of ball bonus, you can press the action button to sacrifice yourself by biting on your poisoned tooth for a +1% increase to bonus. Note if this causes the player to pass the scoring threshold for an extra ball, the poison tooth is available on that ball as well. This is disabled in tournament mode.
 
 ---
 
-# Alternate Game Modes
-## Barrel Ball
+# Alternate Game Modes {#heading--alternategamemodes}
+## Barrel Ball {#heading--barrelball}
 Barrels of Fun's implementation of "stall ball" - A party/competitive elimination game mode, accessible from the gameplay modes menu (hold right flipper during attract mode). Must be enabled in settings (default: on).
 
 **Setup:** Players set a player count using the flipper buttons. The game uses a single ball with special drain handling - draining counts as an elimination but launches a new ball.

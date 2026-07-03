@@ -6,7 +6,7 @@ opdb_id: "G187W"
 source: https://tiltforums.com/t/final-resistance-rulesheet-multimorphic-2023/8926
 ---
 
-# Final Resistance
+# Final Resistance {#heading--top}
 This is a work in progress, but wanted to get started in sharing the rules and information about this awesome game!
 
 # Final Resistance
@@ -36,7 +36,7 @@ This is a work in progress, but wanted to get started in sharing the rules and i
 
 ----
 
-## Team
+## Team {#heading--team}
 - Playfield Design: Scott Danesi
 - Art: “Johnny Crap”/Jonathan Bergeron
 - Code: Michael Ocean
@@ -45,7 +45,7 @@ This is a work in progress, but wanted to get started in sharing the rules and i
 - Mechanical: TJ Weaver
 - Music and Sound: Scott Danesi
 
-## Playfield walkthrough
+## Playfield walkthrough {#heading--playfieldwalkthrough}
 From left to right:
 
 - The left targets (above the left flipper) are used to spell out LOCK to advance Lock and load multiball.
@@ -64,7 +64,7 @@ From left to right:
 - The right targets (above the right flipper) are used to spell out LOAD to advance Lock and load multiball.
 - A series of walls and scoops that span the playfield from left to right about 70% of the way to the back of the machine are used as collects and obstacles throughout the game.
 
-## Skill Shots
+## Skill Shots {#heading--skillshots}
 The game has 2 skill shots available, and hitting the skill shot awards points and opens the shield in front of the lock and right ramp. Each skill shot has a second combo shot that awards a Super Skill shot for more points.
 
 - Left Ramp (Super Skill shot: Combo the Right Ramp)
@@ -72,21 +72,21 @@ The game has 2 skill shots available, and hitting the skill shot awards points a
 
 Hitting any other switch turns off the ability to collect the skill shot. There is no switch grace (ie — grazing a standup and making the spinner shot will not award the skill shot). Additionally, the spinner skill shot requires the shot make it all the way around the loop to score (not just spinning the spinner)
 
-## Super Spinner
+## Super Spinner {#heading--superspinner}
 Hitting the spinner during play will advance the digits on the spinner display upward. Not hitting the spinner will reduce that display number over time. If the display is advanced to 99, super spinner is awarded, where hitting the spinner will award the displayed value in hundreds per spin. This will continue as the spinner counts back down to 00, ending the super spinner mode.
 
-## Multiballs
+## Multiballs {#heading--multiballs}
 There are two primary muliballs in the game: Ship and Lock and Load.
 
-### Ship Multiball
+### Ship Multiball {#heading--shipmultiball}
 Ship multiball is achieved by locking three balls in the scoop to the direct right of the right ramp. This scoop is behind the shield blocking the ship, which must be raised by either dangerous shots to the shield, or a hack powerup. The muliball begins after the third ball is locked, with the balls being fired directly back at the player on a very short ball save. Jackpots are achieved by locking back in the scoop. A jackpot-like award is also available on the right orbit, though the kickback will be enabled. Jackpot x can be increased by hitting the jackpot saucer in succession, and the value will drop after a time.
 
 Add a ball can be achieved if a Lock and Load ball is on the playfield and struck, but it sadly adds no additional ball save time.
 
-### Lock and Load
+### Lock and Load {#heading--lockandload}
 A ball can be added to lock and load by hitting the side targets to spell LOCK and LOAD on the left and right side of the playfield, respectively. This will flash the drop target in the middle of the playfield to the left of the right ramp/shield area. This ball will be captive until a mode is in play — hitting the drop target will not release the ball unless the mode is running. Lock and load provides a bit of mode safety and a short ball save when started.
 
-## Battles:
+## Battles: {#heading--battles}
 - Trapped
 - The Fuse
 - Ground War
@@ -101,7 +101,7 @@ Battles (modes) will light after a set time at either orbit (with a flashing blu
 
 The objective of the game is to complete all battles successfully. If you succeed or fail in a battle, the game will still move on to the next battle until all battles have been played. The game will then cycle through the battles that have not been successfully completed until all battles have been successful, then the 9th battle will light.
 
-### Trapped
+### Trapped {#heading--trapped}
 Victory Criteria: Complete 3 rounds of shooting the lit scoop wall. Survival rank is given for completing 2 modes, failure for 1 or less completed modes.
 
 Pre-Emptive Strike Advantage: Instead of one wall being open, two walls will be open.
@@ -112,7 +112,7 @@ Shooting the open wall advances rounds, moves the wall, and adds a second ball i
 
 At any time, draining any of the balls shot to the lower playfield will “end” the mode: All scoops will turn white and open, and any shots will deposit the balls back into the trough via the scoops. 
 
-### The Fuse
+### The Fuse {#heading--thefuse}
 Victory Criteria: Complete all Purple Shots before time runs out.
 
 Pre-Emptive Strike Advantage:
@@ -121,7 +121,7 @@ At the start of the battle, a number of shots will be lit purple for completion,
 
 There is a limited time to complete all purple shots, indicated by the fuse at the top of the playfield monitor that moves from right to left. Hitting a shot for progress will reset the fuse timer to full. All shots are needed for a victory condition.
 
-### Ground War
+### Ground War {#heading--groundwar}
 Victory Criteria: Move the battle line all the way to the right to defeat the enemy.
 
 Pre-Emptive Strike Advantage: Battle line starts further right
@@ -132,7 +132,7 @@ Over time, if shots are not hit, the green shot will move to the left and the pr
 
 The battle ends by either moving the shot all the way right, or is lost by the shot moving all the way left.
 
-### Blast Shield
+### Blast Shield {#heading--blastshield}
 Victory Criteria: Hit each of 4 shots twice. Hitting each shot once will achieve a “Survived” rank.
 
 Pre-Emptive Strike Advantage:
@@ -143,7 +143,7 @@ At the conclusion of the timer (indicated by the ring around the mode icon in th
 
 Victory will be achieved by having two shields at each location at the completion of the laser. Survival points will be granted if one shield is in each location. 
 
-### Power Down
+### Power Down {#heading--powerdown}
 Victory Criteria: Hit enough shots to reduce the number on the Spinner Display to 0, then hit flashing shot to complete.
 
 Pre-Emptive Strike Advantage: Start at 69% instead of 99%
@@ -152,7 +152,7 @@ Power Down requires a certain number of shots (lit purple/dark blue) to be hit t
 
 Once the spinner display has been reduced to 0, hit any flashing shot to complete the mode and earn victory.
 
-### Missile Wave
+### Missile Wave {#heading--missilewave}
 Victory Criteria: Get ship health below 100 by firing missiles at the ship.
 
 Pre-Emptive Strike Advantage: start with a missile already on the left flipper
@@ -165,7 +165,7 @@ Missile Wave requires three shots to complete the sequence:
 
 Shots will light on the right half of the playfield after the second step in either green, yellow or red. Green shots (right ramp) will do full damage to the ship (50% of the enemy health). Yellow shots (those adjacent to the right ramp) will do some partial damage. Red shots will see the enemy destroy the missile before it is launched, causing no damage. 
 
-### Swarm
+### Swarm {#heading--swarm}
 Victory Criteria: Hit a jackpot
 
 Pre-Emptive Strike advantage: No perceptible change, though you will lose your pre-emptive strike.
@@ -176,14 +176,14 @@ Jackpot shots are at the shots behind the shield (Tip: use hacks to open the shi
 
 It is not possible to fail this battle. Hitting some set of jackpots seems to always award an extra ball at battle completion.
 
-### Annihilation:
+### Annihilation: {#heading--annihilation}
 Victory Criteria:
 
 Pre-Emptive Strike Advantage:
 
 Annihilation is the 9th battle in the game, and is only achievable by successfully completing all prior battles.
 
-## Power Ups:
+## Power Ups: {#heading--powerups}
 Powerups are awarded at the scoop by hitting white lit shots. Additionally, mystery is lit at the scoop by hitting all yellow standup targets. At this time, it appears mystery only ever awards a powerup, so I’m unclear what the distinction between the two are. Successful completions of battles will also award powerups.
 
 Powerups are selected using the white buttons adjacent to the flipper buttons on each side. Powerups are used by hitting the launch button.
@@ -197,22 +197,22 @@ The powerups available include:
 - Simplify
 - Nuclear Blast
 
-### Hack
+### Hack {#heading--hack}
 Hack is the most prevalent powerup in the game. It can be earned by mystery/power-up award at the scoop, or by spelling H-A-C-K on the inlanes and outlanes.
 
 Hack will raise the shield in front of the right ramp/lock scoop. If Hack is used while the shield is up, it is still consumed and the hack will fail.
 
-### Shotgun
+### Shotgun {#heading--shotgun}
 Shotgun will spot shots to the left and right of a standup when a standup is hit. Once “used”, the shotgun will remain active and unconsumed until a standup is hit, or the ball is ended.
 
-### Time Slowdown
+### Time Slowdown {#heading--timeslowdown}
 Time slowdown will slow all ingame timers (and the music — a nice touch!). Good uses for this is to give time to complete a few more shots on a mode before it expires and extending a ball save timer.
 
-### Freeze
+### Freeze {#heading--freeze}
 The next mode shot hit after activating freeze will lock in that shot as a shot that will continue to advance the mode. This can be helpful in modes where the shots change to lock in a shot you can hit well, and have it to continue to make progress even if it wouldn’t advance the mode in normal conditions. Frozen shots will “thaw” after a period of not being hit.
 
-### Simplify
+### Simplify {#heading--simplify}
 Simplify is based on the similarly named powerup from the television game show “The Cube”. In short, simplify makes “the thing” some degree easier — “the thing” varying from mode to mode. In some modes, this may spot shots, advance progress, or in Trapped, open another wall to use.
 
-### Nuclear Blast
+### Nuclear Blast {#heading--nuclearblast}
 Nuclear blast is awarded only after a certain number of battles have been won, though the exact criteria is unknown. Nuclear blast will award all shots on the playfield as being hit. The downside is it also kills the user: all solenoids turn off until the ball drains. Oops.

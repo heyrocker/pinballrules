@@ -8,7 +8,7 @@ source: https://tiltforums.com/t/lexy-lightspeed-escape-from-earth/2848
 
 # Lexy Lightspeed - Escape from Earth
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Multimorphic
 - Designer: Dennis Nordman, TJ Weaver
 - Code/Rules: BJ Wilson, Gerry Stellenberg, Michael Ocean
@@ -19,7 +19,7 @@ source: https://tiltforums.com/t/lexy-lightspeed-escape-from-earth/2848
 - Release Date: July, 2017
 - Original Wiki Rulesheet hosted on [Tilt Forums](/multimorphic/lexy-lightspeed-escape-from-earth_G4doo)
  
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **Multiballs** (not coupled with story mode)
 
 Secret Agent Multiball (2-8 balls)

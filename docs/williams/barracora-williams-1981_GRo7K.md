@@ -10,13 +10,13 @@ source: https://tiltforums.com/t/barracora-williams-1981/485
 
 **Barracora (Williams 1981)**
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Williams 
 - Release Date: 1981
 - Original Wiki Rulesheet hosted on [Tilt Forums](/williams/barracora-williams-1981_GRo7K)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 **Playfield features**
 
 **Top lanes 1-2-3 / 4-5-6:** Lane change is controlled by left and right flippers. Right controls 1-2-3 and left controls 4-5-6. Completing 1-2-3 advances the value of the left saucer 30k 60k 90k. In order to complete 4-5-6 the ball must roll through a lit 1-2-3 lane insert while to claim an unlit 4-5-6 insert. Completing 4-5-6 advances upper right stand up target 20k 40k EB. Completing both 1-2-3 and 4-5-6 lights collect bonus and upper left saucer. Rolling through a lit or unlit lane advances bonus score.

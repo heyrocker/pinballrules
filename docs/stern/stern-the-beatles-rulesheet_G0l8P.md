@@ -25,7 +25,7 @@ source: https://tiltforums.com/t/stern-the-beatles-rulesheet/7840
   - [Special](#heading--special)
 
 
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Lead Designer: George Gomez / Mike Kubin (original designer of the source material, *Seawitch*)
 - Code/Rules: Dean Grover
 - Lead Mechanical Engineer: Tom Kopera
@@ -36,12 +36,13 @@ source: https://tiltforums.com/t/stern-the-beatles-rulesheet/7840
 - Wiki Rulesheet based on Code Rev: 1.22
   - *Edit the Code revision, if applicable, when you make changes*
 
-## Layout:
+## Layout: {#heading--layout}
+
 | Gold: | 
 | --- | 
 | ![](https://sternpinball.com/wp-content/uploads/2018/11/Beatles-Gold-Playfield-sm-848x1536.webp) |
 
-## Skill Shots:
+## Skill Shots: {#heading--skillshots}
 - Short plunge to star rollover: 10k.
 - Short plunge to upper right flipper followed by upper loop: 25k.
 - Plunge into the hole below the Top Magnet and hit the top Pop Bumper: 100k.
@@ -50,7 +51,7 @@ source: https://tiltforums.com/t/stern-the-beatles-rulesheet/7840
 
 Hitting the same Skill Shot a 2nd, 3rd, etc. time will increase the amount of points awarded.
 
-## Modes:
+## Modes: {#heading--modes}
 Modes are lit at the start of a ball and can be changed with the flippers; the goal of each 60-second timed mode is to complete whichever objective is listed above the flippers to advance the level of the mode. The lit mode alternates every 5 seconds. Once a mode has ended (whether by time running out, or by completing it after level 5 has been reached), the next mode can be started by completing F-A-B and F-O-U-R, then shooting the upper magnet. If the mode has been lit during the ball, the pop bumpers will cycle the lit mode. The inserts for modes that have been completed all the way to level 5 will be lit solid, while those that have been played but not completed will slowly flash, and the currently selected mode will flash quickly.
 
 * **All My Loving**: 2-Ball Multiball. This untimed mode is added into the mode rotation on ball 3 as a pity multiball, or after the four other modes have been played. Jackpot increases with switch hits, starts at 250k points, and can be collected at the upper magnet. All scoring is doubled while the mode is running and **[Mystery](#heading--mystery)** will award an add-a-ball. 
@@ -61,7 +62,7 @@ Modes are lit at the start of a ball and can be changed with the flippers; the g
 
 Completing any mode will light Super Jackpot at the target behind the F-A-B drop targets for the entire value of the mode that was completed prior. This unlights if the player drains, and if multiple modes are completed on the same ball without scoring the Super Jackpot, the value will be multiplied by however many modes were played beforehand. (i.e. if you complete 2 modes without collecting the Super Jackpot and then collect it, it will award a 2x Super Jackpot for your 1st mode and a 1x Super Jackpot for your 2nd mode. This can go up to 5x for completing all five modes!)
 
-## Wizard Modes:
+## Wizard Modes: {#heading--wizardmodes}
 There are two wizard modes in the game that can be accessed by making it far enough in the game's five  **[modes](#heading--modes)**, then shooting the upper magnet. (*What happens if both wizard modes were qualified at once?*)
 
 ### Hard Day's Night / Beatlemania! Multiball:
@@ -72,7 +73,7 @@ After reaching level 5 in all 5 modes, a shot to the upper magnet will begin Tax
 
 Other Features:
 
-Drop Targets:
+Drop Targets: {#heading--harddaysnight}
 All 3 drop target banks have inserts in front of them for "Advance Loops," "Advance Multipliers," and "Score Bonus." Progress towards these features do not carry over from ball to ball. Completing 1-9-6-4 in order scores a bonus (*how much?*)
 
 Complete all 3 drop target banks once each on a single ball to light the **[extra ball](#heading--extraball)**, which alternates between inlanes with slingshot hits.
@@ -81,13 +82,13 @@ Complete all 3 drop target banks once each on a single ball to light the **[extr
 * **Advance Multipliers**: Complete whichever drop target bank has the lit "Advance Multipliers"/"X" insert to increase the bonus X by +1x, up to 7x. Bonus X carries from ball to ball.
 * **Score Bonus**: After lighting the extra ball by completing all three drop target banks, do it again on the same ball and a bonus will be awarded. (*More information needed.*)
 
-### Loop Value:
+### Loop Value: {#heading--loopvalue}
 Completing any **[drop target bank](#heading--droptargetbanks)** will advance the loop value by the number on it's Advance Loops insert. Loop shots are worth 2k per lit loop insert. **[BEATLEMANIA Awards](#heading--beatlemaniaawards)** that add multipliers to the loops will reset the loop value. (*How is "Bonus 2x Loop Value" lit?*)
 
-### Right Spinner:
+### Right Spinner: {#heading--spinnervalue}
 Completing any of the 4 Beatles standup targets lights a star in front of the right spinner. Each star advances the spinner value. The spinner value resets at the end of the ball.
 
-### Mystery:
+### Mystery: {#heading--mystery}
 Shoot the 2 "Light Mystery" standup targets - one in the top left corner and one in the top right corner - to light Mystery at the standup target below the F-A-B drop target bank. Mystery prioritizes *add-a-ball* as the first award during any multiball, and *add time* as the first award during any timed **[mode](#heading--modes)**.
 
 In Competition Mode, Mystery awards are scored in the following order:
@@ -101,7 +102,7 @@ In Competition Mode, Mystery awards are scored in the following order:
 - **[Hold Bonus](#heading--bonus)**
 - 100k
 
-### Beatlemania Awards:
+### Beatlemania Awards: {#heading--beatlemaniaawards}
 Every shot to the upper loop or right orbit will spot a letter in BEATLEMANIA. Spell BEATLEMANIA to light the upper magnet for an award, given in the following order:
 
 - Light 2x Spinners
@@ -109,11 +110,11 @@ Every shot to the upper loop or right orbit will spot a letter in BEATLEMANIA. S
 - Collect **[Bonus](#heading--bonus)**
 - 10x Loops?
 
-### Bonus:
+### Bonus: {#heading--bonus}
 Bonus is built by switch hits and maxes out at 75k. Bonus X increases by completing the **[drop target bank](#heading--droptargetbanks)** with the "Advance Multiplier" insert lit and carries over between balls.
 
-### Extra Ball:
+### Extra Ball: {#heading--extraball}
 Extra ball is lit at the left inlane by completing all three **[drop target banks](#heading--droptargetbanks)** and alternates between inlanes with slingshot hits. A lit extra ball is unlit if the ball drains without collecting it, and they are worth 200k if extra balls are disabled.
 
-### Special:
+### Special: {#heading--special}
 Special is lit at the left outlane after reaching 7x Bonus, and alternates between outlanes with slingshot hits. Scores 400k if specials disabled.

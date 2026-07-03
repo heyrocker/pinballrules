@@ -8,13 +8,13 @@ source: https://tiltforums.com/t/dialed-in-rulesheet-wiki/2855
 
 # Dialed In!
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Jersey Jack Pinball
 - Release Date: August 2017
 - Original Wiki Rulesheet hosted on [Tilt Forums](/jersey-jack/dialed-in-rulesheet-wiki_G4X2l)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 Note:  Likely filled with errors and needing improvements/corrections.  A cleaner format with images and tables is available at https://pinside.com/pinball/forum/topic/dialed-in-rulesheet#post-3851000
 
 **Skill Shots**

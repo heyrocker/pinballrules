@@ -8,7 +8,7 @@ source: https://tiltforums.com/t/game-of-thrones-pinball-rulesheet/936
 
 # Game of Thrones Pinball
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Stern
 - Release Date: October 2015
 - Wiki Rulesheet based on Code Rev: 1.37
@@ -17,7 +17,7 @@ source: https://tiltforums.com/t/game-of-thrones-pinball-rulesheet/936
 
 Thanks to captainbzarre for starting this thread!
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 A image version of the rulesheet can be found at http://i.imgur.com/P7tWVL8.jpg.
 
 **Choose Your House**

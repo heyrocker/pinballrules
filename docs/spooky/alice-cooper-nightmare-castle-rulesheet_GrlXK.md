@@ -8,7 +8,7 @@ source: https://tiltforums.com/t/alice-cooper-nightmare-castle-rulesheet/3950
 
 # Alice Cooper Nightmare Castle
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Spooky Pinball
 - Release Date: January 2018
 - Wiki Rulesheet based on Code Rev: 1.1.0.1
@@ -16,7 +16,7 @@ source: https://tiltforums.com/t/alice-cooper-nightmare-castle-rulesheet/3950
 - Original Wiki Rulesheet hosted on [Tilt Forums](/spooky/alice-cooper-nightmare-castle-rulesheet_GrlXK)
 
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 SKILLSHOT
 Launch the ball and attempt to shoot the ramps, orbits, or crypt lock to light the secret passage and the outlane ball save. The right ramp will award the skill shot even if the ball only goes half way up.  Hitting any other shot, or the slings, will fail the skillshot.
 

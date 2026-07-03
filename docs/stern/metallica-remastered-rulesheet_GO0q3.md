@@ -45,7 +45,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
   - [End of the Line (Wizard Mode)](#heading--eotl)
   - [The Unforgiven (Super Wizard Mode)](#heading--unforgiven)
 
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Lead Designer: John Borg
 - Code/Rules: Lyman F. Sheats Jr. (RIP), Lonnie D. Ropp, Mike Kyzivat (*original code*); Raymond Davidson (*expanded code*)
 - Artwork:
@@ -57,7 +57,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
 
 ***Metallica*** was one of the first Stern releases to revitalize interest in physical pinball back in 2013 and received continuous improvement from code champion Lyman Sheats in the following years. The game is highly regarded for "Crank It Up" and the risk / reward decision making involved that shaped many more recent releases, the wide variety of multiball and mode stacking opportunities, and of course, the music & callouts courtesy of the band themselves. The game was given a re-release as an LCD-era machine in late 2024 and obtained some quality-of-life fixes along with a few new modes and rules. Learn how to rock this game here!
 
-## Rules Overview
+## Rules Overview {#heading--overview}
 - Shoot the main features (Grave Markers, Electric Chair, Coffin Captive Ball, and Snake) enough times to begin [**multiball**](#heading--multiballs) modes and make progress towards [**Crank It Up**](#heading--ciu) modes. 
    - During **Crank It Up**, shoot the flashing shots to build the jackpot value. Making all four main features again during Crank It Up lights the scoop to either cash out the jackpot or continue the mode.
    - Play all 4 **Crank It Up** modes to qualify **End of the Line**.
@@ -71,7 +71,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
 - Light **resurrection** ball save by hitting the grave marker targets.
 - Shoot the captive ball to light **[Extra Ball](#heading--ebs)** at the scoop.
 
-## Song Choice:
+## Song Choice: {#heading--tracklist}
 At the start of the ball the player is able to choose one of the 22 songs in the game as background music. This choice has no effect on gameplay. 
 
 Starting any feature, mode or multiball, will change background music to the associated song. Each song that corresponds to a mode has an associated **[setlist combo](#heading--luxaeterna)** described in the appropriate section.
@@ -103,7 +103,7 @@ Starting any feature, mode or multiball, will change background music to the ass
 |If Darkness Had a Son|72 Seasons|2023|6:36|
 [/details]
 
-## Skill Shots
+## Skill Shots {#heading--skillshots}
 Plunge for the flashing rollover to score a skill shot value of 200k. The skill shot value increases by 50,000 for each skill shot made, and plunging for the right rollover awards 2x the skill shot value.
 
 **Super Skill Shot**: Holding the left flipper disables the orbit up-post and activates the super skill shot which can be collected by shooting any major shot (including the scoop, the captive ball, the Snake, and Sparky). This typically awards 2x the value of the standard skill shot & increases their value by 100k, but there are bonus awards for making certain lanes as super skill shots:
@@ -112,7 +112,7 @@ Plunge for the flashing rollover to score a skill shot value of 200k. The skill 
 - **Blue Spider Arrow:** Qualifies that shot for a [**Coffin Hurry-Up**](#heading--seek) & adds 200k to the next skill shot. On Ball 1 the lit shot will be random on default settings or the left orbit on Competition mode. On subsequent balls the lit spider arrow will carry over from your previous ball (see [**Collecting Items**](#heading--items)).
  - **Rollover lanes:** 2x the value of a standard skill shot (4x if you plunge to the right lane!)
 
-## Multiballs & Band Members
+## Multiballs & Band Members {#heading--multiballs}
 Multiball modes are a quick way to rack up points and **[collect items](#heading--items)** on ***Metallica***. There are six different multiball modes, four of which are mutually exclusive, and one of which is exclusive to machines with the topper installed; *one* additional multiball mode, can be started during **[Coffin Multiball](#heading--cmb)**.
 
 During any multiball mode, completing the four pick targets lights the Snake for a timed lock + 2x playfield for 20 seconds. Scoring the timed lock also adds a ball into play the first time it has been scored during any multiball, and activates a ball saver for about 10 seconds. Playfield scoring resets to 1x once the timer expires.
@@ -121,7 +121,7 @@ All **[side modes](#heading--modes)** can be started or brought into Multiball m
 
 Starting or scoring super jackpots during Electric Chair, Grave Marker, Snake and Coffin Multiballs qualifies band members or advances their level. The total of all band members' levels are used to determine scoring during the mini-wizard mode, **[Blackened](#heading--blackened)**, which lights at the scoop after playing all four multiballs. The maximum level for each band member is 8; their levels carry over across the entire game, and getting each member to level 8 awards a letter in UNFORGIVEN to qualify the **[super wizard mode](#heading--unforgiven)**.
 
-### Electric Chair Multiball (James)
+### Electric Chair Multiball (James) {#heading--ecmb}
 Song: *Creeping Death* (odd-numbered multiballs), *Ride the Lightning* (even-numbered multiballs)
 
 **Starting Multiball**
@@ -136,7 +136,7 @@ Each Super Jackpot collected electrocutes one of seven Sparky characters indicat
 
 Level up **James** by starting this multiball, or scoring super jackpots during the multiball.
 
-### Grave Marker Multiball (Robert)
+### Grave Marker Multiball (Robert) {#heading--gmmb}
 Song: *Master of Puppets*
 
 **Starting Multiball**
@@ -155,7 +155,7 @@ After the super jackpot has been collected, the number of jackpots required to q
 
 Level up **Robert** by starting this multiball, scoring double jackpots at the magnet, or scoring super jackpots during the multiball. Multiplied super jackpots (using the method described above, not through any other means) add +1 level per multiplier.
 
-### Snake Multiball (Kirk)
+### Snake Multiball (Kirk) {#heading--smb}
 Song: *Sad But True*
 
 **Starting Multiball**
@@ -170,7 +170,7 @@ Collect 5 Snake Combo jackpots to light all shots for super jackpots, valued at 
 
 Level up **Kirk** by starting this multiball, or scoring super jackpots during the multiball.
 
-### Coffin Multiball (Lars)
+### Coffin Multiball (Lars) {#heading--cmb}
 Song: *For Whom the Bell Tolls*
 
 **Starting Multiball**
@@ -187,7 +187,7 @@ Jackpots are available during this multiball by alternating between the captive 
 
 Level up **Lars** by starting this multiball, or scoring captive ball jackpots during the multiball.
 
-### Frantic Multiball
+### Frantic Multiball {#heading--fmb}
 Song: *Frantic*
 
 **Starting Multiball**
@@ -200,7 +200,7 @@ Frantic is a 4-ball multiball where all five major shots are constantly changing
 
 If at least three shots are the same color, then the piston target will light to score a super jackpot worth the total of all jackpots prior (excluding the **[2x playfield multiplier](#heading--fuel2x)**) and adding a ball into play, to a maximum of 3 times. The super jackpot is multiplied by the number of shots with a matching color minus 2.
 
-### And Justice for All Multiball (Topper Exclusive Mode)
+### And Justice for All Multiball (Topper Exclusive Mode) {#heading--topper}
 Song: *...And Justice for All*
 
 **Starting Multiball**
@@ -213,10 +213,10 @@ And Justice for All multiball's rules are comparable to that of the side mode th
 
 The super jackpot multiplier increases by +1x every time METALLICA is spelled during the multiball. However, as soon as a super jackpot is scored, the multiplier and the super jackpot value will reset; though any letters in METALLICA that were collected will remain.
 
-## Crank It Up
+## Crank It Up {#heading--ciu}
 These are the game's main single-ball modes, which have the potential for huge scores if players are willing to put up with the risk of keeping the ball alive. Crank It Up lights at the scoop after collecting 12 of each **[item](#heading--items)** +1 per Crank It Up played during the same game. A **[fifth Crank It Up mode](#heading--eotl)** awaits players who make it through all four.
 
-### Collecting Items
+### Collecting Items {#heading--items}
 To light the scoop for **[Crank It Up](#heading--info)**, 12 (+1 per subsequent mode) of the four items must be collected:
 - **[Electric Chairs](#heading--ecmb)**
 - **[Grave Markers](#heading--gmmb)**
@@ -231,7 +231,7 @@ Crank It Up lights at the scoop as soon as the required items have been collecte
 
 Shoot the scoop, and then choose from any of the four Crank It Up modes (that haven't been played yet) using the flipper buttons - or a relatively low amount of points (5M + 1M per subsequent mode) instead of starting it.
 
-### Crank it Up Mode Information
+### Crank it Up Mode Information {#heading--info}
 The goal of each Crank It Up mode is to score as many points as possible by shooting flashing shots, then cashing them out at the scoop. These are *long* modes (averaging around 6 minutes each!), so take your time - but remember that ball save is only active for the first few seconds of the mode. A "completion bonus" is scored after making enough shots during the mode, collected right away and added to the jackpot. Scoring the completion bonus adds one letter to UNFORGIVEN to qualify the **[super wizard mode](#heading--unforgiven)**, and enables victory laps for the rest of the mode.
 
 During any Crank It Up mode, making a direct shot to each of the four main features described above will light the scoop to either collect the current jackpot value (L flipper), or continue the mode (R flipper). 
@@ -249,22 +249,22 @@ The Crank It Up modes, from left to right, are as follows:
 - **Battery**: Shoot Sparky over and over to score increasing amounts of points and light the electric chair inserts at other shots for jackpots. Hitting the ramps & orbits increases the value of the next Sparky hit, with one random flashing shot that resets when Sparky is hit increasing the value by 2x.  Make 12 shots to Sparky to score the **Completion Bonus**. (**Crank It Up bonus** will light all five shots for 2x advances.)
 - **Enter Sandman**: Three randomly selected inserts on each of the five major shots will be flashing, which alternate shots with *every* switch hit. Making any shot with a solidly lit insert scores a jackpot, which can be doubled or tripled if more than one lit insert is on that shot. Light all 15 of the inserts solid to score the **Completion Bonus.** (**Crank It Up bonus** will add one insert). 
 
-## Side Modes
+## Side Modes {#heading--modes}
 Side modes can be started at *any time*, even during **[multiball modes](#heading--multiballs)**, so long as **[Crank it Up](#heading--ciu)** isn't currently running. Many side modes have ways to extend their timers, allowing them to potentially last for much longer than their initial timers.
 
-### 72 Seasons
+### 72 Seasons {#heading--72}
 Complete the four pick targets to light **[super spinner](#heading--spinner)** and qualify progress towards this frenzy mode (additional completions are required for subsequent 72 Seasons plays). Once the targets are completed, making 72 switch hits will start **72 Seasons**. Completing the pick targets again during the switch countdown will boost the value of each switch during the mode by an additional 25k. The switch countdown is de-activated and can't be advanced during any multiball.
 
 Once 72 Seasons starts, a 72-second timer will start and all four pick targets will be lit to score toy jackpots worth a minimum of 200k. Each switch hit adds 50k to the jackpots (+50k if you were able to complete the pick targets multiple times prior). The jackpot value will not reset until the mode ends (after all four targets are hit).
 
 Hitting all four targets during 72 Seasons also awards a **[self-destruct button](#heading--hardwired)** use.
 
-### Hardwired Hurry-Up
+### Hardwired Hurry-Up {#heading--hardwired}
 Hit all five shots with hardwired inserts (the ramps, orbits, and grave marker targets) during single-ball, non-mode play to light the scoop to start **Hardwired Hurry-Up**. Continuing to hit shots with hardwired inserts flashing before shooting the scoop will increase the value for each hurry-up during the mode by 400k per shot.
 
 Once Hardwired starts, all five shots will be lit to score a hurry-up value starting at 5M + any boosts prior, decreasing over time. Collecting each shot scores the hurry-up value and resets. The fifth, final shot of each Hardwired hurry-up is called the Hardwired jackpot and starts at the sum total of all four prior hurry-ups that were scored. Scoring the Hardwired jackpot also awards a **[self-destruct button](#heading--button)** use at the action button, which either advances towards lighting Hardwired, or scores a hurry-up when the mode is running. 
 
-### Setlist Combos / Lux Aeterna
+### Setlist Combos / Lux Aeterna {#heading--luxaeterna}
 There are 14 unique setlist combos in the game that can only be earned when certain modes are running. The combos, modes they're associated with, and the values they add to the **[combo jackpot](#heading--combos)** are listed below. 
 
 [details="Setlist combos"]
@@ -292,14 +292,14 @@ Each setlist combo earned during the mode that matches it will award a **[self-d
 
 If the mode timer is under 10 seconds, shooting a combo will reset the timer back to 10 seconds even if it doesn't complete the current level.
 
-### FUEL Fast Scoring
+### FUEL Fast Scoring {#heading--fuel}
 Shoot the FUEL targets four times to add to the FUEL gauge, displayed in the center of the playfield, and light the dead end target behind them for **[2x Playfield](#heading--fuel2x)**. Once the FUEL gauge is completely full (after three completions of FUEL for the first attempt), the next shot to any of the targets will start the **FUEL frenzy**. 
 
 This frenzy mode allows the player to rack up big points so long as they maintain their fuel gauge. Every switch hit scores a value that starts at 5k. Direct shots to the FUEL target add time to the mode, increases the switch value by 1k (to a max of 15k) and lights the piston target for fuel jackpot (750k + 50k each time it is earned). The frenzy ends when the player's FUEL gauge runs out, though there is a lengthy grace period to keep it running.
 
 Further FUEL frenzies during the same game require one additional completion of the FUEL targets to qualify.
 
-### Lady Justice
+### Lady Justice {#heading--justice}
 Every shot to the left and right ramps scores a letter in METALLICA (2 letters are earned by making the ramp shots as **[combos](#heading--combos)**). Once the word has been completed with 9 shots, shoot either ramp again to begin **Lady Justice**. METALLICA letters can also be scored from random **[mystery awards](#heading--mystery)**.
 
 The goal of Lady Justice is to attempt to "balance the scales" by alternating shots between the left and right sides of the playfield. The value for the next shot on either side of the playfield is displayed on the DMD, starting at 750k (+250k each time the mode is played) and increasing by 50k for each shot made there. Alternating shots between both sides of the playfield scores the current value plus 500k (+250k each time the mode is played). The orbit up-post is disabled during this mode.
@@ -308,7 +308,7 @@ Making any shot if the timer is under 15 seconds resets the timer to that value.
 
 If the **topper** is installed, and the player isn't in a **[Crank it Up](#heading--ciu)** or non-coffin **[multiball](#heading--multiballs)** mode, each shot adds letters to the topper to re-spell METALLICA, with fast-flashing shots scoring 2 letters and flashing shots scoring 1 letter. Once METALLICA is spelled again, **[And Justice for All multiball](#heading--topper)** will start.
 
-### Coffin Hurry-Ups / Seek & Destroy
+### Coffin Hurry-Ups / Seek & Destroy {#heading--seek}
 Seek & Destroy starts as soon as all five **Coffin Hurry-Ups** have been collected at the captive ball. 
 
 **Coffin hurry-ups** are started by lighting all three **[items](#heading--items)** at any of the five major shots, then shooting the shot with the strobing inserts. They can also be automatically qualified through one of the **[super skill shots](#heading--skillshots)**. Hurry-ups start at 750k + 50k x the total of all non-coffin items' shot levels, which increase as shots with the blue arrow *and* an item insert on it are made. The value increases by 750k x the number of active hurry-ups, if multiple hurry-ups are active at once. Once a hurry-up is scored, the three items at the shot that was used to start it will be locked in and won't disappear until Seek & Destroy starts.
@@ -317,13 +317,13 @@ Seek & Destroy starts as soon as all five **Coffin Hurry-Ups** have been collect
 
 All lit shots during Seek & Destroy add 1 of each item towards qualifying the next **[Crank it Up](#heading--ciu)** mode if it isn't already lit.
 
-## Other Scoring:
-### 2x Playfield
+## Other Scoring: {#heading--other}
+### 2x Playfield {#heading--fuel2x}
 Every completion of the **[FUEL targets](#heading--fuel)** lights the dead end target for 2x playfield for 20 seconds. This multiplier is additive with the 2x playfield from the **[snake add-a-ball](#heading--multiballs)**, meaning 4x scoring is possible during all multiball modes with both playfield multipliers active.
 
 The 2x playfield timer can be reset by hitting the dead end target again while 2x playfield is already running.
 
-### Dead End Lane, Blown Pistons & Super Pistons
+### Dead End Lane, Blown Pistons & Super Pistons {#heading--blownpistons}
 Blown pistons are lit at the dead end lane by hitting the bumpers - 10 hits are required per bumper. When the five rollover lanes that light **[mystery](#heading--mystery)** are completed, progress towards lighting blown pistons is temporarily doubled (starts as soon as the first bumper is hit and lasts 20 seconds, reset with bumper hits).
 
 Up to three blown pistons can be lit at a time; continuing to hit the bumpers when any piston is solidly lit will level up the piston insert and start it flashing. Normally up to 3 pistons can be earned per dead end lane shot, but if all 3 are flashing, then 6 will be scored. Each dead end lane shot with a piston lit also scores 100k + 250k x total awards pending (up to 7 awards per red bumper), x2 if all 3 are flashing.
@@ -333,21 +333,21 @@ Blown pistons are used to collect various awards throughout the game:
 - 8, 18, 28, etc.: **[Hold Bonus X](#heading--bonus)**
 - 15, 40, 80, etc.: Light **[Extra Ball](#heading--ebs)**
 
-### Super Spinner
+### Super Spinner {#heading--spinner}
 Light the orbits for **super spinner** by completing the four pick targets (the same ones that are used to start the switch countdown for **[72 Seasons](#heading--72)**, or light the snake add-a-ball during any **[multiball](#heading--multiballs)** mode.) Super spinner is indicated by an orange light at both orbits.
 
 Super spinner lasts for as long as the spinner session lasts and awards 100k per spin + 5k per target completion (+25k if the targets were completed from left to right). The orbit up-post will always lower if super spinner is lit to guarantee a full orbit shot.
 
 Super spinner can be lit at any time during play, but not during **[Blackened](#heading--blackened)** or **[End of the Line](#heading--eotl)**, though its value can still be increased by hitting the targets as normal.
 
-### Resurrection (Ball Save)
+### Resurrection (Ball Save) {#heading--resurrection}
 **Resurrection** is lit at both outlanes after hitting the **[grave marker drop targets](#heading--gmmb)** enough times. The first Resurrection of a game requires 3 targets, increasing by 3 for each subsequent lighting up to a max of 12.
 
 Hitting a grave marker drop target as part of a **[combo](#heading--combos)** will award additional hits towards Resurrection based on the combo length.
 
 The first time Resurrection is used in a game, both outlanes are lit separately from each other. Afterwards, however, draining down one lit outlane will unlight both of them.
 
-### Self-Destruct Buttons
+### Self-Destruct Buttons {#heading--button}
 **Self-destruct buttons** are used by pressing the action button when flashing. When pressed, all currently lit **[items](#heading--ciu)** are collected (with one coffin awarded for each column of 3 items), and progress is made towards **[Hardwired Hurry-Up](#heading--hardwired)**, either advancing a shot towards starting it or collecting a hurry-up if the mode is running.
 
 There are many different ways to earn self-destruct button uses and a maximum of 3 can be earned at a time, at which point the action button will start flashing red / orange to indicate that you should use one if you want to earn more:
@@ -359,7 +359,7 @@ There are many different ways to earn self-destruct button uses and a maximum of
 - Level 3 or 4 **[mystery award](#heading--mystery)** (2 are awarded at level 4)
 - Scoring a super jackpot during **[Blackened](#heading--blackened)**
 
-### Combos & Combo Jackpot
+### Combos & Combo Jackpot {#heading--combos}
 Shooting shots that flow into each other consecutively without missing will award combos, indicated by the flashing red arrows. Combos also increase the progression towards specific features if they are the last shots made in the combo:
 
 - Dead-end lane - **combo jackpot** is awarded. Starts at 750k each ball and remains boosted by 2-way combos until collected, at which point it resets to 750k + 250k x number of shots made in the combo chain before hitting the dead-end lane, each time it is scored. See the **[setlist combo](#heading--luxaeterna)** section for info on how the combo jackpot is boosted.
@@ -371,7 +371,7 @@ Each combo scores points on its own as well: 250k + 500k x (combo length greater
 
  **[Extra Ball](#heading--ebs)** is lit after shooting 15, then 50, then every 50 combos after that.
 
-### Mystery
+### Mystery {#heading--mystery}
 Complete all 5 rollover lanes (3 inlanes, 2 above pop bumpers), which alternate with the flippers, to enable **[super pistons](#heading--blownpistons)** and light Mystery at the scoop. Complete them multiple times for better awards, up to level 4. Shoot scoop when Mystery is lit to collect a random award. A full set of the mystery awards and which levels they correspond to can be seen below:
 
 [details="Mystery awards & levels"]
@@ -399,7 +399,7 @@ The mystery animation can be skipped by pressing both flippers.
 
 During **[Crank It Up modes](#heading--ciu)**, Mystery always awards "Crank It Up Bonus", worth the value of the next required shot and any associated bonuses. The mystery level does not effect this award.
 
-### Extra Balls
+### Extra Balls {#heading--ebs}
 Extra Balls can be lit to collect at the scoop by:
 
 - Shooting the captive ball 10, then 50, 100, etc. times (first extra ball is percentage-based and can be as low as 5)
@@ -408,13 +408,13 @@ Extra Balls can be lit to collect at the scoop by:
 
 If the extra ball cap has been reached, extra ball awards 2.5M.
 
-### End-of-Ball Bonus
+### End-of-Ball Bonus {#heading--bonus}
 Bonus is determined by calculating the number of **[items](#heading--items)** the player has collected over the course of the game, multiplied by the bonus X (which increases with shots to the **[inline drop targets](#heading--gmmb)**).
 
 The bonus multiplier can be held by scoring enough **[blown pistons](#heading--blownpistons)** (8, 18, 28, etc.) or as a rare level 4 **[mystery award](#heading--mystery)**.
 
-## Wizard Modes
-### Blackened (Mini-Wizard Mode)
+## Wizard Modes {#heading--wizard}
+### Blackened (Mini-Wizard Mode) {#heading--blackened}
 Light the scoop for this mini-wizard mode by playing all four **[multiball modes](#heading--multiballs)** - electric chair, grave marker, snake, and coffin - in the same game. If **[Crank it Up](#heading--ciu)** is also lit at the scoop, the player will be prompted to choose between the two modes, with the left flipper starting Crank it Up and the right flipper starting Blackened.
 
 Sparky's had enough of the band shocking him and gives them a taste of their own medicine. This 4-ball multiball starts by tallying up the total level of each band member and calculating the jackpot based on them. The jackpot starts at 800k, and is increased by 100k x the total levels of all band members. Band members at **level 8** correspond to:
@@ -428,7 +428,7 @@ During the multiball, all playfield scoring is multiplied by the balls in play m
 
 Add-a-balls are given after 3 shots have been blackened, or the super jackpot has been scored.
 
-### End of the Line (Wizard Mode)
+### End of the Line (Wizard Mode) {#heading--eotl}
 Once all 4 [**Crank it Up**](#heading--ciu) modes have been *played* (they don't need to be completed or cashed out), collect enough **[items](#heading--items)** to light the 5th Crank it Up mode and shoot the scoop to start **End of the Line.**
 
 At the start of End of the Line, you receive a hefty bonus for all the items you've collected in the game. This seems to be 200k per # of items collected throughout your game.
@@ -445,7 +445,7 @@ If you drain down to single-ball play during End of the Line, the scoop can be l
 
 Until the player qualifies Crank It Up again, they can continue to cash out 25% of the final collect for the remainder of the ball.
 
-### The Unforgiven (Super Wizard Mode)
+### The Unforgiven (Super Wizard Mode) {#heading--unforgiven}
 This super wizard mode starts as soon as UNFORGIVEN is spelled and no other modes are currently running. Spelling UNFORGIVEN requires completion of every other major task in the game:
 
 - Each **[band member](#heading--multiballs)** advanced to **level 8** awards a letter

@@ -30,7 +30,7 @@ source: https://tiltforums.com/t/elvira-s-house-of-horrors-rulesheet/5815
   * [End of Ball Bonus](#heading--bonus)
 * [Wild Market Value (Wizard Mode)](#heading--wildmarket)
 
-## Game Information & Overview:
+## Game Information & Overview: {#heading--gameinfo}
 - Designer: Dennis Nordman
 - Code/Rules: Lyman Sheats (*prior to 1.00*), 
 - Lead Mechanical Engineer: Tom Kopera
@@ -43,11 +43,11 @@ source: https://tiltforums.com/t/elvira-s-house-of-horrors-rulesheet/5815
 
 The mistress of the dark returns in ***Elvira's House of Horrors***, released by Stern Pinball at the end of 2019. Characters from 26 of the most infamous horror B-movies of all time have invaded a haunted house, and are wreaking havoc that can only be stopped by putting the characters back in the movies where they came from. You’ll also have to put up with Deadheads, Gar-Goils, and other creatures on your quest to clear the house.
 
-## Layout
+## Layout {#heading--layout}
 ### Premium:
 ![](https://sternpinball.com/wp-content/uploads/2019/09/Elvira-Premium-Playfield-232onqj3ca.webp)
 
-## Skill Shots
+## Skill Shots {#heading--skillshots}
 There are two Skill Shots on this game:
 - Plunging the ball so it lands in either Dead End lane will award 250k increasing by 25k each time a successful Skill Shot is made & increase bonus X by +5x.
 - Plunging the ball so it lands into the *Back Door* will award 1M (increasing by 250k each time a successful back door shot is made, maxing out at 2.5M) and instantly qualify a Haunt at the house entrance. If a Haunt has already been qualified, making this Skill Shot will immediately start it. If the Back Door Skill Shot is made during a Haunt or during Gappa Angry, it will advance the mode (spot next mode shot). The ball can also fall into the Back Door during Haunts via weak orbit shots, in which case it will spot progress on the current mode.
@@ -58,7 +58,7 @@ The taunting is over; the haunting begins! Elvira has just moved into a new home
 
 There are seven tasks the player needs to complete in order to start **[Wild Market Value](#heading--wildmarket)** and escape the house. Each task is listed below, and each one scores a value starting at 5M & increasing by 5M for each one completed.
 
-## Haunts
+## Haunts {#heading--haunts}
 The characters from some of the most infamous horror movies ever made are causing havoc in Elvira’s house and it’s up to you to get them back to their respective movie. Each mode has a unique introduction from the Mistress of the Dark herself.
 
 Start a Haunt by shooting the House Entrance enough times; when it’s RGB light is flashing purple, the next shot to the House will begin the Haunt. The windows of the House correspond to the Haunts and you can use either flipper to change which room you want to enter (see below). Once you’ve obtained a Skeleton Key from the **[Trunk](#heading--junk)**, you will be able to access "locked" Haunts by selecting the window at the far right.
@@ -228,15 +228,15 @@ Shoot the Trunk targets to light the left ramp to score a jackpot and light all 
 
 Other Scoring
 
-Side Modes
+Side Modes {#heading--trailertrash}
 These two modes can be advanced towards and started at any time during play, after making the required amount of shots to start them. These modes can’t be stacked on top of each other, or with Gar-Goils Gone Wild.
 - **Un-Happy Hour**: Make 5 (+2 for each time the mode is started) shots to either ramp to start this timed mode. Shots to either ramp are worth 350k + 25k increments for 30 seconds.
 - **Drive Me Crazy:** Make 5 (+2 for each time the mode is started) shots to either orbit to start this timed mode. Shots to either orbit are worth 300k + 25k increments for 30 seconds.
 
-### Double Trouble
+### Double Trouble {#heading--doubletrouble}
 Double Trouble can be a quick way to score many points. Light either inlane for Double Trouble by completing the Trunk targets and the Hand of Fate targets, then roll over the lit inlane to start 2x scoring for 30 seconds; you can extend the timer by another 10 seconds by completing either bank of targets again during the timer. Qualifying and starting Double Trouble again while the 2x timer is running will start 4x scoring and reset the timer!
 
-### Hand of Fate & Manos Wheel
+### Hand of Fate & Manos Wheel {#heading--manoswheel}
 The Hand of Fate is lit at the left outlane by completing the right target bank.  When triggered by losing the ball down the left outlane, the player is presented with a spinning wheel on the display which they must stop by hitting the lock down bar action button.  
 
 The wheel has 6 segments, each containing a different award.  The player is awarded the item the wheel is stopped on and the award is replaced with a portion of the image behind the awards.  When all awards are collected (and the image is complete), Manos Wheel will start.  
@@ -267,15 +267,15 @@ The third wheel:
 
 Manos Wheel will start after all awards have been collected once. A smaller wheel will start spinning on the display, with six slots corresponding to different point values (250k, 500k, 750k, 1M, 2M, 5M). Hitting any of the Hand of Fate targets will both collect the value and add that value to a Jackpot that can be collected at the left outlane. The mode ends when either the Jackpot is collected or the ball drains; however, the mode will still be available to start if you don’t collect anything off of the Manos Wheel before draining.
 
-### Return (Outlane Ball Save)
+### Return (Outlane Ball Save) {#heading--return}
 This is the right outlane ball save lit by defeating a Deadhead.
 
-### Extra Balls
+### Extra Balls {#heading--extraballs}
 Extra Balls are lit to collect at the House by...
 - Completing two Haunts
 - Defeating two Deadheads
 
-### End of Ball Bonus
+### End of Ball Bonus {#heading--bonus}
 Bonus is determined by:
 - Deadheads (250k per killed Deadhead, held from ball to ball) 
 - Haunt Shots (5k per Haunt Shot)
@@ -283,7 +283,7 @@ Bonus is determined by:
 
 x Bonus Multiplier (x Double Bone-Us if applicable)
 
-## Wild Market Value
+## Wild Market Value {#heading--wildmarket}
 This is a final wizard mode where you get to sell the house for a value built up during the game by hitting the wild market value spot target.  Once lit this mode is started at the cellar and starts a 30 second hurry-up to hit the wild market value spot target and sell the house.  
 
 These are the requirements to light this mode:

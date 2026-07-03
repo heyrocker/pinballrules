@@ -31,7 +31,7 @@ source: https://tiltforums.com/t/elton-john-rulesheet/8664
   - [Super Stardom](#heading--stardom)
   - [Final Tour](#heading--finaltour)
 
-## Game Information:
+## Game Information: {#heading--gameinfo}
 - Lead Designer: Steve Ritchie
 - Code/Rules: Joe Katz, Bill Grupp
 - Lead Mechanical Engineer: 
@@ -43,7 +43,7 @@ source: https://tiltforums.com/t/elton-john-rulesheet/8664
 
 ***Elton John*** is Steve Ritchie's first game as a designer for Jersey Jack Pinball. Chronicling the life and career of the eccentric musician, the game features a wide selection of "milestones" that can be completed to access the final tour, allowing for many different ways to play the game for a high score.
 
-## Rules Overview:
+## Rules Overview: {#heading--overview}
 - Time the plunge at the start of the ball to collect the lit skill shot award. Short plunge and shoot either upper lane (backstage, or the side ramp) to score a super skill shot. Full-plunge and shoot any drop target to quickly collect an album.
 - Songs can be selected at the start of the game, all future songs during a game chosen randomly. During each song, shoot the flashing shots to qualify wardrobe items at the backstage shot (the inner loop.) Collect all three items for high-value victory laps until the end of the song.
 - Shoot the drop target bank to fill out the Rocka-Box and collect albums. Each album corresponds to a different award - the fifth award unlocks five timed "encore modes," with a special Champ Multiball available after playing all five.
@@ -52,8 +52,8 @@ source: https://tiltforums.com/t/elton-john-rulesheet/8664
 - Spell ELTON JOHN by collecting all 9 stars scattered across the playfield to light lock at the side ramp. Lock 3 balls in the piano to start a Signature Stage Multiball that can be determined with the action button prior to starting it. The multiballs on the left of the display are easier than the ones on the right.
 - There are 10 different milestones that require mastery of one aspect of the game. Achieve 4 different milestones to qualify for the Final Tour wizard mode. Collect more milestones to improve Final Tour's scoring potential.
 
-## Layout:
-## Skill Shots:
+## Layout: {#heading--layout}
+## Skill Shots: {#heading--skillshots}
 There are five inserts located above the plunger lane - one is lit at a time, sweeping from top to bottom and back. The lit award is locked in & is given as soon as the ball passes the opto above the inserts. From top to bottom, the inserts are:
 - Big Points (200k)
 - Bonus X (+1x)
@@ -73,7 +73,7 @@ Alternatively, a full-plunge will reset the drop targets & light the whole bank 
 
 Each skill shot collected during the game will make the award inserts move faster. After collecting enough skill shots, the selection inserts will *light in an erratic pattern* instead of sweeping up and down, making it much more difficult to select a particular award.
 
-## Songs:
+## Songs: {#heading--songs}
 At the very start of the game, the player will be prompted to select one of 15 songs - this is the only opportunity the player has to choose a particular song.
 
 Depending on the song, note inserts will light across the playfield in different patterns. Each song has 3 levels to complete, with the current level indicated by the color of the lit notes (Yellow, then Orange, then Red.) Scoring values for each note are listed below each level's associated wardrobe item. Each note collected will slightly boost the current level's note value. A small counter above the current level's associated wardrobe item tracks how many more notes are required to complete that level.
@@ -102,12 +102,12 @@ Click the spoiler tab to view the full list of songs, presented in the order tha
 The name of the current song occasionally replaces the "Credit" counter on the display. The remaining time for the song is represented by the vanishing lights along the edge of the song panel. Songs will continue to run in the background of most Multiball modes (but not during wizard modes.) 
 Once any song times out, the next, randomly-selected song will start.
 
-### Wardrobe Items
+### Wardrobe Items {#heading--wardrobe}
 Advancing levels in each song also lights a wardrobe item - glasses, shoes, or outfit - to be collected at the Backstage shot (inner loop.) Item pickups remain available until the end of the song, and if several items are lit, they may be collected in quick succession by volleying the ball back into the Backstage shot. One of the **[milestones](#heading--milestones)** requires the player to collect all three items in one song.
 
 The first item collected starts **Double Song** for 30 seconds (all note shots score 2x), the second item activates **Double Notes** until the end of the song (2x progress for the *next 5 note shots*), and the third item will enable **Victory Laps** for the remainder of the song (***all shots** score 3M,* +100k per shot, up to 5M per shot.) Double Song timer is held after making a physical lock, until the next skill shot is awarded. Double Song & Double Notes features will end early when the ball is lost, when the song ends. Double Scoring can be carried into Victory Laps if all three Wardrobe items are collected in quick succession.
 
-## Albums & The Rocka-Box:
+## Albums & The Rocka-Box: {#heading--albums}
 Filling out the 9 squares in front of the center drop targets awards an album, alongside the currently indicated award at the top left of the display. Albums may also be collected from a full-plunge **[skill shot](#heading--skillshots)** to the drop targets. There are a total of 26 "normal awards" and 5 **encore modes**, indicated with green squares in the status report and only available after 5 normal awards have been scored.
 
 The most important award to remember is that **[encore modes unlocked](#heading--encore)** is given at the fifth drop target award.
@@ -149,7 +149,7 @@ Every six albums starts a timed frenzy mode at the rockabox targets. During "par
 
 One **[milestone](#heading--milestones)** requires the player to collect 30 albums off the Rocka-Box.
 
-### Encore Modes:
+### Encore Modes: {#heading--encore}
 The encore modes are unlocked after collecting five **[albums](#heading--albums)** from the drop targets and are started in different ways, as indicated below:
 - **Tiny Targets** - Hit the tiny dancer target 8 times to start. Rockabox award spots 2 target shots. All targets score bonus points. Shoot the left target to increase the multiplier for target values. 
 - **Super Bennie and the Jets** - Shoot 6 orbits to start. Rockabox award spots 2 orbit shots. Feed the bumpers via either orbit for bonus points. Piano ramp also redirects ball into bumpers while running. 
@@ -163,14 +163,14 @@ After playing all five encore modes, the player will be able to start **[Champ M
 
 Encore modes may be started again once Champ Multiball ends, but the number of shots required to start each mode will be greatly increased.
 
-## Multiball Modes:
+## Multiball Modes: {#heading--multiball}
 There are three different multiball modes on *Elton John*, one of which has four different variations. The three multiball modes are started in different ways.
 
 Balls can be added during any multiball by shooting the "light hurry-up" target near the left eject. This target is lit at the start of the multiball (once the ball save times out) and relights to add a ball, once per multiball, after scoring a super jackpot. Add-a-ball can be activated during a post-multiball grace period to revive the multiball.
 
 Only **[Crocodile Rock](#heading--croc)** and **[Rocket Man](#heading--rocket)** multiballs can be stacked. If both are running at once, the jackpots in both concurrent multiballs will be doubled.
 
-### Crocodile Rock Multiball:
+### Crocodile Rock Multiball: {#heading--croc}
 A VUK is hidden under the crocodile toy at the right side of the playfield. Lock can be lit at this VUK by shooting the Tiny Dancer target on the left side of the game. The player can also advance towards this multiball, either lighting a Lock or awarding the 1st Lock if already lit, by selecting "Adv. Croc MB" during a **[skill shot.](#heading--skillshots)**
 
 The first Crocodile Rock multiball only requires two balls to be locked at the crocodile. Subsequent multiballs during the same game require three balls to be locked there. Only one ball can be locked in the VUK at a time; further locks are virtual locks. After the second Crocodile MB, locks will begin to time out unless they are made, including locks lit from a skill shot. 
@@ -179,7 +179,7 @@ During Crocodile Rock multiball, shoot the flashing shots to score jackpots and 
 
 Collecting two super jackpots, or one 2x super jackpot, during this multiball awards a **[milestone](#heading--milestones)**.
 
-### Rocket Man Multiball:
+### Rocket Man Multiball: {#heading--rocket}
 Completing tasks throughout the game adds fuel to the rocket, shown at the bottom right of the display & represented by the LED rail next to the shooter lane. The initial fuel tank takes 500 units of fuel to fill. Making the rocket adds 50 units at once. Once the first tank of fuel is loaded into the rocket, the rocket kicker will light to start Rocket Man Multiball. Subsequent multiballs in the same game require 100 additional units of fuel to be loaded.
 
 After lighting Rocket Man Multiball, fuel can still be collected, and every 100 units of fuel collected grants a new perk for the multiball:
@@ -191,7 +191,7 @@ After lighting Rocket Man Multiball, fuel can still be collected, and every 100 
 
 During Rocket Man Multiball, by default, the player must shoot 7 unique jackpot shots to light the super jackpot at the rocket kicker. Once the super jackpot is scored, the process resets, but more jackpots are needed to relight the super.
 
-### Signature Stage Multiball:
+### Signature Stage Multiball: {#heading--stage}
 There are four Signature Stage multiballs that can be started at the side ramp, and selected with the action button once the first lock has been lit. To light the locks, the player must spell ELTON JOHN by collecting all 9 stars at the 9 major shots; either by hitting them directly, or by spelling STAR at the inlanes / outlanes to spot the leftmost letter. More spellouts are required for subsequent multiballs. Making any piano lock scores 500K, +100K for each lock made that game.
 
 The older the tour is in chronological order, the longer the ball save for it is; but the most recent tours are also the most valuable. Each tour features a different segment of **"Funeral for a Friend / Love Lies Bleeding"** for its background music.
@@ -209,11 +209,11 @@ Super jackpots during all four Signature Stage multiballs are scored the same wa
 
 Play all four Signature Stage multiballs to light **[Super Stardom](#heading--stardom)** wizard mode.
 
-## Other Scoring:
-### Star Bonus
+## Other Scoring: {#heading--other}
+### Star Bonus {#heading--starbonus}
 Completing a **[set of ELTON JOHN stars](#heading--stage)** awards bonus points, based on how much time passed between the first and last star's collection. This time will also flash on the piano display. Faster completion will award larger star bonuses. There is also a high-score entry for the fastest set completion, as well as for the most recent player who has completed the stars in exact order in either direction.
 
-### Honky Cat Hurry-Up & Kickback:
+### Honky Cat Hurry-Up & Kickback: {#heading--cat}
 Left outlane kickbacks can be earned by completing a Honky Cat hurry-up. Shoot the target near the left eject to light the hurry-up, then shoot the left eject when lit to light a random shot from the left flipper (any shot or target from the Left Ramp to the Rocket) to score the hurry-up value. If the hurry-up is successfully made, a kickback is qualified. If the hurry-up times out, the left eject will relight, and the next hurry-up attempt will have the same objective shot.
 
 Subsequent Honky Cat hurry-ups require more shots to the left target, up to 3.
@@ -222,7 +222,7 @@ Up to 3 kickbacks can be held in reserve. If a kickback completely fails (the le
 
 A **[milestone](#heading--milestones)** is awarded after collecting three hurry-ups.
 
-### Combos:
+### Combos: {#heading--combos}
 There is a wide variety of 3-shot combos recognized by the game. The full list of combos can be viewed in attract mode and are listed in the below spoilers tab. Each letter corresponds to the "ELTON JOHN" Star in front of that shot on the playfield.
 
 [details="List of Combos"]
@@ -262,7 +262,7 @@ Collecting five unique combos lights **[extra ball](#heading--extraballs)**.
 
 The 17th **[Rockabox award](#heading--albums)** resets the combo list, allowing previously-completed combos to be collected again.
 
-### Milestones:
+### Milestones: {#heading--milestones}
 There are ten different milestones awarded for completing different features in the game:
 - **Jukebox** - Collect 30 **[albums](#heading--albums)** on the Rocka-Box.
 - **SUPERSTAR!** - Over multiple **[Signature Stage multiballs](#heading--stage)**, collect all SUPERSTAR! letters and score the Superstar Jackpot.
@@ -277,14 +277,14 @@ There are ten different milestones awarded for completing different features in 
 
 Collecting any four of the ten unique milestones allows access to the **[Final Tour](#heading--finaltour)** wizard mode.
 
-### Extra Balls:
+### Extra Balls: {#heading--extraballs}
 The Tiny Dancer target lights for extra ball after:
 
 - Making 15 piano ramp shots (may be fewer if Auto Extra Ball % is enabled)
 - Shooting 5 lit targets, cumulative during any of the **[Rocka-Box frenzy modes](#heading--albums)** (party, shuffle, or puzzle)
 - Scoring 5 unique **[combos](#heading--combos)**
 
-### End-of-Ball Bonus:
+### End-of-Ball Bonus: {#heading--bonus}
 End-of-ball bonus points are awarded for:
 - Ball bonus (switches, etc.)
 - (?) x **[notes collected](#heading--songs)** (lit song shots)
@@ -293,10 +293,10 @@ End-of-ball bonus points are awarded for:
 
 The bonus multiplier increases as the STAR inlanes and outlanes are completed, which toggle with the flippers. It can be held from an **[album award](#heading--albums)**.
 
-## Wizard Modes:
+## Wizard Modes: {#heading--wizard}
 Once any wizard mode is available, it can be started at the side ramp when the "E-ticket" is flashing.
 
-### Champ Multiball:
+### Champ Multiball: {#heading--champ}
 After playing all five **[encore modes](#heading--encore)** awarded by collecting enough **[albums](#heading--albums)**, Champ Multiball will be qualified. Shoot the side ramp to start. *(If locks are lit for Signature Stage MB, you will not get credit for a ball lock when you start Champ MB.)*
 
 At the beginning of Champ Multiball, the total shots made during the encore modes will be tallied up, and serve as the scoring for their respective shots for as long as the multiball lasts. If *no* points, or very few points, were earned from a particular encore mode, a minimum shot value will be in its place. These shots *(except the Jets)* will count as jackpots and do not unlight after being shot!
@@ -316,7 +316,7 @@ After enough jackpots are made to complete the grid, the super jackpot initially
 |Fourth+|9 Jackpots|+5M|25K per drop target|
 [/details]
 
-### Super Stardom:
+### Super Stardom: {#heading--stardom}
 If the player starts all four **[signature stage multiballs](#heading--stage)** in one game, they will gain access to Super Stardom at the side ramp. A **[milestone](#heading--milestones)** is award for starting this mode.
 
 This is a single ball mode where each of the nine letter/star shots are color coded to correspond to a square on the grid. The goal is to shoot different shots to create patterns, then lock those patterns in with the drop targets to enable the action button to collect and fill up the meter. Fill the meter up all the way to reach Super Stardum.
@@ -360,7 +360,7 @@ Additional Details:
 [/details]
 
 
-### Final Tour:
+### Final Tour: {#heading--finaltour}
 Once the player has achieved four unique **[milestones](#heading--milestones)** (described in their respective section), they will gain access to the Final Tour wizard mode at the side ramp. The player can press the action button upon starting the Final Tour to abort if they want to achieve more milestones before the wizard mode. If Final Tour is aborted, you must collect another milestone to re-light Final Tour.
 
 This is a single ball mode where a group of shots will be lit on the playfield at a time. These shots change every 15 seconds and correspond to one of the four regions listed on the UI.

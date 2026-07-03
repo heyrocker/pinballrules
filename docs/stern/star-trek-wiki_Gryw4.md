@@ -36,7 +36,7 @@ source: https://tiltforums.com/t/star-trek-wiki/456
   - [Enterprise Amok](#heading--enterpriseamok)
   - [Five Year Mission](#heading--fiveyearmission)
 
-## Game Information
+## Game Information {#heading--gameinfo}
 * Lead Designer: Steve Ritchie
 * Lead Game Developer: Lonnie Ropp
 * Lead Mechanical Engineer: 
@@ -46,12 +46,13 @@ source: https://tiltforums.com/t/star-trek-wiki/456
 * Wiki Rulesheet based on Code Rev: 1.62
 
 
-## Layout
+## Layout {#heading--layout}
+
 | Premium/LE: | Pro:  
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2018/10/PREM-PF-845x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2018/10/Stern-StarTrek-Pro-Playfield-742x1536.webp)
 
-## Modes
+## Modes {#heading--modes}
 **General Mode Strategy** 
 Shoot the matching colored shots for the modes to earn points and advance. Combos will double points that would've been earned. Once you hit one mode shot, you can shoot the 'Away Team' shot (under the upper flipper), which adds 20 seconds and changes the primary objective of the mode to some specific shots. Usually, it's a pretty good idea to do so as the shots become much more valuable.
 
@@ -59,7 +60,7 @@ When a mode ends, start another mode (or restart the mode) by shooting the Missi
 
 It's always a good idea to hold off starting a multiball until JUST after you've started a mode. This allows you to stack the mode with a multiball. If the third lock is lit at the left eject hole when Mission Start is also lit, then you will be able to choose a mode and immediately start Klingon multiball.
 
-## Mode Levels
+## Mode Levels {#heading--modelevels}
 Each of the six colored hexagon modes has four versions with unique scoring rules and shot placement.
 
 Level I modes are the default "starting" modes, operating on a timer. When time runs out, all shots light to collect one single "final shot" and complete the mode (draining during "final shot" sequence also completes the mode).
@@ -70,7 +71,7 @@ Level II modes may only be started after completing their respective Level I (or
 
 Level III modes may only be started after completing their respective Level II mode. Level III modes operate similarly to Level II modes, but with improved scoring. Completing a Level III mode will light one particular shot on the playfield for double scoring for the rest of the game. In this case, the combo arrow for the shot lights permanently, effectively replacing 2x combo scoring.
 
-## Mode Scoring
+## Mode Scoring {#heading--modescoring}
 Each shot in a mode has a base value of 100K x level + shot bonus + streak bonus + 30K x shots made in the current mode. The shot bonus and streak bonus both start at 0, and each shot made increases the shot bonus by 5K and the streak bonus by 10K. On the first attempt at each level II or level III mode, the increase is multiplied by the level. The shot bonus carries over throughout the entire game, while the streak bonus resets at the end of each ball.
 
 For example, suppose a player starts a new game, starts a level I mode, makes 2 shots, drains, then makes another shot on ball 2.
@@ -80,8 +81,8 @@ For example, suppose a player starts a new game, starts a level I mode, makes 2 
 - Upon draining, the streak bonus resets to 0.
 - The 3rd shot is then worth 100K x 1 (level) + 10K (shot bonus) + 0 (streak bonus) + 30K x 2 (shots made in the current mode) = 180K. The shot bonus becomes 15K and the streak bonus becomes 10K.
 
-## Mode Details
-## Prime Directive
+## Mode Details {#heading--modedetails}
+## Prime Directive {#heading--modepd}
 **Level I:**
 30-second timer. All shots light blue and un-light when hit. Un-lighting five shots relights all shots; after a short timer, shots will also relight if no mode shot has been completed.
 Bronze – 3 shots, Silver – 6 shots, Gold – 9 shots
@@ -112,7 +113,7 @@ Final shot is doubled at right ramp.
 **Level 3 Completion:**
 2X on the Left scoop for the remainder of the game.
 
-## Space Jump:
+## Space Jump: {#heading--modesj}
 **Level I:**
 30-second timer. Four shots (both orbits, left ramp, right ramp) light yellow. Shooting a lit arrow un-lights the shot and one other shot, but will always re-light a combo. All shots re-light after a small timer elapses if no shots are made.
 
@@ -143,7 +144,7 @@ Final shot is doubled at the Vengeance.
 **Level 3 Completion:**
 2X on the Right Orbit  for the remainder of the game.
 
-## Save the Enterprise:
+## Save the Enterprise: {#heading--modeste}
 **Level I:**
 30-second timer. Three random adjacent shots light. Shoot any one to move to three new random adjacent shots (other shots unlight).
 
@@ -179,7 +180,7 @@ Complete 8 shots to finish the mode.
 **Level 3 Completion:**
 2X on the Right Ramp for the remainder of the game.
 
-## Nero:
+## Nero: {#heading--moden}
 **Level I:**
 30-second timer. Five shots light purple (all except scoop & warp ramp). Shooting a lit shot un-lights it. Re-light all five shots by either un-lighting all, or allowing a short timer to elapse.
 
@@ -213,7 +214,7 @@ Compete 5 shots to finish the mode. If the timer ends, progress will be saved.
 **Level 3 Completion:**
 2X on the Left Orbit for the remainder of the game.
 
-## Destroy the Drill:
+## Destroy the Drill: {#heading--modedtd}
 **Level I:**
 30-second timer. Lit shots "fan" from left to right as time elapses. Shooting a lit shot reverses the fan by 1 unit.
 
@@ -249,7 +250,7 @@ Complete 7 shots to finish the mode. If the timer ends, progress will be saved.
 **Level 3 Completion:**
 2X on the Warp Ramp for the remainder of the game.
 
-## Klingon Battle:
+## Klingon Battle: {#heading--modekb}
 **Level I:**
 30-second timer. Five shots (all except left eject hole & Vengeance) are lit. After the first mode shot, shooting a lit shot unlights it; after the next mode shot, the previously unlit shot will relight so that subsequently four shots are always lit.
 
@@ -279,7 +280,7 @@ This mode is not timed. Left ramp begins lit, with the lit shot spreading simult
 **Level 3 Completion:**
 2X on the Left Ramp for the remainder of the game.
 
-## Medals
+## Medals {#heading--medals}
 Medals (and points) are awarded for how well you play each mode (bronze/silver/gold).  After completing all modes a "medal bonus collect/jackpot" is awarded when you start the mini wizard mode. This value can be doubled if 2x is running. Medals accrue and are never replaced, thus earning a Silver Medal also leaves you holding a Bronze.
 
 The first bronze medal is worth 250k, with each subsequent bronze worth +125k more.
@@ -302,7 +303,7 @@ Level Two and Three modes: Now things start to get real. To medal, you can't jus
 Special Case #2: Klingon Multiball
 If you collect the Double Super Jackpot you will also receive a single, gold medal.
 
-## Captain's Chair and Level 3 Completion
+## Captain's Chair and Level 3 Completion {#heading--captainschair}
 **Captain's Chair:**
 Completing three same-level modes in a line enables the Captain's Chair. 
 |||||
@@ -324,7 +325,8 @@ Completing the Level 3 Mode of any of the 6 Modes will award a 2X Shot Multiplie
 |**Destroy the Drill**|Warp Ramp|
 |**Klingon Battle**|Left Ramp|
 
-## Warp Ramp Awards
+## Warp Ramp Awards {#heading--warprampawards}
+
 |Warp Level|# of Shots|Award|
 |---|---|---|
 |Warp 4|7|Extra Ball|
@@ -334,10 +336,10 @@ Completing the Level 3 Mode of any of the 6 Modes will award a 2X Shot Multiplie
 
 *Note:* Though additional extra balls cannot be earned, double scoring and ball into play can be earned again.
 
-## Multiball Add-A-Ball
+## Multiball Add-A-Ball {#heading--mbaddaball}
 The black hole shot to the right of Vengeance will award add-a-ball once during multiball when it is lit. Light it by shooting the 'red matter' targets around the playfield that you've ultimately hit plenty of times cause you're bad and you missed the ramps and loops.
 
-## Klingon Multiball
+## Klingon Multiball {#heading--klingonmb}
 Complete the 3 green standups light locks at Vengeance and left scoop. Lock 3 balls to start Klingon Multiball.
 
 For the first Klingon MB, each completion of the standups will light 2 locks, one at the left scoop and one at the Vengeance, and lit locks can be stacked. It is possible to light up to 6 locks, 3 at each shot, but Klingon MB will start upon locking the 3rd ball and any remaining locks do not carry over. The standups are disabled when all 6 locks are lit or when 2 balls have been locked and both shots have a lock lit.
@@ -348,23 +350,23 @@ Upon starting Klingon MB, all shots are lit for jackpots, starting at 200K with 
 
 Other multiballs include *Vengeance Multiball*, *Kobayashi Maru*, *Enterprise Amok*, and *Five Year Mission* all described below.
 
-## Vengeance Modes
+## Vengeance Modes {#heading--vengeancemodes}
 Hit Vengeance X number of times (or use torpedoes) to light Vengeance Mode
 
-### Torpedos
+### Torpedos {#heading--torpedos}
 Torpedo standups when completed add 3 torpedoes. Torpedoes accumulated are shown by the line of yellow triangles on the playfield and can be used by pressing the fire button to score Vengeance hits. Torpedoes will not award mode shots.
 
-### Vengeance Multiball
+### Vengeance Multiball {#heading--vengeancemb}
 Vengeance mode 1 is "Vengeance Multiball." Hit the magnet-held ball at multiball start to add a ball (upgrading from 2-ball to 3-ball play) and extend ball save time. Shots to Vengeance and lit white shots do damage and award points. Defeating Vengeance awards 5M after completing 10 shots and then shooting the Vengeance. Photon torpedoes can be used to complete shots except for the final shot.
 
-### Vengeance Scoring
+### Vengeance Scoring {#heading--vengeancescoring}
 Vengeance mode 2 is "Vengeance Scoring" which is a hurry up mode - 5 shots to destroy Vengeance - destroying Vengeance awards an extra ball.
 
-### Vengeance Battle
+### Vengeance Battle {#heading--vengeancebattle}
 Vengeance mode 3 is "Vengeance Battle." Shoot the Vengeance 5 times to raise the drop target. Shooting the drop target down gives you a very limited time to shoot the Vengeance for 10% of total score (or 10M, whichever is greater). If time runs out, the drop target with re-raise and you must hit it again to lower it.10% value is affected by combo (20%) and/or double scoring (up to 40%)
 
-## Wizard Modes
-## Kobayashi Maru
+## Wizard Modes {#heading--wizardmodes}
+## Kobayashi Maru {#heading--kobayashimaru}
 **Started by completing all level 1 modes**
 
 |**Medal Bonus**||||
@@ -375,7 +377,7 @@ Vengeance mode 3 is "Vengeance Battle." Shoot the Vengeance 5 times to raise the
 
 Once all level one modes have been completed, the Vengeance shot will light white for Kobayashi Maru. Starting Kobayashi Maru will immediately award you medal bonuses based on all medals collected so far. Then it is a 2-ball multiball with all shots lit except the Warp ramp.  Each shot requires 2 shots to clear it out - first shot is nominal points (500K to start); the second shot scores based on your performance in the corresponding level 1 mode (color coding tells you which mode).  Clearing them all out allows you to continue in single ball play even though you have 2 balls (or more with add-a-ball) active on the playfield. Shots in this mode max at 7.5M.
 
-## Enterprise Amok
+## Enterprise Amok {#heading--enterpriseamok}
 **Started by completing all level 2 modes**
 
 |**Medal Bonus**||||
@@ -386,7 +388,7 @@ Once all level one modes have been completed, the Vengeance shot will light whit
 
 Once all level two modes have been completed, the Vengeance shot will light white for Enterprise Amok. Starting Enterprise Amok will immediately award you medal bonuses based on all medals collected so far. This begins as a 2-ball multiball with all shots lit and a switch hit counter on the display. Completing the number of switch hits required will add a ball into play (except for the 6th and final round) and light all shots white for a final shot. The next shot hit will then be unlit for future final shots in the mode and will start a new higher switch hit requirement. After completing the 6th and final round, the Vengeance shot will be lit for a Super Jackpot. Completing this final shot allows you to continue in single ball play even though you have more than one ball active on the playfield.
 
-## Five Year Mission
+## Five Year Mission {#heading--fiveyearmission}
 **Started by completing all level 3 modes**
 
 |**Medal Bonus**||||
