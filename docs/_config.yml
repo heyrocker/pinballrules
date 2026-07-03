@@ -1,3 +1,8 @@
 theme: jekyll-theme-slate
 title: Pinball Rule Sheets
 description: A repository of rulesheets for pinball machines
+navigation:
+  - title: Home
+    url: /
+  - title: Master List
+    url: /rulesheet-master-list
