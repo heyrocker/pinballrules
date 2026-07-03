@@ -8,3 +8,5 @@ navigation:
     url: /rulesheet-master-list
   - title: Contribute
     url: /contribute
+  - title: Other
+    url: /other

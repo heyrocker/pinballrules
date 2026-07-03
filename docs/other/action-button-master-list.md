@@ -4,8 +4,6 @@ discourse_topic_id: 9237
 source: https://tiltforums.com/t/action-button-master-list/9237
 ---
 
-# Action Button Master List
-
 # Action Button Master List {#heading--top}
 - [Stern Pinball](#heading--stern)
 - [Jersey Jack Pinball](#heading--jjp)

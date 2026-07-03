@@ -38,6 +38,7 @@ This is a one stop reference list for games with their current code number. Any 
 - [Unofficial Updates](#heading--unofficial)
 ## Stern Pinball {#heading--stern}
 [Download code for all Stern pinball machines here.](https://www.sternpinball.com/game-code)
+
 |Game Title | Latest Version | Release Date|
 |--- | --- | ---|
 |Jurassic Park | 1.16 | Jul 1, 2026|
@@ -60,6 +61,7 @@ This is a one stop reference list for games with their current code number. Any 
 [Download code for all JJP pinball machines here.](https://www.jerseyjackpinball.com/support/downloads/)
 
 Beta updates not listed (any one can opt in to installing them)
+
 | Game Title | Latest Version | Release Date |Change Log Link(s) |
 |---|---|---|---|
 |Guns N' Roses | 3.03 | Mar 25, 2025 | [Log](https://marketing.jerseyjackpinball.com/gnr/gnr_changelog.txt) |
@@ -73,6 +75,7 @@ Beta updates not listed (any one can opt in to installing them)
 [Download code and release notes for all Multimorphic pinball machines here,](https://www.multimorphic.com/account/software/) or directly from the P3 connected to the internet.
 
 Beta updates not listed (any one can opt in to installing them)
+
 |Game Title | Latest Version | Release Date|
 |--- | --- | ---|
 |Barnyard | 2.1.0.0 | |
@@ -111,6 +114,7 @@ Beta updates not listed (any one can opt in to installing them)
 
 ## Spooky Pinball {#heading--spooky}
 [Download code for all Spooky pinball machines here.](https://www.spookypinball.com/game-support/)
+
 | Game Title | Latest Version | Release Date | Change Log |
 |---|---|---|---|
 | Evil Dead | [v2026.04.01](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.04.01.ed/2026.04.01.ed)] | Apr 1, 2026 | [Log](https://www.spookypinball.com/EvilDead)
@@ -118,6 +122,7 @@ Beta updates not listed (any one can opt in to installing them)
 
 ## Turner Pinball {#heading--pb}
 [Turner Pinball code can be viewed by clicking on updates.](https://turnerpinball.com/updates/)
+
 | Game Title | Latest Version | Release Date | Link |
 |---|---|---|---|
 | Ninja Eclipse - The Shadows Awaken | 0.9.5 | Aug 19 2025 | [NOTES] (https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.md) [FILES both needed] https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.enc https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.sig 
@@ -138,6 +143,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 
 ## Dutch Pinball {#heading--dutch}
 [Dutch Pinball code can be viewed by clicking on any product, then clicking Software Download on the right tab.](http://www.dutchpinball.com)
+
 | Game Title | Latest Version | Release Date | Link |
 |---|---|---|---|
 | Alice's Adventures in Wonderland | 0.99-5 | Soon | [Code](https://www.dutchpinball.com/alices_adventures_in_wonderland_software) |
