@@ -3,7 +3,7 @@
 @import "jekyll-theme-slate";
 
 .inner {
-  max-width: 1200px;  /* adjust to taste */
+  max-width: 1200px;
 }
 
 nav {
@@ -14,5 +14,25 @@ nav {
     font-weight: bold;
     text-decoration: none;
     &:hover { text-decoration: underline; }
+  }
+}
+
+#nav_wrap {
+  background: #4a6fa5;
+  border-top: 1px solid #555;
+}
+
+#nav_wrap nav {
+  padding: 10px 10px;
+  a {
+    color: #ddd;
+    margin-right: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 18px;
+    &:hover {
+      color: #fff;
+      text-decoration: none;
+    }
   }
 }
