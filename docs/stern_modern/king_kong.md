@@ -1,5 +1,4 @@
-<h1>King Kong: Myth of Terror Island</h1>
-
+# King Kong: Myth of Terror Island
 - [Game Information](#heading--gameinfo)
 - [Layout](#heading--layout)
 - [Skill Shots](#heading--skillshots)
@@ -35,8 +34,7 @@
   - [Terror on the Tower](#heading--tower)
 - [8th Wonder (Wizard Mode)](#heading--wonder)
 
-<h1 id="heading--gameinfo">Game Information & Overview:</h1>
-
+# Game Information & Overview: {#heading--gameinfo}
 - Lead Designer: Keith Elwin
 - Code/Rules: Rick Naegele, Joshua Henderson
 - Lead Mechanical Engineer: Harrison Drake
@@ -50,10 +48,8 @@
 
 ***King Kong: Myth of Terror Island*** is the long-awaited King Kong pinball machine 35 years in the making (Data East planned one, but it went unreleased due to high production costs). The machine uses entirely original assets and primarily bases itself on the original 1930s **King Kong** novel.
 
-<h1 id="heading--layout">Layout:</h1>
-
-<h1 id="heading--skillshots">Skill Shots:</h1>
-
+# Layout: {#heading--layout}
+# Skill Shots: {#heading--skillshots}
 - **Skill Shot**: Plunge the ball into the pit targets.
 - **Super Skill Shot**: Plunge the ball into the river lane near the mini-flipper.
 - **Anti-Skill Shot**: Plunge the ball into the left outlane. There is an "anti-skill luck shot" if the ball bounces back into play from the post and the player hits the right spinner or the gong!
@@ -70,14 +66,12 @@ If the ball falls back into the shooter lane during single-ball play, a "Sneak-I
 
 Skill shots are also used during the **[deadeye](#heading--deadeye)** side mode.
 
-<h1 id="heading--objectives">Main Objectives:</h1>
-
+# Main Objectives: {#heading--objectives}
 Ann Darrow, Jack Driscoll, and Carl Denham have arrived on the mysterious Terror Island to uncover it's secrets. Denham, the ambitious filmmaker, aims to capture King Kong, the legendary beast that roams the island, while Jack and Ann are more concerned with uncovering the island’s mystical riches.
 
 There are six main objectives listed above the flippers that must be completed to qualify the wizard mode, **[8th Wonder](#heading--wonder)**. These include the game's **main modes** (or **[island scenes](#heading--island)**) and various other objectives, some of which can be advanced towards while other objectives are running but others which are mutually exclusive. The objectives and rules for all six are listed below.
 
-<h2 id="heading--island">Island Scenes / Gong:</h2>
-
+## Island Scenes / Gong: {#heading--island}
 Shoot the gong to light island scenes at the same shot that was used to start them. On the Pro models that lack a gong, island (blue) arrows must be collected to light start scene: one arrow is required to light the first scene increasing by one per scene to a max of five.
 
 Every island scene completed by making the required shots in the 60-second time limit will award a **[map segment](#heading--map)**. The timer can be extended by +15 seconds by hitting the gong, once per scene. Playing all five island scenes rewards island scenes completed level 1 towards **[8th Wonder](#heading--wonder)**, but completing all five island scenes rewards it at level 2. The **[Crash the Gate](#heading--gate)** mini-wizard mode is also made available once all five island scenes are completed, and the player can repeat island scenes as many times as possible until they are completed. 
@@ -104,8 +98,7 @@ There are five Island Scenes:
 
 - **Escape the Swamp**: Build up the value of the punchback jackpot at the right loop by shooting the flashing shots. After scoring a punchback jackpot, shoot any upper flipper shot to multiply the value (side ramp - 2x, upper loop - 3x, river lane - 4x). Collect three punchback jackpots to complete.
 
-<h3 id="heading--lock">Island Locks, Island Jackpots & Victory Challenge</h3>
-
+### Island Locks, Island Jackpots & Victory Challenge {#heading--lock}
 Island Locks are used to upgrade **[island scene](#heading--island)** modes into 2-ball multiballs. The player cannot advance towards other **[multiball modes](#heading--multiballs)** while in a 2-ball island scene, until the player drains back down to a single ball.
 
 Light island lock at the right orbit by making enough **[climb shots](#heading--climb)** (reaching 200 ft and 500 ft). When lit, the right orbit shot will divert into the hidden sinkhole and the ball will be sent to the right flipper.
@@ -119,8 +112,7 @@ These features become enabled if the player activates an island scene mode with 
   - **Escape the Swamp** - punchback target hits 
 - **Victory Challenge**: After completing the required shots during an island scene, if the player is still in multiball, a victory challenge will start for the rest of the mode's length (the first 5 lit shots will add +5 seconds to the timer each). All shots are lit to score awards: "easy" shots score 5% of the mode total and "hard" shots score 10% of the mode total. After collecting all of the lit shots, the gong will light to score a victory jackpot worth 50% of the mode total. Victory challenge ends once time runs out or the player drains down to one ball.
 
-<h2 id="heading--climb">Climbing the Building:</h2>
-
+## Climbing the Building: {#heading--climb}
 Shoot the yellow-lit "climb" arrows to ascend the building and collect the awards indicated on the building above the flippers. 4 inserts are initially lit at random; each one awards 25 ft and unlights when the shot is made. Complete the set to climb one section of the building and light another set. After completing 3 sets, the 4th set onwards has 5 lit arrows for 20 ft each, and the 7th set onwards has 6 lit arrows. All climb arrows can be lit for a brief time by shooting the lit **[powerup target](#heading--kombos)**.
 
 Awards are given for every section of the building climbed:
@@ -139,8 +131,7 @@ Awards are given for every section of the building climbed:
 - 1200 ft -
 - 1250 ft - 30M (TBD: light **[Terror on the Tower](#heading--tower)**)
 
-<h3 id="heading--nyc">NYC Events:</h3>
-
+### NYC Events: {#heading--nyc}
 Complete all of the climb shots on the current level of a **[building](#heading--climb)** to light the right orbit for NYC Event.
 
 NYC Events *cannot be stacked* with other modes. An NYC Event cannot be started while an **[Island Scene](#heading--island)** or **[multiball](#heading--multiballs)** is active. If any timed mode is active, they end immediately/prematurely as if they timed out when starting an NYC Event.
@@ -179,8 +170,7 @@ Each modifier can only be chosen once; further NYC Events will force you to choo
   - Limited flips perk: Completing two lanes will light the kong cave to complete the mode and award a bonus based on the number of shots that were made prior. If all shots were made, they will relight. The U-turn upper loop will always spot shots.
   - Single-ball timed perk: Each shot completed adds +1x to the Retreat finishing bonus. Completing two lanes will light the kong cave to Rampage or Retreat. If the player chooses to Rampage, the mode will keep going and time will be added. If the player chooses to Retreat, they will cash out the finishing bonus and complete the mode.
 
-<h2 id="heading--plane">Biplane Attack:</h2>
-
+## Biplane Attack: {#heading--plane}
 To start Biplane Attack, make enough shots to the side ramp - 3 shots are required to start the first attack.
 
 Biplane Attack is a 30-second timed mode that lights the side ramp for a jackpot that increases as other switches are hit on the playfield: the left spinner and right spinner alternate being lit to increase the value each switch adds to the jackpot. Every time a jackpot is scored, a biplane will be destroyed. The player can defeat multiple biplanes in one round of Biplane Attack.
@@ -191,8 +181,7 @@ There are two combos that benefit Biplane Attack and can be scored at any time d
 
 Destroying 5 biplanes, or scoring 25M from a single defeated biplane, is one of the requirements for **[8th Wonder](#heading--wonder)**.
 
-<h2 id="heading--trex">Spell KING KONG:</h2>
-
+## Spell KING KONG: {#heading--trex}
 Collect all eight KING KONG letters to light **[T-Rex Battle](#heading--trexbattle)**.
 
 Letters can be collected by...
@@ -229,8 +218,7 @@ Each KING KONG letter adds +1 **[log bridge](#heading--bridge)** use at the acti
 
 Once both sets of KING KONG letters are completed, no further letters can be earned this game.
 
-<h3 id="heading--deadeye">Deadeye:</h3>
-
+### Deadeye: {#heading--deadeye}
 Deadeye mode is lit at the Kong cave eject after making it halfway through spelling **[KING KONG](#heading--trex)** (ie. collecting the first "G") on the Pro, or collecting the "O" in KING KONG on the Prem / LE. It can only be started during single-ball play.
 
 This mode plays similarly to the Skill Fire mode on Williams' *Congo*, but with an added jackpot feature. The ball will be held at the Kong cave eject and the player will have unlimited ball save for 30 seconds to make as many **[skill shots](#heading--skillshots)** as possible by plunging the ball with the correct strength. After scoring three Deadeye awards, the river lane will be lit to score the Deadeye jackpot for 3M + the total value of non-jackpot awards collected before plunging into the river lane. This process resets until time runs out, with a short grace period on the last skill shot before the mode ends. The Deadeye jackpot stays at the same value until the mode ends, even if it has already been scored.
@@ -239,12 +227,10 @@ The deadeye award starts at 1M and increases by 500k for each award collected. C
 
 Scoring the Deadeye jackpot awards a **[map segment](#heading--map)** the first time one is scored in a game.
 
-<h2 id="heading--multiballs">Multiballs:</h2>
-
+## Multiballs: {#heading--multiballs}
 Scoring a super jackpot during King Kong Multiball and playing the fourth Pit Multiball are required to fill their respective lights on the playfield gate.
 
-<h3 id="heading--kong">King Kong Multiball:</h3>
-
+### King Kong Multiball: {#heading--kong}
 Light the locks for this multiball at the center ramp by completing the drop targets when "light kong lock" is flashing.  All three locks will be lit the first time, but afterwards only one lock will light at a time. The third lock will start King Kong Multiball (or light it to start at the right orbit on the Pro). 
 
 King Kong multiball starts on the Prem / LE by releasing all three balls from the train for Kong awards at the side ramp. The Kong award then resets to a lower value for the rest of the multiball.
@@ -257,8 +243,7 @@ A ball can be relocked in the train by collecting all of the green arrow awards,
 
 **[Island mystery](#heading--mystery)** is disabled during this multiball, so add-a-balls can't be earned from it. Instead, balls can be added once per multiball by ringing the gong twice.
 
-<h3 id="heading--spider">Spider Pit Multiballs:</h3>
-
+### Spider Pit Multiballs: {#heading--spider}
 Hit the targets around the pit to battle the pit creatures and start multiball. Rolling through the right inlane briefly lights the pit to score 2x progress to the next multiball.
 
 The first multiball requires four pit shots, three to light it and one to start it. Two more pit shots are required to start subsequent multiballs. There are three pit multiballs and when you only have one shot left to start a Pit Multiball, the lit one changes every 10 seconds.
@@ -276,10 +261,8 @@ The mystery add-a-ball is disabled during Spider Queen multiball. Instead, if th
 
 Play Spider Queen multiball to complete level 1 towards **[8th Wonder](#heading--wonder)**, and score at least 250M during Spider Queen to complete level 2 towards it.
 
-<h1 id="heading--other">Other Scoring:</h1>
-
-<h2 id="heading--treasures">Treasures:</h2>
-
+# Other Scoring: {#heading--other}
+## Treasures: {#heading--treasures}
 Terror Island has more than its fair share of treasures hidden in its caves and temples. Help Ann and Jack to find them all!
 
 There are two main methods of earning treasures. The first method is by finding map segments to light the Kong Cave for **[treasure hunt](#heading--map)**, then following the gold arrows, and shooting the Kong Cave when flashing to uncover the treasure. The second method is by completing the **[Lost Temple](#heading--glyph)** glyph puzzle, then shooting the hidden "Island Treasure" target behind the drops.
@@ -298,8 +281,7 @@ Awards are given for every treasure discovered in a game. Alongside each treasur
 - 10 treasures: add +15 seconds to **[2x playfield](#heading--2x)**.
 - 11 treasures: 1 billion points! Cannot be multiplied by 2x scoring.
 
-<h3 id="heading--glyph">Lost Temple & Island Treasure:</h3>
-
+### Lost Temple & Island Treasure: {#heading--glyph}
 Light Lost Temple at the right orbit by hitting the punchback target or Kong Cave while at least one unlit drop target is available. Once lit, if the player is in single-ball play, the next right orbit shot will always send the ball to the mini-flipper and light a drop target that hasn't been lit yet. Hitting the drop target will award one cipher's worth of progress towards completing the glyph puzzle, *and* complete the next drop targets' worth of progress towards either **[King Kombos](#heading--kombos)** or **[light kong lock](#heading--kong)** instantly. Players can earn multiple ciphers worth of progress from Lost Temple by shooting the lit right orbit, followed by the flashing drop target, while **[at powerup level 3](#heading--kombos)** or after having collected 5 **[treasures](#heading--treasures)** in a game.
 
 Once the puzzle is completed by hitting two flashing drop targets after lighting Lost Temple, shoot the island treasure target behind the upper two drop targets to collect the current Island Treasure. Subsequent treasures require an additional drop target light to be lit (to a max of all four), and every Island Treasure scored will count towards the next **[treasure perk](#heading--treasures)**.
@@ -311,8 +293,7 @@ Once the puzzle is completed by hitting two flashing drop targets after lighting
 - **Obsidian Dagger**: 10M + light **Super Rapids** (starts on the next river shot: for the next 30 seconds, all shots increase a multiplier for points scored at the river lane, shot value starts at 2M)
 - **Serpent's Eye**: 10M + start **Super Cave Target** (starts instantly: for the next 60 seconds, all cave rollover hits score 25M + 2.5M per shot to a max of 50M. Hitting the cave rollover without holding the upper flipper as a guide scores 2x the value)
 
-<h3 id="heading--map">Map Segments & Treasure Hunt:</h3>
-
+### Map Segments & Treasure Hunt: {#heading--map}
 Complete game objectives to earn **map segments** towards completing the current map. There are two segments for the first map, and each map gains one more segment than the last. Each segment awards 5M with a 10M bonus for completing the current map. The objectives that award map segments are:
 
 - Completing any **[island scene](#heading--island)**
@@ -348,8 +329,7 @@ With the topper installed, every map completed will also spot a clue towards fin
 
 Once all five treasure hunts have been played or completed, no further map segments can be obtained this game.
 
-<h2 id="heading--kombos">King Kombos & Powerup Target:</h2>
-
+## King Kombos & Powerup Target: {#heading--kombos}
 After clearing the drops when the King Kombos insert is lit, King Kombos starts. The kombo value builds as you continue to shoot kombos, and even-numbered **[KING KONG letters](#heading--trex)** each add 50k to the base kombo value. Clear the drop targets enough times to light the King Kombos insert again.
 
 There are two combos that can be earned even if King Kombos isn't running.
@@ -366,8 +346,7 @@ King Kombos also light the **powerup target** to the right of the KONG drop targ
 
 King Kombos and Powerup awards are disabled during multiball play.
 
-<h2 id="heading--river">River Awards / Rapids:</h2>
-
+## River Awards / Rapids: {#heading--river}
 Light the River by completing the drop targets or hitting the U-turn lane from the upper right flipper during single-ball play. Going through the lit River lane on the left side of the playfield counts up and grants various awards over time.
 
 - 3, 9, 12, 20, 30... : **[Light Island Mystery](#heading--mystery)**
@@ -376,46 +355,40 @@ Light the River by completing the drop targets or hitting the U-turn lane from t
 
 Once Rapids begins, you have 40 seconds to loop the center spinner shot to build the collect value and its multiplier displayed on the screen. Shoot the Kong Cave to cash out and end the Rapids feature, and collect a **[map segment](#heading--map)** (for the first rapids jackpot of a game). The multiplier and value decays over 5 second intervals.
 
-<h2 id="heading--bridge">Log Bridge (Action Button):</h2>
-
+## Log Bridge (Action Button): {#heading--bridge}
 The log bridge is a hidden diverter near the **[river](#heading--river)** shot that diverts all balls to the mini-flipper, allowing the player to pick off drop targets or hit the **[cliffs ramp](#heading--cliffs)**. While the diverter activates on its own during modes that require cliffs ramp shots, the player can also control when this bridge activates. In competition mode, the bridge activates less often: it will never activate unless a drop target cipher is available or the cliffs ramp is lit for an award. During **[NYC events](#heading--nyc)**, the player has unlimited bridge uses for as long as the mode lasts.
 
 The player starts the game with 1 log bridge use. One use is added at the start of every ball, and more can be earned by earning **[KING KONG](#heading--trex)** letters or hitting the spider pit (competition mode only), to a maximum of 5. To use the log bridge, press the *action button* right before the ball enters the river lane, either after shooting the right orbit or even off of the initial plunge. 
 
 The third **[treasure hunt](#heading--map)** of a game awards the **Echo Horn** which adds +2 log bridge uses per ball.
 
-<h2 id="heading--cliffs">Cliff Awards:</h2>
-
+## Cliff Awards: {#heading--cliffs}
 Shooting some number of "Cliffs" ramp shots from the upper playfield grants awards over the span of the game.
 - 3, 15... : **[KING KONG letter](#heading--trex)** (or 15M if KING KONG is already spelled)
 - 6: Light **[cliffhanger](#heading--cliffhanger)**
 - 20: Light **cliffhanger** + award **[map segment](#heading--map)**
 - 25: **[Light Extra Ball](#heading--extraballs)**
 
-<h2 id="heading--cliffhanger">Cliffhanger (Left Outlane Ball Save):</h2>
-
+## Cliffhanger (Left Outlane Ball Save): {#heading--cliffhanger}
 Light Cliffhanger at the left outlane by scoring 6, then 20, **[cliffs ramp shots](#heading--cliffs)**. Cliffhanger can only be used in single-ball play and only if a wizard mode isn't running. Cliffhanger also lights on its own after collecting 7 **[treasures](#heading--treasures)**, at which point the mode's timer will increase by +5 seconds.
 
 The player now has 12 seconds to hit the power-up target near the drop targets to save their ball and resume play. If the player fails to shoot it in time, or if the ball drains, the ball will automatically end. The number of power-up target hits required increases by 1 for each successful cliffhanger.
 
 Settings can allow cliffhanger to score 50M and end the ball if lit, or act as a virtual kickback. The default behavior is described above.
 
-<h2 id="heading--2x">2x Scoring:</h2>
-
+## 2x Scoring: {#heading--2x}
 The orange targets around the playfield are all marked with an "X". Once all four have been hit (twice for subsequent attempts), hitting the roving orange target that moves from left to right and back will start 2x scoring. The timer can be extended by continuing to shoot the lit orange targets, and each lit orange target scores bonus points when they are hit while 2x scoring is running. The 2x scoring timer can be extended four times every time it is started.
 
 Completing the fourth **[treasure hunt](#heading--map)** of a game makes 2x scoring much easier to keep going. During 2x scoring, every target shot will extend the timer, not just the lit one.
 
-<h2 id="heading--million">2.42 Million Bananas:</h2>
-
+## 2.42 Million Bananas: {#heading--million}
 There is a hidden lane under the Kong figure, to the left of the punchback target. This hidden lane is more visible on the Pro and can only be hit with particularly weak shots to either the left orbit or punchback target lane.
 
 Whenever a ball falls into this lane, 2.42 million points are scored and the best possible shot will be spotted if a mode is currently active. This hidden lane also spots a **[climb arrow](#heading--climb)** if they are available.
 
 (Fun fact: 2.42 million bananas refers to the "1 million bananas" insert from Data East's *King Kong*, just adjusted for today's inflation.)
 
-<h2 id="heading--banana">Banana Combos:</h2>
-
+## Banana Combos: {#heading--banana}
 There are many different combos corresponding to different banana types that can be scored during single-ball play. Collecting 8 awards a **[map segment](#heading--map)**.
 
 [details=Banana Combos]
@@ -437,8 +410,7 @@ There are many different combos corresponding to different banana types that can
 |Rhino Horn|Punchback target|River thru|
 [/details]
 
-<h2 id="heading--mystery">Island Mystery:</h2>
-
+## Island Mystery: {#heading--mystery}
 Light island mystery at the Kong Cave VUK by collecting enough **[river shots](#heading--river)**. 
 
 Mystery can award any of the following:
@@ -460,8 +432,7 @@ Mystery can award any of the following:
 
 On competition mode, mystery exclusively awards 10M or add-a-ball if the appropriate conditions are fulfilled.
 
-<h2 id="heading--extraballs">Extra Balls:</h2>
-
+## Extra Balls: {#heading--extraballs}
 Extra ball is lit at the Kong Cave VUK after:
 - **[Climbing](#heading--climb)** 200 ft (window 2)
 - Destroying 6 **[biplanes](#heading--plane)**
@@ -472,8 +443,7 @@ and awarded instantly as the 4th **[island treasure](#heading--glyph)** in a gam
 
 If extra balls are disabled or the limit has been reached for the game, extra ball is worth 15M and can be multiplied by **[2x scoring](#heading--2x)** up to 30M.
 
-<h2 id="heading--bonus">End-of-Ball Bonus:</h2>
-
+## End-of-Ball Bonus: {#heading--bonus}
 Bonus is determined by:
 
 * 100 x switch hits this ball
@@ -486,10 +456,8 @@ Height climbed and KING KONG letters collected are cumulative across balls, whil
 
 Collecting the second treasure from **[treasure hunt](#heading--map)** doubles the entirety of end-of-ball bonus for the rest of the game.
 
-<h1 id="heading--mini">Mini-Wizard Modes:</h1>
-
-<h2 id="heading--gate">Crash the Gate:</h2>
-
+# Mini-Wizard Modes: {#heading--mini}
+## Crash the Gate: {#heading--gate}
 **Crash the Gate** is the final **[island scene](#heading--island)**, which becomes available once all five other island scenes have been completed. It is qualified in the same way as the previous five island scenes by shooting island arrows (Pro) or hitting the gong repeatedly (Prem / LE).
 
 Crash the Gate is a 90-second timed mode (but can be up to 120 seconds long, as it adds the remaining time from completed island scenes) with a 40-second ball saver. Five shots are lit to start hurry-ups at the gong, with each shot connected to a mode and its total score. +5% of a mode's total score are added to the hurry-up for each mode played (ie. the first hurry-up starts with 5M + 20% of the first mode total, and the fifth hurry-up starts with 5M + 40% of the fifth mode total). The hurry-up value for each shot is capped at 99M, and the mode timer pauses for each hurry-up.
@@ -504,8 +472,7 @@ Once all 5 hurry-ups are scored, the biplane ramp will light to score the super 
 
 Crash the Gate ends once time runs out or the player drains the ball after the initial ball save timer has expired.
 
-<h2 id="heading--trexbattle">T-Rex Battle:</h2>
-
+## T-Rex Battle: {#heading--trexbattle}
 Once **[KING KONG](#heading--trex)** has been spelled, the next shot to the gong during single-ball, non-mode play will start T-Rex Battle.
 
 Shoot all of the flashing arrows to score awards while avoiding slingshots. Shoot the biplane ramp to spot random shots. Light *Pummel* at the Spider Pit after three shots of the *same color* are hit (green on the left, and blue on the right).
@@ -520,10 +487,8 @@ If the player drains down to a single-ball during the mode, they will have 15 se
 
 The *second* KING KONG completion of a game will start a fight against the Boss T-Rex. This mode plays the same as the normal T-Rex Battle but is much more valuable: it starts as a 4-ball multiball, requires 5 red shots to be made to light the Pummel, has the Pummel award start at 2x its normal value, and adds +10 seconds to the last chance grace period. Defeating the T-Rex boss starts victory laps.
 
-<h2 id="heading--tower">Terror on the Tower:</h2>
-
+## Terror on the Tower: {#heading--tower}
 *TBD on 0.96 code*
 
-<h1 id="heading--wonder">8th Wonder (Wizard Mode):</h1>
-
+# 8th Wonder (Wizard Mode): {#heading--wonder}
 *TBD on 0.96 code*

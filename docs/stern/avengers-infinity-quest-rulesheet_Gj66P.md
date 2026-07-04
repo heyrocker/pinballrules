@@ -546,7 +546,7 @@ Hard Mode can be enabled in the settings. This disables 8 of the 32 trophies, bu
 31 | Computer Frenzy | | SJ | Double SJ | Triple SJ
 32 | Black Order Battle Royale | | Start Mode | Defeat 2 Villains | Finish Mode
 
-<h3 id="heading--trophymania">Trophy Mania:</h2>
+Trophy Mania:
 
 A shot to the right ramp after collecting 24 trophies will start Trophy Mania. When the mode starts, depending on how many of each type of trophy you collected, a portion of the 8 RGB shots are lit corresponding to that type. For example, if you collected 12 bronze, 6 silver, and 6 gold trophies, then 4 shots are lit for bronze, 2 shots lit for silver, and 2 shots lit for gold (RGB colors are tan for bronze, white for silver, and yellow for gold).
 

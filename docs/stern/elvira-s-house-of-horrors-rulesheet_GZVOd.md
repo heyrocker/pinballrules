@@ -52,7 +52,7 @@ There are two Skill Shots on this game:
 - Plunging the ball so it lands in either Dead End lane will award 250k increasing by 25k each time a successful Skill Shot is made & increase bonus X by +5x.
 - Plunging the ball so it lands into the *Back Door* will award 1M (increasing by 250k each time a successful back door shot is made, maxing out at 2.5M) and instantly qualify a Haunt at the house entrance. If a Haunt has already been qualified, making this Skill Shot will immediately start it. If the Back Door Skill Shot is made during a Haunt or during Gappa Angry, it will advance the mode (spot next mode shot). The ball can also fall into the Back Door during Haunts via weak orbit shots, in which case it will spot progress on the current mode.
 
-<h1 id="heading--main">Main Objectives</h2>
+Main Objectives
 
 The taunting is over; the haunting begins! Elvira has just moved into a new home that happens to be haunted by all sorts of creatures, some ripped from the silver screen and some spooky refugees from her previous pinball machines. With Elvira's help the player must sweep the house clean of its horrors and try to sell it once the deed is done.
 
@@ -97,7 +97,7 @@ There are six main Haunts in the game. These can be accessed even without the Sk
   - Stage 4: 100k increment. Identical to stage 3, except shooting the Cellar will turn off all shots and light the final shot at the House.
 - **The Werewolf of Washington:** (Right side of house, attic window)
   - Stage 1: No increment. Both orbits are lit (flashing blue/cyan), shoot either orbit to "Transform" for 500k + 50k per transformation.
-  - Stage 2: When transformed, the Garage and Crypt are lit solid blue, and the House, left ramp, and right ramp are lit flashing blue/cyan. Shoot flashing shots to keep a combo going, with the value for each shot increasing quadratically in the length of the combo -- the Nth shot in the combo is worth the base value + 125K x (N<sup>2</sup> - N). Shooting either the Garage or Crypt or timing out the combo after shooting a flashing shot ends the transformation for the current value. 
+  - Stage 2: When transformed, the Garage and Crypt are lit solid blue, and the House, left ramp, and right ramp are lit flashing blue/cyan. Shoot flashing shots to keep a combo going, with the value for each shot increasing quadratically in the length of the combo -- the Nth shot in the combo is worth the base value + 125K x (N2 - N). Shooting either the Garage or Crypt or timing out the combo after shooting a flashing shot ends the transformation for the current value. 
     - The initial shot to start the combo has no time limit (aside from the mode timer), but after shooting a flashing shot, the next shot must be made within 7 seconds to continue the combo, with no grace period. Shooting the House keeps all 5 shots lit, while shooting the left or right ramp turns off the shot until another shot is made.
     - *Note:* If you shoot the left orbit to transform and the ball falls in the Back Door, the spotted shot starts the 7-second combo timer.
   - When the 1st or 2nd transformation ends, the base value is incremented by 125K and the mode returns to Stage 1. When the 3rd transformation ends, the final shot will be lit at the House.
