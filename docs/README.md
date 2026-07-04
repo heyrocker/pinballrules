@@ -2,5 +2,5 @@ Welcome to the Pinball Rulesheets site! Did you know that every single pinball m
 
 The rulesheets are categorized by manufacturer in the [Rulesheet Master List](rulesheet-master-list). You can find them all there.
 
-<h1>HTML Test</h1>
+<h1>HTML Test!</h1>
 
