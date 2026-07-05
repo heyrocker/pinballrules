@@ -1,3 +1,7 @@
+---
+title: "Accessing Pinball Rule Sheets"
+---
+
 To be able to modify or edit rulesheets you will need a Github account, and access to the repository. Follow the instructions below to gain access.
 
 ### Create a Github account

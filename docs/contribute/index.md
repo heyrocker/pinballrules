@@ -6,5 +6,6 @@ Pinball Rulesheets is community maintained, and availabe for anyone to edit. The
 
 * [Getting access to Pinball Rulesheets](access)
 * [Editing a rule sheet](editing)
-* Reporting issues
-* Community discussion
+* [Creating a new rule sheet](creating)
+* [Reporting issues](issues)
+* [Community discussion](discussion)
