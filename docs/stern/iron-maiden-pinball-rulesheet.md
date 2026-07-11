@@ -225,7 +225,7 @@ Loop Jackpot is enabled after 5 (+2) shots to any loops, indicated by the bright
 
 Collect a Loop Jackpot to light a **[Tomb Treasure](#heading--tombtreasures)**. Collect 30 loops over the course of a game - not including Loop Jackpots - to light an **[extra ball](#heading--extraballs)**.
 
-<h3 id="heading--pfx">Playfield Multiplier:</h2>
+Playfield Multiplier:
 
 Shoot the flashing X targets around the playfield to light a return lane for 2x playfield scoring, which can be alternated between lanes with the flippers. If 2x Playfield is qualified, complete the X targets a second time to qualify 3x Playfield. Subsequent completions of the X targets with 3x qualified will increase the timer for the playfield multiplier. Qualified Playfield X will carry between balls.
 
@@ -233,21 +233,21 @@ Once qualified, **activate** the PFx by rolling over the lit return lane. Once a
 
 If you aren't in a mode, alley passing from the right flipper through the left inlane into the **[Gravestone target](#heading--gravestone)** will spot a flashing X target. Playfield X can be instantly qualified by completing a **[Super Skill Shot](#heading--skillshots)**, and is always available to qualify *except* during **[Cyborg MB](#heading--cyborgmb)** and **[2 Minutes to Midnight](#heading--2mtm)**. 
 
-<h3 id="heading--revive">Revive:</h2>
+Revive:
 
 Shoot the left spinner to spell REVIVE and light the outlanes for an outlane ball-save - both outlanes light for the first REVIVE, only one for subsequent spellings. On factory settings, each outlane's Revive is used individually -- so when both outlanes are lit, you effectively have earned two Revives. On harder Revive settings, using one outlane Revive will unlight *both* outlanes. You cannot stack Revives; new REVIVE letters cannot be spotted while both outlane Revives are lit, but they can be spotted if only one outlane is lit. Lit Revives carry over between balls. If both Revives are lit, the spinner scoring is boosted.
 
-<h3 id="heading--orbaward">Orb Award:</h2>
+Orb Award:
 
 Complete the **[drop targets](#heading--droptargetawards)** when "Light Orb" is lit to light the Orb mystery award at its corresponding target. Collect Light Orb again before shooting the Orb to increase the mystery level, up to level 3, for better awards.
 
 There is an instant info page showing the current mystery level and also all its available awards.
 
-<h3 id="heading--gravestone">Gravestone Target:</h2>
+Gravestone Target:
 
 Shatzing (alley passing) the left inlane to send the ball into the gravestone standup target will help you out with a running mode or multiball. If no mode or multiball is running, it will spot you one "X" target toward your next **[Playfield X](#heading--pfx)** qualification.
 
-<h3 id="heading--combos">Combos & Deathblows:</h2>
+Combos & Deathblows:
 
 A "combo" is performed by hitting distinct shots on the playfield in succession. Each different shot you hit will advance the active combo by 1. Unlike most games, an active combo does not "time out" if you take too long between shots. A combo ends when one of the following occurs:
 - A Deathblow has been scored 
@@ -274,7 +274,7 @@ Ending a combo by hitting certain shots/targets awards a Deathblow, which scores
 
 *Fun fact - the maximum possible Deathblow value is 900M! (20M for a 6-Way Combo, x3 for ending with a Super Deathblow, x3 with **[Playfield X](#heading--pfx)**, x5 with **[Super Combos](#heading--tombtreasures)**)*
 
-<h3 id="heading--extraballs">Extra Balls:</h2>
+Extra Balls:
 
 There are three ways to light extra balls, which can be scored at the extra ball "X" target:
 
@@ -282,7 +282,7 @@ There are three ways to light extra balls, which can be scored at the extra ball
 - **[5th Tomb Treasure](#heading--tombtreasures)**
 - 30 loops (*excluding **[Loop Jackpot](#heading--loopjackpot)** shots*)
 
-<h3 id="heading--bonus">End of Ball Bonus:</h2>
+End of Ball Bonus:
 
 Bonus is scored as follows, and multiplied by **[Bonus X](#heading--droptargetawards)**:
 
@@ -294,7 +294,7 @@ Bonus is scored as follows, and multiplied by **[Bonus X](#heading--droptargetaw
 - **[Soul Shards](#heading--soulshards)** Collected × 250,000
 - **[Eddie Cards](#heading--eddiecards)** Collected × 250,000 (level 2 Eddie cards count as two cards for bonus purposes)
 
-<h3 id="heading--strategies">Strategies:</h2>
+Strategies:
 
 - The single-ball Eddie battles (Fear of the Dark, Hallowed Be Thy Name, and Flight of Icarus) can be stacked up with either Trooper or Mummy Multiball if the shot that starts it is made during the mode. This potentially makes it a *lot* easier to qualify the Soul Shards for the modes. Flight of Icarus also works well as a stack with Mummy Multiball - the shots you have to make for your first add-a-ball just happen to be the ones you have to make during the mode. Hallowed and Trooper MB is also a very strong stack.
 - Soul Shards can be collected also as level 3 mystery awards after playing 2 Minutes to Midnight. This can be really helpful when trying to reach Run to the Hills.

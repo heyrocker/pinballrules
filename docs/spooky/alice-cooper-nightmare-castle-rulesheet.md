@@ -27,7 +27,7 @@ In the beginning, you will move directly to the Laboratory/Dungeon, one step awa
 Rooms are laid out as follows:
 
 
-            <Start Monster>
+            
          Laboratory    Dungeon
     Ballroom    Kitchen    Conservatory
           Parlor       Library

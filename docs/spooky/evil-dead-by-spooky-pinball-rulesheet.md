@@ -30,12 +30,12 @@ opdb_id: "GYWvw"
 - Video Mode
 
 ## Design Team: {#heading--design-team}
-Game Design: <a href="https://pinside.com/pinball/machine/bug-emery" rel="noopener nofollow ugc">Corwin “Bug” Emery</a> <a href="https://pinside.com/pinball/machine/spooky-luke" rel="noopener nofollow ugc">Spooky Luke</a>\
-Software: <a href="https://pinside.com/pinball/machine/ben-heck" rel="noopener nofollow ugc">Ben Heck</a>\
-Rules: <a href="https://pinside.com/pinball/machine/ben-heck" rel="noopener nofollow ugc">Ben Heck</a> <a href="https://pinside.com/pinball/machine/bug-emery" rel="noopener nofollow ugc">Corwin “Bug” Emery</a> <a href="https://pinside.com/pinball/machine/hilton-jones" rel="noopener nofollow ugc">Hilton Jones</a> <a href="https://pinside.com/pinball/machine/luke-peters" rel="noopener nofollow ugc">Luke Peters</a>\
-Artwork: <a href="https://pinside.com/pinball/machine/christopher-franchi" rel="noopener nofollow ugc">Christopher Franchi</a>\
-Music: <a href="https://pinside.com/pinball/machine/matt-count-d-montgomery" rel="noopener nofollow ugc">Matt “Count D” Montgomery</a>\
-Callouts: <a href="https://pinside.com/pinball/machine/bruce-campbell" rel="noopener nofollow ugc">Bruce Campbell</a>
+Game Design: [Corwin “Bug” Emery](https://pinside.com/pinball/machine/bug-emery) [Spooky Luke](https://pinside.com/pinball/machine/spooky-luke)\
+Software: [Ben Heck](https://pinside.com/pinball/machine/ben-heck)\
+Rules: [Ben Heck](https://pinside.com/pinball/machine/ben-heck) [Corwin “Bug” Emery](https://pinside.com/pinball/machine/bug-emery) [Hilton Jones](https://pinside.com/pinball/machine/hilton-jones) [Luke Peters](https://pinside.com/pinball/machine/luke-peters)\
+Artwork: [Christopher Franchi](https://pinside.com/pinball/machine/christopher-franchi)\
+Music: [Matt “Count D” Montgomery](https://pinside.com/pinball/machine/matt-count-d-montgomery)\
+Callouts: [Bruce Campbell](https://pinside.com/pinball/machine/bruce-campbell)
 
 At the start of the game, you pick between the two movies which affects the modes available.
 
@@ -91,11 +91,11 @@ There are four modes per movie with a mini-wizard mode after completing two mode
 ## Deadites: {#heading--deadites}
 - collect deadite (orange) arrows and then both inlanes and hitting the popped up deadites (think trolls from MM) to start double deadite multiball (stack with all other modes of the game)
 
-<!-- -->
+
 
 - Knock down the deadites and collect the jackpots behind the downed deadite
 
-<!-- -->
+
 
 - 2nd time through on deadites is deadite frenzy - good to stack with multiball
 

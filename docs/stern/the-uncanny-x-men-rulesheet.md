@@ -307,4 +307,4 @@ Save the Senator from Mystique with the help of Cerebro. This single-ball mini-w
 **[Combos](#heading--combos)** play a vital role in this mode's scoring. The highest combo multiplier obtained during the mode multiplies the rest of the scoring by the number of the multiplier (for instance, if a 4-way combo was made, all scoring would be multiplied by 4x for the remainder of the mode). Combos don't advance towards other objectives during this mode.
 
 ### Master Mold (Placeholder) {#heading--master}
-<em>Master Mold will appear in a later code update</em>
+*Master Mold will appear in a later code update*

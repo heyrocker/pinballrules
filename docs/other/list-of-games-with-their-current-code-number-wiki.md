@@ -482,7 +482,9 @@ Cactus Canyon | 1.3
 | Game Title | Latest Version | Release Date | Links
 |---|---|---|---|
 | Full Throttle | 1.41 |July 28, 2016 |
-| Alien | 1.2 | May 9, 2018| Code: http://pinballbrothers.com/updates/hpa12.upd<br>Release Notes: http://pinballbrothers.com/updates/hpa12-rn.txt<br>**Only for machines with 1.0 or higher!**
+| Alien | 1.2 | May 9, 2018| Code: http://pinballbrothers.com/updates/hpa12.upd
+Release Notes: http://pinballbrothers.com/updates/hpa12-rn.txt
+**Only for machines with 1.0 or higher!**
 
 ## Unofficial Updates {#heading--unofficial}
 **Unofficial updates** are updates released after-the-fact for tables that were believed to need improvement. Many of these were created by pinballcode.com for use with Data East & SEGA tables, and the *Star Wars* update was officially acknowledged by Stern Pinball on its release.

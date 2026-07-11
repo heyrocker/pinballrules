@@ -109,9 +109,9 @@ During the multiball, random shots are lit blue, yellow, and red corresponding t
 ### Tea Time Multiball: {#heading--teatimemb}
 Started via a mystery award (Ello/Worm shot when purple arrow is flashing). First shot will be a hurry up underneath the left ramp (this *can* timeout, losing the ability to start Tea Time if you wait too long). Then there are three main shots:
 
-<b>Left ramp:</b> collect tea time value
-<b>Orbits:</b> increase tea time value
-<b>U-turn:</b> multiply tea time value
+**Left ramp:** collect tea time value
+**Orbits:** increase tea time value
+**U-turn:** multiply tea time value
 
 Collecting the third jackpot starts a 'victory laps' style extension until the multiball ends.  One shot at a time will be lit, making that shot will carry on a conversation with Ello and the Missus and light the next random shot.
 
@@ -203,7 +203,9 @@ Extra Balls are collected at the left scoop when lit purple, after:
 ## Wizard Modes: {#heading--wizardmodes}
 ## Poisoned Peach (Mini-Wizard Mode): {#heading--poisonedpeach}
 After playing all three upper modes (Knockers, Four Guards, and Fireys) or all three lower modes (Cleaners, Oubliette, and Bog), Start Mode will automatically be lit. Hit either Start Mode shot or the wiseman scoop to start Poisoned Peach mini-wizard mode. This is a timed mode that takes priority over any other shots or modes, with a ball save that runs for the duration of the mode - so you're stuck in the hallucination until it times out, or you break free. You have to hit both drop targets 2 times to break the spell.
-<br><br>
+
+
+
 Shoot either the Wiseman drop target or the left orbit drop target to collect the current mode value. Shooting either ramp will increase the value; shooting ramp combos will raise the value more than individual shots (watch for the blinking arrow versus solid). If you break the spell before the clock reaches 13, there's a score bonus based on remaining time.
 
 ### Goblin City Multiball (Wizard Mode): {#heading--goblincitymb}
@@ -215,7 +217,7 @@ After playing all six **[modes](#heading--modes)**, Goblin City multiball can be
 
 If the player fails either the first or second phase, a second chance will be given to complete the phase. The second chance is only given once per Goblin City multiball attempt.
 
-<h2 id="heading--battlejareth">Battle Jareth (Ultimate Wizard Mode):</h3>
+Battle Jareth (Ultimate Wizard Mode):
 
 You must collect all 13 Orbs to Battle Jareth. After the 13th orb is collected and the multiplier assignment shot has been made, you can make your way into Jareth's castle. Both orbits will be lit for a shot to the back left corner where the Goblin King awaits. Once the battle starts, you have to remember the phrase you need to escape, and then once remembered; say the words to earn your freedom. There is a ticking clock always running (in the upper right) and if it strikes 13, you will lose one of your 13 orbs. You also lose an orb if the ball drains -- you'll get the ball back and the clock will reset, *as long as you still have orbs to left to lose*.
 

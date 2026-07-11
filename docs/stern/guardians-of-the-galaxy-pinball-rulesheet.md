@@ -40,7 +40,7 @@ Make it halfway through all modes and start both **[multiballs](#heading--multib
 
 Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#heading--eb)**.
 
-* <b>Antiquities Shop</b> (cyan)
+* **Antiquities Shop** (cyan)
   * Duration: 61 seconds
   * Shots: 7 
   * Corresponding Shot: Orb
@@ -48,7 +48,7 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Upgrade reduces the switch threshold required to spot each shot.
   * Completing Antiquities Shop will increase the scoring of each individual switch for the next 100 switch hits. 
 
-* <b>Knowhere</b> (red)
+* **Knowhere** (red)
   * Duration: 85 seconds
   * Shots: 8
   * Corresponding Shot: Right Orbit
@@ -56,7 +56,7 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Collecting Upgrade during this mode lights all of the shots for one advance, making the mode easier to complete, and increases the base scoring at the orbits.
   * Completing Knowhere lights Super Loops for 10 shots; the orbits will always send the ball towards the flippers and be lit for the highest value collected during this mode.
 
-* <b>Escape Kyln</b> (orange)
+* **Escape Kyln** (orange)
   * Duration: 85 seconds
   * Shots: 7 (6 can be spotted using Hadron Enforcer, one can’t)
   * Corresponding Shot: Rocket
@@ -64,7 +64,7 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Collecting Upgrade during this mode increases the base scoring for each lane.
   * Completing Escape Kyln awards Super Lanes for 10 shots, for the highest value collected during the mode.
 
-- <b>Pod Chase</b> (blue) 
+- **Pod Chase** (blue) 
   * Duration: 154 seconds
   * Shots: 10 
   * Corresponding Shot: Left Ramp
@@ -72,7 +72,7 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Collecting Upgrade during this mode lights all the shots, making it easier to complete, and increases the base scoring at the ramps. Each shot lit via Upgrade can only be made once.
   * Completing Pod Chase lights Super Ramps for 10 shots, for the highest value collected during the mode. These values can be doubled if they are made as a combo.
 
-- <b>Quill's Quest</b> (light orange)
+- **Quill's Quest** (light orange)
   * Duration: 166 seconds
   * Shots: 12 
   * Corresponding Shot: Scoop
@@ -80,7 +80,7 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Collecting Upgrade during this mode increases the base value of the hurry-ups permanently.
   * Completing Quill's Quest lites the scoop for a potentially massive hurry-up, with a starting value of 10% of your score, which can be multiplied via all applicable **[multipliers](#heading--pfx)**.
 
-- <b>Sanctuary</b> (yellow)
+- **Sanctuary** (yellow)
   * Duration: 68 seconds
   * Shots: 5
   * Corresponding Shot: Left Orbit
@@ -88,7 +88,7 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Collecting Upgrade during this mode will increase base scoring at the targets.
   * Completing Sanctuary begins Super Targets for 20 shots. A roving light moves around all 5 of the Hadron Enforcer targets. Shoot the flashing target to collect a Super Target award. A hit to a solidly lit target is worth 200k base, while a hit to a flashing target is worth 5x that value.
 
-- <b>Sibling Rivalry</b> (green)
+- **Sibling Rivalry** (green)
   * Duration: 101 seconds
   * Shots: 10 
   * Corresponding Shot: Right Ramp
@@ -96,7 +96,7 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Collecting Upgrade during this mode opens up more combo shots to open up; shooting any lit combo shot lights the 4 shots on the left or right side of the playfield, whichever is more natural for the completed shot.
   * Completing this mode allows you to shoot the right ramp once to re-collect all the points scored from this mode. This collect can be multiplied by all applicable **[multipliers](#heading--pfx)**.
 
-- <b>Yaka Arrow</b> (white) 
+- **Yaka Arrow** (white) 
   * Duration: 54 seconds
   * Shots: 8 
   * Corresponding Shot: "Dead-End" Lane

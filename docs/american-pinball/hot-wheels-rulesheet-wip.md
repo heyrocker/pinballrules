@@ -115,7 +115,7 @@ The current gear is also represented on the right side of the display by the gea
 **Point Values for Shots**
 The point values for most shots are based on the following formula:
 
-`<Tachometer value in K/M on display> * <Shot value> * <Gear number>`
+` *  * `
 
 Most shots have a value of 1, although some have values of 1.5 or possibly less than one. For example, if the Tach value reads 530K and the player is in 2nd gear, a shot with a value of 1 would be worth 1,060,000 points.
 
