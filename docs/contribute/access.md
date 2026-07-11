@@ -16,4 +16,5 @@ Files on Github are stored in repositories, and you will need edit access to our
 * Click the "New Issue" button at the top right
 * You will be taken to a form to fill out. Add a title along the lines of "Request for access" and add a description of who you are and how you want to contribute
 * Once you're finished click the "Create" button
-* When you are approved, you should get an email and then you'll be good to go!
+* When you are approved, you should get an email. Click "View Invitation" and then "Accept Invitation" on the page that opens.
+* You're ready to start [editing rulesheets](editing)!
