@@ -26,7 +26,7 @@ opdb_id: "GoEkx"
 - [Divine Intervention (Wizard Mode)](#heading--wizard)
 - [Competition Settings](#heading--comp)
 
-## Game Information:{#heading--gameinfo}
+### Game Information:{#heading--gameinfo}
 - Lead Designer: Mark Ritchie
 - Code/Rules: George Petro/Josh Sharpe
 - Lead Mechanical Engineer: Pete Pietroski
