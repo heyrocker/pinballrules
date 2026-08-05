@@ -1,10 +1,10 @@
 ---
-title: "Creating a Rulesheet for Sharkey's Shootout"
+title: "Sharkey's Shootout"
 manufacturer: "Stern Pinball"
 opdb_id: "GRwv0"
 ---
 
-# Creating a
+# Sharkey's Shootout
 
 ## Game Information & Overview: {#heading--gameinfo}
 - Manufacturer: Stern
