@@ -12,6 +12,8 @@ opdb_id: "Gryw4"
 - [Layout](#heading--layout)
 - [Modes](#heading--modes)
   - [Mode Levels](#heading--modelevels)
+  - [Mode Scoring](#heading--modescoring)
+  - [Medals](#heading--medals)
   - [Mode Details](#heading--modedetails)
     - [Prime Directive](#heading--modepd)
     - [Space Jump](#heading--modesj)
@@ -19,7 +21,6 @@ opdb_id: "Gryw4"
     - [Nero](#heading--moden)
     - [Destroy the Drill](#heading--modedtd)
     - [Klingon Battle](#heading--modekb)
-  - [Medals](#heading--medals)
 - [Captain's Chair and Level 3 Completion](#heading--captainschair)
 - [Warp Ramp Awards](#heading--warprampawards)
 - [Multiball Add-A-Ball](#heading--mbaddaball)
@@ -79,8 +80,30 @@ For example, suppose a player starts a new game, starts a level I mode, makes 2 
 - Upon draining, the streak bonus resets to 0.
 - The 3rd shot is then worth 100K x 1 (level) + 10K (shot bonus) + 0 (streak bonus) + 30K x 2 (shots made in the current mode) = 180K. The shot bonus becomes 15K and the streak bonus becomes 10K.
 
+## Medals {#heading--medals}
+Medals (and points) are awarded for how well you play each mode (bronze/silver/gold).  After completing all modes a "medal bonus collect/jackpot" is awarded when you start the mini wizard mode. This value can be doubled if 2x is running. Medals accrue and are never replaced, thus earning a Silver Medal also leaves you holding a Bronze.
+
+- The first bronze medal is worth 250k, with each subsequent bronze worth +125k more.
+- The first silver medal is worth 450k, with each subsequent silver worth +175k more.
+- The first gold medal is worth 1000k, with each subsequent gold worth +275k more.
+
+Medal values double if you combo into the shot that gives you the medal. For example: Comboing into the third shot will give you double the value for the bronze medal. This value will be doubled again if you have Double Scoring running.
+
+For all Level I modes, every 3rd shot awards the next medal, i.e. 3 shots for bronze, 6 shots total for silver, and 9 shots total for gold. 
+
+- Need more info: Medals in Galactic Away Team
+- Special Case: For Space Jump, making the GAT shot leaves only the Vengeance shot available as the last shot. Making it will give the the next higher medal award automatically, and the mode ends. However, this does mean if you shoot the GAT shot before getting a silver medal, you can't get the gold medal for that mode.
+
+For Level II modes, 3 shots awards a bronze medal, while 2x value shots (indicated by the multi-color arrows) are needed for higher medals: 3 for silver and 5 for gold.
+
+For Level III modes, medals are awarded solely based on 2x value shots made. The number of shots needed varies depending on the mode, and is listed below under each mode's details.
+
+Note that for Level II and Level III modes, making lower-value shots may lock you out of better medals.
+
+Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, gold medal.
+
 ## Mode Details {#heading--modedetails}
-## Prime Directive {#heading--modepd}
+### Prime Directive {#heading--modepd}
 **Level I:**
 30-second timer. All shots light blue and un-light when hit. Un-lighting five shots relights all shots; after a short timer, shots will also relight if no mode shot has been completed.
 Bronze – 3 shots, Silver – 6 shots, Gold – 9 shots
@@ -89,17 +112,8 @@ Bronze – 3 shots, Silver – 6 shots, Gold – 9 shots
 Top (bonus X) lanes will light and must be turned off; right orbit; left orbit
 Final shot is doubled at right ramp.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Shots**|3|6|9|
-
 **Level II:** 
 30-second timer. All shots light blue with one shot lighting multi-color. Finish all shots to complete. Shooting multi-color will un-light that shot and move the multi-color to a different shot.
-
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|||
-|**2X Shots**||3|5|
 
 **Level III:** 
 30-second timer. All shots light blue with one shot lighting multi-color. Finish all shots to complete. Shooting multi-color will un-light that shot and move the multi-color to a different shot.
@@ -111,7 +125,7 @@ Final shot is doubled at right ramp.
 **Level 3 Completion:**
 2X on the Left scoop for the remainder of the game.
 
-## Space Jump: {#heading--modesj}
+### Space Jump: {#heading--modesj}
 **Level I:**
 30-second timer. Four shots (both orbits, left ramp, right ramp) light yellow. Shooting a lit arrow un-lights the shot and one other shot, but will always re-light a combo. All shots re-light after a small timer elapses if no shots are made.
 
@@ -120,17 +134,8 @@ Vengeance drop target. Hitting the target will advance one medal rank if not at 
 
 Final shot is doubled at the Vengeance.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|6|9|
-
 **Level II:**
 30-second timer. Similar to level I, but only one shot will ever be lit multi-color at a time, and it will always be a combo from the previous shot.
-
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|||
-|**2X Shots**||3|5|
 
 **Level III:**
 30-second timer. Similar to level I, but only one shot will ever be lit multi-color at a time, and it will always be a combo from the previous shot.
@@ -142,7 +147,7 @@ Final shot is doubled at the Vengeance.
 **Level 3 Completion:**
 2X on the Right Orbit  for the remainder of the game.
 
-## Save the Enterprise: {#heading--modeste}
+### Save the Enterprise: {#heading--modeste}
 **Level I:**
 30-second timer. Three random adjacent shots light. Shoot any one to move to three new random adjacent shots (other shots unlight).
 
@@ -150,20 +155,11 @@ Final shot is doubled at the Vengeance.
 Warp ramp & left orbit.
 Final shot is 4x at both orbits.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|6|9|
-
 **Level II:**
 Only 2 random shots light; one shot is 2x.
 This mode is not timed.
 Hitting a shot unlights both and lights 2 new random shots.
 Complete 6 shots to finish the mode.
-
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|||
-|**2X Shots**||3|5|
 
 **Level III:**
 Only 1 random shot lights.
@@ -178,7 +174,7 @@ Complete 8 shots to finish the mode.
 **Level 3 Completion:**
 2X on the Right Ramp for the remainder of the game.
 
-## Nero: {#heading--moden}
+### Nero: {#heading--moden}
 **Level I:**
 30-second timer. Five shots light purple (all except scoop & warp ramp). Shooting a lit shot un-lights it. Re-light all five shots by either un-lighting all, or allowing a short timer to elapse.
 
@@ -186,18 +182,8 @@ Complete 8 shots to finish the mode.
 Red Matter standups. Hit a standup to unlight. Unlighting all standups re-lights all standups.
 Final shot is doubled at Black Hole target.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|6|9|
-|**2X Shots**||||
-
 **Level II:**
 This mode is not timed. Left scoop (multi-color) and left orbit represent the Left Romulan attacker (on the screen). Left ramp (multi-color) and Vengeance represent the Center Romulan attacker. Right ramp (multi-color) and right orbit represent the Right Romulan attacker. Defeat 10 attackers to complete. Attackers re-light after a short time. Extra points are awarded for defeating three attackers before any re-light.
-
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|||
-|**2X Shots**||3|5|
 
 **Level III:**
 Only 2 shots light (the orbits).
@@ -212,28 +198,19 @@ Compete 5 shots to finish the mode. If the timer ends, progress will be saved.
 **Level 3 Completion:**
 2X on the Left Orbit for the remainder of the game.
 
-## Destroy the Drill: {#heading--modedtd}
+### Destroy the Drill: {#heading--modedtd}
 **Level I:**
-30-second timer. Lit shots "fan" from left to right as time elapses. Shooting a lit shot reverses the fan by 1 unit.
+30-second timer. Lit shots "fan" from left to right as time elapses. Shooting a lit shot unlights the rightmost lit shot.
 
 **With Galactic Away Team:**
 Left eject hole and left spinner/orbit are lit; additional points are awarded for each spin of the spinner (75k per spin!).
 Final shot is 4x at the left eject hole.
-
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|6|9|
 
 **Level II:**
 Only 1 shot lights (left eject hole) at the beginning.
 This mode is not timed.
 Shots will light one at a time moving left to right until all shots are lit; the leading shot will flash for 2x. Once all shots are lit, they will unlight one at a time moving left to right until only the right orbit remains. Then shots will light one at a time moving right to left until all shots are lit. Finally, shots will unlight one at a time moving right to left until only the left eject hole remains. This pattern will repeat. Shots that have been made will light solid and will not light for 2x; mode shots still available will be flashing.
 Complete 6 different shots to finish the mode.
-
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|||
-|**2X Shots**||3|5|
 
 **Level III:**
 Only 3 shots light (left eject hole, Vengeance, and right orbit) at the beginning with the Vengeance shot flashing for 2x.
@@ -248,7 +225,7 @@ Complete 7 shots to finish the mode. If the timer ends, progress will be saved.
 **Level 3 Completion:**
 2X on the Warp Ramp for the remainder of the game.
 
-## Klingon Battle: {#heading--modekb}
+### Klingon Battle: {#heading--modekb}
 **Level I:**
 30-second timer. Five shots (all except left eject hole & Vengeance) are lit. After the first mode shot, shooting a lit shot unlights it; after the next mode shot, the previously unlit shot will relight so that subsequently four shots are always lit.
 
@@ -256,20 +233,11 @@ Complete 7 shots to finish the mode. If the timer ends, progress will be saved.
 Left/right ramps (must alternate after first).
 Final shot is 4x at the left ramp.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|6|9|
-
 **Level II:**
 This mode is not timed. Left ramp begins lit, with the lit shot spreading simultaneously left and right. The multi-color arrow moves every time a new shot lights. The sequence begins again every time a shot is hit, or after a short time if no shots are hit. (Note: You can achieve perfect medal progress by repeating the Left Ramp, but you will sacrifice some points because it avoids any 2x combos).
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**Any Shots**|3|||
-|**2X Shots**||3|5|
-
 **Level III:**
-45-second timer. Shots are lit in a random order and un-light when hit. After the first shot is made, up to three shots can be lit at a time, but only one will be multi-color. Make ten shots to finish.
+45-second timer. Shots are lit in a random order and un-light when hit. After the first shot is made, up to three shots can be lit at a time, but only one will be multi-color. Make 8 shots to finish.
 
 |Medal|Bronze|Silver|Gold|
 |---|---|---|---|
@@ -277,29 +245,6 @@ This mode is not timed. Left ramp begins lit, with the lit shot spreading simult
 
 **Level 3 Completion:**
 2X on the Left Ramp for the remainder of the game.
-
-## Medals {#heading--medals}
-Medals (and points) are awarded for how well you play each mode (bronze/silver/gold).  After completing all modes a "medal bonus collect/jackpot" is awarded when you start the mini wizard mode. This value can be doubled if 2x is running. Medals accrue and are never replaced, thus earning a Silver Medal also leaves you holding a Bronze.
-
-The first bronze medal is worth 250k, with each subsequent bronze worth +125k more.
-The first silver medal is worth 450k, with each subsequent silver worth +175k more.
-The first gold medal is worth 1000k, with each subsequent gold worth +275k more.
-
-For All Level One modes: 
-To earn bronze, you need three shots.
-To earn silver, you need six shots.
-To earn gold, you need nine shots.
-
-Unless you make the Galactic Away Team shot. In GAT, there are fewer shots available that are worth more points.
-
-Special Case: For Space Jump, making the GAT shot leaves only the Vengeance shot available as the last shot. Making it will give the the next higher medal award automatically, and the mode ends. However, this does mean if you shoot the GAT shot before getting a silver medal, you can't get the gold medal for that mode.
-
-Medal values double if you combo into the shot that gives you the medal. For example: Comboing into the third shot will give you double the value for the bronze medal. This value will be doubled again if you have Double Scoring running. Example: I have received a Gold Medal worth 8.4 Million points.
-
-Level Two and Three modes: Now things start to get real. To medal, you can't just make any shots. You need to make the correct, better shots that are indicated by the multi-color arrows. Making incorrect shots may lock you out of better medals.
-
-Special Case #2: Klingon Multiball
-If you collect the Double Super Jackpot you will also receive a single, gold medal.
 
 ## Captain's Chair and Level 3 Completion {#heading--captainschair}
 **Captain's Chair:**
