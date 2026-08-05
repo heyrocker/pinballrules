@@ -105,45 +105,60 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 
 ## Mode Details {#heading--modedetails}
 ### Prime Directive {#heading--modepd}
-- **Level I:**  30-second timer. All shots light blue and un-light when hit. Un-lighting five shots relights all shots; after a short timer, shots will also relight if no mode shot has been completed.
-  - **With Galactic Away Team:** Top (bonus X) lanes are lit, rolling over a lane scores as a shot and unlights that lane. Lanes relight over time, or completing all 3 lanes relights them all. Flipper buttons still rotate lanes as usual.
-  - 4x final shot: Right ramp.
-- **Level II:** 30-second timer. All shots light blue with one shot lit for 2x. Make a shot to unlight it. Making the 2x shot moves the 2x to another shot. Complete all shots to complete the mode.
-- **Level III:** Identical to Level II (?)
+**Level I:**  30-second timer. All shots light blue and un-light when hit. Un-lighting five shots relights all shots; after a short timer, shots will also relight if no mode shot has been completed
+
+4x final shot: Right ramp.
+
+**Galactic Away Team:** Top (bonus X) lanes are lit, rolling over a lane scores as a shot and unlights that lane. Lanes relight over time, or completing all 3 lanes relights them all. Flipper buttons still rotate lanes as usual.
+
+**Level II:** 30-second timer. All shots light blue with one shot lit for 2x. Make a shot to unlight it. Making the 2x shot moves the 2x to another shot. Complete all shots to complete the mode.
+
+**Level III:** Identical to Level II (?)
 
 |Medal|Bronze|Silver|Gold|
 |---|---|---|---|
 |**2X Shots**|2|3|5|
 
-- **Level 3 Completion:** 2X on the Left scoop for the remainder of the game.
+**Level 3 Completion:** 2X on the Left scoop for the remainder of the game.
 
 ### Space Jump: {#heading--modesj}
-- **Level I:** 30-second timer. Four shots (both orbits, left ramp, right ramp) light yellow. Shooting a lit arrow un-lights the shot and one other shot, but will always re-light a combo. All shots re-light after a small timer elapses if no shots are made.
-  - **Galactic Away Team** Vengeance drop target. Hitting the target will advance one medal rank if not at gold and end mode.
-  - 4x final shot: Vengeance.
-- **Level II:** 30-second timer. Similar to level I, but after the first shot, one lit shot is worth 2x, and shots do not relight with time. Make 6 shots to complete the mode.
-- **Level III:** 30-second timer. Complete the sequence of 8 shots to complete the mode, warp ramp is 2x when lit:
-  1. Left ramp or right ramp
-  2. Warp ramp (2x) or right orbit
-  3. Right ramp
-  4. Warp ramp (2x) or left orbit
-  5. Left ramp
-  6. Warp ramp (2x) or Vengeance
-  7. Left ramp or right ramp
-  8. Warp ramp (2x) or right orbit
+
+**Level I:** 30-second timer. Four shots (both orbits, left ramp, right ramp) light yellow. Shooting a lit arrow un-lights the shot and one other shot, but will always re-light a combo. All shots re-light after a small timer elapses if no shots are made.
+
+4x final shot: Vengeance.
+
+**Galactic Away Team** Vengeance drop target. Hitting the target will advance one medal rank if not at gold and end mode.
+
+**Level II:** 30-second timer. Similar to level I, but after the first shot, one lit shot is worth 2x, and shots do not relight with time. Make 6 shots to complete the mode.
+
+**Level III:** 30-second timer. Complete the sequence of 8 shots to complete the mode, warp ramp is 2x when lit:
+
+1. Left ramp or right ramp
+2. Warp ramp (2x) or right orbit
+3. Right ramp
+4. Warp ramp (2x) or left orbit
+5. Left ramp
+6. Warp ramp (2x) or Vengeance
+7. Left ramp or right ramp
+8. Warp ramp (2x) or right orbit
 
 |Medal|Bronze|Silver|Gold|
 |---|---|---|---|
 |**2X Shots**|1|2|3|
 
-- **Level 3 Completion:** 2X on the Right Orbit for the remainder of the game.
+**Level 3 Completion:** 2X on the Right Orbit for the remainder of the game.
 
 ### Save the Enterprise: {#heading--modeste}
-- **Level I:** 30-second timer. Three random adjacent shots other than the warp ramp light. Shoot any one to move to three new random adjacent shots (other shots unlight).
-  - **Galactic Away Team:** Warp ramp & left orbit.
-  - 4x final shot: both orbits.
-- **Level II:** No time limit. 2 random shots light; one shot is 2x. Lit shots are re-randomized after every shot made. Complete 6 shots to finish the mode.
-- **Level III:** No time limit. Only 1 random shot lights. Hitting the lit shot lights a different random shot and lights the Warp ramp for a 2x shot. The Warp ramp remains lit until hit. Once hit, another mode shot must be made to relight. Complete 8 shots to finish the mode.
+
+**Level I:** 30-second timer. Three random adjacent shots other than the warp ramp light. Shoot any one to move to three new random adjacent shots (other shots unlight).
+
+4x final shot: both orbits.
+
+**Galactic Away Team:** Warp ramp & left orbit.
+
+**Level II:** No time limit. 2 random shots light; one shot is 2x. Lit shots are re-randomized after every shot made. Complete 6 shots to finish the mode.
+
+**Level III:** No time limit. Only 1 random shot lights. Hitting the lit shot lights a different random shot and lights the Warp ramp for a 2x shot. The Warp ramp remains lit until hit. Once hit, another mode shot must be made to relight. Complete 8 shots to finish the mode.
 
 |Medal|Bronze|Silver|Gold|
 |---|---|---|---|
@@ -152,11 +167,16 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 - **Level 3 Completion:** 2X on the Right Ramp for the remainder of the game.
 
 ### Nero: {#heading--moden}
-- **Level I:** 30-second timer. Five shots light purple (all except scoop & warp ramp). Shooting a lit shot un-lights it. Re-light all five shots by either un-lighting all, or allowing a short timer to elapse.
-  - **Galactic Away Team:** Red Matter standups. Standups unlight when hit. Completing all standups relights them all.
-  - 4x final shot: Black Hole target.
-- **Level II:** No time limit. Left scoop (2x) and left orbit represent the Left Romulan attacker (on the screen). Left ramp (2x) and Vengeance represent the Center Romulan attacker. Right ramp (2x) and right orbit represent the Right Romulan attacker. Defeat 10 attackers to complete. Attackers re-light after a short time, up to 4 times at each pair of shots. Extra points are awarded for defeating three attackers before any re-light.
-- **Level III:** 55-second timer. Left eject and right orbit are initially lit. Left flipper button moves the left eject shot one shot to the right every flip, looping back around to the far left. Right flipper button will move the right orbit shot one shot to the left every flip, looping back around to the far right. If both shots overlap, that shot is worth 2x. Compete 5 shots to finish the mode.
+
+**Level I:** 30-second timer. Five shots light purple (all except scoop & warp ramp). Shooting a lit shot un-lights it. Re-light all five shots by either un-lighting all, or allowing a short timer to elapse.
+
+4x final shot: Black Hole target.
+
+**Galactic Away Team:** Red Matter standups. Standups unlight when hit. Completing all standups relights them all.
+
+**Level II:** No time limit. Left scoop (2x) and left orbit represent the Left Romulan attacker (on the screen). Left ramp (2x) and Vengeance represent the Center Romulan attacker. Right ramp (2x) and right orbit represent the Right Romulan attacker. Defeat 10 attackers to complete. Attackers re-light after a short time, up to 4 times at each pair of shots. Extra points are awarded for defeating three attackers before any re-light.
+
+**Level III:** 55-second timer. Left eject and right orbit are initially lit. Left flipper button moves the left eject shot one shot to the right every flip, looping back around to the far left. Right flipper button will move the right orbit shot one shot to the left every flip, looping back around to the far right. If both shots overlap, that shot is worth 2x. Compete 5 shots to finish the mode.
 
 |Medal|Bronze|Silver|Gold|
 |---|---|---|---|
@@ -165,35 +185,47 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 - **Level 3 Completion:** 2X on the Left Orbit for the remainder of the game.
 
 ### Destroy the Drill: {#heading--modedtd}
-- **Level I:** 30-second timer. Leftmost 4 shots are initially lit. Additional shots light from left to right as time elapses. Shooting a lit shot unlights the rightmost lit shot.
-  - **Galactic Away Team:** Left eject hole and left spinner/orbit are lit; spinner is worth 75K per spin.
-  - 4x final shot: Left eject
-- **Level II:** No time limit. Shots light one at a time left to right until all shots are lit, then unlight from left to right until only the right orbit remains. Then shots will light from right to left until all shots are lit, then unlight from right to left until only the left eject remains. Then the pattern repeats. The most recently lit shot is worth 2x. Making a shot unlights it for the rest of the mode. Complete 6 different shots (out of 7 available) to finish the mode.
-* **Level III:** 55-second timer. Left eject hole, Vengeance, and right orbit are lit, plus a roving shot that starts at the Vengeance and bounces left and right in sync with the crosshairs on the DMD. When the roving shot overlaps with another lit shot, that shot becomes worth 2x. Complete 7 shots to finish the mode.
+
+**Level I:** 30-second timer. Leftmost 4 shots are initially lit. Additional shots light from left to right as time elapses. Shooting a lit shot unlights the rightmost lit shot.
+
+4x final shot: Left eject
+
+**Galactic Away Team:** Left eject hole and left spinner/orbit are lit; spinner is worth 75K per spin.
+
+**Level II:** No time limit. Shots light one at a time left to right until all shots are lit, then unlight from left to right until only the right orbit remains. Then shots will light from right to left until all shots are lit, then unlight from right to left until only the left eject remains. Then the pattern repeats. The most recently lit shot is worth 2x. Making a shot unlights it for the rest of the mode. Complete 6 different shots (out of 7 available) to finish the mode.
+
+**Level III:** 55-second timer. Left eject hole, Vengeance, and right orbit are lit, plus a roving shot that starts at the Vengeance and bounces left and right in sync with the crosshairs on the DMD. When the roving shot overlaps with another lit shot, that shot becomes worth 2x. Complete 7 shots to finish the mode.
 
 |Medal|Bronze|Silver|Gold|
 |---|---|---|---|
 |**2X Shots**|1|2|3|
 
-- **Level 3 Completion:** 2X on the Warp Ramp for the remainder of the game.
+**Level 3 Completion:** 2X on the Warp Ramp for the remainder of the game.
 
 ### Klingon Battle: {#heading--modekb}
-- **Level I:** 30-second timer. Five shots (both orbits and all 3 ramps) are lit. Making a shot unlights it until another shot is made.
-  - **Galactic Away Team:** Left/right ramps (must alternate after first).
-  - 4x final shot: Left ramp.
-- **Level II:** No time limit. Lit shots cycle through 4 patterns starting with only the left ramp lit then spreading in both directions, approximately 8 seconds per full cycle:
-  1. Only left ramp lit for 2x.
-  2. Warp ramp and Vengeance light, 2x moves to warp ramp.
-  3. Left orbit and right ramp light, 2x moves to right ramp.
-  4. Left eject and right orbit light (i.e. all shots are now lit), 2x moves to right orbit.
-  - Making any lit shot restarts the cycle. (Note: You can achieve perfect medal progress by repeating the Left Ramp, but you will sacrifice some points because it avoids any 2x combos.)
-- **Level III:** 45-second timer. A random shot is lit for 2x. Additional random shots light over time, up to 3 can be lit at a time. Shots un-light when hit. Making the 2x shot moves it to another lit shot, or a random shot if it was the only lit shot. Make 8 shots to finish.
+
+**Level I:** 30-second timer. Five shots (both orbits and all 3 ramps) are lit. Making a shot unlights it until another shot is made.
+
+4x final shot: Left ramp.
+
+**Galactic Away Team:** Left/right ramps (must alternate after first).
+
+**Level II:** No time limit. Lit shots cycle through 4 patterns starting with only the left ramp lit then spreading in both directions, approximately 8 seconds per full cycle:
+
+1. Only left ramp lit for 2x.
+2. Warp ramp and Vengeance light, 2x moves to warp ramp.
+3. Left orbit and right ramp light, 2x moves to right ramp.
+4. Left eject and right orbit light (i.e. all shots are now lit), 2x moves to right orbit.
+
+Making any lit shot restarts the cycle. (Note: You can achieve perfect medal progress by repeating the Left Ramp, but you will sacrifice some points because it avoids any 2x combos.)
+
+**Level III:** 45-second timer. A random shot is lit for 2x. Additional random shots light over time, up to 3 can be lit at a time. Shots un-light when hit. Making the 2x shot moves it to another lit shot, or a random shot if it was the only lit shot. Make 8 shots to finish.
 
 |Medal|Bronze|Silver|Gold|
 |---|---|---|---|
 |**2X Shots**|2|3|5|
 
-- **Level 3 Completion:** 2X on the Left Ramp for the remainder of the game.
+**Level 3 Completion:** 2X on the Left Ramp for the remainder of the game.
 
 ## Captain's Chair and Level 3 Completion {#heading--captainschair}
 
