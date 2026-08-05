@@ -128,7 +128,7 @@ TEAM features are lit in the following order:
 - **Charmander Super Spinner**: Shoot the right orbit to light the spinner for 100k per spin for the duration of the mode.
 - **Bulbasaur Loops**: Shoot the left orbit repeatedly to score increasing points per loop.
 
-Team Rocket Multiball: {#heading--team}
+## Team Rocket Multiball: {#heading--team}
 Shoot the BATTLE targets to lower the Meowth balloon, with the center lane spotting targets that haven't been hit. Making a **[super skill shot](#heading--skillshots)** to the center lane also instantly lowers the balloon.
 
 Once the balloon is lowered, shoot the balloon 3 times (+2 per multiball) to light Team Rocket multiball at the lane below it. Hitting the lane underneath the balloon as a "sneak-in" will light the multiball instantly.
