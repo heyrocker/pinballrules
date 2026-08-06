@@ -2,8 +2,6 @@
 title: "Action Button Master List"
 ---
 
-# Action Button Master List
-
 # Action Button Master List {#heading--top}
 - [Stern Pinball](#heading--stern)
 - [Jersey Jack Pinball](#heading--jjp)

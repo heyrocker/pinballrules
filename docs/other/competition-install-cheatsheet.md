@@ -2,8 +2,6 @@
 title: "Competition Install Master List"
 ---
 
-# Competition Install Master List
-
 # Competition Install Master List {#heading--top}
 - [General & Manufacturer Overview](#heading--overview)
 - [Stern Pinball Competition Settings](#heading--stern)
