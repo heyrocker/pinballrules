@@ -240,8 +240,8 @@ Making any lit shot restarts the cycle. (Note: You can achieve perfect medal pro
 ## Captain's Chair and Level 3 Completion {#heading--captainschair}
 **Captain's Chair:**
 Completing three same-level modes in a line enables the Captain's Chair. 
-|||||
-|-|-|-|-|
+|||
+|-|-|
 |**Left Side**|Super Pops|
 |**Right Side**|Super Ramps|
 |**Bottom Side**|Super Spinner|
@@ -250,8 +250,8 @@ Captain's Chair remains live until completed, it remains active across balls. Yo
 
 **Level III Completion:**
 Completing the Level 3 Mode of any of the 6 Modes will award a 2X Shot Multiplier for the remainder of the game.
-|Mode|2X Shot||
-|-|-|-|
+|Mode|2X Shot|
+|-|-|
 |**Prime Directive**|Left Scoop|
 |**Space Jump**|Right Orbit|
 |**Save the Enterprise**|Right Ramp|
