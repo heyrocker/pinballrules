@@ -63,9 +63,9 @@ It's always a good idea to hold off starting a multiball until JUST after you've
 ## Mode Levels {#heading--modelevels}
 Each of the six colored hexagon modes has four versions with unique scoring rules and shot placement.
 
-Level I modes are the default "starting" modes, operating on a timer. When time runs out, all shots light to collect one single "final shot" and complete the mode (draining during "final shot" sequence also completes the mode).
+Level I modes are the default "starting" modes, operating on a timer. When time runs out, all shots light to collect one single "final shot" and complete the mode (draining during "final shot" sequence also completes the mode). When the final shot is lit, one or two shots are lit for 4x the final shot value. This can be doubled via a combo, but it is hard to do so since it requires making the penultimate shot just before the timer runs out. Note: In Prime Directive, Save The Enterprise, and Klingon Battle, the timer display rounds *down* to the nearest second, e.g. 29.9 seconds left displays as "29", while in Destroy The Drill, Nero, and Space Jump, the display rounds *up*, e.g. 29.1 seconds displays as "30".
 
-Each Level I mode may be advanced to Galactic Mode for improved scoring and alternate objectives. To begin Galactic Mode, first shoot any lit mode shot, then shoot the "Away Team" rollover (underneath the upper right flipper). The mode timer from Level I continues with an additional 20 seconds added. Galactic Mode may be started after any number of mode shots have been completed as long as the timer has not run out. Draining during a Galactic Mode will end the mode with the current medal status. Galactic Modes are only available during Level I modes.
+Each Level I mode may be advanced to Galactic Mode for improved scoring and alternate objectives. To begin Galactic Mode, first shoot any lit mode shot, then shoot the "Away Team" rollover (underneath the upper right flipper). The mode timer from Level I continues with an additional 20 seconds added. Galactic Away Team Mode may be started after any number of mode shots have been completed as long as the timer has not run out. Draining during a Galactic Mode will end the mode with the current medal status. Galactic Away Team Modes are only available during Level I modes.
 
 Level II modes may only be started after completing their respective Level I (or Galactic) mode. Level II modes feature two kinds of lit shots: regular-color arrows, which award mode points and advance toward bronze medal awards; and multi-color arrows, which award double mode points and count towards silver and gold medal awards. The Level II mode will end and be marked complete when a certain number of total shots are made (as described per mode); if the ball drains or the timer runs out, the mode exits and may be re-started later, with progress saved. 
 
@@ -81,6 +81,37 @@ For example, suppose a player starts a new game, starts a level I mode, makes 2 
 - The 2nd shot is worth 100K x 1 (level) + 5K (shot bonus) + 10K (streak bonus) + 30K x 1 (shots made in the current mode) = 145K. The shot bonus becomes 10K and the streak bonus becomes 20K.
 - Upon draining, the streak bonus resets to 0.
 - The 3rd shot is then worth 100K x 1 (level) + 10K (shot bonus) + 0 (streak bonus) + 30K x 2 (shots made in the current mode) = 180K. The shot bonus becomes 15K and the streak bonus becomes 10K.
+
+### Galactic Away Team Scoring
+
+GAT scoring works differently than regular modes. Each shot collects the shot bonus and streak bonus as usual, but does not build them.
+
+The under-the-flipper shot used to start GAT counts as a regular Level I mode shot. The first shot after starting GAT is the value of this shot plus 30K + (mode shot bonus) x (shots made in the Level I mode before starting GAT), where the mode shot bonus depends on the mode:
+
+|Mode|Mode shot bonus|
+|---|---|
+|Prime Directive|125K|
+|Space Jump|125K|
+|Klingon Battle|150K|
+|Destroy the Drill|200K|
+|Nero|225K|
+|Save the Enterprise|350K|
+
+Each subsequent shot in GAT is worth 75K more than the previous one. The final shot is still scored as a regular Level I mode shot, with Level I shots and GAT shots both counting towards the number of shots made in the current mode.
+
+For example, suppose a player starts Prime Directive I, bringing in a 35K shot bonus and a 70K streak bonus, makes 3 shots, then makes their 4th shot under the flipper to start GAT. Then they make 2 more shots in GAT before time runs out, and they make their final shot as one of the regular (non-4x) shots.
+
+- After the 3rd shot, the shot bonus is 50K and the streak bonus is 100K.
+- The 4th shot to start GAT is worth 100K x 1 (level) + 50K (shot bonus) + 100K (streak bonus) + 30K x 3 (shots made in the current mode) = 340K. The shot bonus is now 55K and the streak bonus is now 110K.
+- The 5th shot, which is the 1st shot in GAT, is worth 340K (previous shot value) + 30K + 125K (mode shot bonus) x 4 (shots made before GAT) = 870K
+- The 6th shot is worth 870K (previous GAT shot value) + 75K (increment) = 945K.
+- The 7th and final shot is worth 100K x 1 (level) + 55K (shot bonus) + 110K (streak bonus) + 30K x 6 (shots made in the current mode) = 445K
+
+### Special Cases
+
+Klingon Battle I adds an extra 25K x (shots made in Klingon Battle I) to the final shot value.
+
+Destroy the Drill I has an invisible bonus that accumulates with each shot and is added to the final shot value when time runs out. Each shot adds 20K x (number of unlit shots + 3). GAT shots also build this bonus.
 
 ## Medals {#heading--medals}
 Medals (and points) are awarded for how well you play each mode (bronze/silver/gold).  After completing all modes a "medal bonus collect/jackpot" is awarded when you start the mini wizard mode. This value can be doubled if 2x is running. Medals accrue and are never replaced, thus earning a Silver Medal also leaves you holding a Bronze.
