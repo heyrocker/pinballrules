@@ -113,6 +113,8 @@ Klingon Battle I adds an extra 25K x (shots made in Klingon Battle I) to the fin
 
 Destroy the Drill I has an invisible bonus that accumulates with each shot and is added to the final shot value when time runs out. Each shot adds 20K x (number of unlit shots + 3). GAT shots also build this bonus.
 
+Space Jump GAT awards 4x the regular GAT value and immediately ends the mode.
+
 ## Medals {#heading--medals}
 Medals (and points) are awarded for how well you play each mode (bronze/silver/gold).  After completing all modes a "medal bonus collect/jackpot" is awarded when you start the mini wizard mode. This value can be doubled if 2x is running. Medals accrue and are never replaced, thus earning a Silver Medal also leaves you holding a Bronze.
 
