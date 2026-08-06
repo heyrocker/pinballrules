@@ -133,7 +133,7 @@ For all Level I modes, every 3rd shot awards the next medal, i.e. 3 shots for br
 
 For Level II modes, 3 shots awards a bronze medal, while 2x value shots (indicated by the multi-color arrows) are needed for higher medals: 3 for silver and 5 for gold.
 
-For Level III modes, medals are awarded solely based on 2x value shots made. The number of shots needed varies depending on the mode, and is listed below under each mode's details.
+For Level III modes, medals are awarded solely based on 2x value shots made. Prime Directive III and Klingon Battle III require 2, 3, and 5 shots for bronze, silver, and gold respectively. The other level III modes award one medal level for each 2x shot made, up to a gold medal on the 3rd 2x shot.
 
 Note that for Level II and Level III modes, making lower-value shots may lock you out of better medals.
 
@@ -151,11 +151,7 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 
 **Level III:** Identical to Level II (?)
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**2X Shots**|2|3|5|
-
-**Level 3 Completion:** 2X on the Left scoop for the remainder of the game.
+**Level III Completion:** 2X on the Left scoop for the remainder of the game.
 
 ### Space Jump: {#heading--modesj}
 
@@ -178,11 +174,7 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 7. Left ramp or right ramp
 8. Warp ramp (2x) or right orbit
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**2X Shots**|1|2|3|
-
-**Level 3 Completion:** 2X on the Right Orbit for the remainder of the game.
+**Level III Completion:** 2X on the Right Orbit for the remainder of the game.
 
 ### Save the Enterprise: {#heading--modeste}
 
@@ -196,11 +188,7 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 
 **Level III:** No time limit. Only 1 random shot lights. Hitting the lit shot lights a different random shot and lights the Warp ramp for a 2x shot. The Warp ramp remains lit until hit. Once hit, another mode shot must be made to relight. Complete 8 shots to finish the mode.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**2X Shots**|1|2|3|
-
-- **Level 3 Completion:** 2X on the Right Ramp for the remainder of the game.
+**Level III Completion:** 2X on the Right Ramp for the remainder of the game.
 
 ### Nero: {#heading--moden}
 
@@ -214,11 +202,7 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 
 **Level III:** 55-second timer. Left eject and right orbit are initially lit. Left flipper button moves the left eject shot one shot to the right every flip, looping back around to the far left. Right flipper button will move the right orbit shot one shot to the left every flip, looping back around to the far right. If both shots overlap, that shot is worth 2x. Compete 5 shots to finish the mode.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**2X Shots**|1|2|3|
-
-- **Level 3 Completion:** 2X on the Left Orbit for the remainder of the game.
+**Level III Completion:** 2X on the Left Orbit for the remainder of the game.
 
 ### Destroy the Drill: {#heading--modedtd}
 
@@ -232,11 +216,7 @@ Special Case #2: The Double Super Jackpot in Klingon Multiball awards a single, 
 
 **Level III:** 55-second timer. Left eject hole, Vengeance, and right orbit are lit, plus a roving shot that starts at the Vengeance and bounces left and right in sync with the crosshairs on the DMD. When the roving shot overlaps with another lit shot, that shot becomes worth 2x. Complete 7 shots to finish the mode.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**2X Shots**|1|2|3|
-
-**Level 3 Completion:** 2X on the Warp Ramp for the remainder of the game.
+**Level III Completion:** 2X on the Warp Ramp for the remainder of the game.
 
 ### Klingon Battle: {#heading--modekb}
 
@@ -257,11 +237,7 @@ Making any lit shot restarts the cycle. (Note: You can achieve perfect medal pro
 
 **Level III:** 45-second timer. A random shot is lit for 2x. Additional random shots light over time, up to 3 can be lit at a time. Shots un-light when hit. Making the 2x shot moves it to another lit shot, or a random shot if it was the only lit shot. Make 8 shots to finish.
 
-|Medal|Bronze|Silver|Gold|
-|---|---|---|---|
-|**2X Shots**|2|3|5|
-
-**Level 3 Completion:** 2X on the Left Ramp for the remainder of the game.
+**Level III Completion:** 2X on the Left Ramp for the remainder of the game.
 
 ## Captain's Chair and Level 3 Completion {#heading--captainschair}
 
@@ -276,7 +252,7 @@ Completing three same-level modes in a line enables the Captain's Chair.
 
 Captain's Chair remains live until completed, it remains active across balls. You can only get Captain's Chair once per rack, but if you finish two at the same time, you will get both awards.
 
-**Level 3 Completion:**
+**Level III Completion:**
 Completing the Level 3 Mode of any of the 6 Modes will award a 2X Shot Multiplier for the remainder of the game.
 
 |Mode|2X Shot||
