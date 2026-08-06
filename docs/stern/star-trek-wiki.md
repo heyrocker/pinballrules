@@ -124,7 +124,10 @@ Medal values double if you combo into the shot that gives you the medal. For exa
 
 For all Level I modes, every 3rd shot awards the next medal, i.e. 3 shots for bronze, 6 shots total for silver, and 9 shots total for gold.
 - Galactic Away Team: The shot to start GAT counts as one shot, and the number of shots made carries over into GAT.
-- Special Case: For Space Jump, GAT only has one shot lit at the Vengeance. Making this shot awards the next higher medal award automatically, and ends the mode. However, this does mean if you start GAT without a silver medal, you can't get the gold medal for that mode.
+- Special Case: For Space Jump, GAT only has one shot lit at the Vengeance. This shot counts as 4 shots and and ends the mode. If these 4 shots would award multiple medals, only the higher medal is awarded. For examples:
+  - If you start GAT on the 2nd shot, the GAT Vengeance shot counts as the 3rd, 4th, 5th, and 6th shots, but only awards the silver medal at 6 shots, skipping bronze at 3.
+  - If you start GAT on the 4th shot, the GAT Vengeance shot counts as the 5th, 6th, 7th, and 8th shots, awarding the silver medal at 6 shots. Note that starting GAT this early makes it impossible to earn the gold medal.
+  - If you start GAT on the 5th shot, the GAT Vengeance shot counts as the 6th, 7th, 8th, and 9th shots, awarding only the gold medal and skipping silver.
 
 For Level II modes, 3 shots awards a bronze medal, while 2x value shots (indicated by the multi-color arrows) are needed for higher medals: 3 for silver and 5 for gold.
 
