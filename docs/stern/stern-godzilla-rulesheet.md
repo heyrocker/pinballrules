@@ -474,7 +474,7 @@ Collect mystery awards at the Maser Cannon standup target when flashing. Qualify
 - Start **[Mechagodzilla Battle](#heading--mechamb)** (activates the Neo Barrier, only available once per game)
 - Start **[Hedorah](#heading--secret)** (see below)
 
-### City Combos:
+### City Combos: (#heading--citycombos)
 
 Each of the 4 Cities has a set of unique combos, 3 combos on the Premium / LE and 2 on the Pro (note that Prem / LE exclusive combos require the building to be in Lock position). After completing 5 City Combos, an **[extra ball](#heading--extraballs)** will be awarded. City Combos that have not been collected yet can be viewed in the status report. City Combos score 5M, with a bonus of 10M for completing each city's set.
 
@@ -493,7 +493,7 @@ Each of the 4 Cities has a set of unique combos, 3 combos on the Premium / LE an
 |**Paris Combo 2**|Left Ramp|Right Ramp|Through Building|
 |**Paris Combo 3** (Prem / LE)|Left Ramp|Left Spinner|
 
-Secret Combos: {#heading--citycombos}
+### Secret Combos: (#heading--secret)
 There are 10 **secret combos** throughout the game. Each secret combo is worth 2,500,000. The secret combos are:
 
 [details="Spoilers"]
