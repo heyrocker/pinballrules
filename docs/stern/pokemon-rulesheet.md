@@ -223,7 +223,7 @@ When the topper is installed, each Pokémon caught lights one letter of MAGIKARP
 
 ## Magikarp Multiball: {#heading--magikarp-multiball}
 
-2-ball multiball. Make blue shots to light a Magikarp Jackpot at the Pokedex captive ball. When the jackpot is lit, additional blue shots can be made to build the jackpot. Scoring enough jackpots lights the left ramp to evolve Magikarp into Gyarados.
+2-ball multiball. Make blue shots to light a Magikarp Jackpot at the Pokedex captive ball. When the jackpot is lit, additional blue shots can be made to build the jackpot. Scoring enough jackpots lights the left ramp to evolve Magikarp into Gyarados and proceed to the second phase, Pikachu vs. Gyarados.
 
 # Wizard Modes: {#heading--wizard}
 ## Pikachu vs. Charizard: {#heading--charizard}
@@ -238,7 +238,11 @@ Repeating this process, once for all four major shots, will light the center lan
 If the player drains down to a single ball during Pikachu vs. Charizard, they will have 15 seconds to either hit a lit shot or hit the captive ball to add a ball & continue the multiball. The mode ends once the player either scores the super jackpot or times out of the last chance.
 
 ## Lucario Battle: {#heading--lucario}
-*(TBD on 0.84 code)*
+Similar to Monster Zero in Godzilla, this is a two-phase mini-wizard mode where the object of phase 1 is to build up the jackpot value and lock balls, and the phase 2 is a multiball with however many balls were locked in phase 1.
+
+Phase 1: Major shots except the right ramp are lit yellow to build jackpot value. Hitting a yellow shot unlights it. After enough yellow shots are made, the right ramp is lit blue to lock a ball and relight all yellow shots. More yellow shots are needed each time to light the blue shot. Phase 1 continues until either the ball drains or the maximum number of balls have been locked.
+
+Phase 2: Multiball, number of balls depends on the number of blue shots made in phase 1. 2 random shots are lit blue for jackpots, making either shot rerolls the locations of both shots. After enough jackpots are collected, the right ramp will be lit to relock a ball and light a super jackpot at the Poke Ball.
 
 ## Arena Battle: {#heading--arena}
-*(TBD on 0.84 code)*
+*(TBD on 0.85 code)*
