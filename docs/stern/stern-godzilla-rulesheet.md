@@ -544,11 +544,11 @@ Bonus:
 - **[Loops](#heading--loops)**: 150K
 - Bonus X (earned through *[conquering](#heading--cityselect)* Cities or as a **[Mystery Award](#heading--masercannon)**)
 
-Mini-Wizard Modes:
+## Mini-Wizard Modes: (#heading--miniwizardmodes)
 
 There are three smaller wizard modes in this game:
 
-Monster Zero: {#heading--extraballs}
+### Monster Zero: {#heading--extraballs}
 If the player scored the Super Jackpot during **[Godzilla Multiball](#heading--godzillamb)**, then chooses "Light Monster Zero" from **[Godzilla Power-Up](#heading--powerups)** Level 4 or 8, the next building shot will begin **Monster Zero**. To defeat Monster Zero, the player must successfully lock up to 3 balls in single-ball play, then take them on in a Multiball showdown. The mode starts with a 30 second ball saver, reduced to 10 seconds after each lock.
 
 - **Lighting Locks** - In order to qualify a lock, shots must be made to any shot with a green arrow; two shots are required for the first lock, then three, then four. Collecting enough of these shots lights the lock at the building and activates red inserts at all major shots for 30 seconds; making these shots adds points to the jackpot value, while successfully locking each ball advances the Super Jackpot multiplier to 3x, 5x, and finally 8x.
