@@ -474,7 +474,7 @@ Collect mystery awards at the Maser Cannon standup target when flashing. Qualify
 - Start **[Mechagodzilla Battle](#heading--mechamb)** (activates the Neo Barrier, only available once per game)
 - Start **[Hedorah](#heading--secret)** (see below)
 
-### City Combos:
+### City Combos: (#heading--citycombos)
 
 Each of the 4 Cities has a set of unique combos, 3 combos on the Premium / LE and 2 on the Pro (note that Prem / LE exclusive combos require the building to be in Lock position). After completing 5 City Combos, an **[extra ball](#heading--extraballs)** will be awarded. City Combos that have not been collected yet can be viewed in the status report. City Combos score 5M, with a bonus of 10M for completing each city's set.
 
@@ -493,7 +493,7 @@ Each of the 4 Cities has a set of unique combos, 3 combos on the Premium / LE an
 |**Paris Combo 2**|Left Ramp|Right Ramp|Through Building|
 |**Paris Combo 3** (Prem / LE)|Left Ramp|Left Spinner|
 
-Secret Combos: {#heading--citycombos}
+### Secret Combos: (#heading--secret)
 There are 10 **secret combos** throughout the game. Each secret combo is worth 2,500,000. The secret combos are:
 
 [details="Spoilers"]
@@ -544,11 +544,11 @@ Bonus:
 - **[Loops](#heading--loops)**: 150K
 - Bonus X (earned through *[conquering](#heading--cityselect)* Cities or as a **[Mystery Award](#heading--masercannon)**)
 
-Mini-Wizard Modes:
+## Mini-Wizard Modes: (#heading--miniwizardmodes)
 
 There are three smaller wizard modes in this game:
 
-Monster Zero: {#heading--extraballs}
+### Monster Zero: {#heading--extraballs}
 If the player scored the Super Jackpot during **[Godzilla Multiball](#heading--godzillamb)**, then chooses "Light Monster Zero" from **[Godzilla Power-Up](#heading--powerups)** Level 4 or 8, the next building shot will begin **Monster Zero**. To defeat Monster Zero, the player must successfully lock up to 3 balls in single-ball play, then take them on in a Multiball showdown. The mode starts with a 30 second ball saver, reduced to 10 seconds after each lock.
 
 - **Lighting Locks** - In order to qualify a lock, shots must be made to any shot with a green arrow; two shots are required for the first lock, then three, then four. Collecting enough of these shots lights the lock at the building and activates red inserts at all major shots for 30 seconds; making these shots adds points to the jackpot value, while successfully locking each ball advances the Super Jackpot multiplier to 3x, 5x, and finally 8x.
