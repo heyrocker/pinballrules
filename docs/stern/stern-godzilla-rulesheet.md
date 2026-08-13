@@ -114,7 +114,7 @@ Play all four of the listed objectives in a single game, across multiple differe
 
 The four Monster Monitor inserts are:
 
-### RAID - Kaiju Battles:
+### RAID - Kaiju Battles: {#heading--raid}
 
 Summon the Xiliens and listen to their plan for world domination by shooting either ramp twice, then shoot the scoop and select a 60-second timed **Kaiju Battle** using the flippers and action button. The first battle during a game is restricted to the *[Tier 1](#heading--tier1)* column; *[Tier 2](#heading--tier2)* battles can only be played by **[changing cities](#heading--cityselect)** and completing at least half of a Tier 1 battle in that new city. Making it halfway through a battle also lights **[Ally](#heading--allies)** at the scoop, and fully completing the battle *[conquers](#heading--cityselect)* the city for bonus perks & increases the **[Destruction Jackpot](#heading--destructionjp)** Multiplier.
 
@@ -124,7 +124,7 @@ Progress is saved between battle attempts, but the shot value resets, and the ti
 
 **[Jet Fighter Attack](#heading--jetfighter)**, **[Tesla Strike](#heading--power)**, and any **[Multiball](#heading--multiballs)** modes can be activated during and stacked with Tier 1 battles - but Tier 2 battles take priority over all other scoring features. A Kaiju Battle cannot be started if a multiball is already running or if **[Tank Attack Multiball](#heading--tankmb)** is lit at the scoop.
 
-Tier 1:
+#### Tier 1: {#heading--tier1}
 
 **Ebirah**
 Collect 15 spins from the left and right spinners each, and 40 spins from the center spinner. Each completed spinner scores 5M + 5M per spinner. After completing all three spinners, shoot the pop bumper for the final blow, worth 25M.
@@ -138,7 +138,7 @@ Make eight left or right ramp shots in any combination. Ramp shots award 1M + 50
 **Megalon**
 A random flashing purple shot will light for about 10 seconds. Hitting the flashing shot before it times out will award 4M + (points per switch hit) + 1x per lit shot, to a max of 5x, and light a new, different flashing shot; 7 shots must be made this way to win the battle. Failing to hit the flashing shot before time expires will allow Megalon to hide; while in hiding, shooting either ramp will return Megalon to fighting mode and light a combo shot to attack him. Timing out Megalon while he is hiding underground will result in him spawning at a random shot. Final blow scores the value of a normal shot + 10M.
 
-Tier 2:
+#### Tier 2: {#heading--tier2}
 
 **Godzilla, Rodan & Anguirus VS King Ghidorah**
 75 seconds. Take down King Ghidorah by shooting the flashing shots - the left ramp, building, center spinner, right ramp, and big loop - three times each. Shots start at 400k and increase by 150k per shot. All shots start green and award 1x, then yellow for 2x, and finally red for 4x. Collecting a red shot qualifies the scoop for **Fight or Flee** if it isn't lit, and adds a multiplier to the jackpot value that can be collected for fleeing at the scoop - which starts at 16M.
@@ -367,6 +367,10 @@ Making cumulative shots during the mode scores the following:
 Qualify the **Heat Ray** by spinning the center spinner enough times - 60 for the first, 120 for the second, etc. Once the action button is flashing, *hold* the action button to "charge" the Heat Ray to collect all lit shots. As soon as the meter on the display reaches 100%, it's safe to release the button. The more times you use the Heat Ray, the longer you will need to hold the action button to use it (though this can be sped up by *[conquering](#heading--cityselect)* three **Cities**).
 
 (*Note that the Heat Ray cannot be used on **[Destruction Jackpots](#heading--destructionjp)**, can only be used once during Tier 2 **[Kaiju Battles](#heading--raid)** and **multiball modes**, and is disabled during **[Planet X Multiball](#heading--planetx)***). 
+
+For spinner-based modes (**[Ebirah](#heading--tier1)**, **[Terror of Mechagodzilla](#heading--terror)** phases 2 and 4), Heat Ray spots 5 spins on each spinner.
+
+In **[Mechagodzilla Multiball](#heading--mechamb)**, when multiple shots or targets are lit but only one can be scored, Heat Ray spots one of those shots at random.
 
 After using the Heat Ray, the next spinner shot will score **Super Spinner** points - 2x per spin +1x for every city Godzilla has *[conquered](#heading--cityselect)* - for one spinner rip only, with no cap. +2x can also be added from **[Godzilla Power-Up](#heading--powerups)** #7. 
 
