@@ -93,8 +93,21 @@ def convert_html(content):
         content,
         flags=re.IGNORECASE,
     )
-    # Line breaks
-    content = re.sub(r'<br\s*/?>', '\n', content, flags=re.IGNORECASE)
+
+    # Line breaks — but never inside table rows, where <br> is
+    # intentionally used to fake multi-line cells on one physical line
+    def convert_br(text):
+        lines = text.split('\n')
+        out = []
+        for line in lines:
+            if line.strip().startswith('|'):
+                out.append(line)
+            else:
+                out.append(re.sub(r'<br\s*/?>', '\n', line, flags=re.IGNORECASE))
+        return '\n'.join(out)
+
+    content = convert_br(content)
+
     # Paragraphs
     content = re.sub(r'<p[^>]*>(.*?)</p>', r'\1\n\n',
                      content, flags=re.IGNORECASE | re.DOTALL)
@@ -109,8 +122,20 @@ def convert_html(content):
     # Ensure blank line between headings and immediately following tables
     content = re.sub(r'(^#{1,6} .+$)\n(\|)', r'\1\n\n\2', content, flags=re.MULTILINE)
 
+    # Strip any remaining HTML tags (but not inside table rows —
+    # e.g. <br> we intentionally preserved above)
+    def strip_tags_outside_tables(text):
+        lines = text.split('\n')
+        out = []
+        for line in lines:
+            if line.strip().startswith('|'):
+                out.append(line)
+            else:
+                out.append(re.sub(r'<[^>]+>', '', line))
+        return '\n'.join(out)
+
     # Strip any remaining HTML tags
-    content = re.sub(r'<[^>]+>', '', content)
+    content = strip_tags_outside_tables(content)
 
     # Decode remaining HTML entities
     content = html.unescape(content)
