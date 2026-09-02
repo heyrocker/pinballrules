@@ -7,6 +7,7 @@ opdb_id: "G4doo"
 # Lexy Lightspeed - Escape from Earth
 
 ## Game Information & Overview: {#heading--gameinfo}
+
 - Manufacturer: Multimorphic
 - Designer: Dennis Nordman, TJ Weaver
 - Code/Rules: BJ Wilson, Gerry Stellenberg, Michael Ocean
@@ -15,9 +16,10 @@ opdb_id: "G4doo"
 - Display and Animations: Rory Cernuda
 - Sound Design: David Thiel
 - Release Date: July, 2017
-- Original Wiki Rulesheet hosted on [Tilt Forums](/multimorphic/lexy-lightspeed-escape-from-earth_G4doo)
+- Original Wiki Rulesheet hosted on [Tilt Forums](/multimorphic/lexy-lightspeed-escape-from-earth)
  
 ## Rules Overview: {#heading--overview}
+
 **Multiballs** (not coupled with story mode)
 
 Secret Agent Multiball (2-8 balls)

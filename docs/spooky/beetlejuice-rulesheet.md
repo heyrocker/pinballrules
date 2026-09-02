@@ -51,7 +51,7 @@ A magnet located between and below the flippers can save balls draining down the
 
 ### Playfield Multipliers (Returning Souls)
 
-Hit the pop bumpers to spawn "Lost Souls." Return these souls (via specific lit shots) to activate and increase the brief Playfield Multiplier.
+Hit the pop bumpers to spawn a "Lost Soul." Return that soul by first hitting the randomly-lit Lost Soul shot, followed by a shot to the center scoop's front door. Repeat this process to qualify +1x and +30 seconds to your eventual PFx, with a max of 5x. Begin your PFx by going in the back door of the center scoop (under the upper flipper).  If you've earned higher than 2x, then your highest level will start first for 30 seconds of multiplied scoring, and then reduce by -1x for another 30 seconds until you're back down to normal 1x scoring.
 
 ## Skill Shots
 

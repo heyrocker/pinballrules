@@ -1,4 +1,4 @@
-name: Clean HTML in Markdown files
+name: Update master list
 
 on:
   push:
@@ -6,23 +6,25 @@ on:
     paths: ['docs/**/*.md']
 
 jobs:
-  clean-html:
+  process:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Required so git diff HEAD~1 HEAD works
 
-      - name: Run HTML cleaner
-        run: python scripts/clean_html.py docs/
+      - name: Update master list with new rulesheets
+        run: python scripts/update_master_list.py
 
-      - name: Commit cleaned files
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if ! git diff --quiet; then
             git add -A
-            git commit -m "Auto-convert HTML to Markdown"
+            git commit -m "Auto-update master list"
             git push
           fi

@@ -4,6 +4,8 @@ title: "List of games with their current code number Wiki"
 
 # List of games with their current code number
 
+# List of games with their current code number
+
 This is a one stop reference list for games with their current code number. Any mistakes, additions, changes needed, or updates, please feel free to add.
 
 - [Stern Pinball](#heading--stern)
@@ -35,7 +37,7 @@ This is a one stop reference list for games with their current code number. Any 
   - [Heighway Pinball](#heading--heighway)
 - [Unofficial Updates](#heading--unofficial)
 
-## Stern Pinball {#heading--stern}
+## <a name="heading--stern"></a>Stern Pinball
 [Download code for all Stern pinball machines here.](https://www.sternpinball.com/game-code)
 
 | Game Title | Latest Version | Release Date |
@@ -56,7 +58,7 @@ This is a one stop reference list for games with their current code number. Any 
 | Pokémon | 0.84 | Jul 1, 2026 |
 | Transformers: More Than Meets the Eye | 0.85 | Jul 22, 2026 |
 
-## Jersey Jack Pinball {#heading--jjp}
+## <a name="heading--jjp"></a>Jersey Jack Pinball
 [Download code for all JJP pinball machines here.](https://www.jerseyjackpinball.com/support/downloads/)
 
 Beta updates not listed (any one can opt in to installing them)
@@ -71,7 +73,7 @@ Beta updates not listed (any one can opt in to installing them)
 | Harry Potter | 1.26 | Apr 14th, 2025 | [Log](https://marketing.jerseyjackpinball.com/hp/hp_changelog.txt) |
 | Sonic The Hedgehog | 00.926 | Jul 23, 2026 | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
 
-## Multimorphic Pinball {#heading--multi}
+## <a name="heading--multi"></a>Multimorphic Pinball
 [Download code and release notes for all Multimorphic pinball machines here](https://www.multimorphic.com/account/software/), or directly from the P3 connected to the internet.
 
 Beta updates not listed (any one can opt in to installing them)
@@ -103,7 +105,7 @@ Beta updates not listed (any one can opt in to installing them)
 | Weird Al's Museum of Natural Hilarity | 1.5.3.0 | |
 | Young Martial Artist | 1.0.1.0 | |
 
-## Barrels of Fun {#heading--bof}
+## <a name="heading--bof"></a>Barrels of Fun
 [Download code for all BOF pinball machines here.](https://shop.kollectfun.com/code-update/)
 
 | Game Title | Latest Version | Release Date | Links | Change Log |
@@ -111,7 +113,7 @@ Beta updates not listed (any one can opt in to installing them)
 | Dune | 2026.05.13 | May 13, 2026 | [Code](https://www.dropbox.com/scl/fi/exdy5btmxr1r93n0zhofz/BOF_DUNE_20260513.zip?rlkey=da1jgtmwc590b97sc8gbn3it6&st=wwhyv0un&dl=0) | [Change Log](https://shop.kollectfun.com/dune-update-history/) |
 | Winchester Mystery House | 2026.07.16 | Jul 16 2026 | [Code](https://www.dropbox.com/scl/fi/wh1ky3lbg9w5lp8xh7x0m/BOF_WMH_20260716.zip?rlkey=oqiw1jfr4f2sutkuxzvpaae4i&st=pl7dxydl&dl=0) | [Change Log](https://shop.kollectfun.com/winchester-code-update/) |
 
-## Spooky Pinball {#heading--spooky}
+## <a name="heading--spooky"></a>Spooky Pinball
 [Download code for all Spooky pinball machines here.](https://www.spookypinball.com/game-support/)
 
 | Game Title | Latest Version | Release Date | Change Log |
@@ -119,7 +121,7 @@ Beta updates not listed (any one can opt in to installing them)
 | Evil Dead | [v2026.04.01](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.04.01.ed/2026.04.01.ed) | Apr 1, 2026 | [Log](https://www.spookypinball.com/EvilDead) |
 | Beetlejuice | [v2025.11.26](https://spookypinball.s3.us-east-2.amazonaws.com/beetlejuice/software_versions/release/v2026.04.10.17.beetlejuice) | Apr 10, 2026 | [Log](https://www.spookypinball.com/beetlejuice/) |
 
-## Turner Pinball {#heading--pb}
+## <a name="heading--turner"></a>Turner Pinball
 [Turner Pinball code can be viewed by clicking on updates.](https://turnerpinball.com/updates/)
 
 | Game Title | Latest Version | Release Date | Links |
@@ -127,7 +129,7 @@ Beta updates not listed (any one can opt in to installing them)
 | Ninja Eclipse - The Shadows Awaken | 0.9.5 | Aug 19 2025 | [Notes](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.md), [Enc File](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.enc), [Sig File](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.sig) |
 | Merlin's Arcade | 0.8.7 | Mar 26 2026 | [Notes](https://turnerpinball.com/software-releases/ninjaeclipse_v0.8.7/update.md), [Enc File](https://turnerpinball.com/software-releases/merlinsarcade_v0.8.7/update.enc), [Sig File](https://turnerpinball.com/software-releases/merlinsarcade_v0.8.7/update.sig) |
 
-## Pinball Brothers {#heading--pb}
+## <a name="heading--pb"></a>Pinball Brothers
 [Scroll down and the code updates for Pinball Brothers releases can be viewed under Game Updates.](https://www.pinballbrothers.com/support/)
 
 **NOTE:**
@@ -140,17 +142,17 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | --- | --- | --- | --- | --- | --- | --- |
 | Predator | 1.0.1 | May 25, 2026 | [Code](https://www.pinballbrothers.com/games/predator/updates/pbpp_predator_game_1_0.upd) | [Hotfix](https://www.pinballbrothers.com/games/predator/updates/pbpp_predator_game_1_0_1.upd) | [Updates](https://www.pinballbrothers.com/games/predator/updates/) | [Freshdesk Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001185762-predator-game-updates) |
 
-## Dutch Pinball {#heading--dutch}
+## <a name="heading--dutch"></a>Dutch Pinball
 [Dutch Pinball code can be viewed by clicking on any product, then clicking Software Download on the right tab.](http://www.dutchpinball.com)
 
 | Game Title | Latest Version | Release Date | Link |
 | --- | --- | --- | --- |
 | Alice's Adventures in Wonderland | 0.99-5 | Soon | [Code](https://www.dutchpinball.com/alices_adventures_in_wonderland_software) |
 
-## Vaults {#heading--vaults}
+## <a name="heading--vaults"></a>Vaults
 **Vaults** are reserved for companies who are still around, but whose games in this category aren't currently being produced.
 
-### Stern Vault {#heading--sternvault}
+### <a name="heading--sternvault"></a>Stern Vault
 [Download code for all Stern pinball machines here.](https://www.sternpinball.com/game-code)
 
 | Game Title | Latest Version | Release Date |
@@ -176,7 +178,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | James Bond 007 (60th Anniversary) | 1.11           | Jul 1, 2026  |
 | Foo Fighters | 1.04           | Jul 1, 2026  |
 
-### JJP Vault {#heading--jjpvault}
+### <a name="heading--jjpvault"></a>JJP Vault
 [Download code for all JJP pinball machines here.](https://www.jerseyjackpinball.com/support/downloads/)
 
 | Game Title | Latest Version | Release Date | Change Log Link(s) |
@@ -187,14 +189,14 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Pirates of the Caribbean | 1.01 | Mar 25, 2025 | [Log](https://marketing.jerseyjackpinball.com/potc/potc_changelog.txt) |
 | Willy Wonka & the Chocolate Factory | 3.03 | Mar 31, 2025 | [Log](https://marketing.jerseyjackpinball.com/ww/wonka_changelog.txt) |
 
-### Barrels of Fun Vault {#heading--bofvault}
+### <a name="heading--bofvault"></a>Barrels of Fun Vault
 [Download code for all BOF pinball machines here.](https://shop.kollectfun.com/code-update/)
 
 | Game Title | Latest Version | Release Date | Links | Change Log |
 | --- | --- | --- | --- | --- |
 | Labyrinth | 2026.30.05 | Jan 30, 2026 | [Code](https://www.dropbox.com/scl/fi/l244a26uii8ax203bp2f6/BOF_LAB_20260130.zip?rlkey=yutiufegzx5gjgvwy45tlv9hs&st=k73uxdkx&dl=0) | [Change Log](https://shop.kollectfun.com/labyrinth-update-history/) |
 
-### American Vault {#heading--apvault}
+### <a name="heading--apvault"></a>American Vault
 [Download code for all American Pinball releases here.](https://www.american-pinball.com/support/updates/)
 
 | Game Title | Latest Version | Release Date | Change Log Link(s) |
@@ -206,7 +208,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Galactic Tank Force | [24.04.08](https://american-pinball-software.b-cdn.net/tank-gamecode_24.04.08.pkg) | Apr 21, 2024 | N/A |
 | Barry O's BBQ Challenge | [24.07.04](https://american-pinball-software.b-cdn.net/bbq-gamecode_24.07.04.pkg) | July 3, 2024 | [Log](https://drive.google.com/file/d/1Ezi915_jqJj4kioF_fhqEj413CT-6L7V/view?usp=drive_link) |
 
-### Spooky Vault {#heading--spookyvault}
+### <a name="heading--spookyvault"></a>Spooky Vault
 [Download code for all Spooky pinball machines here.](https://www.spookypinball.com/game-support/)
 
 | Game Title | Latest Version | Release Date | Change Log |
@@ -224,7 +226,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Texas Chainsaw Massacre | [v1.00](https://spookypinball.s3.us-east-2.amazonaws.com/texaschainsaw/software_versions/v1.00/tcm-1_00.pkg) | | [Log](https://www.spookypinball.com/2486-2/) |
 | Looney Tunes | [v2025.10.08](https://spookypinball.s3.us-east-2.amazonaws.com/looneytoons/software_versions/v25.10.08.looney/2025.10.08.looney) | Mar 1, 2025 | [Log](https://www.spookypinball.com/2405-2/) |
 
-### Pinball Brothers Vault {#heading--pbvault}
+### <a name="heading--pbvault"></a>Pinball Brothers Vault
 [Scroll down and the code updates for Pinball Brothers releases can be viewed under Game Updates.](https://www.pinballbrothers.com/support/)
 
 | Game Title | Latest Version | Release Date | Change Log |
@@ -233,7 +235,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Queen | 2.1G | Jan 27, 2025 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001164090-queen-delta-game-update-2-1g-hotfix-) |
 | ABBA | 1.45 | Apr 21, 2025 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001174176-abba-game-update-1-4-5) |
 
-### Dutch Vault {#heading--dutchvault}
+### <a name="heading--dutchvault"></a>Dutch Vault
 [Dutch Pinball code can be viewed by clicking on any product, then clicking Software Download on the right tab.](http://www.dutchpinball.com)
 
 | Game Title | Latest Version | Release Date | Link |
@@ -241,10 +243,10 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Bride of Pinbot 2.0 | 1.21 | Dec 2021 | [Code](http://www.dutchpinball.com/bop2/software/1.21/nyHNel7i/BOP2-v1.21.zip) |
 | The Big Lebowski | 1.15 | Nov 2024 | [Code](https://www.dutchpinball.com/tbl/software/1.15/QJESxt9k/TBL-v1.15.zip) |
 
-## Legacy Tables {#heading--legacy}
+## <a name="heading--legacy"></a>Legacy Tables
 **Legacy tables** are pinball machines released by companies that have since left the pinball industry, or have since moved on from DMD releases to LCDs. The code releases are presented here for safekeeping.
 
-### Williams / Bally Alphanumerics {#heading--wba}
+### <a name="heading--wba"></a>Williams / Bally Alphanumerics
 
 | Game Title | Latest Version | Home Version |
 | --- | --- | --- |
@@ -284,7 +286,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | The Machine: Bride of Pin*Bot | L-7 | L-8? |
 | Harley-Davidson | L-3 | |
 
-### Williams / Bally DMDs {#heading--wbdmd}
+### <a name="heading--wbdmd"></a>Williams / Bally DMDs
 
 | Game Title | Latest Version | Home Version | Official Williams and Bally Software Upgrades Paid |
 | --- | --- | --- | --- |
@@ -334,7 +336,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Monster Bash | 1.0 | 1.06 | |
 | Cactus Canyon | 1.3 | | |
 
-### Gottlieb / Premier DMDs {#heading--gottlieb}
+### <a name="heading--gottlieb"></a>Gottlieb / Premier DMDs
 
 | Game Title | Latest Version | Notes |
 | --- | --- | --- |
@@ -353,7 +355,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Mario Andretti | rev 0? | |
 | Barb Wire | rev 0? | |
 
-### Data East Alphanumerics {#heading--dea}
+### <a name="heading--dea"></a>Data East Alphanumerics
 [These code revisions can be downloaded via the Internet Archive.](https://web.archive.org/web/20080422025304/http://www.sternpinball.com/GAME-code.shtml)
 
 | Game Title | Latest Version |
@@ -370,7 +372,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Back to the Future | 2.8 |
 | The Simpsons | 2.7 |
 
-### Data East DMDs {#heading--dedmd}
+### <a name="heading--dedmd"></a>Data East DMDs
 [These code revisions can be downloaded via the Internet Archive.](https://web.archive.org/web/20080422025304/http://www.sternpinball.com/GAME-code.shtml)
 
 | Game Title | Latest Version CPU | Latest Version Display |
@@ -393,7 +395,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Guns N' Roses | 3.0 | 3.0 |
 | Maverick | 4.04 | 4.02 |
 
-### SEGA DMDs {#heading--sega}
+### <a name="heading--sega"></a>SEGA DMDs
 [These code revisions can be downloaded via the Internet Archive.](https://web.archive.org/web/20080422025304/http://www.sternpinball.com/GAME-code.shtml) This category also accounts for the earliest Whitestar releases.
 
 | Game Title | Latest Version CPU | Latest Version Display |
@@ -416,7 +418,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | South Park | 1.03 | 1.01 |
 | Harley-Davidson | 4.0 | 4.0 |
 
-### Stern Whitestar DMDs {#heading--sternwhitestar}
+### <a name="heading--sternwhitestar"></a>Stern Whitestar DMDs
 [Download code for all Stern pinball machines here.](https://www.sternpinball.com/game-code)
 
 | Game Title | Latest Version CPU | Latest Version Display | Release Date |
@@ -438,7 +440,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | NASCAR | 4.5 | 4.0 | Jul 25, 2006 |
 | Grand Prix | 4.5 | 4.0 | Jul 25, 2006 |
 
-### Stern SAM DMDs {#heading--sternsam}
+### <a name="heading--sternsam"></a>Stern SAM DMDs
 [Download code for all Stern pinball machines here.](https://www.sternpinball.com/game-code)
 
 | Game Title | Latest Version | Release Date |
@@ -469,7 +471,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Mustang | 1.45 | Feb 16, 2016 |
 | The Walking Dead | 1.60 | Nov 30, 2017 |
 
-### Stern SPIKE DMDs {#heading--sternspike}
+### <a name="heading--sternspike"></a>Stern SPIKE DMDs
 [Download code for all Stern pinball machines here.](https://www.sternpinball.com/game-code)
 
 | Game Title | Latest Version | Release Date |
@@ -484,14 +486,14 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Supreme | | |
 | Primus | 1.04 | Dec 22, 2020 |
 
-### Heighway Pinball {#heading--heighway}
+### <a name="heading--heighway"></a>Heighway Pinball
 
 | Game Title | Latest Version | Release Date | Links |
 | --- | --- | --- | --- |
 | Full Throttle | 1.41 | July 28, 2016 | |
 | Alien | 1.2 | May 9, 2018 | [Code](http://pinballbrothers.com/updates/hpa12.upd), [Release Notes](http://pinballbrothers.com/updates/hpa12-rn.txt) *(Only for machines with 1.0 or higher!)* |
 
-## Unofficial Updates {#heading--unofficial}
+## <a name="heading--unofficial"></a>Unofficial Updates
 **Unofficial updates** are updates released after-the-fact for tables that were believed to need improvement. Many of these were created by pinballcode.com for use with Data East & SEGA tables, and the *Star Wars* update was officially acknowledged by Stern Pinball on its release.
 
 Please note, Most of these are only available as patch files, not as ROMs.

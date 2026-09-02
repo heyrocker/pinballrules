@@ -7,15 +7,17 @@ opdb_id: "G41d5"
 # Game of Thrones Pinball
 
 ## Game Information & Overview: {#heading--gameinfo}
+
 - Manufacturer: Stern
 - Release Date: October 2015
 - Wiki Rulesheet based on Code Rev: 1.37
   - *Edit the Code revision, if applicable, when you make changes*
-- Original Wiki Rulesheet hosted on [Tilt Forums](/stern/game-of-thrones-pinball-rulesheet_G41d5)
+- Original Wiki Rulesheet hosted on [Tilt Forums](/stern/game-of-thrones-pinball-rulesheet)
 
 Thanks to captainbzarre for starting this thread!
 
 ## Rules Overview: {#heading--overview}
+
 A image version of the rulesheet can be found at http://i.imgur.com/P7tWVL8.jpg.
 
 **Choose Your House**

@@ -7,12 +7,14 @@ opdb_id: "GrPOR"
 # Mustang
 
 ## Game Information & Overview: {#heading--gameinfo}
+
 - Manufacturer: Stern
 - Release Date: April 2024
-- Original Wiki Rulesheet hosted on [Tilt Forums](/stern/mustang-wiki-rulesheet_GrPOR)
+- Original Wiki Rulesheet hosted on [Tilt Forums](/stern/mustang-wiki-rulesheet)
 
 
 ## Rules Overview: {#heading--overview}
+
 **Super Skill Shot**:  An homage to pinbot.  Hold in the left flipper before you launch and try and get to a trap before making any significant shots.  The 3 lights in front of the gears targets will go back and forth.  GE, A, RS.  If you hit the A while the light is lit under it, you will advance two gears.  You cannot advance past gear 4 using this skill shot.  The awards for GE and RS are both 1 million.  A shot to the scoop will award 2 million.  Some options to get in a good situation to collect the super skill are a soft plunge to a trap on the right flipper, or a hard plunge to a left flipper live catch or a loop pass to a right flipper trap, depending on how the mustang is set up.
 
 **Mode Completion:**

@@ -7,14 +7,16 @@ opdb_id: "GrlXK"
 # Alice Cooper Nightmare Castle
 
 ## Game Information & Overview: {#heading--gameinfo}
+
 - Manufacturer: Spooky Pinball
 - Release Date: January 2018
 - Wiki Rulesheet based on Code Rev: 1.1.0.1
   - *Edit the Code revision, if applicable, when you make changes*
-- Original Wiki Rulesheet hosted on [Tilt Forums](/spooky/alice-cooper-nightmare-castle-rulesheet_GrlXK)
+- Original Wiki Rulesheet hosted on [Tilt Forums](/spooky/alice-cooper-nightmare-castle-rulesheet)
 
 
 ## Rules Overview: {#heading--overview}
+
 SKILLSHOT
 Launch the ball and attempt to shoot the ramps, orbits, or crypt lock to light the secret passage and the outlane ball save. The right ramp will award the skill shot even if the ball only goes half way up.  Hitting any other shot, or the slings, will fail the skillshot.
 
@@ -27,7 +29,7 @@ In the beginning, you will move directly to the Laboratory/Dungeon, one step awa
 Rooms are laid out as follows:
 
 
-            
+            <Start Monster>
          Laboratory    Dungeon
     Ballroom    Kitchen    Conservatory
           Parlor       Library
