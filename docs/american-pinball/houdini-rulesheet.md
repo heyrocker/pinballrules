@@ -19,7 +19,7 @@ Animation: Ish Raneses
 
 Rules edited and compiled from the following sources: American Pinball, This Week in Pinball, Josh Kugler, Straight Down The Middle: a pinball show YouTube channel, konjurer, et al.
 
-Original Wiki Rulesheet hosted on [Tilt Forums](/american-pinball/houdini-rulesheet_GvBQX)
+Original Wiki Rulesheet hosted on [Tilt Forums](/american-pinball/houdini-rulesheet)
 
 Conventions:
 `Monotype` is used for feature adjustment values. Unless specified, these are defaults.

@@ -9,12 +9,14 @@ opdb_id: "GBLLd"
 **ULTRAMAN RULESHEET**
 
 ## Game Information & Overview: {#heading--gameinfo}
+
 - Manufacturer: Spooky Pinball
 - Release Date: September 2021
-- Original Wiki Rulesheet hosted on [Tilt Forums](/spooky/ultraman-wiki-rulesheet_GBLLd)
+- Original Wiki Rulesheet hosted on [Tilt Forums](/spooky/ultraman-wiki-rulesheet)
 
 
 ## Rules Overview: {#heading--overview}
+
 **-Layout-**
 
 **Outlanes:** Standard layout.

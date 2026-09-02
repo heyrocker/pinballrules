@@ -7,13 +7,15 @@ opdb_id: "GEL31"
 # Hot Wheels
 
 ## Game Information & Overview: {#heading--gameinfo}
+
 - Manufacturer: American Pinball
 - Release Date: June 2020
-- Original Wiki Rulesheet hosted on [Tilt Forums](/american-pinball/hot-wheels-rulesheet-wip_GEL31)
+- Original Wiki Rulesheet hosted on [Tilt Forums](/american-pinball/hot-wheels-rulesheet-wip)
 
 The third game from American Pinball, Hot Wheels engrosses players in a thrilling journey through the streets of Hot Wheels City. The evil Draven and his army of Creatures are causing havoc, and it's up to you to restore order with the aid of epic vehicles!
 
 ## Rules Overview: {#heading--overview}
+
 **Playfield**
 
 A tour of the playfield, starting from the left flipper and working our way around clockwise:
@@ -115,7 +117,7 @@ The current gear is also represented on the right side of the display by the gea
 **Point Values for Shots**
 The point values for most shots are based on the following formula:
 
-` *  * `
+`<Tachometer value in K/M on display> * <Shot value> * <Gear number>`
 
 Most shots have a value of 1, although some have values of 1.5 or possibly less than one. For example, if the Tach value reads 530K and the player is in 2nd gear, a shot with a value of 1 would be worth 1,060,000 points.
 

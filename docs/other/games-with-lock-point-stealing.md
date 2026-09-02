@@ -34,7 +34,6 @@ title: "Games With Lock & Point Stealing"
 * Black Hole - Lower PF lock only
 * Corvette
 * Cosmic Gunfight
-* Star Wars: Fall of the Empire other players can lose skill shots (can be set to virtual)
 * Earthshaker (needs confirmation)
 * F-14 Tomcat - Re-locks balls on plunge for players as compensation, and scores 25k per lock (unwarranted). Fixed in tournament romset, locks score 10 points instead.
 * Fireball II
@@ -58,7 +57,7 @@ title: "Games With Lock & Point Stealing"
 * Aerosmith First player per lock level get a safe action while others get a hard fire into the closed box that can go slamming down SDTM
 * Doctor Who
 * Mousin’ Around (need to hit the side others players do not have an ball in for 1st lock)
-* Foo Fighters - Overlord Lock - Game can be set to kick out locked balls between turns or only in games with more then 2 players
+* Foo Fighters - Overlord Lock - Game can be set to kick out locked balls between turns.
 * Stern Jurassic Park (Pre/Le) - Raptor lock
 
 **Locked Balls Hold Across Games** - Locked balls stay in place between games (subject to software settings)
@@ -118,7 +117,7 @@ title: "Games With Lock & Point Stealing"
 * Cue Ball Wizard - WIZARD & DOUBLE Letters  (has tournament mode) 
 * Dr. Dude And His Excellent Ray - Dude-O-Meter (has an tournament rom) and (tournament mode setting)
 * Elvira and the Party Monsters - ELVIRA Letters
-* pokémon (TOPPER MODE) (tournament mode fixed start for each player?)
+* pokémon (TOPPER MODE)
 * Mustang - MUSTANG Letters (tournament mode fixed start for each player?)
 * Rollergames - WILLIAMS letters (has an tournament rom) 
 * Super Mario Bros - Completed Castles (has tournament mode) 

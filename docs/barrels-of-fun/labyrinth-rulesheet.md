@@ -26,6 +26,7 @@ opdb_id: "GvBn8"
   - [Battle Jareth (Ultimate Wizard Mode)](#heading--battlejareth)
 
 ## Game Information: {#heading--gameinfo}
+
 - Game Design: David Van Es
 - Mechanics: Travis Moseman
 - Rules Design: Phil Grimaldi and Bowen Kerins
@@ -51,6 +52,7 @@ While I didn't test beyond a standard 3 balls, it's presumed skill shot values c
 * **Village Skillshot:** Plunge past the upper loop, but not quite to a full orbit, so that the ball falls into the back of the village. Starts at 400k.
 
 ## Modes: {#heading--modes}
+
 At the start of Ball 1, the lit mode will cycle through all six available modes until the first switch activation. When a mode is not actively running, hitting the Change Mode target will change the lit mode within the row (top/bottom) that is currently active. Spelling "HELP" at the inlanes and outlanes when a mode is not running will light the helping hands scoop. Shoot the scoop to get a choice to stay on the same row or move to the mode on the opposite row. If the mode on the opposite row has already been played, a different mode on that row will be available instead. Letting the timer run out will not change the lit mode. After the choice, LABYRINTH will finish if it is not already complete. The helping hands scoop will no longer light this way after playing the [Poisoned Peach](#heading--poisonedpeach) mode.
 
 Spell LABYRINTH by completing shots with white arrows to light Mode Start.
@@ -92,7 +94,9 @@ Listed clockwise (starting from the left of the top row), the modes are:
   - **To light Cleaners Orb collect:** Complete the mode with a total of at least 5M.
 
 ## Multiballs: {#heading--multiballs}
+
 ### Brick Keeper Multiball: {#heading--brickkeepermb}
+
 Dance Magic Dance while collecting Jackpots! 
 
 Complete the green targets to light lock: the first one is lit at the left orbit, the second at the center ramp, and then multiball can be started at the right orbit. On default settings, Brick Keeper multiball is also lit at all lock shots at the start of ball 3 if it hasn't been started yet. (There is an Setting to turn that off)
@@ -100,6 +104,7 @@ Complete the green targets to light lock: the first one is lit at the left orbit
 Shots lit with red arrows are jackpots.  Collect jackpots to light the super jackpot on the left orbit - knock the captive ball into the spinner to score the super jackpot and increase its value with each spin. The first super jackpot is lit after 1 jackpot, and you can still collect more regular jackpots to increase the value of the super. Each re-light of the super requires an additional regular jackpot to qualify it.
 
 ### Friend Multiball: {#heading--friendmb}
+
 Upon collecting a jackpot for each of the three friends (Hoggle, Ludo, and Sir Didymus) you will be presented with the option to start Friend Multiball. The arrow at the left scoop will flash green when the lit friend jackpot will also start Friends multiball. You can cancel out if you'd like to collect further levels on your friends for higher jackpot values by holding either flipper before the multiball begins. If you pass on the multiball start, you will get the option to start again any time you collect a friend jackpot.
 
 During the multiball, random shots are lit blue, yellow, and red corresponding to the three friends. For the first jackpot, (on default settings) there are 2 shots for each color, hitting either one will lock in that friend.  Subsequent jackpots will reduce the amount of possible shots. Collect all three colors to light the left scoop for the jackpot. The process then resets until the multiball ends.
@@ -107,15 +112,17 @@ During the multiball, random shots are lit blue, yellow, and red corresponding t
    - **To light Friends Multiball Orb collect:** Collect at least one Friends jackpot (left scoop when flashing).
 
 ### Tea Time Multiball: {#heading--teatimemb}
+
 Started via a mystery award (Ello/Worm shot when purple arrow is flashing). First shot will be a hurry up underneath the left ramp (this *can* timeout, losing the ability to start Tea Time if you wait too long). Then there are three main shots:
 
-**Left ramp:** collect tea time value
-**Orbits:** increase tea time value
-**U-turn:** multiply tea time value
+<b>Left ramp:</b> collect tea time value
+<b>Orbits:</b> increase tea time value
+<b>U-turn:</b> multiply tea time value
 
 Collecting the third jackpot starts a 'victory laps' style extension until the multiball ends.  One shot at a time will be lit, making that shot will carry on a conversation with Ello and the Missus and light the next random shot.
 
 ### Wise Man Multiball: {#heading--wisemanmb}
+
 Started by completing the fourth [wiseman quest](#heading--wiseman). Shots into the wiseman scoop will score jackpots.
 
 ## Friends:
@@ -148,7 +155,9 @@ Collecting the friend jackpot increases the friend’s level and resets them to 
   - Level 4 Reward: Orb Lit
 
 Additional Features {#heading--friends}
+
 ### Orbs: {#heading--orbs}
+
 Completion of **[Modes](#heading--modes)**, **[Multiballs](#heading--multiballs)**, **[Quests](#heading--wiseman)**, and **[Friends](#heading--friends)** will light "Collect Orb" under the upper right flipper for 10M. The next rainbow-colored shot you hit after collecting an orb will have a shot multiplier added to it. You can stack up to three of these multipliers on the same shot. For example, if you place your first Orb on the left ramp, collect a second Orb, and place that second orb also on the left ramp, the left ramp will be at 3x.  Once a shot has 3 orbs assigned to it, it will no longer be available in the rainbow-colored assign phase.
 
 If you collect an Orb but drain before hitting a shot to add the Orb multiplier, that multiplier is lost, but the orb still counts for progress towards the wizard mode.
@@ -170,6 +179,7 @@ If you collect an Orb but drain before hitting a shot to add the Orb multiplier,
 Collect all 13 orbs to **[battle Jareth](#heading--battlejareth)** in the final showdown!
 
 ### Wiseman Quests: {#heading--wiseman}
+
 Knock down the drop target under the wiseman and then hit the ball into the scoop to start a quest. Each quest will have a different goal, to hit a certain number of a randomly determined shot: this can include ramps, scoops, orbits, etc. Once the required amount of shots has been made, complete the quest at the wiseman scoop to get a reward.
 
 Every wiseman quest completed increases the **bonus multiplier**. Completing two wiseman quests lights **[extra ball](#heading--extraballs)**, and completing six lights an **[orb](#heading--orbs)** for collection. Completing odd-numbered wiseman quests starts **[friendzy](#heading--friends)**, and completing the fourth wiseman quest starts **[Wiseman Multiball](#heading--wisemanmb)**.
@@ -182,6 +192,7 @@ Possible Wiseman Quests:
 - x loops (the u-turn shot also counts as a loop)
 
 ### Mystery: {#heading--mystery}
+
 Light mystery by hitting the targets on either side of the wiseman scoop. Collect mystery awards by shooting under the upper right flipper when lit.
 
 Possible mystery awards include:
@@ -201,14 +212,14 @@ Extra Balls are collected at the left scoop when lit purple, after:
 - As the 3rd **[mystery](#heading--mystery)** award, if the EB limit has not been reached.
 
 ## Wizard Modes: {#heading--wizardmodes}
+
 ## Poisoned Peach (Mini-Wizard Mode): {#heading--poisonedpeach}
 After playing all three upper modes (Knockers, Four Guards, and Fireys) or all three lower modes (Cleaners, Oubliette, and Bog), Start Mode will automatically be lit. Hit either Start Mode shot or the wiseman scoop to start Poisoned Peach mini-wizard mode. This is a timed mode that takes priority over any other shots or modes, with a ball save that runs for the duration of the mode - so you're stuck in the hallucination until it times out, or you break free. You have to hit both drop targets 2 times to break the spell.
-
-
-
+<br><br>
 Shoot either the Wiseman drop target or the left orbit drop target to collect the current mode value. Shooting either ramp will increase the value; shooting ramp combos will raise the value more than individual shots (watch for the blinking arrow versus solid). If you break the spell before the clock reaches 13, there's a score bonus based on remaining time.
 
 ### Goblin City Multiball (Wizard Mode): {#heading--goblincitymb}
+
 After playing all six **[modes](#heading--modes)**, Goblin City multiball can be started at the left orbit, which will hold the ball at the captive ball post.
 
 * **Phase 1 (Rock Golem Battle)**: Goblin City is guarded by a giant, robotic rock golem that must be defeated before the heroes can enter the city proper. For this single-ball phase, a new ball is plunged, and the player must alternate shots between the two ramps and the left orbit within 10 seconds to deal damage to the golem (with the left ramp scoring 2x the right ramp value). Once the golem has been defeated, shoot the left ramp to enter Goblin City!  If the Sir Didymus Add-a-ball has been used in phase one and is still in play, it must be hit into the hands scoop (or drained) to move on to phase 2.  Points are increased in the next phase if you finish with the 3rd ball still in play.
@@ -217,7 +228,7 @@ After playing all six **[modes](#heading--modes)**, Goblin City multiball can be
 
 If the player fails either the first or second phase, a second chance will be given to complete the phase. The second chance is only given once per Goblin City multiball attempt.
 
-Battle Jareth (Ultimate Wizard Mode):
+<h2 id="heading--battlejareth">Battle Jareth (Ultimate Wizard Mode):</h3>
 
 You must collect all 13 Orbs to Battle Jareth. After the 13th orb is collected and the multiplier assignment shot has been made, you can make your way into Jareth's castle. Both orbits will be lit for a shot to the back left corner where the Goblin King awaits. Once the battle starts, you have to remember the phrase you need to escape, and then once remembered; say the words to earn your freedom. There is a ticking clock always running (in the upper right) and if it strikes 13, you will lose one of your 13 orbs. You also lose an orb if the ball drains -- you'll get the ball back and the clock will reset, *as long as you still have orbs to left to lose*.
 

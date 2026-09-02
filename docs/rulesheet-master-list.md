@@ -5,6 +5,7 @@ title: "Rulesheet Master List"
 # 
 
 # Rulesheet Master List {#heading--top}
+
 - [Stern Pinball](#heading--stern)
 - [Jersey Jack Pinball](#heading--jjp)
 - [American Pinball](#heading--american)
@@ -19,6 +20,7 @@ title: "Rulesheet Master List"
 - [Barrels of Fun](#heading--barrels)
 
 ## Legacy non-wiki Rulesheet List (external)
+
 [PAPA Rulesheets](https://replayfoundation.org/papa/learning-center/player-guide/rule-sheets/)
 
 ## Stern Pinball: {#heading--stern}
@@ -70,7 +72,7 @@ title: "Rulesheet Master List"
 |[Wheel of Fortune](/stern/wheel-of-fortune-rulesheet-wip) | October 2007 | Dennis Nordman | Keith Johnson|
 |[Spider-Man](/stern/spider-man-rulesheet-wip) | June 2007 | Steve Ritchie | Lyman Sheats|
 |[World Poker Tour](/stern/world-poker-tour-rulesheet) | February 2006 | Steve Ritchie | Keith Johnson|
-|[Sharkey’s Shootout](/stern/sharkeys-shootout) | September 2000 | John Borg | |
+|[Sharkey’s Shootout](/stern/creating-a-rulesheet-for-sharkeys-shootout) | September 2000 | John Borg | �|
 | |  |  | |
 
 ### [*Return to top*](#heading--top)

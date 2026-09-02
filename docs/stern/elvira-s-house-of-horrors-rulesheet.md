@@ -29,6 +29,7 @@ opdb_id: "GZVOd"
 * [Wild Market Value (Wizard Mode)](#heading--wildmarket)
 
 ## Game Information & Overview: {#heading--gameinfo}
+
 - Designer: Dennis Nordman
 - Code/Rules: Lyman Sheats (*prior to 1.00*), 
 - Lead Mechanical Engineer: Tom Kopera
@@ -42,21 +43,25 @@ opdb_id: "GZVOd"
 The mistress of the dark returns in ***Elvira's House of Horrors***, released by Stern Pinball at the end of 2019. Characters from 26 of the most infamous horror B-movies of all time have invaded a haunted house, and are wreaking havoc that can only be stopped by putting the characters back in the movies where they came from. You’ll also have to put up with Deadheads, Gar-Goils, and other creatures on your quest to clear the house.
 
 ## Layout {#heading--layout}
+
 ### Premium:
+
 ![](https://sternpinball.com/wp-content/uploads/2019/09/Elvira-Premium-Playfield-232onqj3ca.webp)
 
 ## Skill Shots {#heading--skillshots}
+
 There are two Skill Shots on this game:
 - Plunging the ball so it lands in either Dead End lane will award 250k increasing by 25k each time a successful Skill Shot is made & increase bonus X by +5x.
 - Plunging the ball so it lands into the *Back Door* will award 1M (increasing by 250k each time a successful back door shot is made, maxing out at 2.5M) and instantly qualify a Haunt at the house entrance. If a Haunt has already been qualified, making this Skill Shot will immediately start it. If the Back Door Skill Shot is made during a Haunt or during Gappa Angry, it will advance the mode (spot next mode shot). The ball can also fall into the Back Door during Haunts via weak orbit shots, in which case it will spot progress on the current mode.
 
-Main Objectives
+<h1 id="heading--main">Main Objectives</h2>
 
 The taunting is over; the haunting begins! Elvira has just moved into a new home that happens to be haunted by all sorts of creatures, some ripped from the silver screen and some spooky refugees from her previous pinball machines. With Elvira's help the player must sweep the house clean of its horrors and try to sell it once the deed is done.
 
 There are seven tasks the player needs to complete in order to start **[Wild Market Value](#heading--wildmarket)** and escape the house. Each task is listed below, and each one scores a value starting at 5M & increasing by 5M for each one completed.
 
 ## Haunts {#heading--haunts}
+
 The characters from some of the most infamous horror movies ever made are causing havoc in Elvira’s house and it’s up to you to get them back to their respective movie. Each mode has a unique introduction from the Mistress of the Dark herself.
 
 Start a Haunt by shooting the House Entrance enough times; when it’s RGB light is flashing purple, the next shot to the House will begin the Haunt. The windows of the House correspond to the Haunts and you can use either flipper to change which room you want to enter (see below). Once you’ve obtained a Skeleton Key from the **[Trunk](#heading--junk)**, you will be able to access "locked" Haunts by selecting the window at the far right.
@@ -95,7 +100,7 @@ There are six main Haunts in the game. These can be accessed even without the Sk
   - Stage 4: 100k increment. Identical to stage 3, except shooting the Cellar will turn off all shots and light the final shot at the House.
 - **The Werewolf of Washington:** (Right side of house, attic window)
   - Stage 1: No increment. Both orbits are lit (flashing blue/cyan), shoot either orbit to "Transform" for 500k + 50k per transformation.
-  - Stage 2: When transformed, the Garage and Crypt are lit solid blue, and the House, left ramp, and right ramp are lit flashing blue/cyan. Shoot flashing shots to keep a combo going, with the value for each shot increasing quadratically in the length of the combo -- the Nth shot in the combo is worth the base value + 125K x (N2 - N). Shooting either the Garage or Crypt or timing out the combo after shooting a flashing shot ends the transformation for the current value. 
+  - Stage 2: When transformed, the Garage and Crypt are lit solid blue, and the House, left ramp, and right ramp are lit flashing blue/cyan. Shoot flashing shots to keep a combo going, with the value for each shot increasing quadratically in the length of the combo -- the Nth shot in the combo is worth the base value + 125K x (N<sup>2</sup> - N). Shooting either the Garage or Crypt or timing out the combo after shooting a flashing shot ends the transformation for the current value. 
     - The initial shot to start the combo has no time limit (aside from the mode timer), but after shooting a flashing shot, the next shot must be made within 7 seconds to continue the combo, with no grace period. Shooting the House keeps all 5 shots lit, while shooting the left or right ramp turns off the shot until another shot is made.
     - *Note:* If you shoot the left orbit to transform and the ball falls in the Back Door, the spotted shot starts the 7-second combo timer.
   - When the 1st or 2nd transformation ends, the base value is incremented by 125K and the mode returns to Stage 1. When the 3rd transformation ends, the final shot will be lit at the House.
@@ -227,14 +232,17 @@ Shoot the Trunk targets to light the left ramp to score a jackpot and light all 
 Other Scoring
 
 Side Modes {#heading--trailertrash}
+
 These two modes can be advanced towards and started at any time during play, after making the required amount of shots to start them. These modes can’t be stacked on top of each other, or with Gar-Goils Gone Wild.
 - **Un-Happy Hour**: Make 5 (+2 for each time the mode is started) shots to either ramp to start this timed mode. Shots to either ramp are worth 350k + 25k increments for 30 seconds.
 - **Drive Me Crazy:** Make 5 (+2 for each time the mode is started) shots to either orbit to start this timed mode. Shots to either orbit are worth 300k + 25k increments for 30 seconds.
 
 ### Double Trouble {#heading--doubletrouble}
+
 Double Trouble can be a quick way to score many points. Light either inlane for Double Trouble by completing the Trunk targets and the Hand of Fate targets, then roll over the lit inlane to start 2x scoring for 30 seconds; you can extend the timer by another 10 seconds by completing either bank of targets again during the timer. Qualifying and starting Double Trouble again while the 2x timer is running will start 4x scoring and reset the timer!
 
 ### Hand of Fate & Manos Wheel {#heading--manoswheel}
+
 The Hand of Fate is lit at the left outlane by completing the right target bank.  When triggered by losing the ball down the left outlane, the player is presented with a spinning wheel on the display which they must stop by hitting the lock down bar action button.  
 
 The wheel has 6 segments, each containing a different award.  The player is awarded the item the wheel is stopped on and the award is replaced with a portion of the image behind the awards.  When all awards are collected (and the image is complete), Manos Wheel will start.  
@@ -266,14 +274,17 @@ The third wheel:
 Manos Wheel will start after all awards have been collected once. A smaller wheel will start spinning on the display, with six slots corresponding to different point values (250k, 500k, 750k, 1M, 2M, 5M). Hitting any of the Hand of Fate targets will both collect the value and add that value to a Jackpot that can be collected at the left outlane. The mode ends when either the Jackpot is collected or the ball drains; however, the mode will still be available to start if you don’t collect anything off of the Manos Wheel before draining.
 
 ### Return (Outlane Ball Save) {#heading--return}
+
 This is the right outlane ball save lit by defeating a Deadhead.
 
 ### Extra Balls {#heading--extraballs}
+
 Extra Balls are lit to collect at the House by...
 - Completing two Haunts
 - Defeating two Deadheads
 
 ### End of Ball Bonus {#heading--bonus}
+
 Bonus is determined by:
 - Deadheads (250k per killed Deadhead, held from ball to ball) 
 - Haunt Shots (5k per Haunt Shot)
