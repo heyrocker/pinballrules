@@ -470,7 +470,7 @@ Shots to the Captain Marvel shot are accumulated throughout the game, and awards
 
 Quick, two-shot hurry-up starting at 5 million points. Shoot the left ramp or Captain Marvel to collect the value, then shoot the shot you didn't make to collect another hurry-up starting at double the value. The points increase by 1 million each time the hurry-up is collected. On the Prem / LE model, each completed hurry-up results in +1X added to the Captain Marvel ramp multiplier, which maxes out at 5X. This multiplier isn't available on the Pro.
 
-### Mystery:  
+### Mystery:   {#heading--mystery}
 
 Mystery can be lit at the Ant-Man shot in several ways, either from enough shots to **[Captain Marvel](#heading--marvelcountup)** or after successfully making the first **[Super Skill Shot](#heading--skillshots)** in a game. Possible awards are:
 - Max Time Bank (at 30 secs)
@@ -488,7 +488,7 @@ Mystery can be lit at the Ant-Man shot in several ways, either from enough shots
 - +5x Bonus
 - Light **[Change Gems](#heading--gemplacing)**
 
-Extra Balls: {#heading--mystery}
+### Extra Balls: {#heading--extraballs}
 
 Extra balls can be qualified at the Sanctum target through these methods:
 - 3 completions of the Bullseye targets
@@ -497,6 +497,8 @@ Extra balls can be qualified at the Sanctum target through these methods:
 - 2nd **[Hawkeye Challenge](#heading--hawkeyechallenge)**
 - Late-game **[Computer Grid Award](#heading--computergrid)**
 - 50 **[combos](#heading--combos)**
+
+If extra balls are disabled or the limit has been reached for the game, extra ball scores 25M.
 
 ### End-of-Ball Bonus: {#heading--funwithbonus}
 

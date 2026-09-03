@@ -274,7 +274,7 @@ Extra balls can be lit by...
 
 There are two extra ball shots - the Luke VUK and the right ramp. The slingshots alternate which shot is lit for extra ball. If 2 extra balls are lit, both shots will be lit to collect the first EB.
 
-25M is awarded for extra balls if no more can be earned. This score compensation award can be multiplied by **[ion cannon](#heading--shotx)** shot multipliers.
+Extra balls are limited to 5 per game on default settings. 25M is awarded for extra balls if no more can be earned. This score compensation award can be multiplied by **[ion cannon](#heading--shotx)** shot multipliers.
 
 ## End-of-Ball Bonus: {#heading--bonus}
 

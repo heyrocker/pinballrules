@@ -27,6 +27,8 @@ opdb_id: "GV8wB"
   - [Outlane Ball Save](#heading--ballsave)
   - [Extra Balls](#heading--extraballs)
   - [End-of-Ball Bonus](#heading--bonus)
+- [Magikarp (Topper Exclusive Features)](#heading--magikarp)
+  - [Magikarp Multiball](#heading--magikarp-multiball)
 - [Wizard Modes](#heading--wizard)
   - [Pikachu vs. Lucario & Pikachu vs. Charizard (Mini-Wizard Modes)](#heading--mini)
   - [Arena Battle (Mini-Wizard Mode)](#heading--arena)
@@ -236,6 +238,14 @@ Bonus is determined by the following:
 * 12.5k x Poké Balls collected
 
 All multiplied by Bonus X, built by completing the top lanes. Bonus X caps out at 20x.
+
+# Magikarp (Topper Exclusive Features): {#heading--magikarp}
+
+When the topper is installed, each Pokémon caught lights one letter of MAGIKARP on the topper. When all 8 are lit, shoot the left ramp to start Magikarp Multiball. Letters carry over across players and games, and only reset when Magikarp Multiball is played.
+
+## Magikarp Multiball: {#heading--magikarp-multiball}
+
+2-ball multiball. Make blue shots to light a Magikarp Jackpot at the Pokedex captive ball. When the jackpot is lit, additional blue shots can be made to build the jackpot. Scoring enough jackpots lights the left ramp to evolve Magikarp into Gyarados.
 
 # Wizard Modes: {#heading--wizard}
 
