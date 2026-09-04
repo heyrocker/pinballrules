@@ -80,7 +80,7 @@ title: "Rulesheet Master List"
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
-|[Sonic The Hedgehog] | August 2026 | Steve Ritchie | Bill Grupp |
+|[Sonic The Hedgehog](/jersey-jack/sonic-the-hedgehog) | August 2026 | Steve Ritchie | Bill Grupp |
 |[Harry Potter](/jersey-jack/harry-potter-rulesheet) | June 2025 | Eric Meunier | Joe Katz |
 |[Avatar: The Battle for Pandora (JJP)](/jersey-jack/avatar-the-battle-for-pandora-rulesheet) | September 2024 | Mark Seiden | Keith Johnson|
 |[Elton John](/jersey-jack/elton-john-rulesheet) | November 2023 | Steve Ritchie | Joe Katz|
