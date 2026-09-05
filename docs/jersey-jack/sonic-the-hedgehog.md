@@ -1,3 +1,9 @@
+---
+title: "Sonic the Hedgehog Rulesheet"
+manufacturer: "Jersey Jack Pinball"
+opdb_id: "GvBPJ-M1rjr"
+---
+
 <h2>Quick Links:</h2>
 
 - [Game Information](#heading--gameinfo)
