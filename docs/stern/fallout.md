@@ -1,7 +1,5 @@
 # Fallout
 
----
-
 ## Table of Contents
 * [Game Overview](#game-overview)
 * [Layout](#layout)
