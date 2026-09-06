@@ -19,8 +19,7 @@
    - [Radaway Hurry-Up](#radaway-hurry-up)
    - [Trusty Companions](#trusty-companions)
    - [Fatboy Launcher](#fatboy-launcher)
-* [Outlane Saves](#outlane-saves)
-   - [Right Outlane / Stimpak](#right-outlane--stimpak)
+* [Stimpak Ball Save](#stimpak-ball-save)
 * [Extra Balls](#extra-balls)
 * [End-of-Ball Bonus](#end-of-ball-bonus)
 * [Wizard Modes](#wizard-modes)
@@ -47,6 +46,8 @@
 ---
 
 ## Character Select
+
+Use the flipper buttons to choose a character before you launch your first ball. Each character has different perks:
 
 * **Lucy**
   * **Vault Familiarity:** Easier letters and longer timers when dealing with vaults.
