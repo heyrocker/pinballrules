@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * [Game Overview](#game-overview)
+* [Layout](#layout)
 * [Character Select](#character-select)
 * [Skill Shots](#skill-shots)
 * [Core Game Mechanics](#core-game-mechanics)
@@ -13,13 +14,18 @@
 * [Multiball Modes](#multiball-modes)
    - [The Vault & Vault Multiball](#the-vault--vault-multiball)
    - [Deathclaw Multiball](#deathclaw-multiball)
-* [Side Features & Side Quests](#side-features--side-quests)
+* [Side Quests & Side Modes](#side-quests--side-modes)
    - [Side Quests](#side-quests)
    - [Radio Modes](#radio-modes)
+* [Other Scoring](#other-scoring)
+   - [Fat Man](#fat-man)
+   - [Caps & Sundries](#caps--sundries)
    - [Radaway Hurry-Up](#radaway-hurry-up)
+   - [Playfield X](#playfield-x)
+   - [VATS](#vats)
+   - [SPECIAL](#special)
    - [Trusty Companions](#trusty-companions)
-   - [Fatboy Launcher](#fatboy-launcher)
-* [Stimpak Ball Save](#stimpak-ball-save)
+* [Outlane Ball Save (Stimpak)](#outlane-ball-save-stimpak)
 * [Extra Balls](#extra-balls)
 * [End-of-Ball Bonus](#end-of-ball-bonus)
 * [Wizard Modes](#wizard-modes)
@@ -143,7 +149,7 @@ Deathclaw Multiball 1:
 
 ---
 
-## Side Features & Side Quests
+## Side Quests & Side Modes
 
 ### Side Quests
 1. **Filly** — *Please stand by (not implemented yet)*
@@ -172,22 +178,65 @@ Build the radio signal by shooting the radio tower target
   * Shots needed: 7
 5. *Please stand by (not implemented yet)*
 
-### V.A.T.S.
+---
+
+## Other Scoring
+
+### Fat Man
+
+To start:
+* Shoot the right 3-bank of stand-up targets to light
+* Shoot the left loop to feed the launcher
+* **Pro:** Ball feeds to left flipper. Shoot the 3-bank of standups
+* **Premium/LE:** Ball feeds to launcher mechanism. Shoot any lit upper playfield shot
 
 *Please stand by (not implemented yet)*
+
+### Caps & Sundries
+
+Collecting Caps:
+* Complete inlanes to light Cap Stash
+  * Roll over flashing inlane to lower Nuka Cola spinner to collect
+* Various achievement also award caps
+
+Sundries (The Shop):
+* *Please stand by (not implemented yet)*
 
 ### Radaway Hurry-Up
 
 To start:
-* *Please stand by (not implemented yet)*
+* Shoot Radroaches (*Please stand by; still drafting*)
 
 Hurry-up:
 * Shoot all 3 ramps to light jackpot
 * *Please stand by (not implemented yet)*
 
+### Playfield X
+
+**Power Armor (starts Playfield X)**
+* Purchase fusion cores from the [Sundries](#caps--sundries)
+* Build at Pop Bumper Targets
+* Hold Action Button to put on
+
+**Weapons (upgrades Playfield X)**
+* Collect junk at the left dead sling
+* Higher weapon levels means higher playfield X
+* Weapon upgrades also affect __**[bonus X](#end-of-ball-bonus)**__
+
+### VATS
+
+*All switch hits add to AP meter. Fill meter to enable VATS at the Fatman*
+
+*Please stand by (not implemented yet)*
+
+### SPECIAL
+
+*Please stand by (not implemented yet)*
+
 ### Trusty Companions
 
-Shoot the left ramp, center loop, and right orbit when *yellow* inserts are flashing to light Trusty Companion, which can be changed using the flippers.
+Shoot the left ramp, center loop, and right orbit when *yellow* inserts are flashing to collect a Trusty Companion
+Press the action button to use the companions' abilities
 
 Your four trusty companions are:
 * Victor
@@ -203,19 +252,9 @@ Your four trusty companions are:
   * Easier Fusion Core
   * *Very Handy*
 
-### Fatboy Launcher
-
-To start:
-* Shoot the right 3-bank of stand-up targets to light
-* Shoot the left loop to feed the launcher
-* **Pro:** Ball feeds to left flipper. Shoot the 3-bank of standups
-* **Premium/LE:** Ball feeds to launcher mechanism. Shoot any lit upper playfield shot
-
-*Please stand by (not implemented yet)*
-
 ---
 
-## Stimpak Ball Save
+## Outlane Ball Save (Stimpak)
 
 Shoot the left ramp, center loop, and right orbit when *white* inserts are flashing to light ball save at the outlanes
 
