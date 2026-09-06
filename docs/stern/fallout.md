@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 1. [Game Overview & Machine Models](#game-overview--machine-models)
 2. [Character Select](#character-select)
 3. [Playfield Shots & Abbreviations](#playfield-shots--abbreviations)
@@ -40,6 +40,9 @@
 * **The Ghoul**
   * **Radiation Immunity:** Radroaches Build HP
   * **Stat Bonuses:** +1 Endurance, +1 Charisma
+* **Maximus**
+  * **Efficient Power Armour Usage:** +2 seconds per fusion core level
+  * **Stat Bonuses:** +1 Strength, +1 Agility
 * *Other Characters: Not implemented yet*
 
 ---
