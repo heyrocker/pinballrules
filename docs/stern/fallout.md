@@ -18,7 +18,7 @@
    - [Radio Modes](#radio-modes)
    - [Radaway Hurry-Up](#radaway-hurry-up)
    - [Trusty Companions](#trusty-companions)
-   - [Fatboy Launcher (Premium/LE)](#fatboy-launcher-premiumle)
+   - [Fatboy Launcher](#fatboy-launcher)
 * [Outlane Saves](#outlane-saves)
    - [Right Outlane / Stimpak](#right-outlane--stimpak)
 * [Extra Balls](#extra-balls)
@@ -61,22 +61,23 @@
 * **Maximus**
   * **Efficient Power Armour Usage:** +2 seconds per fusion core level
   * **Stat Bonuses:** +1 Strength, +1 Agility
-* *Other Characters: Not implemented yet*
+* *Other Characters: Please stand by (not implemented yet)*
 
 ---
 
 ## Skill Shots
 
-* Cap Stash -> Time your plunge to flashing right inlane
+* Cap Stash
+  * Time your plunge to flashing right inlane
   * 3M + 1M/skillshot
   * +3 sec ball save
-* *Other Skill Shots: Not implemented yet*
+* *Other Skill Shots: Please stand by (not implemented yet)*
 
 ---
 
 ## Core Game Mechanics
 
-*Not implemented yet*
+*Please stand by (not implemented yet)*
 
 ---
 
@@ -86,23 +87,27 @@
 Quests are the main modes in the game.
 * Shoot lit yellow shots to add health (HP)
 * HP adds time a quest mode (up to 100 sec)
+* Change quests using the left deadsling
 * Players need **50 HP** to start a quest mode
 
 ### Main Quests (6 Total)
-1. **Wedding Day** — *Not implemented yet*
+1. **Wedding Day** — *Please stand by (not implemented yet)*
 2. **Radscorpion Attack**
   * Shoot lit shots to light center jump ramp for 2x value
     * 500k + 250k/shot
   * Keep hitting lit shots to increase values
   * Final blow lights after 4 center ramps
-3. **The Kings**
+3. **The Kings** - 2-ball multiball
   * Shoot lit shots for 1x jackpot
     * Base value: 500k + 50k/shot
   * Combo shots for killing spree multiplier
   * Max multiplier or 3 killing sprees lights super jackpot
-4. **Mind Control** — *Not implemented yet*
-5. **NOVAC** — *Not implemented yet*
-6. **Find the Target** — *Not implemented yet*
+4. **Mind Control** — *Please stand by (not implemented yet)*
+5. **NOVAC** — *Please stand by (not implemented yet)*
+6. **Find the Target**
+  * Phase 1: Hit 4 shots to find target
+  * Phase 2: Hit target or keep shooting lit shots to build final value
+  * Phase 3: Hit lit shots, then lit standup to finish
 
 ---
 
@@ -121,7 +126,6 @@ The vault:
   * Loops spot one supply
 * Shoot the loops to collect dwellers
 * Collect 1 dweller to light Vault Multiball
-
 
 ### Deathclaw Multiball
 
@@ -145,18 +149,18 @@ Deathclaw Multiball 1:
 ## Side Features & Side Quests
 
 ### Side Quests
-1. **Filly** — *Not implemented yet*
-2. **Gulper** — *Not implemented yet*
-3. **Super Duper Mart** — *Not implemented yet*
+1. **Filly** — *Please stand by (not implemented yet)*
+2. **Gulper** — *Please stand by (not implemented yet)*
+3. **Super Duper Mart** — *Please stand by (not implemented yet)*
 
 ### Radio Modes
 
-Build the radio signal by shooting the radio target
+Build the radio signal by shooting the radio tower target
 * Full signal starts radio mode
 * Shoot music note inserts to light jackpot
 * Mode ends when the song is over
 
-Songs:
+**Songs:**
 1. Uranium Fever
   * Duration - 2:17
   * Shots needed: 6
@@ -166,11 +170,23 @@ Songs:
 3. The Yellow Rose of Texas
   * Duration - 3:00
   * Shots needed: 5
-4. *Not implemented yet*
+4. Some Enchanted Evening
+  * Duration - 2:32
+  * Shots needed: 7
+5. *Please stand by (not implemented yet)*
+
+### V.A.T.S.
+
+*Please stand by (not implemented yet)*
 
 ### Radaway Hurry-Up
 
-Shoot all 3 ramps to light jackpot.
+To start:
+* *Please stand by (not implemented yet)*
+
+Hurry-up:
+* Shoot all 3 ramps to light jackpot
+* *Please stand by (not implemented yet)*
 
 ### Trusty Companions
 
@@ -178,27 +194,33 @@ Shoot the left ramp, center loop, and right orbit when *yellow* inserts are flas
 
 Your four trusty companions are:
 * Victor
-  * *Not implemented yet*
+  * *Please stand by (not implemented yet)*
 * Protectron
   * Spots Radaway Awards
   * Max Quest Timers
-  * Not A Doctor
+  * *Not A Doctor*
 * Dogmeat
-  * *Not implemented yet*
+  * *Please stand by (not implemented yet)*
 * Mr. Handy
-  * *Not implemented yet*
+  * Spots Deathclaw
+  * Easier Fusion Core
+  * *Very Handy*
 
-### Fatboy Launcher (Premium/LE)
+### Fatboy Launcher
 
-*Not implemented yet*
+To start:
+* Shoot the right 3-bank of stand-up targets to light
+* Shoot the left loop to feed the launcher
+* **Pro:** Ball feeds to left flipper. Shoot the 3-bank of standups
+* **Premium/LE:** Ball feeds to launcher mechanism. Shoot any lit upper playfield shot
+
+*Please stand by (not implemented yet)*
 
 ---
 
-## Outlane Saves
+## Stimpak Ball Save
 
-### Right Outlane / Stimpak
-
-Shoot the left ramp, center loop, and right orbit when *white* inserts are flashing to light ball save at the right outlane.
+Shoot the left ramp, center loop, and right orbit when *white* inserts are flashing to light ball save at the outlanes
 
 ---
 
@@ -206,7 +228,7 @@ Shoot the left ramp, center loop, and right orbit when *white* inserts are flash
 
 Light extra ball by:
 * Shooting 4 Radroach targets
-* *Not implemented yet*
+* *Please stand by (not implemented yet)*
 
 Hit the left Radroach target to collect it
 
@@ -217,6 +239,8 @@ Hit the left Radroach target to collect it
 Base Bonus:
 * 1M x Character Level
 * 5k x Total Caps
+* 100k x Common Junk
+* *More to add...*
 
 Bonus Multiplier (Bonus X):
 * Weapon Level: +1x per level
@@ -228,12 +252,12 @@ Bonus Multiplier (Bonus X):
 
 ### What Makes YOU Special (Mini-Wizard Mode)
 
-*Not implemented yet*
+*Please stand by (not implemented yet)*
 
 ### Observatory (Mini-Wizard Mode)
 
-*Not implemented yet*
+*Please stand by (not implemented yet)*
 
 ### Cold Fusion (Wizard Mode)
 
-*Not implemented yet*
+*Please stand by (not implemented yet)*
