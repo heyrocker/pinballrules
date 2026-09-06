@@ -241,7 +241,7 @@ Base Bonus:
 
 Bonus Multiplier (Bonus X):
 * Weapon Level: +1x per level
-* Tilt Warnings: +1 per remaining warning (up to +2x max)
+* Tilt Warnings: +1x per remaining warning (up to +2x max)
 
 ---
 
