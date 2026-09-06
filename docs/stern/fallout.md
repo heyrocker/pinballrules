@@ -1,39 +1,43 @@
-# Fallout
+---
+title: "Fallout Pinball Rulesheet"
+manufacturer: "Stern Pinball"
+opdb_id: "GELVv"
+---
 
-## Table of Contents
-* [Game Overview](#game-overview)
-* [Layout](#layout)
-* [Character Select](#character-select)
-* [Skill Shots](#skill-shots)
-* [Core Game Mechanics](#core-game-mechanics)
-* [Main Quests](#main-quests)
-   - [Quest Qualification & HP](#quest-qualification--hp)
-   - [Main Quests (6 Total)](#main-quests-6-total)
-* [Multiball Modes](#multiball-modes)
-   - [The Vault & Vault Multiball](#the-vault--vault-multiball)
-   - [Deathclaw Multiball](#deathclaw-multiball)
-* [Side Quests & Side Modes](#side-quests--side-modes)
-   - [Side Quests](#side-quests)
-   - [Radio Modes](#radio-modes)
-* [Other Scoring](#other-scoring)
-   - [Fat Man](#fat-man)
-   - [VATS](#vats)
-   - [Caps & Sundries](#caps--sundries)
-   - [Radaway Hurry-Up](#radaway-hurry-up)
-   - [Playfield X](#playfield-x)
-   - [SPECIAL](#special)
-   - [Trusty Companions](#trusty-companions)
-* [Outlane Ball Save (Stimpak)](#outlane-ball-save-stimpak)
-* [Extra Balls](#extra-balls)
-* [End-of-Ball Bonus](#end-of-ball-bonus)
-* [Wizard Modes](#wizard-modes)
-   - [What Makes YOU Special (Mini-Wizard Mode)](#what-makes-you-special-mini-wizard-mode)
-   - [Observatory (Mini-Wizard Mode)](#observatory-mini-wizard-mode)
-   - [Cold Fusion (Wizard Mode)](#cold-fusion-wizard-mode)
+## Table of Contents {#heading--table-of-contents}
+* [Game Overview](#heading--game-overview)
+* [Layout](#heading--layout)
+* [Character Select](#heading--character-select)
+* [Skill Shots](#heading--skill-shots)
+* [Core Game Mechanics](#heading--core-game-mechanics)
+* [Main Quests](#heading--main-quests)
+   - [Quest Qualification & HP](#heading--quest-qualification--hp)
+   - [Main Quests](#heading--main-quests-6-total)
+* [Multiball Modes](#heading--multiball-modes)
+   - [The Vault & Vault Multiball](#heading--the-vault--vault-multiball)
+   - [Deathclaw Multiball](#heading--deathclaw-multiball)
+* [Side Quests & Side Modes](#heading--side-quests--side-modes)
+   - [Side Quests](#heading--side-quests)
+   - [Radio Modes](#heading--radio-modes)
+* [Other Scoring](#heading--other-scoring)
+   - [Fat Man](#heading--fat-man)
+   - [VATS](#heading--vats)
+   - [Caps & Sundries](#heading--caps--sundries)
+   - [Radaway Hurry-Up](#heading--radaway-hurry-up)
+   - [Playfield X](#heading--playfield-x)
+   - [SPECIAL](#heading--special)
+   - [Trusty Companions](#heading--trusty-companions)
+* [Outlane Ball Save (Stimpak)](#heading--outlane-ball-save-stimpak)
+* [Extra Balls](#heading--extra-balls)
+* [End-of-Ball Bonus](#heading--end-of-ball-bonus)
+* [Wizard Modes](#heading--wizard-modes)
+   - [What Makes YOU Special (Mini-Wizard Mode)](#heading--what-makes-you-special-mini-wizard-mode)
+   - [Observatory (Mini-Wizard Mode)](#heading--observatory-mini-wizard-mode)
+   - [Cold Fusion (Wizard Mode)](#heading--cold-fusion-wizard-mode)
 
 ---
 
-## Game Overview
+## Game Overview {#heading--game-overview}
 
 * **Lead Designer:** Keith Elwin
 * **Code:** Andrew Wilkening, Brett Z Rubin, Raymond Davidson, Rick Naegele
@@ -47,7 +51,7 @@
 
 ---
 
-## Layout
+## Layout {#heading--layout}
 
 | Premium/LE | Pro |
 | :---: | :---: |
@@ -55,7 +59,7 @@
 
 ---
 
-## Character Select
+## Character Select {#heading--character-select}
 
 Use the flipper buttons to choose a character before you launch your first ball. Each character has different perks:
 
@@ -72,7 +76,7 @@ Use the flipper buttons to choose a character before you launch your first ball.
 
 ---
 
-## Skill Shots
+## Skill Shots {#heading--skill-shots}
 
 * Cap Stash
   * Time your plunge to flashing right inlane
@@ -82,22 +86,22 @@ Use the flipper buttons to choose a character before you launch your first ball.
 
 ---
 
-## Core Game Mechanics
+## Core Game Mechanics {#heading--core-game-mechanics}
 
 *Please stand by (not implemented yet)*
 
 ---
 
-## Main Quests
+## Quests {#heading--main-quests}
 
-### Quest Qualification & HP
+### Quest Qualification & HP {#heading--quest-qualification--hp}
 Quests are the main modes in the game.
 * Shoot lit yellow shots to add health (HP)
 * HP adds time a quest mode (up to 100 sec)
 * Change quests using the left deadsling
 * Players need **50 HP** to start a quest mode
 
-### Main Quests (6 Total)
+### Quests {#heading--main-quests-6-total}
 1. **Wedding Day** — *Please stand by (not implemented yet)*
 2. **Radscorpion Attack**
   * Shoot lit shots to light center jump ramp for 2x value
@@ -118,9 +122,9 @@ Quests are the main modes in the game.
 
 ---
 
-## Multiball Modes
+## Multiball Modes {#heading--multiball-modes}
 
-### The Vault & Vault Multiball
+### The Vault & Vault Multiball {#heading--the-vault--vault-multiball}
 
 To start:
 * Spell VAULT to open the vault
@@ -134,7 +138,7 @@ The vault:
 * Shoot the loops to collect dwellers
 * Collect 1 dweller to light Vault Multiball
 
-### Deathclaw Multiball
+### Deathclaw Multiball {#heading--deathclaw-multiball}
 
 To start:
 * Shoot the Deathclaw to damage both its legs
@@ -153,14 +157,14 @@ Deathclaw Multiball 1:
 
 ---
 
-## Side Quests & Side Modes
+## Side Quests & Side Modes {#heading--side-quests--side-modes}
 
-### Side Quests
+### Side Quests {#heading--side-quests}
 1. **Filly** — *Please stand by (not implemented yet)*
 2. **Gulper** — *Please stand by (not implemented yet)*
 3. **Super Duper Mart** — *Please stand by (not implemented yet)*
 
-### Radio Modes
+### Radio Modes {#heading--radio-modes}
 
 Build the radio signal by shooting the radio tower target
 * Full signal starts radio mode
@@ -184,9 +188,9 @@ Build the radio signal by shooting the radio tower target
 
 ---
 
-## Other Scoring
+## Other Scoring {#heading--other-scoring}
 
-### Fat Man
+### Fat Man {#heading--fat-man}
 
 To start:
 * Shoot the right 3-bank of stand-up targets to light
@@ -196,13 +200,13 @@ To start:
 
 *Please stand by (not implemented yet)*
 
-### VATS
+### VATS {#heading--vats}
 
 Switch hits qualify the Vault-Tec Assisted Targeting System, making it easier to attack a target
 * **Pro:** VATS slows time as you select a target to attack
 * **Premium/LE:** Use flipper buttons to select a target
 
-### Caps & Sundries
+### Caps & Sundries {#heading--caps--sundries}
 
 Collecting Caps:
 * Complete inlanes to light Cap Stash
@@ -212,7 +216,7 @@ Collecting Caps:
 Sundries (The Shop):
 * *Please stand by (not implemented yet)*
 
-### Radaway Hurry-Up
+### Radaway Hurry-Up {#heading--radaway-hurry-up}
 
 To start:
 * Shoot Radroaches (*Please stand by; still drafting*)
@@ -221,23 +225,23 @@ Hurry-up:
 * Shoot all 3 ramps to light jackpot
 * *Please stand by (not implemented yet)*
 
-### Playfield X
+### Playfield X {#heading--playfield-x}
 
 **Power Armor (starts Playfield X)**
-* Purchase fusion cores from the [Sundries](#caps--sundries)
+* Purchase fusion cores from the [Sundries](#heading--caps--sundries)
 * Build at Pop Bumper Targets
 * Hold Action Button to put on
 
 **Weapons (upgrades Playfield X)**
 * Collect junk at the left dead sling
 * Higher weapon levels means higher playfield X
-* Weapon upgrades also affect __**[bonus X](#end-of-ball-bonus)**__
+* Weapon upgrades also affect __**[bonus X](#heading--end-of-ball-bonus)**__
 
-### SPECIAL
+### SPECIAL {#heading--special}
 
 *Please stand by (not implemented yet)*
 
-### Trusty Companions
+### Trusty Companions {#heading--trusty-companions}
 
 Shoot the left ramp, center loop, and right orbit when *yellow* inserts are flashing to collect a Trusty Companion
 Press the action button to use the companions' abilities
@@ -258,13 +262,13 @@ Your four trusty companions are:
 
 ---
 
-## Outlane Ball Save (Stimpak)
+## Outlane Ball Save (Stimpak) {#heading--outlane-ball-save-stimpak}
 
 Shoot the left ramp, center loop, and right orbit when *white* inserts are flashing to light ball save at the outlanes
 
 ---
 
-## Extra Balls
+## Extra Balls {#heading--extra-balls}
 
 Light extra ball by:
 * Shooting 4 Radroach targets
@@ -274,7 +278,7 @@ Hit the left Radroach target to collect it
 
 ---
 
-## End-of-Ball Bonus
+## End-of-Ball Bonus {#heading--end-of-ball-bonus}
 
 Base Bonus:
 * 1M x Character Level
@@ -288,16 +292,16 @@ Bonus Multiplier (Bonus X):
 
 ---
 
-## Wizard Modes
+## Wizard Modes {#heading--wizard-modes}
 
-### What Makes YOU Special (Mini-Wizard Mode)
-
-*Please stand by (not implemented yet)*
-
-### Observatory (Mini-Wizard Mode)
+### What Makes YOU Special (Mini-Wizard Mode) {#heading--what-makes-you-special-mini-wizard-mode}
 
 *Please stand by (not implemented yet)*
 
-### Cold Fusion (Wizard Mode)
+### Observatory (Mini-Wizard Mode) {#heading--observatory-mini-wizard-mode}
+
+*Please stand by (not implemented yet)*
+
+### Cold Fusion (Wizard Mode) {#heading--cold-fusion-wizard-mode}
 
 *Please stand by (not implemented yet)*
