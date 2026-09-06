@@ -10,9 +10,9 @@ opdb_id: "GELVv"
 * [Character Select](#heading--character-select)
 * [Skill Shots](#heading--skill-shots)
 * [Core Game Mechanics](#heading--core-game-mechanics)
-* [Main Quests](#heading--main-quests)
+* [Quests](#heading--quests)
    - [Quest Qualification & HP](#heading--quest-qualification--hp)
-   - [Main Quests](#heading--main-quests-6-total)
+   - [Quest List](#heading--quest-list)
 * [Multiball Modes](#heading--multiball-modes)
    - [The Vault & Vault Multiball](#heading--the-vault--vault-multiball)
    - [Deathclaw Multiball](#heading--deathclaw-multiball)
@@ -92,7 +92,7 @@ Use the flipper buttons to choose a character before you launch your first ball.
 
 ---
 
-## Quests {#heading--main-quests}
+## Quests {#heading--quests}
 
 ### Quest Qualification & HP {#heading--quest-qualification--hp}
 Quests are the main modes in the game.
@@ -101,7 +101,7 @@ Quests are the main modes in the game.
 * Change quests using the left deadsling
 * Players need **50 HP** to start a quest mode
 
-### Quests {#heading--main-quests-6-total}
+### Quest List {#heading--quest-list}
 1. **Wedding Day** — *Please stand by (not implemented yet)*
 2. **Radscorpion Attack**
   * Shoot lit shots to light center jump ramp for 2x value
