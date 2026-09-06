@@ -1,34 +1,52 @@
-# Fallout (Stern Pinball) — Official Community Rulesheet
-
-> **Manufacturer:** Stern Pinball  
-> **Release Year:** 2026  
-> **Game Code Version:** v0.90 (In Development)  
-> **Rulesheet Version:** 1.1.0  
-> **Maintained By:** Community Contributors  
-> **Primary Source:** Community Gameplay & Software Analysis  
+# Fallout
 
 ---
 
 ## Table of Contents
-1. [Game Overview & Machine Models](#game-overview--machine-models)
-2. [Character Select](#character-select)
-3. [Playfield Shots & Abbreviations](#playfield-shots--abbreviations)
-4. [Skill Shots](#skill-shots)
-5. [Core Game Mechanics](#core-game-mechanics)
-6. [Main Quests & Modes](#main-quests--modes)
-7. [Multiball Modes](#multiball-modes)
-8. [Mini-Wizard & Wizard Modes](#mini-wizard--wizard-modes)
-9. [Side Features & Side Quests](#side-features--side-quests)
-10. [Extra Balls & End-of-Ball Bonus](#extra-balls--end-of-ball-bonus)
-11. [Strategy & Stacking Guide](#strategy--stacking-guide)
-12. [Tournament Setup & Operator Settings](#tournament-setup--operator-settings)
-13. [Changelog & Revision History](#changelog--revision-history)
+* [Game Overview](#game-overview)
+* [Character Select](#character-select)
+* [Skill Shots](#skill-shots)
+* [Core Game Mechanics](#core-game-mechanics)
+* [Main Quests](#main-quests)
+   - [Quest Qualification & HP](#quest-qualification--hp)
+   - [Main Quests (6 Total)](#main-quests-6-total)
+* [Multiball Modes](#multiball-modes)
+   - [The Vault & Vault Multiball](#the-vault--vault-multiball)
+   - [Deathclaw Multiball](#deathclaw-multiball)
+* [Side Features & Side Quests](#side-features--side-quests)
+   - [Side Quests](#side-quests)
+   - [Radio Modes](#radio-modes)
+   - [Radaway Hurry-Up](#radaway-hurry-up)
+   - [Trusty Companions](#trusty-companions)
+   - [Fatboy Launcher (Premium/LE)](#fatboy-launcher-premiumle)
+* [Outlane Saves](#outlane-saves)
+   - [Right Outlane / Stimpak](#right-outlane--stimpak)
+* [Extra Balls](#extra-balls)
+* [End-of-Ball Bonus](#end-of-ball-bonus)
+* [Wizard Modes](#wizard-modes)
+   - [What Makes YOU Special (Mini-Wizard Mode)](#what-makes-you-special-mini-wizard-mode)
+   - [Observatory (Mini-Wizard Mode)](#observatory-mini-wizard-mode)
+   - [Cold Fusion (Wizard Mode)](#cold-fusion-wizard-mode)
 
 ---
 
-## Game Overview & Machine Models
+## Game Overview
 
-*Not implemented yet*
+* **Lead Designer:** Keith Elwin  
+* **Release Date:** September 2026
+* **Game Code Version:** v0.xx
+
+---
+
+## Layout
+
+### Pro
+
+*No image yet*
+
+### Premium/LE
+
+*No image yet*
 
 ---
 
@@ -44,12 +62,6 @@
   * **Efficient Power Armour Usage:** +2 seconds per fusion core level
   * **Stat Bonuses:** +1 Strength, +1 Agility
 * *Other Characters: Not implemented yet*
-
----
-
-## Playfield Shots & Abbreviations
-
-*Not implemented yet*
 
 ---
 
@@ -218,10 +230,10 @@ Bonus Multiplier (Bonus X):
 
 *Not implemented yet*
 
-### Observatory** (Mini-Wizard Mode)
+### Observatory (Mini-Wizard Mode)
 
 *Not implemented yet*
 
-### Cold Fusion** (Wizard Mode)
+### Cold Fusion (Wizard Mode)
 
 *Not implemented yet*
