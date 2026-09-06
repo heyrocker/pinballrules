@@ -19,10 +19,10 @@
    - [Radio Modes](#radio-modes)
 * [Other Scoring](#other-scoring)
    - [Fat Man](#fat-man)
+   - [VATS](#vats)
    - [Caps & Sundries](#caps--sundries)
    - [Radaway Hurry-Up](#radaway-hurry-up)
    - [Playfield X](#playfield-x)
-   - [VATS](#vats)
    - [SPECIAL](#special)
    - [Trusty Companions](#trusty-companions)
 * [Outlane Ball Save (Stimpak)](#outlane-ball-save-stimpak)
@@ -37,7 +37,13 @@
 
 ## Game Overview
 
-* **Lead Designer:** Keith Elwin  
+* **Lead Designer:** Keith Elwin
+* **Code:** Andrew Wilkening, Brett Z Rubin, Raymond Davidson, Rick Naegele
+* **Mechanical Engineering:** Harrison Drake
+* **Art:** Sam Gilbey, Jeremy Parker (Zombie Yeti)
+* **Displays/Animation:** David Liskovec, Olivia Jensen, Phillip Gullett, Zac Stark
+* **Sound/Music:** Jerry Thompson
+* **Callouts:** Jerry Thompson and Johnny Pemberton
 * **Release Date:** September 2026
 * **Game Code Version:** v0.xx
 
@@ -192,6 +198,12 @@ To start:
 
 *Please stand by (not implemented yet)*
 
+### VATS
+
+Switch hits qualify the Vault-Tec Assisted Targeting System, making it easier to attack a target
+* **Pro:** VATS slows time as you select a target to attack
+* **Premium/LE:** Use flipper buttons to select a target
+
 ### Caps & Sundries
 
 Collecting Caps:
@@ -222,12 +234,6 @@ Hurry-up:
 * Collect junk at the left dead sling
 * Higher weapon levels means higher playfield X
 * Weapon upgrades also affect __**[bonus X](#end-of-ball-bonus)**__
-
-### VATS
-
-*All switch hits add to AP meter. Fill meter to enable VATS at the Fatman*
-
-*Please stand by (not implemented yet)*
 
 ### SPECIAL
 
