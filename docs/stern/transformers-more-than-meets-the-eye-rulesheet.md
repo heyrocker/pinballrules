@@ -29,6 +29,7 @@ opdb_id: "GBLzz"
   - [One Shall Fall (Mini-Wizard Mode)](#heading--oneshallfall)
   - [Rescue Optimus (Mini-Wizard Mode)](#heading--rescue)
   - [Dinobot Desertion (Mini-Wizard Mode)](#heading--desertion)
+  - [The Ultimate Doom (Wizard Mode)](#heading--ultimate-doom)
 
 # Game Information & Overview: {#heading--gameinfo}
 
@@ -250,3 +251,7 @@ The mode starts as a 2-ball multiball.
 
 - *Phase One*: Based on whatever Dinobot missions the player completed prior, and timed for 30 seconds + 15 seconds per Dinobot mission completed. **War** - slingshots will build the jackpot by 250k. **Island** - switches build the jackpot by 75k, spinner increases jackpot by 12k per spin. **S.O.S.** - shots / targets build the jackpot by 100k. Shoot the lit shots described above to build the jackpot. Shooting Megatron while in multiball starts the next phase with 3x jackpot value. Draining down to 1 ball starts the next phase with 1x jackpot value.
 - *Phase Two*: The left orbit and Grimlock stand-up targets are lit. Stand-up targets score 0.5x the jackpot value. The left orbit scores 1x the jackpot value. Shooting the left orbit lights a combo to the side ramp or Optimus for a 2x jackpot, then right ramp for 2x jackpot, then the sequence repeats. Phase 2 lasts 30 seconds.
+
+## The Ultimate Doom (Wizard Mode): {#heading--ultimate-doom}
+
+- Still assembling as of 0.89 code
