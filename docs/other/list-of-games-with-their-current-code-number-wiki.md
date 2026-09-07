@@ -4,8 +4,6 @@ title: "List of games with their current code number Wiki"
 
 # List of games with their current code number
 
-# List of games with their current code number
-
 This is a one stop reference list for games with their current code number. Any mistakes, additions, changes needed, or updates, please feel free to add.
 
 - [Stern Pinball](#heading--stern)
