@@ -30,6 +30,7 @@ This lists how many points an extra ball is worth in tournament mode. Click a sc
 | **James Bond 007** | **25M** | | Yes |
 | **Jaws** | **15M** | | Yes |
 | **Jurassic Park (Stern)** | **25M** | | Yes |
+| **King Kong: Myth of Terror Island** | **15M** | | -- |
 | **Last Action Hero** | **25M** | | |
 | **Led Zeppelin** | **10M** | | Yes |
 | **Lord of the Rings** | **2.5M** | **7.5M** | |
