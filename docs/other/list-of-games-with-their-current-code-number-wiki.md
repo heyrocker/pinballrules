@@ -38,7 +38,7 @@ This is a one stop reference list for games with their current code number. Any 
 - [Unofficial Updates](#heading--unofficial)
 
 ## <a name="heading--stern"></a>Stern Pinball
-[Download code for all Stern pinball machines here.](https://www.sternpinball.com/game-code)
+[Download code for all Stern pinball machines here.](https://www.sternpinball.com/support/game-code)
 
 | Game Title | Latest Version | Release Date |
 | --- | --- | --- |
