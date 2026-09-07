@@ -59,7 +59,7 @@ opdb_id: "GweeP"
 - Computer Graphics Art Director: Chuck Ernst
 - Lead Sound Designer: Jerry Thompson
 - Release Date: September 2021
-- Wiki Rulesheet based on Code Rev: 1.08
+- Wiki Rulesheet based on Code Rev: 1.16
   - Edit the Code revision, if applicable, when you make changes
 
 ***Godzilla*** is the fourth Stern pinball machine designed by Keith Elwin and the first machine to implement Stern Insider Connected, released in September 2021. The table depicts events from 10 classic Godzilla films in an original story depicting Godzilla fighting against the Xilien invasion of Earth, while tearing up a few cities for good measure.
