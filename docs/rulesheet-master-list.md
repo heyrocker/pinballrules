@@ -27,6 +27,7 @@ title: "Rulesheet Master List"
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
+|[Fallout](/stern/fallout-rulesheet) | September 2026 | Keith Elwin | Andrew Wilkening, Brett Z Rubin, Raymond Davidson, Rick Naegele |
 |[Transformers: More Than Meets The Eye](/stern/transformers-more-than-meets-the-eye-rulesheet) | June 2026 | Elliot Eismin | Elizabeth Gieske |
 |[Pokemon](/stern/pokemon-rulesheet) | March 2026 | George Gomez, Jack Danger | Tanio Klyce, Andrew Wilkening, Joshua Henderson|
 |[The Walking Dead Remastered](/stern/the-walking-dead-remastered-rulesheet) | January 2026 | John Borg | Lyman Sheats (original), Mark Guidarelli (revisions)|
