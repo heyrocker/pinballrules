@@ -25,6 +25,7 @@ title: "Games With Lock & Point Stealing"
 * Space Shuttle
 * Swords of Fury
 * Taxi
+* Torpedo Alley
 * RADICAL (fixed in the update rom)
 
 **Soft Lock Stealing** - If another player takes the locked ball, the current player's progress to activate a lock is remembered but they will have to physically re-lock a ball to earn progress
@@ -34,7 +35,7 @@ title: "Games With Lock & Point Stealing"
 * Black Hole - Lower PF lock only
 * Corvette
 * Cosmic Gunfight
-* Earthshaker (needs confirmation)
+* Earthshaker
 * F-14 Tomcat - Re-locks balls on plunge for players as compensation, and scores 25k per lock (unwarranted). Fixed in tournament romset, locks score 10 points instead.
 * Fireball II
 * Firepower
@@ -45,7 +46,7 @@ title: "Games With Lock & Point Stealing"
 * Mousin’ Around
 * Nine Ball
 * Oktoberfest (Beer Barrel)
-* Road Kings (after 1st lock, second ball kicks out from any of the other two locks)
+* Road Kings
 * Rollergames (modded / tournament rom gives you plunge to easy re lock)
 * Scorpion
 * Solar Fire
@@ -54,11 +55,21 @@ title: "Games With Lock & Point Stealing"
 * Whirlwind has soft lock stealing and has virtual locks for the players behind (ramp raises and a “lock” is scored for shooting the saucer under it).
 
 **Lock Blocking** - The first player to lock the ball gets a physical lock.  Subsequent locks for other players are virtual locks based on different conditions
-* Aerosmith First player per lock level get a safe action while others get a hard fire into the closed box that can go slamming down SDTM
+* Aerosmith - First player per lock level get a safe action while others get a hard fire into the closed box that can go slamming down SDTM
 * Doctor Who
 * Mousin’ Around (need to hit the side others players do not have an ball in for 1st lock)
 * Foo Fighters - Overlord Lock - Game can be set to kick out locked balls between turns.
-* Stern Jurassic Park (Pre/Le) - Raptor lock
+* Stern Godzilla (Pre/LE) - Godzilla MB, virtual locks feed to left flipper
+* Guardians of the Galaxy - Groot MB, bashing groot awards virtual lock\*
+* James Bond 007 (Pre/LE) - Bird 1 MB, virtual locks feed to upper flipper\*
+* John Wick (Pre/LE) - Deconsecrated MB, virtual locks feed to left flipper\*
+* Stern Jurassic Park (Pre/LE) - Raptor lock
+* King Kong (Pre/LE) - King Kong MB, virtual locks feed to left flipper\*
+* Road Kings - Prevents building eject bonus at locked ball
+* Star Wars: Fall of the Empire - Death Star MB, bashing death star awards virtual lock\*
+* Transformers: More than Meets the Eye (Pre/LE) - Transformers MB, virtual locks feed to right flipper
+
+\*This game can be set to always award virtual locks
 
 **Locked Balls Hold Across Games** - Locked balls stay in place between games (subject to software settings)
 
@@ -70,6 +81,7 @@ title: "Games With Lock & Point Stealing"
 * Lightning
 * Nip-It
 * Oktoberfest (Beer Barrel)
+* Orbiter 1
 * Rollergames (modded rom fixes it)
 * Wonka (Elevator Multiball) (setting to turn off)
 
@@ -185,7 +197,7 @@ title: "Games With Lock & Point Stealing"
 * Addams Family - Tilting will award 1 greed letter on the next ball
 * RADICAL unlock balls and all progress lost for next player (fixed in the update rom)
 * The shadow if you tilt while balls are held in main MB then the game mostly loses track of them and block the holes for other players / games (till reset or next MB JP scored)
-* Torpedo alley (tilt clears locks and progress??)
+* Torpedo alley (tilt clears locks and progress)
 * Sopranos all your progress is wiped away too and you have to start over in building rank toward boss (per player)
 * DUNGEONS & DRAGONS: The Tyrant's Eye with software 0.87 and before
  tilt in Dragon MB and then next ball you will be in an 1 ball Dragon MB
