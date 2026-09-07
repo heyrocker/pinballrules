@@ -40,7 +40,7 @@ opdb_id: "GBLzz"
 - Display and Animations: 
 - Sound Design: Jerry Thompson
 - Release Date: June 2026
-- Wiki Rulesheet based on Code Rev: 0.89
+- Wiki Rulesheet based on Code Rev: 0.90
   - *Edit the Code revision, if applicable, when you make changes*
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/transformers-more-than-meets-the-eye-rulesheet)
 
@@ -247,9 +247,7 @@ This mini-wizard mode is played in 3 phases, each lasting 70 seconds. 30 seconds
 
 Light **Dinobot Desertion** at the VUK by scoring 3 dino jackpots across any **[dinobot mission](#heading--dinobot)**. If the player scored 3 dino jackpots in *each* mission, then the VUK will light to start **Super Dinobot Desertion**. 
 
-The mode starts as a 2-ball multiball.
-
-- *Phase One*: Based on whatever Dinobot missions the player completed prior, and timed for 30 seconds + 15 seconds per Dinobot mission completed. **War** - slingshots will build the jackpot by 250k. **Island** - switches build the jackpot by 75k, spinner increases jackpot by 12k per spin. **S.O.S.** - shots / targets build the jackpot by 100k. Shoot the lit shots described above to build the jackpot. Shooting Megatron while in multiball starts the next phase with 3x jackpot value. Draining down to 1 ball starts the next phase with 1x jackpot value.
+- *Phase One* (60 seconds): Based on whatever Dinobot missions the player completed prior, and timed for 30 seconds + 15 seconds per Dinobot mission completed. **War** - slingshots will build the jackpot by 250k. **Island** - switches build the jackpot by 75k, spinner increases jackpot by 12k per spin. **S.O.S.** - shots / targets build the jackpot by 100k. Shoot the lit shots described above to build the jackpot. Shooting Megatron before time expires and without draining to triple the jackpot value.
 - *Phase Two*: The left orbit and Grimlock stand-up targets are lit. Stand-up targets score 0.5x the jackpot value. The left orbit scores 1x the jackpot value. Shooting the left orbit lights a combo to the side ramp or Optimus for a 2x jackpot, then right ramp for 2x jackpot, then the sequence repeats. Phase 2 lasts 30 seconds.
 
 ## The Ultimate Doom (Wizard Mode): {#heading--ultimate-doom}
