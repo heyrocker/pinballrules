@@ -64,7 +64,7 @@ title: "Games With Lock & Point Stealing"
 * James Bond 007 (Pre/LE) - Bird 1 MB, virtual locks feed to upper flipper\*
 * John Wick (Pre/LE) - Deconsecrated MB, virtual locks feed to left flipper\*
 * Stern Jurassic Park (Pre/LE) - Raptor lock
-* King Kong (Pre/LE) - King Kong MB, virtual locks feed to left flipper\*
+* King Kong: Myth of Terror Island (Pre/LE) - King Kong MB, virtual locks feed to left flipper\*
 * Road Kings - Prevents building eject bonus at locked ball
 * Star Wars: Fall of the Empire - Death Star MB, bashing death star awards virtual lock\*
 * Transformers: More than Meets the Eye (Pre/LE) - Transformers MB, virtual locks feed to right flipper
