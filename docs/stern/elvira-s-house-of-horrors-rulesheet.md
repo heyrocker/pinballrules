@@ -54,7 +54,7 @@ There are two Skill Shots on this game:
 - Plunging the ball so it lands in either Dead End lane will award 250k increasing by 25k each time a successful Skill Shot is made & increase bonus X by +5x.
 - Plunging the ball so it lands into the *Back Door* will award 1M (increasing by 250k each time a successful back door shot is made, maxing out at 2.5M) and instantly qualify a Haunt at the house entrance. If a Haunt has already been qualified, making this Skill Shot will immediately start it. If the Back Door Skill Shot is made during a Haunt or during Gappa Angry, it will advance the mode (spot next mode shot). The ball can also fall into the Back Door during Haunts via weak orbit shots, in which case it will spot progress on the current mode.
 
-<h1 id="heading--main">Main Objectives</h2>
+<h1 id="heading--main">Main Objectives</h1>
 
 The taunting is over; the haunting begins! Elvira has just moved into a new home that happens to be haunted by all sorts of creatures, some ripped from the silver screen and some spooky refugees from her previous pinball machines. With Elvira's help the player must sweep the house clean of its horrors and try to sell it once the deed is done.
 
