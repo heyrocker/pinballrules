@@ -9,6 +9,7 @@
     href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   {% seo %}
   {% include head-custom.html %}
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">   
 </head>
 
 <body>
@@ -38,6 +39,8 @@
       <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
     </footer>
   </div>
+
+  <script src="{{ '/assets/js/settings.js' | relative_url }}"></script>   
 </body>
 
 </html>
