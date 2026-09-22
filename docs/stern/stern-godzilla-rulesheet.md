@@ -158,7 +158,7 @@ After each jackpot, shoot the right spinner for a Super Jackpot worth the jackpo
 
 During Fight or Flee, pressing the left flipper for “Fight” adds 35 seconds (less time on subsequent selections of Fight) and allows you to continue increasing the value for winning the battle and its multiplier; while pressing the right flipper for “Flee” allows you to collect the multiplied value + 200K x seconds remaining and end the battle. The mode also ends if the player drains while the mode is running or the timer runs out.
 
-POWER - Tesla Strike: {#heading--raid}
+POWER - Tesla Strike: {#heading--power}
 
 To activate **Tesla Strike**, all 3 Powerline targets must be completed twice (+1 per activation). This will start **Powerline Attack** and cause a single Powerline target insert to rove between targets. Shoot the flashing target 5 times +2 per activation for 500,000 points each, with the final shot starting **Tesla Strike**. 
 
