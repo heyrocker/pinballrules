@@ -7,6 +7,7 @@ opdb_id: "GELVv"
 ## Table of Contents {#heading--table-of-contents}
 * [Game Overview](#heading--game-overview)
 * [Layout](#heading--layout)
+* [Modes of Play](#heading--modes-of-play)
 * [Character Select](#heading--character-select)
 * [Skill Shots](#heading--skill-shots)
 * [Quests](#heading--quests)
@@ -15,6 +16,7 @@ opdb_id: "GELVv"
 * [Multiball Modes](#heading--multiball-modes)
    - [The Vault & Vault Multiball](#heading--the-vault--vault-multiball)
    - [Deathclaw Multiball](#heading--deathclaw-multiball)
+   - [Wasteland Multiball](#heading--wasteland-multiball)
 * [Side Quests & Side Modes](#heading--side-quests--side-modes)
    - [Side Quests](#heading--side-quests)
    - [Radio Modes](#heading--radio-modes)
@@ -46,11 +48,21 @@ opdb_id: "GELVv"
 * **Release Date:** September 2026
 * **Game Code Version:** v0.xx
 
+*Fallout* is Keith Elwin's most packed pinball machine to date, so packed that it was sold for a higher price than normal. Based on the TV series and the games (primarily 3, 4, and *New Vegas*), players navigate a vast wasteland and attempt to get to the bottom of the experiments going on inside the Vaults.
+
 ## Layout {#heading--layout}
 
 | Premium/LE | Pro |
 | :---: | :---: |
 | <img src="https://site-assets.plasmic.app/b02e9d381f44442a354e0c130f8bcec8.webp" alt="Fallout Premium/LE Playfield Layout" width="450" /> | <img src="https://site-assets.plasmic.app/236d53196d99e93b53f6f6eda534d707.webp" alt="Fallout Pro Playfield Layout" width="450" /> |
+
+## Modes of Play {#heading--modes-of-play}
+
+Accessible by holding both flipper buttons during attract mode until a menu appears:
+
+* **Standard:** The full rulesheet, as documented here
+* **Competition:** Same as Standard, but with elements of randomness removed
+* **DJ Mixer:** Not a gameplay mode — a jukebox for playing the machine's music, including specific playlists (All Songs, Infinity Gauntlet, Wizard Favorites)
 
 ## Character Select {#heading--character-select}
 
@@ -85,7 +97,10 @@ Quests are the main modes in the game.
 * Players need **50 HP** to start a quest mode
 
 ### Quest List {#heading--quest-list}
-1. **Wedding Day** — *Please stand by (not implemented yet)*
+1. **Wedding Day** - 2-ball multiball
+  * Hit every shot on the main playfield to light super jackpot
+  * Deathclaw hits add balls
+  * **Premium/LE:** Also uses the lower playfield — making shots on the lower playfield lights the main playfield shots, and lit main playfield shots add +1x multiplier to lower playfield scores
 2. **Radscorpion Attack**
   * Shoot lit shots to light center jump ramp for 2x value
     * 500k + 250k/shot
@@ -96,8 +111,12 @@ Quests are the main modes in the game.
     * Base value: 500k + 50k/shot
   * Combo shots for killing spree multiplier
   * Max multiplier or 3 killing sprees lights super jackpot
-4. **Mind Control** — *Please stand by (not implemented yet)*
-5. **NOVAC** — *Please stand by (not implemented yet)*
+4. **Mind Control**
+  * Alternate between lit ramp shots and spinner rips to complete the mind control tests
+  * Mode completes after 4 successful spinner rips
+5. **NOVAC** - Ramp shooting mode
+  * Hit lit ramps; upper loop shots increase the multiplier for the next ramp shot
+  * Final shot is at the left ramp and scores 5x
 6. **Find the Target**
   * Phase 1: Hit 4 shots to find target
   * Phase 2: Hit target or keep shooting lit shots to build final value
@@ -111,6 +130,9 @@ To start:
 * Spell VAULT to open the vault
   * Shoot the Vault or "Spot Vault Letter" shots
   * Shoot up the middle twice to enter the vault
+* **Pro:** Advancing to the next vault instantly collects the Lunchbox award
+* **Premium/LE:** Advancing to the next vault starts a lower-playfield mode using the magnet to make loop and target shots; the Lunchbox award is scored once that mode is completed
+* There are five different vault modes
 
 The vault:
 * Collect supplies to qualify dwellers
@@ -125,6 +147,9 @@ To start:
 * Shoot the Deathclaw to damage both its legs
 * 2 hits to both legs lights multiball
 * Shoot the Deathclaw once more to start it
+* **Premium/LE:** Hitting the Deathclaw fires the ball back at the player unless they aim at the weak point shown by the lights below it
+
+There are 3 different Deathclaw multiballs, played in the same order every game. During all of them, completing the Radroach targets scattered around the playfield adds a ball.
 
 Deathclaw Multiball 1:
 * Hit lit shots to build jackpot for 20 seconds
@@ -135,6 +160,29 @@ Deathclaw Multiball 1:
 * Bash Deathclaw enough times for super jackpot
   * 4 times for first super jackpot
 * Super jackpot can be collected at the side loop
+
+Deathclaw Multiball 2:
+* Charge the weapon by making switch hits and hitting shots
+* Once charged, 5 shots light for jackpots
+* Collect all 5 jackpots to light super jackpot
+
+Deathclaw Multiball 3:
+* *Please stand by (not implemented yet)*
+
+### Wasteland Multiball {#heading--wasteland-multiball}
+
+To start:
+* Complete the nuke standup targets on the right side of the playfield to light the left ramp
+* Shoot the lit left ramp to load the **[Fat Man](#heading--fat-man)** nuke launcher and kill an enemy
+  * **Pro:** Enemies are killed every time the lit left ramp is made
+  * **Premium/LE:** Use the flippers and action button to rotate the nuke launcher on the upper playfield and kill an enemy; filling **[VATS](#heading--vats)** with enough switch hits guarantees a kill on the next shot
+* Shoot the right scoop after defeating an enemy to loot it for goods
+* Defeating all three enemies starts Wasteland Multiball
+
+Wasteland Multiball:
+* Score jackpots at the lit shots to light super jackpot
+* Collect super jackpot by shooting the left ramp and using the Fat Man launcher to fire at the middle nuke standup target
+* The process repeats, requiring more jackpots each time to relight super jackpot
 
 ## Side Quests & Side Modes {#heading--side-quests--side-modes}
 
@@ -175,6 +223,8 @@ To start:
 * **Pro:** Ball feeds to left flipper. Shoot the 3-bank of standups
 * **Premium/LE:** Ball feeds to launcher mechanism. Shoot any lit upper playfield shot
 
+This feeds into **[Wasteland Multiball](#heading--wasteland-multiball)**.
+
 *Please stand by (not implemented yet)*
 
 ### VATS {#heading--vats}
@@ -182,6 +232,7 @@ To start:
 Switch hits qualify the Vault-Tec Assisted Targeting System, making it easier to attack a target
 * **Pro:** VATS slows time as you select a target to attack
 * **Premium/LE:** Use flipper buttons to select a target
+* **Premium/LE:** Filling VATS with enough switch hits guarantees a kill on the next enemy shot during **[Wasteland Multiball](#heading--wasteland-multiball)** qualification
 
 ### Caps & Sundries {#heading--caps--sundries}
 
@@ -191,16 +242,18 @@ Collecting Caps:
 * Various achievement also award caps
 
 Sundries (The Shop):
-* *Please stand by (not implemented yet)*
+* Shoot the right scoop to purchase items from the shop once enough caps are collected
+* Without enough caps, a player can attempt to steal an item instead
+  * Shoot the right ramp within 10 seconds to escape with it
+  * If the steal fails, all items cost double the next time the shop is visited
 
 ### Radaway Hurry-Up {#heading--radaway-hurry-up}
 
-To start:
-* Shoot Radroaches (*Please stand by; still drafting*)
-
-Hurry-up:
-* Shoot all 3 ramps to light jackpot
-* *Please stand by (not implemented yet)*
+* Hit the lit green Radroach standup targets to kill Radroaches
+  * Radroach hits deal radiation damage that lowers the player's maximum HP
+  * Killing Radroaches also lights Radaway hurry-ups at random shots, which restore health and increase the Radaway jackpot
+* Shoot all 3 ramps after scoring enough hurry-ups to light the Radaway jackpot for collection at the upper loop
+* Killing enough Radroaches lights **[Extra Ball](#heading--extra-balls)**
 
 ### Playfield X {#heading--playfield-x}
 
@@ -208,15 +261,27 @@ Hurry-up:
 * Purchase fusion cores from the [Sundries](#heading--caps--sundries)
 * Build at Pop Bumper Targets
 * Hold Action Button to put on
+* Hold, then release the Action Button once enough fusion core power is built to activate 2x scoring for the duration shown on the gauge near the left flipper
+* Hold the Action Button again to turn off Power Armor and preserve remaining fusion core power
 
 **Weapons (upgrades Playfield X)**
-* Collect junk at the left dead sling
+* Collect junk at the left dead sling and other playfield shots, including the target where the left slingshot would normally be
+* Every 5 junk collected builds a new weapon
+* Each weapon built increases the global scoring multiplier by +0.2x, up to a 2x cap
 * Higher weapon levels means higher playfield X
 * Weapon upgrades also affect __**[bonus X](#heading--end-of-ball-bonus)**__
 
 ### SPECIAL {#heading--special}
 
-*Please stand by (not implemented yet)*
+Each SPECIAL stat affects gameplay:
+
+* **Strength:** Better and more loot from enemies. Fewer hits needed for jackpots during **[Deathclaw Multiballs](#heading--deathclaw-multiball)**
+* **Perception:** Right flipper moves the lit stimpak between outlanes
+* **Endurance:** Increases the length of ball save timers
+* **Charisma:** Reduces **[sundries](#heading--caps--sundries)** pricing; buying junk awards more XP
+* **Intelligence:** Easier to light the **[Fat Man](#heading--fat-man)** nuke launcher; easier radio jackpots
+* **Agility:** Easier to fill the **[VATS](#heading--vats)** meter; longer timer to steal from **[sundries](#heading--caps--sundries)**
+* **Luck:** More caps; increased chances of better goods from **[sundries](#heading--caps--sundries)**
 
 ### Trusty Companions {#heading--trusty-companions}
 
@@ -231,19 +296,16 @@ Your four trusty companions are:
   * Max Quest Timers
   * *Not A Doctor*
 * Dogmeat
-  * *Please stand by (not implemented yet)*
+  * Collects all lit junk
+  * Lights more Radroaches to kill
 * Mr. Handy
   * Spots Deathclaw
   * Easier Fusion Core
   * *Very Handy*
 
-
-
 ## Outlane Ball Save (Stimpak) {#heading--outlane-ball-save-stimpak}
 
 Shoot the left ramp, center loop, and right orbit when *white* inserts are flashing to light ball save at the outlanes
-
-
 
 ## Extra Balls {#heading--extra-balls}
 
@@ -252,8 +314,6 @@ Light extra ball by:
 * *Please stand by (not implemented yet)*
 
 Hit the left Radroach target to collect it
-
-
 
 ## End-of-Ball Bonus {#heading--end-of-ball-bonus}
 
@@ -266,8 +326,6 @@ Base Bonus:
 Bonus Multiplier (Bonus X):
 * Weapon Level: +1x per level
 * Tilt Warnings: +1x per remaining warning (up to +2x max)
-
-
 
 ## Wizard Modes {#heading--wizard-modes}
 
