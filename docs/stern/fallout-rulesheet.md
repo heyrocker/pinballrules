@@ -429,37 +429,37 @@ Upon **failing to steal** an item, the player has 10 seconds to escape by shooti
 * **On Successing an escape:** The player is rewarded the item they attemped to, but their reputation was tarnished and all items in the next visit to Sundries will be doubled.
 
 List of Items at Sundries:
-|Item|Function|Cost|
-|----|--------|----|
-|New Fusion Core|Max Power Armor|250 Caps|
-|Fusion Core (33%)|Adds Power Armor|75 Caps|
-|Fusion Core (66%)|Adds Power Armor|120 Caps|
-|Fusion Core (83%)|Adds Power Armor|150 Caps|
-|Sugar Bombs|Max HP|80 Caps|
-|Mentats (3)|Advanced Hacking|80 Caps|
-|Rad X (2)|Longer Timer|80 Caps|
-|Nuka Cola (4)|Award Inlanes|70 Caps|
-|Radaway (3)|Resets Rads|80 Caps|
-|Stimpak (2)|Outlane Ball Save|80 Caps|
-|Buffout (2)|Extend Multiball|150 Caps|
-|Flask|Common Junk|30 Caps|
-|Bowling Ball|Common Junk|30 Caps|
-|Plate|Common Junk|30 Caps|
-|Shot Glass|Rare Junk|100 Caps|
-|Magnifying Glass|Rare Junk|100 Caps|
-|Ballistic Fiber|Rare Junk|100 Caps|
-|Flash Camera|Rare Junk|50 Caps|
-|Duct Tape|Rare Junk|100 Caps|
-|Antiseptic|Rare Junk|100 Caps|
-|Gold Pinball|Extra Ball|Legendary Junk|
-|Bobblehead|Strength Perk|Legendary Junk|
-|Bobblehead|Perception Perk|Legendary Junk|
-|Bobblehead|Endurance Perk|Legendary Junk|
-|Bobblehead|Charisma Perk|Legendary Junk|
-|Bobblehead|Intelligence Perk|Legendary Junk|
-|Bobblehead|Agility Perk|Legendary Junk|
-|Bobblehead|Luck Perk|Legendary Junk|
-|Nuka Quantum|Lights 2x XP|Legendary Junk|
+| Item | Function | Cost |
+|----|----|----|
+| New Fusion Core | Max Power Armor | 250 Caps |
+| Fusion Core (33%) | Adds Power Armor | 75 Caps |
+| Fusion Core (66%) | Adds Power Armor |120 Caps |
+| Fusion Core (83%) | Adds Power Armor | 150 Caps | 
+| Sugar Bombs | Max HP | 80 Caps | 
+| Mentats (3) | Advanced Hacking | 80 Caps | 
+| Rad X (2) | Longer Timer | 80 Caps | 
+| Nuka Cola (4) | Award Inlanes | 70 Caps | 
+| Radaway (3) | Resets Rads | 80 Caps | 
+| Stimpak (2) | Outlane Ball Save | 80 Caps | 
+| Buffout (2) | Extend Multiball | 150 Caps | 
+| Flask | Common Junk | 30 Caps | 
+| Bowling Ball | Common Junk | 30 Caps | 
+| Plate | Common Junk | 30 Caps | 
+| Shot Glass | Rare Junk | 100 Caps | 
+| Magnifying Glass | Rare Junk | 100 Caps | 
+| Ballistic Fiber | Rare Junk | 100 Caps | 
+| Flash Camera | Rare Junk | 50 Caps | 
+| Duct Tape | Rare Junk | 100 Caps | 
+| Antiseptic | Rare Junk | 100 Caps | 
+| Gold Pinball | Extra Ball | Legendary Junk | 
+| Bobblehead | Strength Perk | Legendary Junk | 
+| Bobblehead | Perception Perk | Legendary Junk | 
+| Bobblehead | Endurance Perk | Legendary Junk | 
+| Bobblehead | Charisma Perk | Legendary Junk | 
+| Bobblehead | Intelligence Perk | Legendary Junk | 
+| Bobblehead | Agility Perk | Legendary Junk | 
+| Bobblehead | Luck Perk | Legendary Junk | 
+| Nuka Quantum | Lights 2x XP | Legendary Junk | 
 
 ### Trusty Companions {#heading--trusty-companions}
 
@@ -510,8 +510,6 @@ Extra balls can be collected at the stand-up target that is located on the side 
 * Shooting 4 Radroach targets, accumuatively.
 * Shooting 25 Radroach targets, accumuatively.
 * *Please stand by (not implemented yet)*
-
-Hit the left Radroach target to collect it
 
 ## End-of-Ball Bonus {#heading--end-of-ball-bonus}
 When the player drains, a bonus will be award based on the following.
