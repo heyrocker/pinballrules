@@ -430,7 +430,7 @@ Upon **failing to steal** an item, the player has 10 seconds to escape by shooti
 
 List of Items at Sundries:
 | Item | Function | Cost |
-|----|----|----|
+| ---- | ---- | ---- |
 | New Fusion Core | Max Power Armor | 250 Caps |
 | Fusion Core (33%) | Adds Power Armor | 75 Caps |
 | Fusion Core (66%) | Adds Power Armor |120 Caps |
