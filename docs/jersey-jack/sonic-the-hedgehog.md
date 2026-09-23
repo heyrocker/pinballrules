@@ -36,7 +36,7 @@ opdb_id: "GvBPJ-M1rjr"
 - Display and Animations:
 - Sound Design: Pierce Colbert (base audio), Slash, Jun Senoue (additions to "Open Your Heart" and "It Doesn't Matter")
 - Release Date: June 2026
-- Wiki Rulesheet based on Code Rev: 0.92
+- Wiki Rulesheet based on Code Rev: 0.94
   - *Edit the Code revision, if applicable, when you make changes*
 
 ***Sonic the Hedgehog*** is JJP's 2026 release and the second table designed for them by Steve Ritchie and the same team that worked on *Elton John*. Sonic and his friends must put a stop to Eggman's evil schemes while finding the Chaos and Master Emeralds for a chance to become Super Sonic. The game uses assets from the Modern Sonic levels of *Sonic Generations*.
@@ -50,19 +50,19 @@ opdb_id: "GvBPJ-M1rjr"
 
 Whenever the ball is in the plunger, the player can use the action button to select the **[zone](#heading--zones)** they want to play.
 
-**On ball 1**: 
-Eggman will confront Sonic and the player can attack him with a well-aimed shot at the start of the game using the upper playfield. Plunge the ball and hit either the center ramp or left ramp to send the ball to the upper playfield. Then shoot Eggman to score the skill shot, worth a hurry-up starting at 5M, and increase the base scoring for **[boss battles](#heading--zones)**; with boss battles on the first ball scoring 2x their normal amount. The skill shot opportunity disappears if the 20-second timer runs out, or if the ball exits the upper playfield without hitting Eggman's mech.
+**On ball 1 - Lab Detour**: 
+Eggman will confront Sonic and the player can attack him with a well-aimed shot at the start of the game using the upper playfield. Plunge the ball and hit either the center ramp or left ramp to send the ball to the upper playfield. Then shoot Eggman to score the skill shot, worth a hurry-up starting at 5M, and increase the base scoring for **[boss battles](#heading--zones)**; with boss battles on the first ball scoring 2x their normal amount. The skill shot opportunity disappears if the 20-second timer runs out, or if the ball exits the upper playfield without hitting Eggman's mech. The player also gets 10 seconds of victory laps on the upper playfield after making the skill shot, where every shot adds 5 **[rings](#heading--rings)**.
 
 **On subsequent & locked balls**:
-Lock in an award by plunging the ball or selecting it using the flippers. Then hit any white shot on the right side of the playfield to score the locked-in award, or the pink shot to score a super skill shot award worth additional points. The difficulty increases with every skill shot made. 
+Lock in an award by plunging the ball or selecting it using the flippers. Then hit any white shot on the right side of the playfield to score the locked-in award, or the pink shot (which moves from right to left and back) to score a super skill shot award. Short plunging the ball will start the skill shot sequence with the shots on the left side of the playfield instead. The difficulty increases with every skill shot made, reducing the number of lit shots.
 
-- **Chao** - Adds +1x to the next round of **[advance Chao](#heading--chao)** shots.
-- **Bonus X** - Increases bonus multiplier +1x.
-- **Checkpoint** - Advances to the next checkpoint in the current **[zone](#heading--zones)**.
-- **Award Hero** - Spots one hero's worth of progress towards **[Sonic Heroes Multiball](#heading--heroes)**.
-- **Rings** - Awards 20 **[rings](#heading--rings)**.
+- **Chao** - Adds +1 chao egg to the next round of **[advance Chao](#heading--chao)** shots. *Super Skill Shot* - Chao egg spawns are doubled for the rest of the ball.
+- **Bonus X** - Increases bonus multiplier +1x. *Super Skill Shot* - Increases bonus multiplier +3x and holds bonus X, or adds +4x bonus if bonus X is already held.
+- **Checkpoint** - Advances to the next checkpoint in the current **[zone](#heading--zones)**. *Super Skill Shot* - Awards one expert shot's worth of progress, boosts scoring for the current zone, and removes 10 seconds off the zone timer.
+- **Award Hero** - Spots missing HERO lanes, then spots one hero's worth of progress towards **[Sonic Heroes Multiball](#heading--heroes)**, then spots one hero & 2 HERO lanes for each subsequent skill shot. *Super Skill Shot* - Spots one, then two, then three heroes.
+- **Rings** - Awards 10 **[rings](#heading--rings)** + 5 per skill shot up to 25. *Super Skill Shot* - Awards 25 rings + 5 per super skill shot up to 50, and increases the value of rings in **[end-of-ball bonus](#heading--bonus)**.
 
-Awards will be disabled under certain conditions. **Checkpoint** won't be given if the player is at the Goal Ring of a zone. **Award Hero** won't be given if the player has all three members on a team collected and hasn't changed yet.
+Awards will be disabled under certain conditions. **Checkpoint** won't be given if the player is at the Goal Ring of a zone. **Award Hero** won't be given if the player has all three members on a team collected and hasn't changed the lit team yet.
 
 <h2 id="heading--zones">Zones & Boss Battles:</h2>
 
@@ -90,10 +90,11 @@ The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all
 | --- | --- | --- | --- |
 |Start|Left or right ramp|Left or right orbit|Left or right lab orbit|
 |1|Center ramp|Lockup|Either lab target|
-|2|Right ramp|Left orbit|Lab loopback ramp|
-|3|Left ramp|Right orbit|Lab jump ramp|
+|2|Right ramp|Left or right orbit|Lab loopback ramp|
+|3|Left ramp|Left or right orbit|Lab jump ramp (shortcut)|
 |4|Center ramp|Bash dash target|Lab spinner|
-|5|Center ramp|Left or right orbit|Lab loopback ramp|
+|5|Center ramp or 6 Badnik targets|Chao target|Left or right lab orbit|
+|6|Center ramp or 6 Badnik targets|Left or right orbits|Lab loopback ramp|
 |Goal Ring|N/A|Center ramp|Lab jump ramp|
 
 **Chemical Plant**
@@ -101,7 +102,7 @@ The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all
 |Checkpoint #|**1x**|**2x**|**3x**|
 | --- | --- | --- | --- |
 |Start|Center ramp (2 shots)|Bash dash target|Lab spinner|
-|1|Left ramp (2 shots)|Chao target (2 shots)|Left or right lab orbit|
+|1|Left orbit or left ramp (2 shots)|Chao target (2 shots)|Left or right lab orbit|
 |2|Right ramp (2 shots)|Froggy target (2 shots)|Lab loopback ramp|
 |3|Left or right ramp|Lockup|Left lab target|
 |4|Center ramp (2 shots)|Bash dash target (2 shots)|Right lab target|
@@ -112,10 +113,10 @@ The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all
 
 |Checkpoint #|**1x**|**2x**|**3x**|
 | --- | --- | --- | --- |
-|Start|N/A|N/A|Any lab shot or target|
+|Start|Left or right orbit|Left, center, or right ramp|Any lab shot or target|
 |1|Center ramp|Left ramp|Lab loopback ramp|
 |2|Lockup (2 shots)|Bash dash target|Right lab orbit|
-|3|Battle zone targets (6 hits)|N/A|Left lab orbit|
+|3|Battle zone targets (6 hits)|N/A|Left lab orbit (shortcut)|
 |4|Left or right orbit|N/A|Lab jump ramp|
 |5|Right ramp (2 shots)|Chao target (2 shots)|N/A|
 |Goal Ring|N/A|Center ramp|Lab jump ramp|
@@ -153,6 +154,9 @@ The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all
 
 |Checkpoint #|**1x**|**2x**|**3x**|
 | --- | --- | --- | --- |
+|Start|Left orbit|N/A|Right lab orbit|
+|1|Center ramp|Left or right ramp|N/A|
+|2|Lockup|Center ramp|Lab spinner|
 
 [/details]
 Once the player has reached the Goal Ring in any zone, the player's score for that zone will be tallied up and ranked before the Boss Battle starts. The score is based on how quickly the zone was completed, how many "expert" (3x) shots were made, how many **[rings](#heading--rings)** the player has, and a value per **[chaos emerald](#heading--emerald)** the player has collected. The later into the game the player is, the easier it is to get the maximum "S" rank for a zone.
@@ -161,28 +165,26 @@ Eggman will then present himself and Boss Battle will activate. Shoot the center
 
 - Boss 1 - Start boosted **[Tails hurry-up](#heading--tails)**
 - Boss 2 - Qualify **Casino Night [feature mode](#heading--feature)** at lockup
-- Boss 3 (hit lab shots to lower) - Light **[extra ball](#heading--extraballs)**
+- Boss 3 - Light **[extra ball](#heading--extraballs)**
 - Boss 4 (hit lab shots to lower, center drop target active) - Qualify **Boss Rush feature mode** at lockup
 - Boss 5 (hit lab orbits to lower) - **[+5x bonus X](#heading--bonus)**
 
-*Currently, bosses 6+ only score the hurry-up points with no associated perks.*
-
 <h2 id="heading--feature">Feature Modes:</h2>
 
-**NOTE: Feature Modes are not implemented on 0.92 code.**
+**NOTE: All feature modes excluding Master Emerald Mission are not implemented on 0.94 code.**
 
 Feature Modes take priority over all other modes and multiballs once started, and serve as mini-wizard modes of the game. 
 
 - **Casino Night**: Lights at the lockup after completing 2 **[boss battles](#heading--zones)**. Scores 25M as this mode is not implemented.
 - **Boss Rush**: Lights at the lockup after completing 4 **boss battles**. Scores 50M as this mode is not implemented.
-- **Master Emerald Mission**: Lights at the center ramp after making enough upper playfield shots (5 each of orbits, targets, ramps, and spinner). Scores 20M as this mode is not implemented.
+- **Master Emerald Mission**: Lights at the center ramp after making enough upper playfield shots (5 each of orbits, targets, ramps, and spinner). While attempting to protect the Master Emerald from Eggman, Knuckles accidentally shatters the emerald and has to recover the shards. 15 seconds of ball save are given at the start of this mode. Within 70 seconds, shoot the lit green shots to collect 3 of the 30 Master Emerald shards, and shoot red shots to score smaller jackpot awards and increase the value for each shard. After finding 21 shards, all shots will turn red and the player must hold the action button to reveal where the next shards are. If the player fails the mode, they can requalify it with more upper playfield shots and start where they left off. Collecting all 30 shards recovers the Master Emerald and boosts all **[bash dash](#heading--multiballs)** scoring so that it starts at 3x and increases by 2x per shot while the ball is held.
 - **Super Sonic**: Lights at the lockup after collecting all 7 **[Chaos Emeralds](#heading--emerald)**. Scores 100M as this mode is not implemented, and removes all Emeralds in the player's possession.
 
 <h2 id="heading--multiballs">Multiballs & Bash Dash:</h2>
 
 Only one multiball mode can be active at a time, but they can stack with currently active **[zones](#heading--zones)** up until the player reaches the Goal Ring. If the player has reached the Goal Ring, the zone timer will pause and checkpoint shots will be disabled to prevent the player from starting Boss Battle during a multiball.
 
-**Bash Dash**: During either multiball mode, shooting the left standup target will hold the ball there temporarily and increase the jackpot multiplier, which starts at 2x + the number of **[Chaos Emeralds](#heading--emerald)** found (ie. if 3 have been found so far, the multiplier starts at 5x). Repeatedly hitting the held ball will increase the jackpot multiplier by +1x for the duration of Bash Dash. This scoring opportunity disappears after 10 seconds (+4 seconds by hitting the left standup target during normal play), but can be relit by collecting **[rings](#heading--rings)** during the multiball. The Bash Dash timer also pauses when **[Chaos Control](#heading--control)** is active.
+**Bash Dash**: During either multiball mode, shooting the left standup target will hold the ball there temporarily and increase the jackpot multiplier, which starts at 2x, 3x if the player has successfully recovered the **[Master Emerald](#heading--feature)**. Repeatedly hitting the held ball will increase the jackpot multiplier by +1x for the duration of Bash Dash (+2x with Master Emerald found). This scoring opportunity disappears after 10 seconds (+4 seconds by hitting the left standup target during normal play), but can be relit by collecting **[rings](#heading--rings)** during the multiball. The Bash Dash timer also pauses when **[Chaos Control](#heading--control)** is active.
 
 <h3 id="heading--emerald">Chaos Emerald Multiball:</h3>
 
@@ -198,7 +200,17 @@ While in multiball, along with scoring jackpots, the player can collect Chaos Em
 - **6**: Shoot all four targets (two on upper playfield, two on lower playfield), then lockup to collect.
 - **7**: Make all lab orbit, target, and ramp shots, then lockup to collect.
 
-The orbits and ramps are lit for jackpots, with the upper playfield shots lit for 2x jackpots. The last jackpot of each set is a super jackpot that starts at 2M. These awards are much lower than the more substantial points and utility of Emeralds, which increase the frozen timers during **[Chaos Control](#heading--control)** by +15 seconds per emerald, add to the **Bash Dash** jackpot multiplier, and qualify the **Super Sonic [feature mode](#heading--feature)** once all 7 are found.
+The orbits and ramps are lit for jackpots, with the upper playfield shots lit for 2x jackpots. The last jackpot of each set is a super jackpot that starts at 2M. These awards are much lower than the more substantial points and utility of Emeralds, which increase the frozen timers during **[Chaos Control](#heading--control)** by +15 seconds per emerald, give unique perks, and qualify the **Super Sonic [feature mode](#heading--feature)** once all 7 are found.
+
+Each color of Chaos Emerald provides a different perk that matches with the color of a playfield feature. On normal settings, the colors are randomized.
+
+- **Red**: Unlimited hurry-ups & boosted scoring during **[Badnik Attack](#heading--badnik)**
+- **Purple**: Better awards from & easier to light **[Find Froggy](#heading--froggy)**
+- **Blue**: Increase the rank for each **[zone](#heading--zones)** completed
+- **Green**: Boost progress & enable victory laps during **[Master Emerald Mission feature mode](#heading--feature)**
+- **Cyan**: **[Advance Chao](#heading--chao)** stays lit for 2x the time
+- **Yellow**: Increase **[rings](#heading--rings)** collected by 1.5x
+- **White**: Spot required spins & increase scoring for **[Tails Hurry-Up](#heading--tails)**
 
 <h3 id="heading--heroes">Sonic Heroes Multiball:</h3>
 
@@ -214,21 +226,27 @@ Shoot jackpots to increase the value per jackpot by 100k and light the super jac
 
 Rings can be scored at any time during the game and are mainly used to determine the player's score during **[zones](#heading--zones)**, increase the **[end-of-ball bonus](#heading--bonus)**, and to determine shot values during **[spin dash](#heading--spindash)** and **[feature modes](#heading--feature)**. Light rings by rolling through inlanes or repeatedly shooting the orbits, and collect them by shooting yellow shots near them as combos, with lit zone shots increasing the ring counter regardless of if rings are currently available. Collect 20 rings to light the left outlane **[kickback](#heading--kickback)** or add a charge to the kickback if already lit. Collect 100 rings to light the **[extra ball](#heading--extraballs)** at the center ramp.
 
+*The yellow **[Chaos Emerald](#heading--emerald)** multiplies all rings by 1.5x.*
+
 Tilting a ball means losing your rings! When the player tilts, half of the player's ring count this ball will be removed.
 
 <h3 id="heading--chao">Advance Chao:</h3>
 
-**NOTE: Not complete on 0.92 code.**
+**NOTE: Not complete on 0.94 code.**
 
 Hitting the Chao target on the very left of the playfield spawns a Chao egg and lights Advance Chao at the left and right orbits. Advance the Chao by shooting repeated orbit shots to score increasing values per shot.
+
+*The cyan **[Chaos Emerald](#heading--emerald)** keeps the orbits lit for longer.*
 
 <h3 id="heading--badnik">Badnik Attack:</h3>
 
 The battle zone targets surrounding the center ramp represent Eggman's army of mechanized animals sent to defeat Sonic. Once all six targets are completed, a timed Badnik Attack mode will start, where further shots to the targets score increasing points but increase in difficulty with each wave defeated. Shooting the upper playfield targets while a Badnik Attack is running will start a hurry-up on the upper playfield, which can complete an entire wave of Badniks in one shot. Defeated Badniks add to **[end-of-ball bonus](#heading--bonus)**.
 
+*The red **[Chaos Emerald](#heading--emerald)** allows for unlimited hurry-ups during this mode and boosts its overall scoring.*
+
 <h3 id="heading--spindash">Spin Dash:</h3>
 
-Shoot the right ramp 5 times to qualify a Spin Dash at that same ramp. Once the ramp is hit, the player will temporarily get control of the magnet used to send balls through the loop. Use the flippers to build up Sonic's spin speed, and press the action button with the right timing (while within the green window) to score the most points and release the ball. The Spin Dash points award is determined by how many **[rings](#heading--rings)** the player has. Subsequent Spin Dashes require 10 more ramps to light than the last.
+Shoot the right ramp 5 times to qualify a Spin Dash at that same ramp. Once the ramp is hit, the player will temporarily get control of the magnet used to send balls through the loop. Use the flippers to build up Sonic's spin speed, and press the action button with the right timing (while within the green window) to score the most points and release the ball. The Spin Dash points award is determined by how many **[rings](#heading--rings)** the player has. Subsequent Spin Dashes require 2 more ramps to light than the last, and starting with the 3rd Spin Dash, the green window will start moving.
 
 If the ball drains straight down the middle after shooting the right ramp, default settings allow these balls to be saved.
 
@@ -236,11 +254,15 @@ If the ball drains straight down the middle after shooting the right ramp, defau
 
 Big is one of Sonic's friends who shows up in the most unexpected places. His pet frog, Froggy, was temporarily controlled by one of the same Chaos Emeralds that gave Chaos its power. 
 
-Every time the player reaches a **checkpoint** in a **[zone](#heading--zone)**, the Froggy target on the far right of the playfield will light to score a mystery award based on the current fishing gear. Lower tier mystery awards include 50k points and **[rings](#heading--rings)** (5 or 10), while higher tier awards include activating ball save for 8 seconds. Once the player has all gear, they will be able to catch Froggy (indicated by the target flashing purple / green) and light the center ramp for **[extra ball](#heading--extraballs)**.
+Every time the player reaches a **checkpoint** in a **[zone](#heading--zone)**, the Froggy target on the far right of the playfield will light to score a mystery award based on the current fishing gear. Lower tier mystery awards include 5M points and **[rings](#heading--rings)** (5 or 10), while higher tier awards include activating ball save for 8 seconds. More checkpoints are required to light the Find Froggy target every time it is scored. Once the player has all gear, they will be able to catch Froggy (indicated by the target flashing purple / green) and light the center ramp for **[extra ball](#heading--extraballs)**.
+
+*The purple **[Chaos Emerald](#heading--emerald)** increases the mystery award tier and reduces the number of checkpoints required to light it.*
 
 <h3 id="heading--tails">Tails Hurry-Up:</h3>
 
 Make 50 spins using the spinner on the upper playfield to qualify the left inlane for Tails hurry-up, which will hold the ball, light a random shot on that can be hit from the left flipper to score a hurry-up, then release the ball. The value for each successive hurry-up adds the value from the previous one to the total.
+
+*The white **[Chaos Emerald](#heading--emerald)** reduces the number of spins required to light the hurry-up and boosts its scoring.*
 
 <h3 id="heading--control">Chaos Control:</h3>
 
@@ -252,7 +274,7 @@ Timers affected by Chaos Control are the timer for each **[zone](#heading--zones
 
 <h3 id="heading--kickback">Kickback:</h3>
 
-Light the left outlane kickback by collecting enough **[rings](#heading--rings)**. The kickback fires the ball towards the battle zone targets.
+Light the left outlane kickback by collecting enough **[rings](#heading--rings)**: 50 rings for the first kickback, then 25 more every time. The kickback fires the ball towards the battle zone targets. If the kickback is already lit, collecting the required rings will add another kickback "charge".
 
 <h3 id="heading--extraballs">Extra Balls:</h3>
 
