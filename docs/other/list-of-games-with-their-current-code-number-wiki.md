@@ -38,38 +38,40 @@ This is a one stop reference list for games with their current code number. Any 
 ## <a name="heading--stern"></a>Stern Pinball
 [Download code for all Stern pinball machines here.](https://www.sternpinball.com/support/game-code)
 
-| Game Title | Latest Version | Release Date |
-| --- | --- | --- |
-| Jurassic Park | 1.16 | Jul 1, 2026 |
-| Stranger Things | 1.13 | Jul 1, 2026 |
-| Godzilla | 1.15 | Jul 28, 2026 |
-| James Bond 007 | 1.06 | Jul 1, 2026 |
-| Venom | 1.07 | Jul 1, 2026 |
-| Jaws | 1.02 | Jul 1, 2026 |
-| John Wick | 1.02 | Jul 1, 2026 |
-| The Uncanny X-Men | 0.98 | Jul 1, 2026 |
-| Metallica Remastered | 1.04 | Jul 1, 2026 |
-| Dungeons & Dragons: The Tyrant's Eye | 1.01 | Jul 1, 2026 |
-| King Kong: Myth of Terror Island | 0.97 | Jul 1, 2026 |
-| Star Wars: Fall of the Empire | 0.97 | Jul 1, 2026 |
-| The Walking Dead Remastered | 0.93 | Jul 1, 2026 |
-| Pokémon | 0.84 | Jul 1, 2026 |
-| Transformers: More Than Meets the Eye | 0.85 | Jul 22, 2026 |
+| Game Title                            | Latest Version | Release Date |
+|---------------------------------------|----------------|--------------|
+| Jurassic Park                         | 1.16           | Jul 1, 2026  |
+| Stranger Things                       | 1.13           | Jul 1, 2026  |
+| Godzilla                              | 1.16           | Aug 26, 2026 |
+| James Bond 007                        | 1.06           | Jul 1, 2026  |
+| Fallout                               | 0.80           | Sep 18, 2026 |
+| Venom                                 | 1.07           | Jul 1, 2026  |
+| Jaws                                  | 1.02           | Jul 1, 2026  |
+| John Wick                             | 1.02           | Jul 1, 2026  |
+| The Uncanny X-Men                     | 0.98           | Jul 1, 2026  |
+| Metallica Remastered                  | 1.04           | Jul 1, 2026  |
+| Dungeons & Dragons: The Tyrant's Eye  | 1.10           | Sep 22, 2026 |
+| King Kong: Myth of Terror Island      | 0.97           | Jul 1, 2026  |
+| Star Wars: Fall of the Empire         | 0.97           | Jul 1, 2026  |
+| The Walking Dead Remastered           | 0.93           | Jul 1, 2026  |
+| Pokémon                               | 0.86           | Sep 15, 2026 |
+| Pokémon (Home Edition)                | 1.03           | Sep 16, 2026 |
+| Transformers: More Than Meets the Eye | 0.92           | Sep 16, 2026 |
 
 ## <a name="heading--jjp"></a>Jersey Jack Pinball
 [Download code for all JJP pinball machines here.](https://www.jerseyjackpinball.com/support/downloads/)
 
 Beta updates not listed (any one can opt in to installing them)
 
-| Game Title | Latest Version | Release Date | Change Log Link(s) |
-| --- | --- | --- | --- |
-| Guns N' Roses | 3.03 | Mar 25, 2025 | [Log](https://marketing.jerseyjackpinball.com/gnr/gnr_changelog.txt) |
-| Toy Story 4 | 2.04 | Mar 31, 2025 | [Log](https://marketing.jerseyjackpinball.com/ts/ts4_changelog.txt) |
-| The Godfather | 2.03 | Mar 25, 2025 | [Log](https://marketing.jerseyjackpinball.com/di/di_changelog.txt) |
-| Elton John | 2.03 | Mar 25, 2025 | [Log](https://marketing.jerseyjackpinball.com/ej/eltonjohn_changelog.txt) |
-| Avatar: The Battle for Pandora | 1.02 | Jul 8, 2025 | [Log](https://marketing.jerseyjackpinball.com/av/avatar_changelog.txt) |
-| Harry Potter | 1.26 | Apr 14th, 2025 | [Log](https://marketing.jerseyjackpinball.com/hp/hp_changelog.txt) |
-| Sonic The Hedgehog | 00.926 | Jul 23, 2026 | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
+| Game Title | Latest Version | Release Date   | Change Log Link(s) |
+| --- |----------------|----------------| --- |
+| Guns N' Roses | 3.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/gnr/gnr_changelog.txt) |
+| Toy Story 4 | 2.04           | Mar 31, 2025   | [Log](https://marketing.jerseyjackpinball.com/ts/ts4_changelog.txt) |
+| The Godfather | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/di/di_changelog.txt) |
+| Elton John | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/ej/eltonjohn_changelog.txt) |
+| Avatar: The Battle for Pandora | 1.02           | Jul 8, 2025    | [Log](https://marketing.jerseyjackpinball.com/av/avatar_changelog.txt) |
+| Harry Potter | 1.26           | Apr 14th, 2025 | [Log](https://marketing.jerseyjackpinball.com/hp/hp_changelog.txt) |
+| Sonic The Hedgehog | 00.940          | Sep 22, 2026   | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
 
 ## <a name="heading--multi"></a>Multimorphic Pinball
 [Download code and release notes for all Multimorphic pinball machines here](https://www.multimorphic.com/account/software/), or directly from the P3 connected to the internet.
