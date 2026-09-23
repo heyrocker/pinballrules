@@ -59,7 +59,7 @@ opdb_id: "GK1Ej"
 - Display and Animations: Paul Chamnankit
 - Sound Design: Jerry Thompson
 - Release Date: February 2025
-- Wiki Rulesheet based on Code Rev: 1.00
+- Wiki Rulesheet based on Code Rev: 1.10
   - *Edit the Code revision, if applicable, when you make changes*
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/dungeons-dragons-the-tyrants-eye-rulesheet)
 
@@ -86,6 +86,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 - **Standard:** Standard play starts a new campaign.  Players logged into Insider Connected can resume a saved campaign for a character, or use the saved character in a "one-shot" new campaign by holding the action button on the character select screen.  One-shot campaign progress is not saved. See sections below for full game rules/details.
 - **Competition:** No saved progress. All **[legendary equipment](#heading--legendary)** is disabled. Uses a constant random seed.
 - **Cooperative/Team Play:** Players can play in different team player count configurations (1v3, 2v2, etc.) with shared team scores.  Participants that log into Insider Connected can use saved characters from their account, although campaigns always start at the beginning and do not save progress.  The first player of the team selects the starting city for the rest of the team's players.
+- **Challenge**: Play unlimited levels of **Dungeon Crawl**. Traps disable one of your party members but they can be revived with healing potions. Challenge mode can be played with up to 4 players just like a normal game.
 - **DJ Mixer:** NOT a gameplay mode. This mode operates like a jukebox, allowing you to play the music featured in the machine, including a number of specific playlists.
 - **Reset Progress:** Clears saved campaign progress, item upgrades, and sets level 1 for all characters for the scanned Insider Connected account. Also removes access to Bard / Ranger / Barbarian. This is recommended after game code updates for balancing changes, although this is not required and characters are currently backwards compatible.
 - **Prolonged Competition Install:** Competition mode default game mode till next reboot.
@@ -110,7 +111,7 @@ Character| Class | Perks | Base Stats | Str/Dex/Con/Int/Wis/Cha | Unlock Mode |
 Rhyme|Tiefling Ranger | Good with Ranged Weapons (2 blue arrows at once) | 11 HP, 12 AC, 15% Luck, 140 Gold|18/13/12/10/11/13 | **[The Undermountain](#heading--wizardundermountain)** |
 Juniper Amari| Wood Elf Bard | Increased 2x Scoring Timer | 9 HP, 15 AC, 60% Luck, 160 Gold |11/15/13/13/13/18| **[Ritual of the Chosen](#heading--wizardritualchosen)** |
 Goregath | Goliath Barbarian | Rage (replaces ranged weapons, collects all lit shots once per ball) - can be repurchased from Fizmo's for 300 gold). Extra damage to Abashi & Yugoloths | TBD | TBD | **[Rescue the King](#heading--wizardrescue)** |
-Rowan Freewander | Human Fighter | TBD | TBD | TBD | Unlocked with topper connected |
+Rowan Freewander | Human Fighter | Add-a-ball during any multiball, once per ball | TBD | TBD | Unlocked with topper connected |
 
 The stats are described in the status report as follows:
 
@@ -164,7 +165,7 @@ Completing any Town Dungeon qualifies **[Darkhold](#heading--darkhold)** for a b
 
 Quest completion
 
-Completed modes and cities are lit solid red if the mode/dungeon was failed or green if it was cleared successfully.  There are currently no penalties for failing most campaign modes, but if the player loses a level 3 mode, they will miss out on their associated **[artifact](#heading--artifacts)**. **[Fizmo](#heading--fizmo)** can give 2nd chances on any artifact that the player failed to obtain.
+Completed modes and cities are lit solid red if the mode/dungeon was failed or green if it was cleared successfully.  There are no penalties for failing most campaign modes, but if the player loses a level 3 mode, they will miss out on their associated **[artifact](#heading--artifacts)**. **[Fizmo](#heading--fizmo)** can give 2nd chances on any artifact that the player failed to obtain.
 
 **Note: Completed modes cannot otherwise be repeated whether completed or failed!**
 
