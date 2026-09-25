@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-fix_table_spacing.py - Add a blank line above Markdown tables that need one.
+fix_table_spacing.py - Add blank lines around Markdown tables that need them.
 
 GitHub Pages (kramdown) does not render a table as a table unless there is
-a blank line between it and the text directly above it. This script finds
-every table under docs/ that is missing that blank line and inserts one.
+a blank line between it and the text directly above it, and another between
+it and whatever comes directly after it. This script finds every table under
+docs/ that is missing either blank line and inserts it.
 
 A table is detected by its separator row (for example |---|---| or
 :--|--:) directly under a header row. Tables inside fenced code blocks
@@ -32,13 +33,26 @@ def is_blank(line):
     return line.strip() == ''
 
 
+def line_ending(line):
+    return line[len(line.rstrip('\r\n')):] or '\n'
+
+
 def fix_lines(lines):
-    """Return (new_lines, count) with a blank line added above each table."""
+    """Return (new_lines, count) with blank lines added around each table."""
     out = []
     fixes = 0
     in_fence = False
+    in_table = False
 
     for i, line in enumerate(lines):
+        # A table ends at the first line without a pipe. If that line is not
+        # blank, kramdown will not render the table, so add a blank line.
+        if in_table and '|' not in line:
+            in_table = False
+            if not is_blank(line):
+                out.append(line_ending(out[-1]))
+                fixes += 1
+
         if FENCE_RE.match(line):
             in_fence = not in_fence
 
@@ -46,15 +60,17 @@ def fix_lines(lines):
         next_line = lines[i + 1] if i + 1 < len(lines) else ''
         is_header = (
             not in_fence
+            and not in_table
             and '|' in line
             and not line.startswith('    ')
             and SEPARATOR_RE.match(next_line)
         )
 
-        if is_header and out and not is_blank(out[-1]):
-            ending = line[len(line.rstrip('\r\n')):] or '\n'
-            out.append(ending)
-            fixes += 1
+        if is_header:
+            in_table = True
+            if out and not is_blank(out[-1]):
+                out.append(line_ending(line))
+                fixes += 1
 
         out.append(line)
 
@@ -79,11 +95,11 @@ def main():
         if fixes:
             with open(path, 'w', encoding='utf-8', newline='') as f:
                 f.write(''.join(new_lines))
-            print(f"{path}: added {fixes} blank line(s) above tables")
+            print(f"{path}: added {fixes} blank line(s) around tables")
             total += fixes
 
     if total == 0:
-        print("No tables needed a blank line.")
+        print("No tables needed blank lines.")
     return 0
 
 
