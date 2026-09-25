@@ -2,8 +2,6 @@
 title: "Rulesheet Master List"
 ---
 
-# 
-
 # Rulesheet Master List {#heading--top}
 
 - [Stern Pinball](#heading--stern)
