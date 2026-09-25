@@ -285,8 +285,7 @@ Once Hardwired starts, all five shots will be lit to score a hurry-up value star
 There are 14 unique setlist combos in the game that can only be earned when certain modes are running. The combos, modes they're associated with, and the values they add to the **[combo jackpot](#heading--combos)** are listed below. 
 
 [details="Setlist combos"]
-**Combo Sequence** | **Jackpot Boost** | **Associated Modes** |
-
+| **Combo Sequence** | **Jackpot Boost** | **Associated Modes** |
 | --- | --- | --- |
 |Left Orbit → Captive Ball | 500,000 | **[Electric Chair Multiball](#heading--ecmb)** 1 |
 |Right Orbit → Right Ramp | 500,000 | **[Electric Chair Multiball](#heading--ecmb)** 2 |
