@@ -7,7 +7,6 @@ opdb_id: "G3EBl"
 # Venom
 - [Game Information](#heading--gameinfo)
 - [Rules Overview](#heading--overview)
-- [Layout](#heading--layout)
 - [Modes of Play](#heading--modesofplay)
 - [Host Selection / Skill Shots](#heading--hosts)
 - [Mini-Modes & The Grid](#heading--minimodes)
@@ -59,11 +58,6 @@ Designed by Brian Eddy with rules and software by Dwight Sullivan, ***Venom*** d
 - Shoot the red targets to defeat the **Infected** and shoot for **Doppelganger** at the left loop (Pro) or flyaway targets (Prem / LE). Defeat Doppelganger three times to light **rampage**.
 - Complete the bottom lanes enough times to light **mystery**.
 - Loop the center ramp, then combo into the lit bell tower target to increase your **playfield multiplier**.
-
-## Layout: {#heading--layout}
-
-| Premium/LE: | Pro: |
-| --- | --- |
 
 ## Modes of Play: {#heading--modesofplay}
 

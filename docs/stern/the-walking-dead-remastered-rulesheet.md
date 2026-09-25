@@ -8,7 +8,6 @@ opdb_id: "Gj6DE"
 [Official Rulesheet]
 
 - [Game Information](#heading--gameinfo)
-- [Layout](#heading--layout)
 - [Skill Shot](#heading--skillshot)
 - [Walker Kills / Shot Multiplier](#heading--walkers)
 - [Dead Features](#heading--deadfeatures)
@@ -52,11 +51,6 @@ opdb_id: "Gj6DE"
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/the-walking-dead-remastered-rulesheet)
 
 ***The Walking Dead Remastered*** is the second remastered Stern release. Using the original design and code of the 2015 machine's Premium / LE model as a basis, the game features improved playfield geometry and is the third machine to release using Stern's SPIKE3 technology. Players must kill as many Walkers as possible while fighting for survival.
-
-## Layout: {#heading--layout}
-
-| Premium/LE: |
-| --- |
 
 ## Skill Shot: {#heading--skillshot}
 

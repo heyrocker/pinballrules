@@ -8,7 +8,6 @@ opdb_id: "GvBPJ-M1rjr"
 
 - [Game Information](#heading--gameinfo)
 - [Rules Overview](#heading--overview)
-- [Layout](#heading--layout)
 - [Skill Shots](#heading--skillshots)
 - [Zones & Boss Battles](#heading--zones)
 - [Feature Modes](#heading--feature)
@@ -40,11 +39,6 @@ opdb_id: "GvBPJ-M1rjr"
   - *Edit the Code revision, if applicable, when you make changes*
 
 ***Sonic the Hedgehog*** is JJP's 2026 release and the second table designed for them by Steve Ritchie and the same team that worked on *Elton John*. Sonic and his friends must put a stop to Eggman's evil schemes while finding the Chaos and Master Emeralds for a chance to become Super Sonic. The game uses assets from the Modern Sonic levels of *Sonic Generations*.
-
-<h2 id="heading--layout">Layout:</h2>
-
-| <h3>Collector's Edition</h3> | <h3>  Arcade</h3>  
-| --- | --- |
 
 <h2 id="heading--skillshots">Skill Shots:</h2>
 

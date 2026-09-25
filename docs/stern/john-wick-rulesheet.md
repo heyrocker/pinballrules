@@ -9,7 +9,6 @@ opdb_id: "GQK1P"
 
 - [Game Information](#heading--gameinfo)
 - [Rules Overview](#heading--overview)
-- [Layout](#heading--layout)
 - [Modes of Play](#heading--modesofplay)
 - [Skill Shots](#heading--skillshots)
 - [Jobs](#heading--jobs)
@@ -58,11 +57,6 @@ Following the death of his beloved pet dog Daisy at the hands of a Russian crime
 - Shooting the Red Circle bumper & targets near it advance towards lighting excommunicado multiball.
 - Play all three multiballs, one job, and one battle to qualify Red Circle Reckoning mini-wizard mode. Play all modes of one type (jobs, battles, and multiballs) to qualify subsequent mini-wizard modes.
 - Blood marker (left) standup targets during normal play light outlane ball save.
-
-## Layout: {#heading--layout}
-
-| Premium/LE: | Pro: |
-| --- | --- |
 
 ## Modes of Play: {#heading--modesofplay}
 

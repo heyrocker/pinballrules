@@ -7,7 +7,6 @@ opdb_id: "Gr16e"
 # Aerosmith
 - [Game Information](#heading--gameinfo)
 - [Rules Overview](#heading--overview)
-- [Layout](#heading--layout)
 - [Skill Shots](#heading--skillshots)
 - [Songs](#heading--songs)
 - [Main Multiballs](#heading--multiballs)
@@ -48,11 +47,6 @@ opdb_id: "Gr16e"
 - Shoot the toybox then shoot the lock saucer for **Toybox Multiball**. Press the action button to abort multiball and potentially lock up to 6 balls when indicated.
 - Shoot the orbits to light locks at the elevator eject. Collect 3 elevator locks for **Elevator Multiball**. Alternate between lit jackpots at the major shots and the elevator.
 - Complete AEROSMITH to light **shot multipliers** and **mystery**.
-
-## Layout: {#heading--layout}
-
-| Premium/LE: | Pro: |
-| --- | --- |
 
 ## Skill Shots: {#heading--skillshots}
 

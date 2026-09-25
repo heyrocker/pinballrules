@@ -9,7 +9,6 @@ opdb_id: "GbPxB"
 
 - [Game Information](#heading--gameinfo)
 - [Rules Overview](#heading--overview)
-- [Layout](#heading--layout)
 - [Skill Shots](#heading--skillshots)
 - [Sivako Modes](#heading--sivako)
 - [Songcords](#heading--songcords)
@@ -48,11 +47,6 @@ opdb_id: "GbPxB"
 ***Avatar: The Battle for Pandora*** is JJP's 2024 release, by new designer Mark Seiden. Based on the events of the first *Avatar* film and its sequel, *The Way of Water*, the player becomes a Na'vi and braves the wilds of the Pandoran forests while facing off against the RDA, an organization bent on destroying any remnants of the Na'vi's kind.
 
 ## Rules Overview: {#heading--overview}
-
-## Layout: {#heading--layout}
-
-| Premium/LE: | Pro: |
-| --- | --- |
 
 ## Skill Shots: {#heading--skillshots}
 

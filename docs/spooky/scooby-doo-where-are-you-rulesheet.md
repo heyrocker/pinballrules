@@ -7,7 +7,6 @@ opdb_id: "GllPz"
 # Scooby Doo, Where Are You?
 - [Game Information](#heading--gameinfo)
 - [Rules Overview](#heading--overview)
-- [Layout](#heading--layout)
 - [Skill Shots](#heading--skillshots)
 - [Mysteries](#heading--mysteries)
 - [Character Modes](#heading--characters)
@@ -43,11 +42,6 @@ opdb_id: "GllPz"
 ***Scooby Doo, Where Are You?*** is based on the 1969 Hanna-Barbera cartoon series that defined TV animation for generations. Load up the Mystery Machine as you try to solve mysteries and capture their culprits with the help of "those meddling kids".
 
 ## Rules Overview: {#heading--overview}
-
-## Layout: {#heading--layout}
-
-| All Models: | 
-| --- |
 
 ## Character Select Perks: {#heading--characters}
 
