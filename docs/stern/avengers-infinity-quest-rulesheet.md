@@ -537,6 +537,7 @@ Trophies are the game's achievement system for various gameplay goals - completi
 Hard Mode can be enabled in the settings. This disables 8 of the 32 trophies, but all scoring during Trophy Mania will be tripled if you reach it!
 
 **Trophy List:**
+
 # | Trophy | Disabled in hard mode? | Bronze | Silver | Gold
 --- | --- | --- | --- | --- | ---
 1 | Soul Gem | | Complete Quest | 15M+ | 30M+

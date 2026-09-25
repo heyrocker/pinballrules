@@ -19,12 +19,15 @@ jobs:
       - name: Update master list with new rulesheets
         run: python scripts/update_master_list.py
 
+      - name: Add blank lines above tables for GitHub Pages
+        run: python scripts/fix_table_spacing.py
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if ! git diff --quiet; then
             git add -A
-            git commit -m "Auto-update master list"
+            git commit -m "Auto-update master list and table spacing"
             git push
           fi
