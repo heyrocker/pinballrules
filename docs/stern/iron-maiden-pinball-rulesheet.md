@@ -54,6 +54,7 @@ Iron Maiden: Legacy of the Beast is Keith Elwin’s first ever design for Stern 
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2018/10/IM-Premium-Playfield-01a-854x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2018/10/IM-Pro-Playfield-01a-852x1536.webp) |
+
 ## Modes of Play: {#heading--modesofplay}
 
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:

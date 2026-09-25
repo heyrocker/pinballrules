@@ -54,6 +54,7 @@ opdb_id: "G5nz5"
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://www.libertygames.co.uk/images/gallery/5123/5386-The-Walking-Dead-LE-playing-field.jpg) | ![](https://www.libertygames.co.uk/images/gallery/5032/4877-Walking-Dead-Pro-pinball-surface.jpg) |
+
 ## Skill Shot {#heading--skillshots}
 
 v1.56 - Skill shot base points: Shooting the lit lane scores 250k first time, 500K+ each subsequent successful skill shot.  Hitting the lit roll overs are worth 150k each for the first successful skill shot to the lit lane, 50K+ each for subsequent successful skill shots to the lit lane.  If you don't hit the lit lane on the first ball, it stays 250K plus possible 150K for each rollover for max of 550K.  Missing rollovers has no effect on future skill shots, only making the lit lane which completes the skill shot.

@@ -102,6 +102,7 @@ Starting any feature, mode or multiball, will change background music to the ass
 |Spit Out The Bone|Hardwired... to Self-Destruct|2016|7:09|
 |72 Seasons|72 Seasons|2023|7:39|
 |If Darkness Had a Son|72 Seasons|2023|6:36|
+
 [/details]
 
 ## Skill Shots {#heading--skillshots}
@@ -422,6 +423,7 @@ Complete all 5 rollover lanes (3 inlanes, 2 above pop bumpers), which alternate 
 |Light **[extra ball](#heading--ebs)** (percentage-based)|Y|Y|Y|Y|
 |**[Bonus X](#heading--bonus)**|N|2x|3x|5x|
 |**[Hold Bonus X](#heading--bonus)**|N|N|N|Y|
+
 [/details]
 
 The mystery animation can be skipped by pressing both flippers.

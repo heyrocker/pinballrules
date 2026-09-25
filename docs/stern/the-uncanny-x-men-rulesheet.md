@@ -138,6 +138,7 @@ Before starting the future, getting the **[danger room](#heading--danger)** to l
 |**Gambit**|Complete **[Smuggled Cargo](#heading--missions)** and escape **the future**|Hitting the lit **[Gambit bumper](#heading--gambit)** now multiplies the next shot by 3x rather than 2x. |
 |**Professor X**|Complete **[Stopping a Juggernaut](#heading--missions)** and escape **the future**|The **[danger room](#heading--danger)** can now be advanced and affects scoring in the future. A ball save is now given for entering the danger room once per ball. |
 |**Wolverine**|Complete **[Bitter Rivalry](#heading--missions)** and escape **the future**|All ball save timers during single-ball play, past and future, are extended. First shot to a Sentinel during **[Sentinel Multiball](#heading--sentinel)** deals bonus damage. |
+
 #### The Future: Escape Nimrod Mode {#heading--nimrod}
 
 Escape Nimrod is a 35-second timed mode with ball save lasting for its first 10 seconds, which starts when any **[challenging mission](#heading--missions)** has been completed and the player isn't in a **[multiball mode](#heading--multiballs)**. If the player has completed a mode while in a multiball, the center ramp will light to start Escape Nimrod. The game will always attempt to hold the ball when Escape Nimrod starts. **[Bishop](#heading--bishop)**'s action button rule is disabled during Escape Nimrod.

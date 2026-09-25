@@ -443,6 +443,7 @@ There are many different combos corresponding to different banana types that can
 |Praying Hands|Punchback target|Upper loop|
 |Red Banana|Center ramp|Kong Cave VUK rollover|
 |Rhino Horn|Punchback target|River thru|
+
 [/details]
 
 ## Island Mystery: {#heading--mystery}

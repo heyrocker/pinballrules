@@ -70,6 +70,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2019/12/StrangerThings-Premium-Playfield-5gonrffa-scaled-911x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2019/12/StrangerThings-Pro-Playfield-Closed-343nfkjanfd-scaled-917x1536.webp) |
+
 ## Skill Shots: {#heading--skillshots}
 
 There are three skill shots that can be scored once the ball enters the plunger lane:

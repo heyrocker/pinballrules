@@ -58,6 +58,7 @@ Revenge is sweet. The Black Knight has once again returned, and this time he's b
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2019/03/BlackKnight-Premium-Playfield-01a-781x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2019/03/BlackKnight-Pro-Playfield-01a-781x1536.webp) |
+
 ## Skill Shots: {#heading--skillshots}
 
 * Standard Skill Shot (Pro) - Plunge the lit top lane. 750k + 250k for each additional Skill Shot. (If the left flipper is held in and the ball enters the lit top lane WITHOUT changing it, a Super Skill Shot will be awarded instead, worth 3x the value of a normal Skill Shot.)

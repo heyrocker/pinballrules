@@ -72,6 +72,7 @@ Layout:
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2020/05/TMNT-Premium-Playfield_New_Decal-98ahdf-650x1024.webp) | ![](https://sternpinball.com/wp-content/uploads/2020/05/TMNT-Pro-Playfield_New_Decal-387ufafd-640x1024.webp) |
+
 Modes of Play:
 
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:

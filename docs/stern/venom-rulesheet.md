@@ -113,6 +113,7 @@ And one final host is available if the topper is installed. This host must compl
 Name | Perks | Skill Shots | **[Mayhem](#heading--mayhem)** Locks Lit | Combo Level | Signature Combo | Shot Positions (Prem / LE)
 --- | --- | --- | --- | --- | --- | ---
 **Venomized Ghost Rider** | Starts with **[flamethrower](#heading--minimodes)** if chosen as first host | | | | | Left ramp - left loop  - right loop - right orbit | 180 ramp shots, right loop feeds left orbit entrance
+
 [/details]
 
 All hosts also have the standard skill shot option of plunging into the flashing rollover lane for **[+2 bonus X](#heading--bonus)**. It can be changed with the other options with the right flipper, and if the host is changed during a ball at the left ramp, either skill shot listed in the above grids can be scored as a "bonus shot".

@@ -428,6 +428,7 @@ Levels 4 through 7 of Godzilla Power-Up can only be qualified by first scoring a
 |#9|6|+2x **[Destruction Jackpot](#heading--destructionjp)**|Light All **[Allies](#heading--allies)**|
 |#10|6|**[Collect 10x Bonus](#heading--bonus)**|**[Monster Rampage +1x](#heading--monsterrampage)** |
 |#11|6|+3 Godzilla Powerups|Light **[King of the Monsters](#heading--kotm)** (if all three other *[wizard modes](#heading--miniwizardmodes)* played) |
+
 ### Godzilla Wallop: {#heading--wallop}
 
 If a mode is running, a strong shot to the exit of the building that passes through its entrance will award one lit shot, prioritizing those on the left side of the playfield. This is called the "Wallop shot" by the game. Further uses of Godzilla Wallop during the mode just award 1M. The first two times (in single-ball play) this will award a short ballsave.
@@ -542,6 +543,7 @@ There are 10 **secret combos** throughout the game. Each secret combo is worth 2
 |8|Right Ramp|Maser Target|
 |9|Left Ramp|Pop Bumper|
 |10|Building Thru|Shield Targets|
+
 [/details]
 
 Additionally, collecting certain numbers of secret combos awards different awards:

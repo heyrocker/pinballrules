@@ -119,6 +119,7 @@ The token types are represented by the key below.
 |Hallelujah Mountains|HM|Right ramp|
 |Rookery|RK|Right orbit|
 |Kids|K|Right targets|
+
 [/details]
 
 During songcord modes, every lit shot made enables the action button to replenish **[arrows](#heading--arrows)** (flashing green). Quickly mash the action button to maintain your multiplier.

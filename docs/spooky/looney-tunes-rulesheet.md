@@ -168,6 +168,7 @@ Hitting the crate also lights a random red arrow shot. Collecting these red arro
 |**Iron Bird Seed**|3x Roadrunner loops|Open 3 crates|
 |**Instant Holes**|Award **[end-of-ball bonus](#heading--bonus)**|Open 4 crates|
 |**Paint-A-Tunnel**|Open next crate|Open 4 crates|
+
 [/details]
 
 ## Roadrunner Loops: {#heading--roadrunner}

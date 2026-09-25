@@ -63,6 +63,7 @@ opdb_id: "G6lnq"
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2018/09/DP-Premium-Playfield-01b-849x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2018/09/DP-Pro-Playfield-01a-850x1536.webp) |
+
 ## Skill Shots: {#heading--skillshots}
 
 * **Lane Skill Shot**: Plunge into the flashing BAM! lane for 2.5 million + 250k per skill shot. You can change the flashing lane before the ball is launched, but the lane is locked in upon reaching the first sensor in the shooter lane.

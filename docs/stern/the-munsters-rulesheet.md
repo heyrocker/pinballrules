@@ -63,6 +63,7 @@ opdb_id: "GbPde"
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2019/01/Munsters-Premium-Playfield-863x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2019/01/Munsters-Pro-Playfield-863x1536.webp) |
+
 ## Modes of Play: {#heading--modesofplay}
 
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:

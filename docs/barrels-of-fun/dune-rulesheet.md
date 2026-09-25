@@ -482,6 +482,7 @@ When a pool award would be useless (for example, spice filled to maximum capacit
 |Pain Box but already qualified|3,000,000|
 |Max water but already at max water|1,000,000|
 |Max spice but already at max spice|1,000,000|
+
 ---
 
 # Multiballs {#heading--multiballs}

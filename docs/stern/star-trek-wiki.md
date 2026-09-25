@@ -51,6 +51,7 @@ opdb_id: "Gryw4"
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2018/10/PREM-PF-845x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2018/10/Stern-StarTrek-Pro-Playfield-742x1536.webp) |
+
 ## Modes {#heading--modes}
 
 **General Mode Strategy** 

@@ -56,6 +56,7 @@ opdb_id: "Gweel"
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2020/12/LedZeppelin-Premum-Playfield2-rgrardf-scaled-949x1536.webp) | ![](https://sternpinball.com/wp-content/uploads/2020/12/LedZeppelin-Pro-Playfield-3kjnra-scaled-807x1536.webp) |
+
 ## Skill Shot: {#heading--skillshots}
 
 After selecting the **[song mode](#heading--songmodes)** you want to play, plunge the ball so it hits the lit LED target, which moves from left to right and back every few seconds. Skill shot scores 500k + 5 seconds of **ball save**.

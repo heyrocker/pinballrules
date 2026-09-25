@@ -62,6 +62,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![](https://sternpinball.com/wp-content/uploads/2018/10/Board-2-flat-640x640.webp) | ![](https://sternpinball.com/wp-content/uploads/2018/10/Board-1-with-CARDS-950x1024.webp) |
+
 ## Skill Shots {#heading--skillshots}
 
 Plunge for the flashing rollover to score a skill shot value of 200k. The skill shot value increases by 50,000 for each skill shot made, and plunging for the right rollover awards 2x the skill shot value.

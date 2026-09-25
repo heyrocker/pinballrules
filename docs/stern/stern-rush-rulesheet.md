@@ -64,6 +64,7 @@ John Borg returns to designing band-themed pinball machines with ***Rush***, rel
 | Premium/LE: | Pro: |
 | --- | --- |
 | ![]( https://sternpinball.com/wp-content/uploads/2022/01/Rush-Premium-Playfield-hnad-scaled-918x1536.webp ) | ![]( https://sternpinball.com/wp-content/uploads/2022/01/Rush-Pro-Playfield-afda-scaled-905x1536.webp ) |
+
 ## Modes of Play: {#heading--modesofplay}
 
 These modes are accessible by holding both flipper buttons during attract mode until a menu appears. The following options are available:

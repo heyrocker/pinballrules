@@ -101,6 +101,7 @@ Click the spoiler tab to view the full list of songs, presented in the order tha
 |**Pinball Wizard**|5:15|4 / 6 / 10|Starting on the left side of the playfield, (4 / 3 / 2) shots move from the left to right side of the playfield as they are made. "Far side" shots (left eject & Rocket) score 1.5x.|
 |**Honky Cat**|5:13|4 / 6 / 10|Three sets of shots are lit. Nearly all shots are lit at the start of the song, but each level of notes decreases the number of shots available. Notes can also be collected by *using a kickback,* awarding 2.5x current value.|
 |**Your Sister Can't Twist**|2:41|1 / 1 / 4|*Very short song!* Left & right ramps start lit, *but will not collect notes.* Spinners worth (10K / 15K / 20K) per spin throughout song. After (level 1: 100 / level 2: 150) spinner turns, both orbits and the left VUK light to collect one note. The shot used to finish Level 1 cannot be used to finish Level 2. At level 3, one random shot (either ramp, either orbit, or left VUK) starts lit to collect a note. Make any lit shot to add another shot to the playfield.|
+
 [/details]
 
 The name of the current song occasionally replaces the "Credit" counter on the display. The remaining time for the song is represented by the vanishing lights along the edge of the song panel. Songs will continue to run in the background of most Multiball modes (but not during wizard modes.) 
@@ -150,6 +151,7 @@ Click the spoilers tab to view the full list of normal awards, and the order tha
 |#24|Shooting Stars mode |
 |#25|
 |#26|
+
 [/details]
 
 Every six albums starts a timed frenzy mode at the rockabox targets. During "party", only one target is lit green and the others are lit red, with the green value increasing the value of successive shots and red targets decreasing the value. "Shuffle" - one target is lit white, and hitting a wrong target will change the position of the lit target. "Puzzle" - hit the lit targets the designated number of times (the number of lights tell you how many shots are needed). Scoring enough lit shots during these frenzy modes will qualify an **[extra ball](#heading--extraballs)** on the next lit shot, which will be lit yellow instead of its normal color.
@@ -336,6 +338,7 @@ After enough jackpots are made to complete the grid, the super jackpot initially
 |Second|6 Jackpots|25M|25K per drop target|
 |Third|9 Jackpots|30M|25K per drop target|
 |Fourth+|9 Jackpots|+5M|25K per drop target|
+
 [/details]
 
 ### Super Stardom: {#heading--stardom}
@@ -352,6 +355,7 @@ This is a single ball mode where each of the nine letter/star shots are color co
 |T | O | N (rocket)|
 |L | N | H|
 |E | J | O (croc)|
+
 [/details]
 
 Additional Details:
