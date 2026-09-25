@@ -53,3 +53,173 @@ h1 {
 #project_tagline {
   margin-bottom: -10px;
 }
+
+// === Dark Mode ===
+:root {
+  --dm-bg: #ffffff;
+  --dm-text: #333333;
+  --dm-nav-bg: #4a6fa5;
+  --dm-nav-text: #ddd;
+  --dm-nav-hover: #fff;
+  --dm-link: #4183c4;
+  --dm-border: #e1e4e5;
+  --dm-code-bg: #f8f8f8;
+  --dm-header-bg: #222e34;
+  --dm-header-text: #fff;
+  --dm-footer-bg: #222e34;
+  --dm-footer-text: #aaa;
+}
+
+html.dark-mode {
+  --dm-bg: #1a1a2e;
+  --dm-text: #e0e0e0;
+  --dm-nav-bg: #16213e;
+  --dm-nav-text: #a0c4ff;
+  --dm-nav-hover: #fff;
+  --dm-link: #64b5f6;
+  --dm-border: #333;
+  --dm-code-bg: #2a2a3e;
+  --dm-header-bg: #0f0f1a;
+  --dm-header-text: #e0e0e0;
+  --dm-footer-bg: #0f0f1a;
+  --dm-footer-text: #888;
+}
+
+html.dark-mode body {
+  background-color: var(--dm-bg);
+  color: var(--dm-text);
+}
+
+html.dark-mode #header_wrap {
+  background-color: var(--dm-header-bg);
+}
+
+html.dark-mode #header_wrap .inner {
+  color: var(--dm-header-text);
+}
+
+html.dark-mode #project_title {
+  color: var(--dm-header-text);
+}
+
+html.dark-mode #project_tagline {
+  color: #a0a0b0;
+}
+
+html.dark-mode #nav_wrap {
+  background: var(--dm-nav-bg);
+  border-top-color: var(--dm-border);
+}
+
+html.dark-mode #nav_wrap nav a {
+  color: var(--dm-nav-text);
+}
+
+html.dark-mode #nav_wrap nav a:hover {
+  color: var(--dm-nav-hover);
+}
+
+html.dark-mode #main_content_wrap {
+  background-color: var(--dm-bg);
+}
+
+html.dark-mode #main_content {
+  color: var(--dm-text);
+}
+
+html.dark-mode #main_content a {
+  color: var(--dm-link);
+}
+
+html.dark-mode #footer_wrap {
+  background-color: var(--dm-footer-bg);
+}
+
+html.dark-mode #footer_wrap .inner {
+  color: var(--dm-footer-text);
+}
+
+html.dark-mode #footer_wrap a {
+  color: var(--dm-link);
+}
+
+html.dark-mode table {
+  border-color: var(--dm-border);
+}
+
+html.dark-mode table th,
+html.dark-mode table td {
+  border-color: var(--dm-border);
+}
+
+html.dark-mode pre,
+html.dark-mode code {
+  background-color: var(--dm-code-bg);
+  color: var(--dm-text);
+}
+
+html.dark-mode blockquote {
+  border-left-color: var(--dm-border);
+  color: #b0b0c0;
+}
+
+html.dark-mode hr {
+  border-color: var(--dm-border);
+}
+
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode h4,
+html.dark-mode h5,
+html.dark-mode h6 {
+  color: #ffffff;
+}
+
+// Dark mode toggle in the header
+#dark-mode-toggle {
+  position: absolute;
+  top: 12px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+  cursor: pointer;
+
+  svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+
+  .icon-moon { stroke: none; }
+  .icon-sun { display: none; }
+
+  &:hover { border-color: #fff; }
+
+  &:focus-visible {
+    outline: 3px solid #a0c4ff;
+    outline-offset: 2px;
+  }
+}
+
+// Keep the title from running under the toggle on narrow screens.
+#project_title {
+  padding-right: 50px;
+}
+
+// In dark mode the button shows the sun, meaning "switch to light".
+html.dark-mode #dark-mode-toggle {
+  .icon-moon { display: none; }
+  .icon-sun { display: block; }
+}
