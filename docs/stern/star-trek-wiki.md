@@ -243,6 +243,7 @@ Making any lit shot restarts the cycle. (Note: You can achieve perfect medal pro
 
 **Captain's Chair:**
 Completing three same-level modes in a line enables the Captain's Chair. 
+
 |||
 |-|-|
 |**Left Side**|Super Pops|
@@ -253,6 +254,7 @@ Captain's Chair remains live until completed, it remains active across balls. Yo
 
 **Level III Completion:**
 Completing the Level 3 Mode of any of the 6 Modes will award a 2X Shot Multiplier for the remainder of the game.
+
 |Mode|2X Shot|
 |-|-|
 |**Prime Directive**|Left Scoop|
