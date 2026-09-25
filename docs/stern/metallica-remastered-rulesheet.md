@@ -285,6 +285,7 @@ Once Hardwired starts, all five shots will be lit to score a hurry-up value star
 There are 14 unique setlist combos in the game that can only be earned when certain modes are running. The combos, modes they're associated with, and the values they add to the **[combo jackpot](#heading--combos)** are listed below. 
 
 [details="Setlist combos"]
+
 | **Combo Sequence** | **Jackpot Boost** | **Associated Modes** |
 | --- | --- | --- |
 |Left Orbit → Captive Ball | 500,000 | **[Electric Chair Multiball](#heading--ecmb)** 1 |
@@ -301,6 +302,7 @@ There are 14 unique setlist combos in the game that can only be earned when cert
 |Left Orbit → Left Ramp | 750,000 | **[Lady Justice](#heading--justice)** |
 |Right Ramp → Captive Ball | 300,000 | **[Seek & Destroy](#heading--seek)** |
 |Right Orbit → Right Orbit | 750,000 | **[Blackened](#heading--blackened)** |
+
 [/details]
 
 Each setlist combo earned during the mode that matches it will award a **[self-destruct button](#heading--button)** and count down towards lighting Lux Aeterna at the piston target. 5 setlist combo pairs are required to light this side mode, and it can only be started if no other multiball or Crank it Up mode is running. Collecting 10 setlist combo pairs will instead light the piston target for **[Frantic Multiball](#heading--fmb)**, and collecting all 14 pairs will award a letter in **[UNFORGIVEN](#heading--unforgiven)**.
