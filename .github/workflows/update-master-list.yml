@@ -19,7 +19,7 @@ jobs:
       - name: Update master list with new rulesheets
         run: python scripts/update_master_list.py
 
-      - name: Add blank lines above tables for GitHub Pages
+      - name: Add blank lines around tables for GitHub Pages
         run: python scripts/fix_table_spacing.py
 
       - name: Commit changes
