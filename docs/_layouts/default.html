@@ -3,18 +3,33 @@
 
 <head>
   <meta charset='utf-8'>
+  <script>
+    // Set the theme before the page draws so dark mode does not flash light first.
+    (function () {
+      var saved = null;
+      try { saved = localStorage.getItem('dark-mode'); } catch (e) {}
+      var dark = saved === null
+        ? window.matchMedia('(prefers-color-scheme: dark)').matches
+        : saved === 'true';
+      if (dark) document.documentElement.classList.add('dark-mode');
+    })();
+  </script>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,maximum-scale=2">
   <link rel="stylesheet" type="text/css" media="screen"
     href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   {% seo %}
   {% include head-custom.html %}
-  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">   
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
 </head>
 
 <body>
   <div id="header_wrap" class="outer">
     <header class="inner">
+      <button type="button" id="dark-mode-toggle" aria-pressed="false" aria-label="Dark mode" title="Toggle dark mode">
+        <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="4.5"/><path d="M12 1.5v3M12 19.5v3M1.5 12h3M19.5 12h3M4.6 4.6l2.1 2.1M17.3 17.3l2.1 2.1M4.6 19.4l2.1-2.1M17.3 6.7l2.1-2.1"/></svg>
+      </button>
       <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </header>
@@ -40,7 +55,7 @@
     </footer>
   </div>
 
-  <script src="{{ '/assets/js/settings.js' | relative_url }}"></script>   
+  <script src="{{ '/assets/js/settings.js' | relative_url }}"></script>
 </body>
 
 </html>

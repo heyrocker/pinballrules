@@ -176,98 +176,50 @@ html.dark-mode h6 {
   color: #ffffff;
 }
 
-// Toggle button
+// Dark mode toggle in the header
 #dark-mode-toggle {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 1000;
-  background: var(--dm-nav-bg);
-  color: #fff;
-  border: 2px solid var(--dm-border);
-  border-radius: 50%;
-  width: 48px;
-  height: 48px;
-  font-size: 20px;
-  cursor: pointer;
+  position: absolute;
+  top: 12px;
+  right: 10px;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.3s;
-}
-
-#dark-mode-toggle:hover {
-  background: var(--dm-link);
-}
-
-// Settings toggle buttons
-.dm-toggle {
-  display: inline-block;
-  padding: 4px 12px;
-  margin: 0 4px;
-  border: 2px solid var(--dm-border, #e1e4e5);
-  border-radius: 4px;
-  background: transparent;
-  color: var(--dm-text, #333);
-  font-size: 14px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.dm-toggle:hover {
-  border-color: var(--dm-link, #4183c4);
-  color: var(--dm-link, #4183c4);
-}
-
-.dm-toggle.active {
-  background: var(--dm-link, #4183c4);
-  border-color: var(--dm-link, #4183c4);
-  color: #fff;
-}   
-
-// === Font Size ===
-html.font-size-1 { font-size: 100%; }
-html.font-size-2 body { font-size: 112%; }
-html.font-size-3 body { font-size: 125%; }
-html.font-size-4 body { font-size: 140%; }
-html.font-size-5 body { font-size: 155%; }
-
-.font-size-options {
-  display: flex;
-  align-items: flex-end;
-  gap: 8px;
-  margin-top: 8px;
-}
-
-.font-size-btn {
-  display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 40px;
   height: 40px;
-  border: 2px solid var(--dm-border, #e1e4e5);
-  border-radius: 4px;
+  padding: 0;
   background: transparent;
-  color: var(--dm-text, #333);
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.font-size-btn:hover {
-  border-color: var(--dm-link, #4183c4);
-  color: var(--dm-link, #4183c4);
-}
-
-.font-size-btn.active {
-  background: var(--dm-link, #4183c4);
-  border-color: var(--dm-link, #4183c4);
   color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 50%;
+  cursor: pointer;
+
+  svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+
+  .icon-moon { stroke: none; }
+  .icon-sun { display: none; }
+
+  &:hover { border-color: #fff; }
+
+  &:focus-visible {
+    outline: 3px solid #a0c4ff;
+    outline-offset: 2px;
+  }
 }
 
-.font-size-btn:nth-child(1) { font-size: 14px; }
-.font-size-btn:nth-child(2) { font-size: 16px; }
-.font-size-btn:nth-child(3) { font-size: 18px; }
-.font-size-btn:nth-child(4) { font-size: 21px; }
-.font-size-btn:nth-child(5) { font-size: 24px; }   
+// Keep the title from running under the toggle on narrow screens.
+#project_title {
+  padding-right: 50px;
+}
+
+// In dark mode the button shows the sun, meaning "switch to light".
+html.dark-mode #dark-mode-toggle {
+  .icon-moon { display: none; }
+  .icon-sun { display: block; }
+}
