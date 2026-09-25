@@ -104,7 +104,8 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
   * For **Pro Model:**
     * Four of the shots are blue, and four of the shots are yellow.
     * Making a blue shots will light a yellow shots.
-    * Yellow shots 
+    * Yellow shots will progress towards super jackpot.
+    * *To be discovered and documented*
   * **Add-a-Ball**: Available on all models. Hit the Deathclaw to add-a-ball. The red inserts indiciate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball. 
 * **Radscorpion Attack:** Ramp Jump mode with a build up mechanic. The final shot **differs between the Pro model and the Premium/LE model**
   * Shoot any lit shots to light the center jump ramp for 2x the value.
@@ -279,7 +280,7 @@ As of version 0.80, there are a total of 6 songs that can be played during Radio
   * Duration - 3:07
   * Shots needed: 7
 
-## S.P.E.C.I.A.L.{#heading--special}
+## S.P.E.C.I.A.L. {#heading--special}
 
 The classic Fallout stat mechanism is present. Each stat provides a perk for the duration of the game and have a maximum level of 2. The screen on the pipboy informs you what the perk at said level will provide.
 
@@ -408,7 +409,7 @@ You can collect junk by:
 
 Junk Stand-Up Target: *To be discovered and documented.*
 
-### Caps & Sundries {#heading--caps--sundries}
+### Caps & Sundries {#heading--caps-sundries}
 
 **Caps:**
 This is the currency of the wasteland. The amount of caps the player has is displayed at the top right of screen on the backboard. Caps can be collected by:
