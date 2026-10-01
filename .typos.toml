@@ -1,0 +1,61 @@
+[files]
+extend-exclude = ["GemFile", "GemFIle.lock", "docs/_site", "docs/assets"]
+
+[default]
+extend-ignore-re = [
+  '''(?i)\b(?:https?|ftp?|upload):\/\/[^\s<>"'`\])]+''', # Skip http, ftp, and upload URLs
+  '''(?m)^opdb_id:\s*"[A-Za-z0-9]+"\s*$''',              # OPDB ID headers
+]
+extend-words = { Cruisin = "Cruisin" }
+
+# Per Game/File Exclusions
+[type.beetlejuice-overrides]
+extend-glob = ["beetlejuice-rulesheet.md"]
+extend-words = { Otho = "Otho" }
+
+[type.legends-of-valhalla-overrides]
+extend-glob = ["legends-of-valhalla-rulesheet.md"]
+extend-words = { Hel = "Hel" }
+
+[type.oktoberfest-overrides]
+extend-glob = ["oktoberfest-pinball-on-tap-rulesheet.md"]
+extend-words = { OKTOBER = "OKTOBER" }
+
+[type.winchester-mystery-house-overrides]
+extend-glob = ["winchester-mystery-house-rulesheet.md"]
+extend-words = { ths = "ths" }
+
+[type.dialed-in-overrides]
+extend-glob = ["dialed-in-rulesheet-wiki.md"]
+extend-words = { KET = "KET" }
+
+[type.labyrinth-overrides]
+extend-glob = ["labyrinth-rulesheet.md"]
+extend-words = { Firey = "Firey" }
+
+[type.weird-als-museum-of-natural-hilarity-overrides]
+extend-glob = ["weird-als-museum-of-natural-hilarity-rulesheet.md"]
+check-filename = false
+extend-words = { segway = "segway" }
+
+[type.the-princess-bride-overrides]
+extend-glob = ["the-princess-bride-rulesheet.md"]
+extend-words = { Twoo = "Twoo" }
+
+[type.rick-morty-overrides]
+extend-glob = ["rick-morty-rulesheet.md"]
+extend-ignore-re = [
+  '''(?m)^[ \t]*\|.*\|[ \t]*$''', # Skip markdown tables like the one used to list all of the Dimensions in the rulesheet
+]
+
+[type.elvira-s-house-of-horrors-overrides]
+extend-glob = ["elvira-s-house-of-horrors-rulesheet.md"]
+extend-words = { Claus = "Claus", gargoils = "gargoils" }
+
+[type.dungeons-dragons-overrides]
+extend-glob = ["dungeons-dragons-the-tyrants-eye-rulesheet.md"]
+extend-words = { Proce = "Proce" }
+
+[type.fallout-overrides]
+extend-glob = ["fallout-rulesheet.md"]
+extend-words = { Protectron = "Protectron" }
