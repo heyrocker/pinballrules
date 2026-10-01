@@ -84,13 +84,13 @@ NOT a gameplay mode. This mode operates like a jukebox, allowing you to play the
 ## Skill Shots {#heading--skillshots}
 
 There are various Skill Shots on this machine, which can be changed using the flippers. All of the skill shots award a base value of 250k, +1 Bonus X, and 25k per second remaining when the skill shot was made.
-- Skill Shot - Plunge into the lit lane. The lane can't be changed, it is always the right lane - which means you have to either plunge lightly or hope the ball enters the right lane on its own. Short plunging directly to the right flipper and shooting the left ramp also scores a Skill Shot. 
+- Skill Shot - Plunge into the lit lane. The lane can't be changed, it is always the right lane - which means you have to either plunge lightly or hope the ball enters the right lane on its own. Short plunging directly to the right flipper and shooting the left ramp also scores a Skill Shot.
 - Super Skill Shot - Hold in the left flipper button and shoot the right ramp to score a Super Skill Shot for 500k.
 - Double Super Skill Shot (Prem/LE) - Hold in both left flipper buttons, then shoot the scoop followed by a shot to the saucer in Grandpa's Laboratory to score a Double Super Skill Shot for 1M and collect a **[mystery award](#heading--mysteryaward)** if lit.
 
 ## Family Members {#heading--familymembers}
 
-The main goal of *The Munsters* is to at least start all of the family members' modes. There are five members to collect: [**Herman**](#heading--herman), [**Spot**](#heading--spot), [**Lily**](#heading--lily), [**Grandpa**](#heading--grandpa), and [**Raven**](#heading--raven). The modes increase in "level" each time they are started. 
+The main goal of *The Munsters* is to at least start all of the family members' modes. There are five members to collect: [**Herman**](#heading--herman), [**Spot**](#heading--spot), [**Lily**](#heading--lily), [**Grandpa**](#heading--grandpa), and [**Raven**](#heading--raven). The modes increase in "level" each time they are started.
 
 Each time a member is started, the [**Kitty Target**](#heading--kitty) will be qualified to increase the playfield multiplier, and the Raven advances will be qualified at the left ramp (after the mode has finished). Each level also awards 100k + 25k per level completed, and adds 10k to end-of-ball bonus.
 
@@ -101,7 +101,7 @@ Playing all five modes once will qualify the scoop to start **[Munster Madness](
 Shoot Herman an increasing amount of times to begin the mode, though note that the multiball portion can only be played again after starting **[Munster Madness](#heading--munstermadness)**. Beginning Herman Multiball will count as completing a level. Herman's mode is split into three parts:
   - Herman Hurry-Up: Start the Herman Hurry-Up by shooting Herman enough times (only one shot is needed the first time this mode is played, increasing for subsequent attempts). You then have to shoot Herman again for a maximum value of 500k, which will also capture the ball on the magnet in front of him.
     - Monster in the Park Hurry-Up: After the ball has been captured, another ball will be auto-plunged directly to the flippers. Shoot the captured ball to collect 2x the hurry-up value and begin Herman Multiball.
-    - Herman Multiball: Whether or not you collect the Monster in the Park Hurry-Up, you will begin Herman Multiball; however, collecting the Monster in the Park Hurry-Up will give you three balls, while failing to collect it will only give you two balls. All of the major shots are lit for Jackpots, and Herman can be shot to re-light collected Jackpots. Shooting Herman 3 times advances the Jackpot value. Hits to Herman also relight one Jackpot at a shot that has been completed already. Collecting 4 Jackpots will qualify the Herman **[Super Jackpot](#heading--superjackpots)**. 
+    - Herman Multiball: Whether or not you collect the Monster in the Park Hurry-Up, you will begin Herman Multiball; however, collecting the Monster in the Park Hurry-Up will give you three balls, while failing to collect it will only give you two balls. All of the major shots are lit for Jackpots, and Herman can be shot to re-light collected Jackpots. Shooting Herman 3 times advances the Jackpot value. Hits to Herman also relight one Jackpot at a shot that has been completed already. Collecting 4 Jackpots will qualify the Herman **[Super Jackpot](#heading--superjackpots)**.
     - Level 2 changes: The Monster in the Park Hurry-Up starts at 10x the base value. During the Multiball, the Jackpots aren't qualified automatically after completing them all; Herman has to be shot three times to advance their level.
 
 Spot
@@ -127,15 +127,15 @@ Collect enough **[chattering teeth](#heading--teeth)** at the purple targets to 
 **Grandpa's Laboratory** (Prem/LE)
 
 - Watch the display as it counts down towards the mini playfield's activation. You'll hear a callout when the mode begins, advising you to check out the shrunken pinball in Grandpa's Laboratory. Remember to use the second set of flippers (lower set of flipper buttons)
-  - Activate the Machine: You have a set amount of time to activate the Machine by shooting both outer orbits, and then shooting the Machine. Shooting the ramp will add more time and shooting the saucer will collect a **[Mystery Award](#heading--mysteryaward)** and spot one of the orbits. If the timer runs out during this stage, the mode will end and you will have to qualify it again by completing the four targets and hitting the scoop. 
+  - Activate the Machine: You have a set amount of time to activate the Machine by shooting both outer orbits, and then shooting the Machine. Shooting the ramp will add more time and shooting the saucer will collect a **[Mystery Award](#heading--mysteryaward)** and spot one of the orbits. If the timer runs out during this stage, the mode will end and you will have to qualify it again by completing the four targets and hitting the scoop.
   - Grandpa Multiball: When the Machine is activated, Grandpa Multiball will begin, which also counts as completing a level. Shoot all of the flashing shots on the lower playfield for Jackpots, then make the Machine Jackpot to qualify the Grandpa **[Super Jackpot](#heading--superjackpots)**. Before the Machine Jackpot is lit, shooting the Machine advances the value of the other jackpots. After time runs out, the ball will be ejected out of the scoop. Hitting the Machine will also enable the **[Zap Button](#heading--zapmeter)** for a short time.
 
 Raven
 
-Completing a level of any of **the four other characters** will qualify the left ramp to collect Raven advances once their mode has ended. Collecting three advances will begin Raven Multiball. 
+Completing a level of any of **the four other characters** will qualify the left ramp to collect Raven advances once their mode has ended. Collecting three advances will begin Raven Multiball.
 
 - Raven Multiball: During this 3-ball multiball, the left orbit, left ramp, right ramp, and right orbit are lit to score Jackpots. Triggering switches moves the hands on the clock on the display - when the hour hand moves to a new digit (ie. a certain number of switches are made), the Jackpot value will increase. Simply starting the Multiball is enough to count as completing a level. Collecting a set of 4 Jackpots during Raven Multiball will qualify the Raven **[Super Jackpot](#heading--superjackpots)** and increase the Jackpot level.
-  - Raven Boost - Raven's boost works differently than the other four members' boosters. Instead of being awarded off of **[Dragula](#heading--dragula)**, Raven Boost is qualified during Raven Multiball by shooting the left ramp three times and will increase the Jackpot values for a short time. Continuing to shoot the left ramp will increase the timer; if the timer runs out you will have to qualify the Raven Boost again by shooting the left ramp three times. 
+  - Raven Boost - Raven's boost works differently than the other four members' boosters. Instead of being awarded off of **[Dragula](#heading--dragula)**, Raven Boost is qualified during Raven Multiball by shooting the left ramp three times and will increase the Jackpot values for a short time. Continuing to shoot the left ramp will increase the timer; if the timer runs out you will have to qualify the Raven Boost again by shooting the left ramp three times.
   - Raven Multiball Restart - A restart is available for Raven Multiball if two balls drain and the Super Jackpot wasn't qualified. Shoot the left ramp on a 15 second timer to restart Raven Multiball with three balls in play.
   - Level 2 changes - During Raven II, every time the Jackpot is advanced, every unlit Jackpot will become available again.
 
@@ -222,11 +222,11 @@ Landing in the Dragula lane will increase the bonus multiplier, award points dep
 
 Add-A-Ball
 
-During Multiball rounds, the Dragula lane can be lit to add a ball to the Multiball by spelling DRAGULA (or instantly, in the case of **[Raven Multiball](#heading--raven)**), which also awards a short ball saver. 
+During Multiball rounds, the Dragula lane can be lit to add a ball to the Multiball by spelling DRAGULA (or instantly, in the case of **[Raven Multiball](#heading--raven)**), which also awards a short ball saver.
 
 Mystery Award
 
-The scoop (or lower playfield VUK on Prem / LE) is lit at the start of the game to score a mystery award and light the Mystery **[Super Jackpot](#heading--superjackpots)**, and relights after collecting 90 **[chattering teeth](#heading--teeth)**. Awards collected on the Premium / LE that apply to the main playfield will start after **[Grandpa's Laboratory](#heading--grandpa)** ends. 
+The scoop (or lower playfield VUK on Prem / LE) is lit at the start of the game to score a mystery award and light the Mystery **[Super Jackpot](#heading--superjackpots)**, and relights after collecting 90 **[chattering teeth](#heading--teeth)**. Awards collected on the Premium / LE that apply to the main playfield will start after **[Grandpa's Laboratory](#heading--grandpa)** ends.
 
 **Available Mystery Awards:**
 
@@ -253,7 +253,7 @@ This mutually exclusive mode with fun, fast-motion animations lights all 7 famil
 An Extra Ball is available at the scoop through:
 - Completing an adjustable amount of **[family member](#heading--familymembers)** levels
 - Collecting 110 **[chattering teeth](#heading--teeth)**
-- Percentage-based **[mystery award](#heading--mysteryaward)**. 
+- Percentage-based **[mystery award](#heading--mysteryaward)**.
 
 Special can be qualified at the outlanes through a percentage-based **mystery award** or rarely from **[Kitty](#heading--kitty)**.
 
@@ -270,19 +270,19 @@ Level 1 {#heading--extraball}
 - **Stage 1:** Shoot three major areas three times in 15 seconds, in this order: Herman, Raven, Lily. This stage ends either when all areas have been completed or the timer for each area runs out. For subsequent cycles, Spot (left ramp target) and Grandpa (scoop) are added following Lily. On the Premium / LE model, you can also collect Jackpots in Grandpa’s Laboratory.
 
 - **Stage 2:** Shoot the scoop to collect a Hurry-Up value determined by the points you collected during the previous stage. After collecting the Hurry-Up or having it time out, you will return to the previous stage  where another hurry-up can be qualified (albeit with more shots).
- 
+
 ### Level 2
 
 - **Stage 1:** The mode starts by showing you instructions for all of the family members and what buffs they'll award if you shoot their areas. Completing any family member will advance you to stage 2.
   - **Herman** - Additional ball save time once per round.
   - **Raven** - Lights Kitty once per round.
   - **Eddie** - Doubles every Jackpot awarded once per round.
-  - **Marilyn** - Lights a Super Jackpot once per round. 
+  - **Marilyn** - Lights a Super Jackpot once per round.
   - **Lily** - Increased base scoring every round.
   - **Spot** - Boost *every* member every round.
   - **Grandpa**
     - **(Pro)** Lights add time (to the jackpot stage) every round until stage 3.
-    - **(Prem/LE)** Enable Grandpa's Laboratory for Jackpots every round until stage 3. 
+    - **(Prem/LE)** Enable Grandpa's Laboratory for Jackpots every round until stage 3.
 
 - **Stage 2:** The four major shots will all light for Jackpots. If Eddie has been completed, you will be able to shoot each Jackpot twice, and if Grandpa has been completed on the Premium / LE, you'll be able to collect Jackpots in the Laboratory as well. The Jackpots are on a timer that resets if a Jackpot is collected; when the timer runs out, the stage will end and stage 1 will resume with the previous area not able to be selected.
 

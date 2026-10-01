@@ -61,7 +61,7 @@ opdb_id: "GN6WW"
 
 ## Rules Overview: {#heading--overview}
 
-- Shoot the shots corresponding to each Exhibit Hall, followed by the scoop behind the drop target, to choose one of the two **[Exhibit Hall Modes](#heading--halls)** associated with the most recent Hall shot. Alternatively, complete the VIP standup targets, then shoot the center pair of pop-up scoops to get your choice of a mode from *any* Hall. Introductions to each mode are shown on playfield LCD screen and the backglass LCD screen once the mode has been started. 
+- Shoot the shots corresponding to each Exhibit Hall, followed by the scoop behind the drop target, to choose one of the two **[Exhibit Hall Modes](#heading--halls)** associated with the most recent Hall shot. Alternatively, complete the VIP standup targets, then shoot the center pair of pop-up scoops to get your choice of a mode from *any* Hall. Introductions to each mode are shown on playfield LCD screen and the backglass LCD screen once the mode has been started.
 - Play a mode from each Hall to qualify **[You Make Me](#heading--youmakeme)** mini-wizard mode. Winning/completing each mode is not required.
 - **[Multiballs](#heading--multiball)** may be stacked onto running modes, or onto each other. Modes may not be stacked onto running multiballs.
 - Shoot the Harvey target, then lock a ball in the moving scoop to light a lock at the spiral ramp. Lock 3 balls this way to start **[Dare to be Stupid Multiball](#heading--stupid)**. Continue shooting the spiral ramp to change the rules of the multiball.
@@ -71,20 +71,20 @@ opdb_id: "GN6WW"
 
 ## Layout: {#heading--layout}
 
-Multimorphic's most intricate and nuanced layout to date, with a remarkable # of shots available from a total of 5 flippers! (the two main flippers, two upper flippers, and an upper playfield mini-flipper).  Besides the two banks of side targets and row of individually controlled wall/scoop segments on every P3 game... there are a myriad of standup targets, 3 ramps -- including an industry-first ascending Spiral Ramp, 2 orbits, a U-turn mini-loop, 2 side loops, a drop target-protected scoop, and a through-the-pops scoop shot guarded by a triple pop bumper nest. 
+Multimorphic's most intricate and nuanced layout to date, with a remarkable # of shots available from a total of 5 flippers! (the two main flippers, two upper flippers, and an upper playfield mini-flipper).  Besides the two banks of side targets and row of individually controlled wall/scoop segments on every P3 game... there are a myriad of standup targets, 3 ramps -- including an industry-first ascending Spiral Ramp, 2 orbits, a U-turn mini-loop, 2 side loops, a drop target-protected scoop, and a through-the-pops scoop shot guarded by a triple pop bumper nest.
 
-Weird Al also features Multimorphic's first Upper Playfield (called the "Mezzanine"), with a 5th flipper -- of the 2" variety -- with a total of *six* shots available to that one little flipper! 
+Weird Al also features Multimorphic's first Upper Playfield (called the "Mezzanine"), with a 5th flipper -- of the 2" variety -- with a total of *six* shots available to that one little flipper!
 
 **IMPORTANT: On default settings, you must use the auxiliary white buttons to control the three upper flippers.**  While this takes a game or two to get used to this, it eventually becomes second-nature, and allows for more nuanced gameplay of independent lower/upper flipper control, without requiring the expert-level skill of staged flipping that is needed on all other modern pins to semi-independently control your upper flipper(s).
 
-The Right Ramp/Orbit is particularly unique, in that it has *five* different ball paths that the shot can take, depending on game state.  The Right Ramp also features Multimorphic's ramp magnet assist (first seen on Cosmic Cart Racing), where a magnet 3/4 up the ramp will fling the ball the rest of way, to make the steep ramp more accessible.  The ramp-assist magnet is also used, at times, to send a trough-launched ball directly to the Mezzanine via a VUK that feeds the magnet. 
+The Right Ramp/Orbit is particularly unique, in that it has *five* different ball paths that the shot can take, depending on game state.  The Right Ramp also features Multimorphic's ramp magnet assist (first seen on Cosmic Cart Racing), where a magnet 3/4 up the ramp will fling the ball the rest of way, to make the steep ramp more accessible.  The ramp-assist magnet is also used, at times, to send a trough-launched ball directly to the Mezzanine via a VUK that feeds the magnet.
 
-Two major interactive mechanical toys are featured:  a rotating hamster wheel and a pivoting UHF camera.  Both interact directly with the ball for ball locks toward **[Dare to be Stupid Multiball](#heading--stupid)** and **[UHF Multiball](#heading--uhf)**. 
+Two major interactive mechanical toys are featured:  a rotating hamster wheel and a pivoting UHF camera.  Both interact directly with the ball for ball locks toward **[Dare to be Stupid Multiball](#heading--stupid)** and **[UHF Multiball](#heading--uhf)**.
 
 ***Layout Details:***
 - **Standard P3 "Italian bottom:"**  One inlane will always be lit with a Meal Ticket during single-ball play, toggled with lane-change.  One outlane (toggled on the same side as the inlane lit for Meal Ticket) can be lit with **[Spatula Saves](#heading--spatula)**.
 - **Left side bank**: standard P3 element. During single-ball play, hitting anywhere on the bank will make progress toward qualifying **[Hardware Store Multiball](#heading--hardware)**.
-- **Upper Left Flipper**: the more important of the two upper flippers, as this is used to shoot the Spiral Ramp for the **[Skill Shot](#heading--skillshot)**, Harvey locks, feeding the mezzanine, **[Drink from the Firehose](#heading--dftfh)**, and various important mode and multiball shots. Can also directly shoot the Left Ramp (yes, it's possible!), the U-turn loop, and even the Left Orbit (when not in its ramp state). 
+- **Upper Left Flipper**: the more important of the two upper flippers, as this is used to shoot the Spiral Ramp for the **[Skill Shot](#heading--skillshot)**, Harvey locks, feeding the mezzanine, **[Drink from the Firehose](#heading--dftfh)**, and various important mode and multiball shots. Can also directly shoot the Left Ramp (yes, it's possible!), the U-turn loop, and even the Left Orbit (when not in its ramp state).
 - **Pop-Up Scoop/Wall Segments**: Standard to the P3, the row of individually-controlled pop-up scoop/wall segments spanning the width of the playfield. Notably used as part of each Harvey lock sequence, redeeming a VIP Pass, the **[Mission Statement](#heading--synergy)** and **[Germs](#heading--germs)** modes, as well as starting the **[You Make Me](#heading--youmakeme)** mini-wizard mode.
 - **Left Orbit**: flows all the way around to the Right Orbit to feed the Upper Right Flipper, or when lit for **[Gift Shop](#heading--shirts)**, the ball is grabbed by the orbit magnet and dropped into pops. Shots make progress toward qualifying the Gift Shop.
 - **Left Ramp**: this ramp is accessible from an industry-first ALL FOUR main playfield flippers. Leads to a cross-playfield wireform feeding the Right Inlane. Lights/selects the *Anthropology* Exhibit Hall Modes.
@@ -95,12 +95,12 @@ Two major interactive mechanical toys are featured:  a rotating hamster wheel an
 - **Hidden Kickout**: behind the Ticket Counter, feeding the ball to the Upper Left Flipper. The vast majority of ball feeds from the P3 trough will come from this kickout. Cannot be shot directly, though slow moving balls around the orbit/pops can fall into here to be immediately kicked out again.
 - **Supplies Closet standups**: two rightward-facing pink-lit standups directly below the leftmost pop bumper. Shooting both lights the **[Supply Closet](#heading--supply)** scoop for a mystery award.
 - **Pop Bumpers**: traditional nest of three pops with one on the left and two on the right. Accumulate pops hits to collect **[Shirts](#heading--shirts)**. Shooting through the pops leads to the...
-- **Supplies Closet Scoop**: A cutout in the orbit rail accessed from a shot through the pops. When lit, gives a mystery award and feeds the Right Magnet VUK to fling over to the mezzanine (when lit), or when unlit, feeds the Hidden Kickout. 
+- **Supplies Closet Scoop**: A cutout in the orbit rail accessed from a shot through the pops. When lit, gives a mystery award and feeds the Right Magnet VUK to fling over to the mezzanine (when lit), or when unlit, feeds the Hidden Kickout.
 - **Harvey standup target**: shoot when lit to make progress toward the pop-up scoop phase of the Harvey Lock sequence.
 - **Harvey's Hamster Wheel**: directly above the Harvey standup. An interactive spinning hamster wheel that temporarily locks balls for **[Dare to be Stupid Multiball](#heading--stupid)** virtual locks via the raised Spiral Ramp or Right Ramp. Any ball locked into the Hamster Wheel will be quickly released out the bottom, rolling down the middle of the playfield, so a short ball-save is given after each Harvey lock.
 - **Spiral Ramp / Right Side Loop**: Multi-state shot only directly accessible from an Upper Left Flipper shot. When ramp flap is raised, it becomes the ascending Spiral Ramp. When ramp flap is down, it becomes the Right Side Loop. Either state lights/selects the *Crime & Punishment* Exhibit Hall Modes and when shot in a Combo, will count toward **[Squeezebox Combos](#heading--squeezebox)**.
    - *Spiral Ramp*: used for the **[Skill Shot](#heading--skillshot)**, Harvey Locks to the Hamster Wheel, or to feed the Mezzanine upper playfield.
-   - *Right Side Loop*: feeds the Upper Right Flipper. Lights/selects the Sports & Leisure Exhibit Hall Modes. 
+   - *Right Side Loop*: feeds the Upper Right Flipper. Lights/selects the Sports & Leisure Exhibit Hall Modes.
 - **Right Magnet VUK**: VUK feeding the Right Ramp magnet, subsequently flinging the ball to the Mezzanine upper playfield, or dropping the ball down the raised Right Ramp flap to feed the right inlane wireform (the latter, only at the beginning of the **[Germs](#heading--germs)** mode).
 - **"P" standup target**: Spots letter "P" toward qualifying a VIP Pass.
 - **U-Turn Mini-Loop**: accessible from both lower flippers and the Upper Left Flipper
@@ -108,32 +108,32 @@ Two major interactive mechanical toys are featured:  a rotating hamster wheel an
    - *Right Entrance*: lights/selects the *Health & Medicine* Exhibit Hall Modes. Fast shots to this come rocketing back to your flippers with a SDTM risk.
 - **UHF standup target**: between the two entrances of the U-Turn Mini-Loop. Lites UHF locks.
 - **UHF Camera**: interactive rotating mechanical toy replica of the UHF camera. Physically locks three balls, when lit, via the Mezzanine upper playfield.
-- **Right Ramp / Right Orbit**: Multi-state shot. When ramp flap is lowered, it becomes the Right Ramp. When ramp flap is lifted, it becomes the Right Orbit. 
+- **Right Ramp / Right Orbit**: Multi-state shot. When ramp flap is lowered, it becomes the Right Ramp. When ramp flap is lifted, it becomes the Right Orbit.
    - *Right Ramp*: ramp flap is lowered temporarily by rolling over either inlane lit with the Meal Ticket, or lowered perpetually when Harvey lock is lit, during **[My Bologna](#heading--bologna)**, and during multiple other mode- and multiball-specific states. Feeds the Mezzanine upper playfield, the Harvey Hamster Wheel, or the Mezzanine Skywalk that directly feeds the Mezzanine exit to the left inlane wireform.
    - *Right Orbit*: flows all the way around to the Left Orbit to feed the Upper Left Flipper, or when lit for **[Gift Shop](#heading--shirts)**, the ball is grabbed by the orbit magnet and dropped into pops. Shots make progress toward qualifying the Gift Shop.
-- **Upper Right Flipper**: the slightly less important of the two upper flippers, primarily used to shoot the Left Side Loop. Can also shoot the Ticket Counter, Left Ramp, Left Orbit, and Pop-Up Scoops. 
+- **Upper Right Flipper**: the slightly less important of the two upper flippers, primarily used to shoot the Left Side Loop. Can also shoot the Ticket Counter, Left Ramp, Left Orbit, and Pop-Up Scoops.
 - **Right side bank**: standard P3 element. During single-ball play, hitting anywhere on the bank will make progress toward qualifying **[Hardware Store Multiball](#heading--hardware)**.
 
-- **Mezzanine Upper Playfield**: an extensive upper playfield with multiple shot path diverters and one 2" flipper. Accessed via the Spiral Ramp, Right Ramp, or the Supply Closet when lit. 
+- **Mezzanine Upper Playfield**: an extensive upper playfield with multiple shot path diverters and one 2" flipper. Accessed via the Spiral Ramp, Right Ramp, or the Supply Closet when lit.
    - *Little Hungry One Cafe*: interactive upper playfield with two standup targets between the two entrances of a wide U-turn Mezzanine loop, along with a multi-state shot that changes between a dead-end standup or a wireform path. A "drain" past the Cafe's flipper exits safely to the left inlane wireform.
    - *Cafe Left Loop*: immediately after a successful Skill Shot, scores a Super Skill Shot. During My Bologna, stacks more bologna on the sandwich order. Otherwise, collects one Spatula toward qualifying Spatula Saves.  Also used during Sports Song and I'll Sue Ya modes.
    - *Ketchup standup target*: During My Bologna, this Cafe Target adds toppings to the sandwich order. Otherwise, collects one Food item toward qualifying My Bologna. Also used during Sports Song mode.
    - *Mustard standup target*: same as Ketchup standup target.
    - *Cafe Right Loop*: same as Cafe Left Loop.
    - *Dead-End standup target*: multi-state shot, in this state when UHF Lock is *not* lit or when My Bologna mode is running. See rules for Ketchup standup target.
-   - *UHF Lock*: when active, a wireform that feeds the UHF Camera physical ball lock. It's in this state immediately after a Skill Shot (for a Super Duper Skill Shot) or when lit for a UHF lock. 
+   - *UHF Lock*: when active, a wireform that feeds the UHF Camera physical ball lock. It's in this state immediately after a Skill Shot (for a Super Duper Skill Shot) or when lit for a UHF lock.
 
 ## Skill Shot: {#heading--skillshot}
 
-Ball will be "plunged" (kicked out) to the Left Orbit to feed your upper left flipper -- **note: On default settings, you must use the auxiliary white buttons to control the upper flippers.** Immediately shoot the Spiral Ramp to score a skill shot for 250K. 
-- Super Skill Shot: Quickly shooting the mezzanine loop will award a Super Skill shot for 50K. These are repeatable (unlimited) on a resetting timer. 
+Ball will be "plunged" (kicked out) to the Left Orbit to feed your upper left flipper -- **note: On default settings, you must use the auxiliary white buttons to control the upper flippers.** Immediately shoot the Spiral Ramp to score a skill shot for 250K.
+- Super Skill Shot: Quickly shooting the mezzanine loop will award a Super Skill shot for 50K. These are repeatable (unlimited) on a resetting timer.
 - Super Duper Skill Shot: Shoot the Camera Lock for a 500K Super Duper Skill Shot. This also locks a ball for **[UHF Multiball](#heading--uhf)**.
 
 ## Exhibit Hall Modes & VIP Pass: {#heading--halls}
 
-Players start each game in the museum lobby, or Great Hall. You're always only three shots away from starting an Exhibit Hall mode at any time: one playfield shot to qualify/select your Hall, one shot to knock down the Ticket Counter drop target, and final shot to the now-accessible Ticket Counter scoop. 
+Players start each game in the museum lobby, or Great Hall. You're always only three shots away from starting an Exhibit Hall mode at any time: one playfield shot to qualify/select your Hall, one shot to knock down the Ticket Counter drop target, and final shot to the now-accessible Ticket Counter scoop.
 
-Five shots on the playfield correspond to different exhibit halls in the museum, each containing 2 modes based on a song from Weird Al's catalog. Shoot any of the shots listed below just once to light that Hall as the next one to visit. Once a Hall has been selected, shoot the scoop behind the ticket counter drop target to select a mode. The lit Hall will change to the most recently made shot. 
+Five shots on the playfield correspond to different exhibit halls in the museum, each containing 2 modes based on a song from Weird Al's catalog. Shoot any of the shots listed below just once to light that Hall as the next one to visit. Once a Hall has been selected, shoot the scoop behind the ticket counter drop target to select a mode. The lit Hall will change to the most recently made shot.
 
 The shots and songs corresponding to each hall are:
 
@@ -147,9 +147,9 @@ Alternatively, to start an Exhibit Hall mode, the player can collect a **VIP Pas
 
 On default settings, starting each mode also provides a short ball-save to begin each mode. These modes are timed, though each has a lengthy duration equal to the length of the song associated with that mode.
 
-Once you have made sufficient shots during any mode, the Ticket Counter scoop will be lit to end the mode prematurely, once you've knocked down the drop target that guards it. Normally, the mode will only end once the song does. If the song ends while stacked with a multiball, the mode will continue until the player drains down to one ball. 
+Once you have made sufficient shots during any mode, the Ticket Counter scoop will be lit to end the mode prematurely, once you've knocked down the drop target that guards it. Normally, the mode will only end once the song does. If the song ends while stacked with a multiball, the mode will continue until the player drains down to one ball.
 
-Each song can only be played once per game, until **[Running With Scissors](#heading--scissors)** has been played.  
+Each song can only be played once per game, until **[Running With Scissors](#heading--scissors)** has been played.
 
 ### Amish Paradise {#heading--amish}
 
@@ -160,16 +160,16 @@ Threshold to light Exit: ??
 
 ### White & Nerdy {#heading--nerdy}
 
-Lucrative, but dangerous mode involving a pair of two shots that move across the playfield. Each shot collects an artifact, scores 150K, starts a new pair of shots from the opposite side of the direction just collected, and increases the speed on the "Weird-O-Meter" on your segway, thus increasing the speed that the lit shots move at (which is somehow *always* in sync with the song). Each shot during the mode scores 25K more than the last. 
+Lucrative, but dangerous mode involving a pair of two shots that move across the playfield. Each shot collects an artifact, scores 150K, starts a new pair of shots from the opposite side of the direction just collected, and increases the speed on the "Weird-O-Meter" on your segway, thus increasing the speed that the lit shots move at (which is somehow *always* in sync with the song). Each shot during the mode scores 25K more than the last.
 
 The mezzanine shots have no impact on this mode.
 Threshold to light Exit: ??
 
 ### Sports Song {#heading--sports}
 
-Main shots (ramps, loops, etc) will be perpetually lit green, and all standup targets will be perpetually lit red. 
-- Making a green shot will score a point for your team, "Us," and award 100k. Making consecutive green shots without hitting a red shot will progressively add 100k to the value awarded. 
-- Hitting a red shot will score a point for your opponent, "Them," award 5k and reset the base value back to 100k. 
+Main shots (ramps, loops, etc) will be perpetually lit green, and all standup targets will be perpetually lit red.
+- Making a green shot will score a point for your team, "Us," and award 100k. Making consecutive green shots without hitting a red shot will progressively add 100k to the value awarded.
+- Hitting a red shot will score a point for your opponent, "Them," award 5k and reset the base value back to 100k.
 - While not indicated on the playfield, the mezzanine (Cafe) loop is also a "green" shot, while the mezzanine targets are "red" shots.
 
 Threshold to light Exit: ??
@@ -183,7 +183,7 @@ Threshold to light Exit: ??
 
 ### Word Crimes {#heading--grammar}
 
-The first mode in pinball to test you while you play! Four shots on the playfield are lit, each randomly corresponding to a different letter (A, B, C, or D) to a grammar question shown on the display. Each answered question -- whether right or wrong -- tallies your progress on a scantron sheet, and then brings up a new question with newly shuffled letter answer positions. 
+The first mode in pinball to test you while you play! Four shots on the playfield are lit, each randomly corresponding to a different letter (A, B, C, or D) to a grammar question shown on the display. Each answered question -- whether right or wrong -- tallies your progress on a scantron sheet, and then brings up a new question with newly shuffled letter answer positions.
 - Collecting "streaks" of correct answers scores more, while collecting a wrong answer resets the streak.
 
 The mezzanine shots do not impact this mode.
@@ -192,20 +192,20 @@ Threshold to light Exit: ??
 ### I'll Sue Ya {#heading--sue}
 
 In this dynamic multi-phase mode, there are alternating Build and Collect phases:
-* Build your Case phase: each of the song's verses have 30 seconds to spend trying to make your case by repeatedly shooting any of the lit standup targets to increase your built Damages value by 10K per target. 
-* Award Damages phase: Following each Build phase, this phase lasts for 30 seconds (during each chorus), for shooting the lit shot(s) repeatedly to collect the Built value. This alternating phase pattern repeats multiple times within the song. 
+* Build your Case phase: each of the song's verses have 30 seconds to spend trying to make your case by repeatedly shooting any of the lit standup targets to increase your built Damages value by 10K per target.
+* Award Damages phase: Following each Build phase, this phase lasts for 30 seconds (during each chorus), for shooting the lit shot(s) repeatedly to collect the Built value. This alternating phase pattern repeats multiple times within the song.
   * First Damages phase: only the Left Ramp is lit for Single Damages (1x value)
   * Second Damages phase: the U-turn mini-loop is added as a shot to collect Double Damages (2x value)
-   * Third Damages phase: the mezzanine loop is added as a shot to collect Treble Damages (3x value). Massive "safe" points are available here. 
+   * Third Damages phase: the mezzanine loop is added as a shot to collect Treble Damages (3x value). Massive "safe" points are available here.
 
 The mezzanine targets do not award target shots during the Build phase.
 Threshold to light Exit: ??
 
 ### Mission Statement {#heading--synergy}
 
-The phases of this progress with the song. You alternate between a Build Stock Value phase and a Sell Stock phase.  
-* Build phase: the left ramp, spiral ramp/right side loop and right orbit/ramp will be lit to build stock value. The stock starts at 10k, and increases by 50k each time you hit one of the shots. If you take too long to make a shot, your stock price will decay 10k. Your built stock value carries throughout the entire mode, enabling some big paydays in the latter Sell phases. 
-* Sell phase: one of the scoops will be raised on a short timer, and sometimes will move to a second scoop location after the timer expires, depending on the which Sell phase you're in. Hit the scoop as many times as you can to sell stock (collect your built value). Your Stock Value will not reset upon each sale. 
+The phases of this progress with the song. You alternate between a Build Stock Value phase and a Sell Stock phase.
+* Build phase: the left ramp, spiral ramp/right side loop and right orbit/ramp will be lit to build stock value. The stock starts at 10k, and increases by 50k each time you hit one of the shots. If you take too long to make a shot, your stock price will decay 10k. Your built stock value carries throughout the entire mode, enabling some big paydays in the latter Sell phases.
+* Sell phase: one of the scoops will be raised on a short timer, and sometimes will move to a second scoop location after the timer expires, depending on the which Sell phase you're in. Hit the scoop as many times as you can to sell stock (collect your built value). Your Stock Value will not reset upon each sale.
 * At a later point in the song, a "Stock Split" will be available at a raised scoop, which will kick out a second ball, converting Mission Statement into a multiball, though with your Collect value now halved. Once you are in the MB phase, you can no longer Exit the mode via the Ticket Counter -- simply draining down to single-ball play ends the mode.
 
 The mezzanine shots have no impact on this mode.
@@ -290,7 +290,7 @@ Shoot the UHF lock target in front of the camera to light the UHF lock in the me
 
 Phase one is collection enough money to save the station. All the major shots will be lit for jackpots. Once you collect them all, the Supplies Closet will light. Completing the Supplies Closet shot awards a **[Drink from the Firehose](#heading--dftfh)** ticket. The final shot to complete this phase is a shot to the spiral ramp.
 
-Phase two has jackpots lit you can collect. 
+Phase two has jackpots lit you can collect.
 
 Mission Statement Multiball
 
@@ -342,7 +342,7 @@ This is the mystery award. You light the Supply Closet scoop by hitting the supp
 
 ### Free passes {#heading--freepass}
 
-There are **no traditional extra balls** in the game, but you can earn Free Passes, which are untimed ball saves (regardless of whether an outlane or a SDTM drain) that will continue your ball without collecting your EOB Bonus and without providing a new Skill Shot chance. 
+There are **no traditional extra balls** in the game, but you can earn Free Passes, which are untimed ball saves (regardless of whether an outlane or a SDTM drain) that will continue your ball without collecting your EOB Bonus and without providing a new Skill Shot chance.
 - Tilting will cancel an earned Free Pass -- it will not carry to your next ball.
 
 ### Spatula Saves {#heading--spatula}
@@ -368,7 +368,7 @@ You can earn a Drink from the Firehose ticket by completing enough shots in **[U
   * The sum total is then multiplied first by your BonusX based on longest Combo during that ball, and then doubled if you hit even one Squeezebox Combo during that ball.
   * The Bonus will be small for a short ball, so always be tilting early in a ball! Conversely, Bonus can be quite lucrative for a longer ball (remember, Free Pass and Spatula Saves are like Extra Balls to continue playing your current ball and accumulating Bonus items), particularly if you've been stringing together some Combos and Squeezebox Combos for large BonusX multipliers.
   * Qualifying VIP and failing to shoot the ball into the raised scoops awards negative points on bonus.
-  * Tilting will mock you and hilariously still take you through your line-by-line Bonus recap, so that you can regret what you just lost (not just displaying a total Bonus lost). 
+  * Tilting will mock you and hilariously still take you through your line-by-line Bonus recap, so that you can regret what you just lost (not just displaying a total Bonus lost).
 
 ## Wizard Modes: {#heading--wizard}
 

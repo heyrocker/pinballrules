@@ -62,7 +62,7 @@ opdb_id: "Gd266"
 - Music: Adrian Disch
 - Release Date: April 2025
 - **Wiki Rulesheet based on Code Rev: 2026.03.30**
-  - Edit the Code revision, if applicable, when you make changes 
+  - Edit the Code revision, if applicable, when you make changes
 
 # Rules Overview {#heading--rulesoverview}
 
@@ -444,7 +444,7 @@ While a ball is locked, each hit on the Sand Trap drop target builds your Spice 
 
 Mystery award collected at the left ramp each cycle between day/night (except first cycle). Left ramp will be lit purple when available.
 
-Awards are drawn from 3 pools in a fixed rotation order: **Common, Common, Rare, Special** (then repeats). 
+Awards are drawn from 3 pools in a fixed rotation order: **Common, Common, Rare, Special** (then repeats).
 
 **Common Pool (Pool 0):**
 

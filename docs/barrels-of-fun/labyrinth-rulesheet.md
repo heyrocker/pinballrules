@@ -59,10 +59,10 @@ Spell LABYRINTH by completing shots with white arrows to light Mode Start.
 
 First mode: collect one letter
 Second mode: collect two letters
-Third mode: collect three letters 
+Third mode: collect three letters
 Fourth mode: collect four letters
-Fifth mode: collect five letters 
-Sixth mode: collect six letters 
+Fifth mode: collect five letters
+Sixth mode: collect six letters
 
 When a mode is ready to start, both Mode Start lights will be flashing at either side of the U-turn. Begin the mode by hitting either side of the U-turn or the wiseman scoop if the target is down.
 
@@ -71,7 +71,7 @@ Which side of the U-turn you hit to start the mode typically affects where the b
 Listed clockwise (starting from the left of the top row), the modes are:
 - **The Knockers**: Hit yellow shots to progress the mode - either the left ramp or right ramp for single value, or the flashing horseshoe shot for 2x value. After 5 shots, you will hear the callout "Knock, and the door will open". At this point, you must hit the drop target between the horseshoe shots to pinch the knocker's nose. You then have a short amount of time to hit the ball into that doorway.  If you fail to do so after a few seconds, the drop target pops back up, and you must hit it again.
 
-  - **To light Knockers Orb collect:** Complete the mode 
+  - **To light Knockers Orb collect:** Complete the mode
 
 - **The Four Guards**: "One of us always tells the truth, and one of us always lies." Ramp and orbit shots will be lit both blue and red and hitting a shot will change the color. The upper loop and center ramp shots are yellow to start and hitting either will make the guards confess to the correct color (the correct color is the opposite one they mention -- so if they say "He'll tell you the colors should be blue," then you know the correct color is red -- just like in the movie). You can also learn the correct color via Mystery award. The correct color will also be displayed on the lower LCD.  Change the color of all shots to the correct color and then complete the mode (and light orb collect) by hitting the right horseshoe lane, which will be blinking when all the colors are matching, correct *or not*.  If you match color of the shots and try the door **without** "asking the question" to find out the right color, you **will** be wrong and will have to swap all 4 shots to the other color and try again.
 
@@ -81,15 +81,15 @@ Listed clockwise (starting from the left of the top row), the modes are:
 
   - **To light Fireys Orb collect:** Pop off 5 Fiery heads in total
 
-- **The Bog of Eternal Stench**: Shoot orange shots and avoid green shots to cross the bog. If a green shot is hit, the orange shot moves to the next shot in the sequence, your score will remain "stenched" in green for the rest of the game including the high score list if you make it. There is always only one shot lit orange, and the orange shot sequence is always the same:  left ramp, right ramp, left orbit, right horseshoe shot, then right orbit to complete. 
+- **The Bog of Eternal Stench**: Shoot orange shots and avoid green shots to cross the bog. If a green shot is hit, the orange shot moves to the next shot in the sequence, your score will remain "stenched" in green for the rest of the game including the high score list if you make it. There is always only one shot lit orange, and the orange shot sequence is always the same:  left ramp, right ramp, left orbit, right horseshoe shot, then right orbit to complete.
 
   - **To light Bog of Eternal Stench Orb collect:** Complete 5 orange shots in total.
 
-- **The Oubliette**: Shoot any lit shot to activate it, then shoot the same one again to complete it.  If you hit a different shot while one is activated, the one you made instead is now the active shot. Each shot can only be completed once. 
+- **The Oubliette**: Shoot any lit shot to activate it, then shoot the same one again to complete it.  If you hit a different shot while one is activated, the one you made instead is now the active shot. Each shot can only be completed once.
 
   - **To light Oubliette Orb collect:** Complete 5 Oubliette doors in total.
 
-- **The Cleaners**: Shoot the spinner on the left orbit to build up your hurry up value and then shoot the right orbit to collect.  The mode can end in 2 ways - complete three ‘collects’ on the right orbit, or it will timeout when the clock (upper right on main display) reaches the 13th hour. 
+- **The Cleaners**: Shoot the spinner on the left orbit to build up your hurry up value and then shoot the right orbit to collect.  The mode can end in 2 ways - complete three ‘collects’ on the right orbit, or it will timeout when the clock (upper right on main display) reaches the 13th hour.
 
   - **To light Cleaners Orb collect:** Complete the mode with a total of at least 5M.
 
@@ -97,7 +97,7 @@ Listed clockwise (starting from the left of the top row), the modes are:
 
 ### Brick Keeper Multiball: {#heading--brickkeepermb}
 
-Dance Magic Dance while collecting Jackpots! 
+Dance Magic Dance while collecting Jackpots!
 
 Complete the green targets to light lock: the first one is lit at the left orbit, the second at the center ramp, and then multiball can be started at the right orbit. On default settings, Brick Keeper multiball is also lit at all lock shots at the start of ball 3 if it hasn't been started yet. (There is an Setting to turn that off)
 
@@ -129,7 +129,7 @@ Started by completing the fourth [wiseman quest](#heading--wiseman). Shots into 
 
 The yellow, orange, and blue shots on the playfield will activate and progress your friends. Collecting friends not only provides assistance in the game in the form of rewards but also will work towards **[Friend Multiball](#heading--friendmb)**.
 
-Friends have to be ‘found’ - the circle inserts of their color will be flashing when they have not yet been found, and their picture on the display will be in black and white.  Beyond level one, you have to complete a combo of 2 shots to ‘find’ the friend.  Each level after requires an additional combo. 
+Friends have to be ‘found’ - the circle inserts of their color will be flashing when they have not yet been found, and their picture on the display will be in black and white.  Beyond level one, you have to complete a combo of 2 shots to ‘find’ the friend.  Each level after requires an additional combo.
 
 Once a friend is ‘found’ their insert will be lit solid and hitting those shots will collect items - the positions of these shots can be changed by shooting any lit friend shot, including the target above the right slingshot, which also spots progress if lit via the target below the left orbit. Collect 10 friend items to light **[extra ball](#heading--extraballs)** at the Helping Hands scoop on the left.
 
@@ -138,7 +138,7 @@ You can also collect large amounts of items for one specific friend during **fri
 Once you have enough items, the jackpot for that friend will be available at the Helping Hands scoop. The first level jackpot requires 2 items. Item requirements increase as the friend levels up.
 
 Collecting the friend jackpot increases the friend’s level and resets them to a ‘not found’ state.
-- **Hoggle**: You are collecting Fairies, the yellow shots. 
+- **Hoggle**: You are collecting Fairies, the yellow shots.
   - Level 1 Reward: **[Spell Labyrinth](#heading--modes)** Faster (2 letters for each lit shot made)
   - Level 2 Reward: **[Light Locks](#heading--brickkeepermb)** Easier (enables ‘nearest neighbor’ on the targets)
   - Level 3 Reward: 2x **[Friend Items](#heading--friends)**
@@ -148,7 +148,7 @@ Collecting the friend jackpot increases the friend’s level and resets them to 
   - Level 2 Reward: 2x **[Brick Keeper](#heading--brickkeepermb)** Jackpots
   - Level 3 Reward: 2x **[Friend](#heading--friendmb)** Jackpots
   - Level 4 Reward: Orb Lit
-- **Sir Didymus**: You are collecting Medals, the blue shots. 
+- **Sir Didymus**: You are collecting Medals, the blue shots.
   - Level 1 Reward: Spelling HELP in your lower inlanes and outlanes will activate the Didymus defense above the left outlane. Normally it can only be activated once per game.
   - Level 2 Reward: Helping Hands Add-A-Ball - Once per multiball, add a ball by shooting the helping hands scoop.
   - Level 3 Reward: +5 seconds to all ball saves

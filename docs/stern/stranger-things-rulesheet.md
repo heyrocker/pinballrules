@@ -38,7 +38,7 @@ opdb_id: "Gzy89"
 
 - Lead Designer: Brian Eddy
 - Code / Rules: Lonnie Ropp, Mike Vinikour
-- Artwork: 
+- Artwork:
 - Release Date: December 2019
 - Current Code Rev.: 1.09
 
@@ -63,7 +63,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
   - Shoot the LIGHT LOCK targets, followed by the left ramp, to lock balls for 3-ball Telekinesis Multiball. Collect jackpots at the flashing blue shots, then shoot the kicker to cash out the super jackpot.
 - Occasionally, the game will switch into Upside Down mode. Shoot the center drop targets to escape. Every other Upside Down requires the major shots to be made.
 - Shoot the Burn it Back loop to advance towards extra ball, Spell of Protection ball save & 2x Scoring at the kicker.
-- Complete the return lanes, which cycle with the flippers, to advance Bonus X and light mystery at the left standup target. 
+- Complete the return lanes, which cycle with the flippers, to advance Bonus X and light mystery at the left standup target.
 
 ## Layout: {#heading--layout}
 
@@ -80,7 +80,7 @@ There are three skill shots that can be scored once the ball enters the plunger 
 
 ## Main Objectives: {#heading--objectives}
 
-Directly above the flippers, six inserts are listed from left to right: **[5-Way Combo](#heading--5way)**, **[Send it Back](#heading--senditback)**, **[Demodog!](#heading--demodog)**, **[Demogorgon!](#heading--demogorgon)**, **[Light the Fire](#heading--lightthefire)**, and **[Telekinesis Multiball](#heading--tk)**. Each insert solidly lights once their corresponding task has been completed. Once all inserts are solidly lit, the player will be able to attempt the **[Final Showdown](#heading--wizard)**. 
+Directly above the flippers, six inserts are listed from left to right: **[5-Way Combo](#heading--5way)**, **[Send it Back](#heading--senditback)**, **[Demodog!](#heading--demodog)**, **[Demogorgon!](#heading--demogorgon)**, **[Light the Fire](#heading--lightthefire)**, and **[Telekinesis Multiball](#heading--tk)**. Each insert solidly lights once their corresponding task has been completed. Once all inserts are solidly lit, the player will be able to attempt the **[Final Showdown](#heading--wizard)**.
 
 Each objective will be listed in their own section, though Chapters will be grouped together as both sets are started similarly.
 
@@ -102,7 +102,7 @@ The **[Send it Back](#heading--senditback)** and **[Light the Fire](#heading--li
 
 * Start a chapter by completing a set of three inserts underneath the left orbit, left ramp, right ramp, or right orbit. Shooting one of the aforementioned shots will light an insert underneath that shot
 
-* Until 2 chapter modes have been played, shooting the left standup lane will spot progress towards starting a chapter. It prioritizes spotting shots that are closest to starting a chapter. *Note: If a Demodog mode is lit at the standup lane, it takes priority and will start instead vs spotting progress towards a chapter.* 
+* Until 2 chapter modes have been played, shooting the left standup lane will spot progress towards starting a chapter. It prioritizes spotting shots that are closest to starting a chapter. *Note: If a Demodog mode is lit at the standup lane, it takes priority and will start instead vs spotting progress towards a chapter.*
 
 * The left orbit and left ramp will start season 1 chapters, and the right ramp and right orbit will start season 2 chapters.
 
@@ -114,7 +114,7 @@ The **[Send it Back](#heading--senditback)** and **[Light the Fire](#heading--li
 ### Season 1 Chapters: {#heading--season1}
 
 **Where’s Barb?** (40 sec)
-* All shots are lit, with the saucer flashing. Complete the mode by shooting the shot that Barb is at (random). Shots start at 1M and increase +250k for every shot that Barb isn't occupying. 
+* All shots are lit, with the saucer flashing. Complete the mode by shooting the shot that Barb is at (random). Shots start at 1M and increase +250k for every shot that Barb isn't occupying.
 * Finding Barb on the very first shot awards 40M & an extra drawing!
 * Shoot the saucer (2M) to reveal where Barb is (one of the lit shots will now be flashing), then shoot the flashing shot to find Barb for 5M
 * If you save the Barb shot for last, it will be 10M instead of 5M.
@@ -127,7 +127,7 @@ The **[Send it Back](#heading--senditback)** and **[Light the Fire](#heading--li
 * Once one or more drops are knocked down, the drop bank resets and advances to the next wave *(essentially, you get one shot per wave to knock as many drops down for increased scoring)*.
 * After the fifth wave, all drops will lower and the final shot will be lit at the center.
 * Final shot value (7-28M) is determined based on how many drops you knocked down on the final (5th) wave. Each drop adds 7M to the final center shot with a max value of 28M if you shot all 4 drops down on the final wave *(practically requiring a MB to accomplish since the drops reset as soon as one is hit)*.
-* **[+2 Drawings](#heading--drawings):** N/A 
+* **[+2 Drawings](#heading--drawings):** N/A
 
 
 **Bullies** (45 sec)
@@ -226,7 +226,7 @@ Spelling DEMODOG with direct shots to the standup targets (or the saucer for the
 **Break Out!**: (40 sec)
 * All DEMODOG targets are lit to kill a Demodog and score 1M
 * Hit **15 targets** to complete the mode and award a **[drawing](#heading--drawings)**
-* Value increases, when you complete all pulsing DEMODOG targets - 2M for the second wave, and 4M for the third wave. 
+* Value increases, when you complete all pulsing DEMODOG targets - 2M for the second wave, and 4M for the third wave.
 
 **Junk Yard**:  (40 sec)
 * Three phases with 2 shots lit per phase (orbits, ramps, inner lane/loop)
@@ -238,7 +238,7 @@ Spelling DEMODOG with direct shots to the standup targets (or the saucer for the
 **It’s a Trap!**: (40 sec)
 * All eight shots lit, score 3M each and unlight upon being shot
 * **[+1 Drawing](#heading--drawings)** awarded for shooting all eight shots
-* **Demodog!** objective insert will light solid upon starting 
+* **Demodog!** objective insert will light solid upon starting
 
 ### Demogorgon Modes: {#heading--demogorgon}
 
@@ -282,7 +282,7 @@ Shots to the Burn it Back loop count up over the course of a game and award cert
 - **[Spell of Protection](#heading--spell)** at 3, 12, 25 and then every 14 loops after (39, 53, etc.)
 - **[2x Scoring](#heading--double)** at 7, 18 and then every 14 loops after (32, 46, etc.)
 
-*Note: Spell of Protection and 2x Scoring alternate as awards after 3, 4, 5, 6 and then every 7 loops.* 
+*Note: Spell of Protection and 2x Scoring alternate as awards after 3, 4, 5, 6 and then every 7 loops.*
 
 #### Spell of Protection: {#heading--spell}
 
@@ -307,14 +307,14 @@ Enough pop bumper hits will increase their value, evolve Dart and eventually awa
 
 ### Drawings: {#heading--drawings}
 
-Completing certain objectives will collect drawings. Certain objectives will collect 2 drawings at once when achieved. Each drawing adds 10M to the jackpot collected at the start of all three wizard modes, and adds 2M to **[end-of-ball bonus](#heading--bonus)**. Collecting 11 drawings in a single game will light an **[extra ball](#heading--extraballs)**. 
+Completing certain objectives will collect drawings. Certain objectives will collect 2 drawings at once when achieved. Each drawing adds 10M to the jackpot collected at the start of all three wizard modes, and adds 2M to **[end-of-ball bonus](#heading--bonus)**. Collecting 11 drawings in a single game will light an **[extra ball](#heading--extraballs)**.
 
 Drawings can be collected by:
   - Scoring an **[MXV Super Skill Shot](#heading--skillshots)** (+1 Drawing)
   - Completing a **[Chapter](#heading--chapters)** (+1 Drawing)
   - Completing a **Chapter** under a certain restriction unique to each chapter (+2 Drawings)
   - Completing a **[Demodog Attack](#heading--demodog)** mode (+1 Drawing)
-  - Collecting a Super Jackpot during **[Telekinesis Multiball](#heading--tk)** (+1 Drawing, +2 for a 2x Super Jackpot, +3 for a 3x Super Jackpot on Prem / LE)                   
+  - Collecting a Super Jackpot during **[Telekinesis Multiball](#heading--tk)** (+1 Drawing, +2 for a 2x Super Jackpot, +3 for a 3x Super Jackpot on Prem / LE)
   - 4th increase in pop bumpers - 130 bumper hits (+1 Drawing)
   - Random **[mystery award](#heading--mystery)** (+1 Drawing)
 
@@ -328,13 +328,13 @@ The mystery animation shows a 20-sided dice roll, with each side corresponding t
 1. Light Lock (for **[Telekinesis Multiball](#heading--tk)**)
 2. Light **[Extra Ball](#heading--extraballs)** (15M if EBs are disabled)
 3. **[5-Way Combo](#heading--5way)** (credit for objective + a cool animation)
-4. Add-A-Ball 
+4. Add-A-Ball
 5. Advance Spinner Value +3k
-6. Start **[Chapter](#heading--chapters)** 
+6. Start **[Chapter](#heading--chapters)**
 7. Light **[Burn it Back](#heading--burnitback)** (for the next award, either **[Spell of Protection](#heading--spell)** or **[2x Scoring](#heading--double)**)
 8. Stranger Points (11M)
 9. Hold **[Bonus](#heading--bonus)**
-10. +1x Bonus Multiplier 
+10. +1x Bonus Multiplier
 11. Eleven (never awarded)
 12. **[Upside Down](#heading--upsidedown)**
 13. **[Multiball](#heading--tk)**
@@ -344,7 +344,7 @@ The mystery animation shows a 20-sided dice roll, with each side corresponding t
 17. Bulls@!t (apparently it's just that, all switches score BS and some points)
 18. Light **[Demodog Attack](#heading--demodog)**
 19. **[+1 Drawing](#heading--drawings)**
-20. **[Spell of Protection](#heading--spell)** 
+20. **[Spell of Protection](#heading--spell)**
 
 
 ### Extra Balls: {#heading--extraballs}
@@ -374,10 +374,10 @@ Bonus Hold can be awarded from the **[Mystery Award](#heading--mystery)**, which
 Stacking strategies:
 - General modern pinball strategy of stacking Telekinesis Multiball onto a running mode applies.  Chapter modes must be started either prior to MB, or with the same shot to start MB.  An even better stack is to bring Demodog mode to the party, in which case you **must** use the following sequence: Start Chapter mode -> Start Demodog -> Start Telekinesis MB.
 - I wouldn't recommend stacking Telekinesis onto a non-MB Demogorgan mode, unless you know you're able to consistently kill the Demogorgan with a mouth shot.  Otherwise, the big ramp flap gets in the way of your Mystery (Add-a-ball) and the Burn It Back shot.
-- Some Chapter modes are better for stacking a MB onto than others.  Figure out which ones work best for you, depending on your play style. 
+- Some Chapter modes are better for stacking a MB onto than others.  Figure out which ones work best for you, depending on your play style.
 
-Bonus can be HUGE. If you've done a decent amount of achievements that impact EOB Bonus, consider spamming your favorite ramp shot(s) to get inlane completions toward maxing out your BonusX. 
+Bonus can be HUGE. If you've done a decent amount of achievements that impact EOB Bonus, consider spamming your favorite ramp shot(s) to get inlane completions toward maxing out your BonusX.
 
-Don't ignore/neglect your Burn It Backs!  Getting the Spell of Protection is like an Extra Ball, and well-time 2x Scoring can be massive with a good stack or well-played high-value mode. 
+Don't ignore/neglect your Burn It Backs!  Getting the Spell of Protection is like an Extra Ball, and well-time 2x Scoring can be massive with a good stack or well-played high-value mode.
 
 Premium: Use the Swipe-a-Ball

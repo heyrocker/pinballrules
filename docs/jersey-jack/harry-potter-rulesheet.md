@@ -39,8 +39,8 @@ opdb_id: "GWyBj"
 
 - Lead Designer: Eric Meunier
 - Code/Rules: Joe Katz
-- Mechanical Engineers: 
-- Artwork: 
+- Mechanical Engineers:
+- Artwork:
 - Display and Animations: Jean-Paul de Win
 - Sound Design: David Thiel
 - Release Date: June 2025
@@ -54,7 +54,7 @@ opdb_id: "GWyBj"
 - Shoot the scoop to start terms (if one isn't lit, hit the right spinner to light the scoop). Terms consist of 10 "lessons" and the player will move on to the next lesson if either time runs out during the lesson or they complete the required shots.
   - After 10 lessons have been played, shoot the scoop to start final exam. Play six final exam lessons to light the center lane for OWLs multiball.
   - Completing 4 lessons is one of three requirements to qualify the Deathly Hallows mini-wizard mode.
-- Spell DIAGON at the center lane to qualify one of the Diagon Alley shops. Use the action button or hit Hagrid's standup target to change the lit shop. 
+- Spell DIAGON at the center lane to qualify one of the Diagon Alley shops. Use the action button or hit Hagrid's standup target to change the lit shop.
 - Shoot the allies target followed by either the inner loop or right orbit to enable super modes. Both ally factions have two super modes.
 - Play four (out of the following five) multiballs to light Battle of Hogwarts mini-wizard mode.
   - Shoot the center and staircase ramps to light Explore Hogwarts multiball.
@@ -248,10 +248,10 @@ Completing each lesson awards a time bonus (seconds remaining x 25k + 25k per ea
 |Together as One|
 
 [/details]
-    
+
 ## O.W.L.s Multiball: {#heading--owls}
 
-After the Final Exam for any of the six years has been played, shoot the center lane to start O.W.L.s (Ordinary Wizarding Level) Multiball.  O.W.L.s Multiball is a 2-ball multiball with a 30-second ball saver.  The base jackpot value is determined by the number of lessons completed during the school year and the Final Exam.  (Ex. When 8 lessons were completed, the base jackpot value was 19M.)  Each spell completed at **[Flourish & Blotts](#heading--diagon)** (before playing O.W.L.s multiball) adds +1x multiplier to all points scored in O.W.L.s Multiball.  
+After the Final Exam for any of the six years has been played, shoot the center lane to start O.W.L.s (Ordinary Wizarding Level) Multiball.  O.W.L.s Multiball is a 2-ball multiball with a 30-second ball saver.  The base jackpot value is determined by the number of lessons completed during the school year and the Final Exam.  (Ex. When 8 lessons were completed, the base jackpot value was 19M.)  Each spell completed at **[Flourish & Blotts](#heading--diagon)** (before playing O.W.L.s multiball) adds +1x multiplier to all points scored in O.W.L.s Multiball.
 
 Shoot 5 red jackpot shots to light super jackpot.  65 switches lights triple jackpot.
 
@@ -279,11 +279,11 @@ The four timed modes are:
 
 ### Explore Hogwarts Multiball: {#heading--hogwarts}
 
-To qualify Explore Hogwarts multiball, you must spot (i.e., lower) all eight banners displayed at the top of the LCD screen.  The banners on the left are blue, yellow, red, and green and correspond to the inserts of the same colors below the center ramp.  The banners on the right are green, red, yellow, and blue and correspond to the inserts of the same colors below the right ramp.  
+To qualify Explore Hogwarts multiball, you must spot (i.e., lower) all eight banners displayed at the top of the LCD screen.  The banners on the left are blue, yellow, red, and green and correspond to the inserts of the same colors below the center ramp.  The banners on the right are green, red, yellow, and blue and correspond to the inserts of the same colors below the right ramp.
 
-Shooting the center ramp will spot the banner(s) of the indicated color on the left side, or on both sides for your first Explore Hogwarts multiball.  Similarly, shooting the right ramp will spot the banner(s) of the indicated color on the right side, or on both sides for your first Explore Hogwarts multiball. Once all eight banners have been spotted, the right ramp will start Explore Hogwarts multiball. 
+Shooting the center ramp will spot the banner(s) of the indicated color on the left side, or on both sides for your first Explore Hogwarts multiball.  Similarly, shooting the right ramp will spot the banner(s) of the indicated color on the right side, or on both sides for your first Explore Hogwarts multiball. Once all eight banners have been spotted, the right ramp will start Explore Hogwarts multiball.
 
-Since both green banners and both yellow banners are spotted at the beginning of the game, it is possible to qualify your first Explore Hogwarts multiball with as few as two ramp shots (if you can shoot one ramp shot to spot both red banners and another ramp shot to spot both blue banners.)  
+Since both green banners and both yellow banners are spotted at the beginning of the game, it is possible to qualify your first Explore Hogwarts multiball with as few as two ramp shots (if you can shoot one ramp shot to spot both red banners and another ramp shot to spot both blue banners.)
 
 During Explore Hogwarts multiball, many shots are lit to score one of four jackpots: Secret Passages, Classrooms, Castle Grounds, or Towers jackpots.  Shooting any jackpot unlights that shot.  Collect four jackpots to light super jackpot at a roving shot (from left to right).  Shooting additional jackpots increases the value of the super jackpot.  Shooting the super jackpot collects the Ring **[horcrux](#heading--horcrux)**.  After shooting the super jackpot, the process repeats.
 
@@ -293,7 +293,7 @@ The Hagrid standup target (between the center ramp and the center lane) will lig
 
 ### Golden Trio Multiball: {#heading--trio}
 
-Light the wand lock at the right orbit and inner loop by completing the spellouts for each member of the Golden Trio. 
+Light the wand lock at the right orbit and inner loop by completing the spellouts for each member of the Golden Trio.
 
 - HARRY: Complete the return lanes (or make the level 1 Harry **[skill shot](#heading--skillshots)**.
 - RON: Complete the left standup targets (or make the level 1 Ron **skill shot**).
@@ -303,11 +303,11 @@ Each spellout lights one lock. Once three balls are locked at the wand, Golden T
 
 "Make 3 shots for each Golden Trio member with relight at their name.  Collect wand jackpot for each.  Re-lock balls to light super jackpot for cup horcrux."
 
-There are three jackpot types: blue jackpots (for Ron on the left), red jackpots (for Harry in the center), and yellow jackpots (for Hermione on the right). After collecting a blue jackpot, hitting a Ron target will relight blue jackpots.  Similarly, after collecting a red jackpot, any Harry lane will relight red jackpots.  After collecting a yellow jackpot, hitting a Hermione target will relight yellow jackpots. 
+There are three jackpot types: blue jackpots (for Ron on the left), red jackpots (for Harry in the center), and yellow jackpots (for Hermione on the right). After collecting a blue jackpot, hitting a Ron target will relight blue jackpots.  Similarly, after collecting a red jackpot, any Harry lane will relight red jackpots.  After collecting a yellow jackpot, hitting a Hermione target will relight yellow jackpots.
 
 Scoring three jackpots of the same color (or two jackpots of the same color if you have earned "Easier Wand Jackpots" from Ollivander's) will light the right orbit, center lane, and inner loop for wand jackpot.  If you are down to two balls, then scoring a wand jackpot will add a ball.  The second wand jackpot scores 2x and the third wand jackpot scores 3x.
 
-After scoring your third wand jackpot, you have 45 seconds to both:  
+After scoring your third wand jackpot, you have 45 seconds to both:
 A) lock the remaining balls (3 balls required to qualify a full-value super jackpot) on the wand, after which one ball will be released, and then
 B) shoot a randomly chosen shot for super jackpot and the Cup **[horcrux](#heading--horcrux)**.
 
@@ -329,12 +329,12 @@ Death Eater Multiball is split into four stages:
 
 At the start of the game, the very first left ramp shot will start Quidditch tryouts. This mode can only be activated once per game - hitting the upper playfield target twice, the ramp twice, the spinner twice, or the snitch / broom shot (which exits the upper playfield to the center ramp to the rotating staircase) once will advance the player's Quidditch position (from worst to best: beater, chaser, keeper, seeker).  After Quidditch tryouts, the player's Quidditch position can only be advanced by shooting the snitch / broom shot or via the appropriate **[potion](#heading--potions)**.  Your Quidditch position dramatically affects your **[Quidditch Bonus](#heading--endofgame)**.
 
-After Quiddich tryouts, make enough spinner hits on the upper playfield to start a Quidditch match.  A Quidditch match lasts until you catch the "Golden Snitch" (by any method described in the bullet points below), drain, or the match times out (40 seconds for 1st match, 30 seconds for second match...).  A random shot's snitch insert will light for a few seconds before roaming to an adjacent shot (easier) or just "teleporting" to any other random shot (harder). (There are 21 tiny snitch inserts on the main playfield and 3 on the upper playfield.) To catch the snitch and successfully complete a match you need to either: 
-- Shoot the lit snitch insert during a match (with the difficulty increasing every match), or 
+After Quiddich tryouts, make enough spinner hits on the upper playfield to start a Quidditch match.  A Quidditch match lasts until you catch the "Golden Snitch" (by any method described in the bullet points below), drain, or the match times out (40 seconds for 1st match, 30 seconds for second match...).  A random shot's snitch insert will light for a few seconds before roaming to an adjacent shot (easier) or just "teleporting" to any other random shot (harder). (There are 21 tiny snitch inserts on the main playfield and 3 on the upper playfield.) To catch the snitch and successfully complete a match you need to either:
+- Shoot the lit snitch insert during a match (with the difficulty increasing every match), or
 - Shoot the left ramp skill shot during a Quiddich match, or
 - Immediately after tryouts and before the ball exits the upper playfield, start a Quiddich match via the spinner, followed by immediately shooting the difficult snitch / broom shot on the upper playfield (with a very late & strong mini-flipper shot that exits onto the center ramp to the back of the rotating staircase).  If you manage this, you will have completed tryouts, started a match, and caught the snitch all during a single visit to the upper playfield.
 
-Catching the "Golden Snitch" earns 150 Quidditch points (see **[The Resurrection Stone](#heading--deathly)**  and **[Quidditch Bonus](#heading--endofgame)** regarding Quidditch points).  Also, during a match, each ramp shot on the upper playfield scores a goal which earns 10 Quidditch points. 
+Catching the "Golden Snitch" earns 150 Quidditch points (see **[The Resurrection Stone](#heading--deathly)**  and **[Quidditch Bonus](#heading--endofgame)** regarding Quidditch points).  Also, during a match, each ramp shot on the upper playfield scores a goal which earns 10 Quidditch points.
 
 After successfully completing three matches (one against each rival house) by catching three Golden Snitches, the next left ramp shot will start Quidditch World Cup multiball.  Progress toward Quidditch World Cup multiball is tracked by the three Golden Snitch inserts visible under the transparent left ramp.
 
@@ -342,12 +342,12 @@ After successfully completing three matches (one against each rival house) by ca
 
 During Quidditch World Cup multiball, shooting green shots scores jackpots.  Shooting the left ramp will switch the jackpots shots to red, which score somewhat more than green jackpots. (The green colors represent the Ireland Quidditch team, and the red colors represent the Bulgaria Quidditch team.)  After scoring enough jackpots to qualify the super jackpot (five jackpots the first time, ? the second, etc.), all jackpot shots will only increase the value of the super jackpot.
 
-Once qualified, the super jackpot is scored with one or more shots to the ramp on the upper playfield with a multiplier that increases every time the ramp shot is looped, to a maximum of 5x.  Scoring the super jackpot also earns the Diadem **[horcrux](#heading--horcrux)**.  
+Once qualified, the super jackpot is scored with one or more shots to the ramp on the upper playfield with a multiplier that increases every time the ramp shot is looped, to a maximum of 5x.  Scoring the super jackpot also earns the Diadem **[horcrux](#heading--horcrux)**.
 
 An add-a-ball seems to be available from the upper playfield at some point.
 
 If you fail to earn the Horcrux in Quidditch Multiball:
-  - 1st failure: only 1 snitch needed to get back to QMB 
+  - 1st failure: only 1 snitch needed to get back to QMB
   - 2nd failure: 2 snitches needed to get back to QMB
   - 3rd failure: all 3 snitches required again
 
@@ -379,7 +379,7 @@ Many different awards are available from Potions that can heavily impact the gam
 - Muggle Points (value TBD)
 - Add Ball Saver (30 seconds)
 - +2 Tilt Warnings
-- **[Auto Relight Diagon Alley](#heading--diagon)** (After visiting Diagon Alley, it will immediately relight) 
+- **[Auto Relight Diagon Alley](#heading--diagon)** (After visiting Diagon Alley, it will immediately relight)
 - **[+1 Bombtastic Bomb](#heading--diagon)**
 - Increase **[Knockturn Alley](#heading--diagon)** Value (+50M)
 - **[Explore Hogwarts](#heading--hogwarts)** Jackpots Stay Lit (the same shots can be repeated again)
@@ -418,7 +418,7 @@ Protego will also automatically activate from weak right spinner shots, or if th
 ### Horcruxes: {#heading--horcrux}
 
 As in the books and movies, there are seven horcruxes, which are the key to Voldemort's survival.  Collecting each of the seven is accomplished by reaching specific goals within the game:
- 
+
 - **Diary**:  visit **[Flourish & Blotts](#heading--diagon)**, and succeed at spell training
 - **Ring**:  collect a Super Jackpot in **[Explore Hogwarts multiball](#heading--hogwarts)**
 - **Locket**:  collect 10 total **[allies](#heading--allies)**
@@ -482,10 +482,10 @@ If the player drains or times out during Deathly Hallows, they can reaccess it b
 
 Playing four different multiballs qualifies **The Battle of Hogwarts** mini-wizard mode.  This is a multi-stage mode in which you must achieve a defined number of playfield feature shots (spinners, targets, ramps, jets & orbits) in each stage.  The required number of each feature will appear in five on-screen badges, which count down as you achieve shots.  When the required number is complete, the badge will be lit blue and say "completed."  To move to the next stage, you must complete 3, 4, or 5 features, depending on the stage and difficulty level.  (Ex., To advance to stage 2, you would need to complete 3 of the following: 65 spinners, 6 targets, 5 ramps, 30 jets, 3 orbits.)  Completing stages 1, 2, and 3 awards 25M, 50M, and 75M, respectively.
 
-Battle of Hogwarts is a multiball mode, which starts with all 6 balls in stage 1.  As you progress to stages 2, 3, and 4, the add-a-ball/ballsave feature will add 3, then 2, then 1, additional balls into play up to the max of 6 balls in play.  Shoot under the upper flipper to start a timed (15 seconds) Protego shield at the right outlane.  If you drain down to a single ball, the mode ends.   
+Battle of Hogwarts is a multiball mode, which starts with all 6 balls in stage 1.  As you progress to stages 2, 3, and 4, the add-a-ball/ballsave feature will add 3, then 2, then 1, additional balls into play up to the max of 6 balls in play.  Shoot under the upper flipper to start a timed (15 seconds) Protego shield at the right outlane.  If you drain down to a single ball, the mode ends.
 
 ### The Boy Who Lived (Wizard Mode) {#heading--lived}
- 
+
 When all seven horcruxes have been collected, **The Boy Who Lived** wizard mode will be lit.  Shoot the center lane to start the mode.  You must then destroy all seven horcruxes, in the same order as the movies, and finally defeat Voldemort to win the mode.  Each horcrux requires a certain number of shots to destroy:
 
 - **Diary**:  shoot 2 orange shots

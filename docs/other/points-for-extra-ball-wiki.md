@@ -311,7 +311,7 @@ Can be multiplied up to 4x by FUEL and snake during MB.
 <td><details>
 <summary>Variable</summary>
 Based on your performance thus far in the game. The "Magic Pill" value is based on current score, divided by which ball # is in play. Collected when you drain. <br> <br>
-Lit by (1) Completing one selectable mode from each mode group, (2) Achieving your first 5-way combo (or three 4-way combos), (3) Completing Miracle Max mini-wizard mode, or (4) Earning a 2nd Pit of Despair ball-save mode when you already have an unused PoD. 
+Lit by (1) Completing one selectable mode from each mode group, (2) Achieving your first 5-way combo (or three 4-way combos), (3) Completing Miracle Max mini-wizard mode, or (4) Earning a 2nd Pit of Despair ball-save mode when you already have an unused PoD.
 </details></td>
 <td> </td>
 <td>No</td>

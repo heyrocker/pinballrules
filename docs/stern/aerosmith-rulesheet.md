@@ -29,9 +29,9 @@ opdb_id: "Gr16e"
 
 - Lead Designer: John Borg
 - Code/Rules: Lonnie Ropp
-- Lead Mechanical Engineer: 
+- Lead Mechanical Engineer:
 - Artwork: "Dirty Donny" Gillies
-- Computer Graphics Art Director: 
+- Computer Graphics Art Director:
 - Lead Sound Designer: Jerry Thompson
 - Release Date: January 2017
 - Code Rev: 1.11.0
@@ -50,7 +50,7 @@ opdb_id: "Gr16e"
 
 ## Skill Shots: {#heading--skillshots}
 
-- Plunge the ball lightly into the lock saucer to score a Hidden Skill Shot, worth 500k points (+500k per skill shot) and +1 **[Smart Missile](#heading--smartmissiles)**. 
+- Plunge the ball lightly into the lock saucer to score a Hidden Skill Shot, worth 500k points (+500k per skill shot) and +1 **[Smart Missile](#heading--smartmissiles)**.
 - Hold the left flipper and short plunge so the ball falls to the right flipper. The three shots that can be made from the right flipper will light - shoot the lit shot to score a Super Skill Shot worth 1M points (+1M per skill shot) and +2 **Smart Missiles**.
 
 ## Songs: {#heading--songs}
@@ -81,7 +81,7 @@ Shoot the toybox to light lock at the lock saucer; you can light up to 6 locks a
 
 At the start of Toybox Multiball, the locked balls come pouring out of the toybox and your goal is to make all 8 shots twice. Base jackpot value is 500K + 50k per jackpot, and the 8th jackpot is a super jackpot. After scoring two super jackpots, roving shot is lit for double jackpot, followed by a double super jackpot at the lock saucer to complete the multiball and reset the jackpot sequence.
 
-Shooting the toybox during Toybox Multiball lights the lock saucer to re-lock up to 2 balls back in the toybox. Lock 1 ball for 20 seconds of 2x scoring, and 2 balls for 3x scoring. This can be done up to three times per Toybox Multiball. 
+Shooting the toybox during Toybox Multiball lights the lock saucer to re-lock up to 2 balls back in the toybox. Lock 1 ball for 20 seconds of 2x scoring, and 2 balls for 3x scoring. This can be done up to three times per Toybox Multiball.
 
 If **[smart missiles](#heading--smartmissiles)** are active, they will spot lit jackpot shots if a **[song](#heading--songs)** shot is also lit there. **[Mystery](#heading--mystery)** will award add-a-ball the first time it is collected during multiball.
 
@@ -124,7 +124,7 @@ Five targets are located behind the upper playfield flipper on Prem / LE models 
 
 ### VIP Pass: {#heading--vip}
 
-VIP Pass ball save is lit at the right outlane by completing the two targets flanking the toybox enough times. If the targets are completed when the ball save is lit, the value of the VIP Pass will increase. 
+VIP Pass ball save is lit at the right outlane by completing the two targets flanking the toybox enough times. If the targets are completed when the ball save is lit, the value of the VIP Pass will increase.
 
 ### Dead Shot Jackys: {#heading--deadshot}
 
@@ -146,7 +146,7 @@ End-of-ball bonus is relatively small, determined by the types of shots that wer
 
 ### Medley Multiball: {#heading--medleymb}
 
-Medley Multiball is a mini-wizard mode qualified by scoring at least 1 award in all **[songs](#heading--songs)**. Shooting the left saucer will begin the mode. Before the mode starts, you will be awarded a 10 million point bonus (+10M) for every song you've completed before starting Medley Multiball. For instance, if you've completed 2 songs, then you'll get 10 + 20M for a total of 30M. Completing all songs before starting the mode will score a 200 million "Perfect Bonus" and qualify **[Final Tour](#heading--finaltour)** after the mode ends. 
+Medley Multiball is a mini-wizard mode qualified by scoring at least 1 award in all **[songs](#heading--songs)**. Shooting the left saucer will begin the mode. Before the mode starts, you will be awarded a 10 million point bonus (+10M) for every song you've completed before starting Medley Multiball. For instance, if you've completed 2 songs, then you'll get 10 + 20M for a total of 30M. Completing all songs before starting the mode will score a 200 million "Perfect Bonus" and qualify **[Final Tour](#heading--finaltour)** after the mode ends.
 
 This is a stage-type add-a-ball MB requiring you to complete certain shots corresponding to each song, but only for the songs that you did _not_ complete during regular mode play.  When you complete a stage, you immediately move onto the next stage (song) and one ball is added to the fun with a short ball saver. The order of the stages are determined by the order of the songs you played. A listing of the tasks required for each song is below. Note that if a song is "completed" during Medley Multiball, it will be considered "completed" for good. Even after you drain down to single-ball play, there's a generous grace period to complete the shots needed to get to the next stage.
 - Rats in the Cellar - Make 25 spinner spins.
@@ -159,7 +159,7 @@ This is a stage-type add-a-ball MB requiring you to complete certain shots corre
 - Toys in the Attic - Shoot the Toybox 6 times. The progress will be shown on the inserts in front of the Toybox.
 - Love in an Elevator - Shoot the Elevator 3 times.
 
-Completing all nine songs during Medley Multiball will qualify the left scoop to score the Medley Multiball Super Jackpot, determined by ?????.  Collecting the Super Jackpot will end the mode, drain all balls in play, and return you to single ball play (with **Final Tour** ready.) 
+Completing all nine songs during Medley Multiball will qualify the left scoop to score the Medley Multiball Super Jackpot, determined by ?????.  Collecting the Super Jackpot will end the mode, drain all balls in play, and return you to single ball play (with **Final Tour** ready.)
 
 ### Final Tour: {#heading--finaltour}
 

@@ -95,7 +95,7 @@ title: "Games With Lock & Point Stealing"
 
 **Ball Stealing** - You can steal balls from your opponents (subject to software settings)
 
-* JJP Pirates of the Caribbean 
+* JJP Pirates of the Caribbean
 
 **Loss of Ball** - You have a ball subtracted from your total ball count
 
@@ -125,15 +125,15 @@ title: "Games With Lock & Point Stealing"
 
 **Feature Hold Across Games** - A feature that retains progress across individual games
 * Apollo 13 - BLASTOFF Letters (tournament mode does fix this)
-* Black Knight 2000 - RANSOM Letters 
-* Cue Ball Wizard - WIZARD & DOUBLE Letters  (has tournament mode) 
+* Black Knight 2000 - RANSOM Letters
+* Cue Ball Wizard - WIZARD & DOUBLE Letters  (has tournament mode)
 * Dr. Dude And His Excellent Ray - Dude-O-Meter (has an tournament rom) and (tournament mode setting)
 * Elvira and the Party Monsters - ELVIRA Letters
 * pokémon (TOPPER MODE)
 * Mustang - MUSTANG Letters (tournament mode fixed start for each player?)
-* Rollergames - WILLIAMS letters (has an tournament rom) 
-* Super Mario Bros - Completed Castles (has tournament mode) 
-* Teed Off - SKINS! & GOPHER Letters (has tournament mode) 
+* Rollergames - WILLIAMS letters (has an tournament rom)
+* Super Mario Bros - Completed Castles (has tournament mode)
+* Teed Off - SKINS! & GOPHER Letters (has tournament mode)
 
 **Features Than Can End Game** - A feature / mode that can End Game Before Player Plays All Balls.
 * Operation Thunder (last mission) (setting)
@@ -169,12 +169,12 @@ title: "Games With Lock & Point Stealing"
 
 **Stolen Points** - Player can lose points and those points are given to another player
 
-* JJP Pirates of the Caribbean 
+* JJP Pirates of the Caribbean
 
 **Gained Points While Not Playing** - Player can be given points when it's not their turn.
 
 * Gilligan's Island (Gift of the God's)
-* Monopoly (Chance card) ? 
+* Monopoly (Chance card) ?
 * Alice Cooper's Nightmare Castle (+1m points when another player steals your locked ball)
 
 **Games That Can Swap Player Scores**

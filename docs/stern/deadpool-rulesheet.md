@@ -75,7 +75,7 @@ opdb_id: "G6lnq"
 
 Battle modes can be started at the scoop at the start of each ball, or after completing the DEAD targets. Battle modes are played out like a side scrolling fighter; each flashing shot, including **[Team-Up](#heading--teamups)** shots if applicable, deals damage, and the scoop (within 10 seconds of winning the battle) finishes each enemy off. Deadpool will take damage at certain intervals if lit shots aren't being made. Running out of health or draining during the battle will result in a loss. However, any progress made will be saved with a fresh Deadpool health bar on your next attempt.
 
-* **Juggernaut**: Hit any 4 D-E-A-D or P-O-O-L standup/drop targets to taunt Juggernaut, prevent him from attacking, and light all of the main shots for damage for 20 seconds (at which point the targets have to be shot again). 
+* **Juggernaut**: Hit any 4 D-E-A-D or P-O-O-L standup/drop targets to taunt Juggernaut, prevent him from attacking, and light all of the main shots for damage for 20 seconds (at which point the targets have to be shot again).
 * **Mystique**: Center spinner, then both ramps, then all three shots will remain lit. Shooting the respective **[Team-Up](#heading--teamups)** shot if it’s available when Mystique transforms into a partner will deal significant damage.
 * **Sabretooth**: Shoot either orbit or the center spinner for damage. All orbit shots during this battle feed the top lanes and pop bumpers for additional damage.
 
@@ -98,7 +98,7 @@ During normal single-ball play, with *no* major modes running, shooting any shot
 
 ## Quests: {#heading--quests}
 
-Shoot the right orbit to advance the chimichanga truck and light **[chimichangas](#heading--items)** (in orange) at all major shots. Only one shot is needed to fully advance the truck the first time; subsequent Quests require one more right orbit shot. Collecting 3 (+1 per Quest, to a max of 8) chimichangas completes your punch card and lights Quest at the scoop. Note that if you have Quest and Battle lit at the scoop, you don't *have* to select a Quest - you can select a Battle instead if you want to. 
+Shoot the right orbit to advance the chimichanga truck and light **[chimichangas](#heading--items)** (in orange) at all major shots. Only one shot is needed to fully advance the truck the first time; subsequent Quests require one more right orbit shot. Collecting 3 (+1 per Quest, to a max of 8) chimichangas completes your punch card and lights Quest at the scoop. Note that if you have Quest and Battle lit at the scoop, you don't *have* to select a Quest - you can select a Battle instead if you want to.
 
 During both quests, Deadpool travels back in time to acquire an artifact from a prehistoric creature. Both quests have completion criteria; once the requirements of the quest have been satisfied, shoot the scoop to finish the quest and earn a large Mode Jackpot bonus (a percentage of all points scored during the quest!). Both quests save progress if failed. Similarly to **[Battles](#heading--battle)**, if you drain with the final shot of a quest lit, you get credit for completing the quest, but you obviously miss out on the Mode Jackpot.
 
@@ -109,11 +109,11 @@ Winning both Quests and playing **[Sauron Multiball](#heading--sauron)** lights 
 
 ## Lil' Deadpool: {#heading--lildp}
 
-Expose the Lil' Deadpool stand-up target by shooting the OOF drop target bank in front of it, then shoot it 2 times (+1 per mode) to start a Lil' Deadpool mode (indicated by the fully green insert). Hitting the standup when the large insert is green will physically lock the ball behind the drop target bank. After a Lil' Deadpool mode is played, complete a **[Battle](#heading--battle)** or **[Quest](#heading--quests)** to qualify the lock procedure for the next Lil' Deadpool mode. 
+Expose the Lil' Deadpool stand-up target by shooting the OOF drop target bank in front of it, then shoot it 2 times (+1 per mode) to start a Lil' Deadpool mode (indicated by the fully green insert). Hitting the standup when the large insert is green will physically lock the ball behind the drop target bank. After a Lil' Deadpool mode is played, complete a **[Battle](#heading--battle)** or **[Quest](#heading--quests)** to qualify the lock procedure for the next Lil' Deadpool mode.
 
 The Lil' Deadpool modes are always awarded in this order, and can be activated during normal play or Battles, but not during Quests or any **[multiball](#heading--multiball)** modes:
 
-* **Lil' Deadpool Multiball**: A new ball is released into the shooter lane and a hurry-up starts counting down from 500k points. Hit the drop target bank to release the captured ball and lock in the hurry-up value as your jackpot, which can be collected 5 times at the Lil' Deadpool target, then 5 times for 2x at the flashing red major shots. Collect 5 double jackpots, then lock a ball at the Lil' Deadpool target to light the spinners for Super Jackpot (500k per spin). The multiball then resets, with higher scoring for each jackpot wave. 
+* **Lil' Deadpool Multiball**: A new ball is released into the shooter lane and a hurry-up starts counting down from 500k points. Hit the drop target bank to release the captured ball and lock in the hurry-up value as your jackpot, which can be collected 5 times at the Lil' Deadpool target, then 5 times for 2x at the flashing red major shots. Collect 5 double jackpots, then lock a ball at the Lil' Deadpool target to light the spinners for Super Jackpot (500k per spin). The multiball then resets, with higher scoring for each jackpot wave.
 * **Lil' Deadpool Frenzy**: 60-second timed mode where all switches score 100k. The Lil' Deadpool target boosts the switch value by 10K, up to a max of 250K a switch.
 * **Lil' Deadpool Bounce**: All 11 targets (DEAD, OOF, and POOL) rove from left to right. Hit any lit target for a bonus depending on which target was hit - OOF = 5m, any non bottom-most side target = 7.5m, any bottom-most side target = 10m. Collecting three targets lights the Lil' Deadpool target for a jackpot equal to the three target values awarded, +1 **[Playfield X](#heading--snikt)** for the remainder of the ball, and some magic unicorn poo (it can't all be good!).
 
@@ -155,15 +155,15 @@ On July 30th 2024, The Boom Button gained additional functionality when used dur
 
 ### Katanarama Time: {#heading--katana}
 
-Collect 3 diamonds at both ramp shots to begin Katanarama Time. This is a 30-second timed mode where the left orbit, left ramp, right ramp, and right orbit score values that start at 1 million and increase by 250 for each successful shot. This mode can start at any time during play. 
+Collect 3 diamonds at both ramp shots to begin Katanarama Time. This is a 30-second timed mode where the left orbit, left ramp, right ramp, and right orbit score values that start at 1 million and increase by 250 for each successful shot. This mode can start at any time during play.
 
 ### Colossal Jackpot: {#heading--colossal}
 
-Making two shots (+2 for each qualification) all the way through the u-turn to the Colossal Jackpot target will qualify the Colossal Jackpot at the same target. This Jackpot is determined by switch hits, with switch hits while the jackpot is lit adding more to the value. It can be doubled with a strong shot to the U-turn that hits the target, and it can be further multiplied by any ongoing **[Playfield X](#heading--snikt)**. 
+Making two shots (+2 for each qualification) all the way through the u-turn to the Colossal Jackpot target will qualify the Colossal Jackpot at the same target. This Jackpot is determined by switch hits, with switch hits while the jackpot is lit adding more to the value. It can be doubled with a strong shot to the U-turn that hits the target, and it can be further multiplied by any ongoing **[Playfield X](#heading--snikt)**.
 
 ### Berserker Rage: {#heading--berserker}
 
-45-second timed spinner mode, lit after 4 (+1) center loop shots, which starts by shooting the flashing center loop. Spinners award an increasing value per spin, bumpers increase it. Other features can still be started when this mode is active, and the mode can also start during other features. 
+45-second timed spinner mode, lit after 4 (+1) center loop shots, which starts by shooting the flashing center loop. Spinners award an increasing value per spin, bumpers increase it. Other features can still be started when this mode is active, and the mode can also start during other features.
 
 During BERSERKER RAGE mode, the lit **[BOOM button](#heading--boom)** awards the BERSERKER BOOM value in addition to collecting the highest value lit shot on the playfield as normal.
 And when the BOOM button is lit for a Super BOOM, the BOOM button will award 4X BERSERKER BOOM value in addition to collecting all of the lit shots on the playfield as normal.
@@ -195,7 +195,7 @@ Mystery is lit at the scoop by completing the **[DEADPOOL targets](#heading--dea
 * **[Ghost X Ninjas](#heading--items)** (1 - 10)
 * **[Collect X Weapons](#heading--items)** (1 - 10)
 * 500k
-* **[Advance Chimichanga Truck](#heading--quests)** 
+* **[Advance Chimichanga Truck](#heading--quests)**
 * Light **[Extra Ball](#heading--extraballs)** (percentage-based)
 * Light **[Special](#heading--special)** (percentage-based)
 * Keep an eye on the "joke" awards that are never selected - some good laughs here.

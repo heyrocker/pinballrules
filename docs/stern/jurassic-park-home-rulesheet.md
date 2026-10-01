@@ -6,7 +6,7 @@ opdb_id: "GxvvB"
 
 # Jurassic Park Home
 
-Jurassic Park Pin aka Jurassic Park Home Edition aka Jurassic Park Home Edition Plus is a pinball machine manufactured by Stern that debuted in October 2021.  A follow up '+' edition was introduced in 
+Jurassic Park Pin aka Jurassic Park Home Edition aka Jurassic Park Home Edition Plus is a pinball machine manufactured by Stern that debuted in October 2021.  A follow up '+' edition was introduced in
 August 2024 with some minor improvements to the design including integration of Insider Connected, a metal lockdown bar, cosmetic coin door, standard start button, and plywood playfield (from MDF). It is the first design led by Jack Danger.
 
 The game features a standard size playfield but smaller/repositioned backbox, smaller LCD screen, a single speaker, and other changes to reduce weight and cost of the machine compared to major Stern releases. Some other differences include simultaneous firing pops and slings due to a single node board, exclusive use of 5020 coils across the machine (including flippers), a new plastic shooter rod mount, playfield secured with 7/16 bolt, lack of 48V interlock with addition of divider, lack of coin accept mechs and othersXX
@@ -81,7 +81,7 @@ The game starts with 2 shots lit for rescue. After both workers are rescued anot
 
 ### T-rex Multiball: {#heading--rtrexrmb}
 
-A 2-ball multiball, qualified by knocking down the wall of drops to expose the T-Rex shot. Shoot it 3 times to begin. During MB, shoot enough orange arrow jackpots to light Super Jackpot at the T-Rex. Collecting jackpots will light other shots for jackpot. 
+A 2-ball multiball, qualified by knocking down the wall of drops to expose the T-Rex shot. Shoot it 3 times to begin. During MB, shoot enough orange arrow jackpots to light Super Jackpot at the T-Rex. Collecting jackpots will light other shots for jackpot.
 
 ### Raptor Tri-Ball: {#heading--raptormb}
 
@@ -118,11 +118,11 @@ Add up the following:
 
 
 
-* **[Rescues](#heading--rescues)** x 
+* **[Rescues](#heading--rescues)** x
 
 * **[Dinos evacuated](#heading--paddocks)**
 
-* **Goats collected** 
+* **Goats collected**
 
 * **Jump ramps completed** x 10,000
 
@@ -130,7 +130,7 @@ Then multiply by Bonus X, if applicable, earned from completing inlane/outlanes.
 
 ### Escape Nublar (Wizard Mode): {#heading--escapenublar}
 
-After 5 dinos are evactuated at the 5 major shots, Escape Nublar lights at the T-rex. Enter the T-rex to start. The volcano is erupting, its time to rescue the last few workers and get off Nublar! This mini wizard mode starts as a 4 ball multiball. Shoot XX number of arrows to light escape at the T-rex. Flashing shots indicated the correct way and increase scoring. Solidly lit shots are the wrong way and end your streak. Rescuing workers does not end the streak.  
+After 5 dinos are evactuated at the 5 major shots, Escape Nublar lights at the T-rex. Enter the T-rex to start. The volcano is erupting, its time to rescue the last few workers and get off Nublar! This mini wizard mode starts as a 4 ball multiball. Shoot XX number of arrows to light escape at the T-rex. Flashing shots indicated the correct way and increase scoring. Solidly lit shots are the wrong way and end your streak. Rescuing workers does not end the streak.
 
 All scoring in the wizard mode is multiplied by the number of balls in play after the final shot to the T-rex.
 

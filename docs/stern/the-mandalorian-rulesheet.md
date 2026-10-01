@@ -42,7 +42,7 @@ opdb_id: "GBLLP"
 
 The story of *The Mandalorian* is set after the fall of the Galactic Empire and before the emergence of the First Order. The series follows the travels of a lone gunfighter in the outer reaches of the galaxy, far from the authority of the New Republic.
 
-In this action-packed pinball quest, players are transported to a galaxy far, far away as they play as the Mandalorian, teaming up with key allies and protecting Grogu, while battling dangerous enemies and forces across their journey. 
+In this action-packed pinball quest, players are transported to a galaxy far, far away as they play as the Mandalorian, teaming up with key allies and protecting Grogu, while battling dangerous enemies and forces across their journey.
 
 * Lead Designer: Brian Eddy
 * Lead Game Developer: Dwight Sullivan
@@ -116,7 +116,7 @@ Game set to *Very Hard*:
 * **Monster Play:**
 In a multiplayer game, player one is the "Monster" and plays with *Impossible Play* rules. All other players are set to Standard Play.
 * **Challenge Mode:**
-In the Challenge mode, you directly play the the "You Have What I Want" wizard mode. 
+In the Challenge mode, you directly play the the "You Have What I Want" wizard mode.
 * **DJ Mixer:**
 Typical jukebox feature as seen in most modern Sterns, allowing you to play the music featured in the machine, including a number of specific playlists.
 
@@ -142,7 +142,7 @@ After playing a multiball, the Razor Crest can be relit to start Razor Crest Hur
 
 The three multiball modes are:
 
-* **(1) Ice Spider Multiball**: Make all of the purple shots once to kill the ice spiders and light the timed Super Jackpot at the U-Turn, which can be collected as many times as possible before the 20 seconds expire and the jackpots relight. The timer for the Super Jackpot can be increased by 5 seconds per upper playfield target. 
+* **(1) Ice Spider Multiball**: Make all of the purple shots once to kill the ice spiders and light the timed Super Jackpot at the U-Turn, which can be collected as many times as possible before the 20 seconds expire and the jackpots relight. The timer for the Super Jackpot can be increased by 5 seconds per upper playfield target.
 * **(2) Jetpack Multiball**: All shots are lit purple to score jackpots and increase the Super Jackpot value; shots can't be repeated until a different shot is made. During the jackpot phase, the left ramp will always divert balls onto the mini playfield, where shots to any of the six standup targets (now flashing purple) will score jackpots and add to the Super Jackpot value, with an add-a-ball for hitting all six targets. Super Jackpot lights at the U-Turn after multiball ends.
 * **(3) Pirates Multiball**: Shoot waves of lit shots to take out pirates and score jackpots while keeping the rhydonium stable with switch hits and shots to the spinner. Each jackpot shot can only be made once per wave, and each wave requires one additional jackpot shot to complete. Complete Wave 3 to light the Super Jackpot at the U-Turn shot; after collecting the Super Jackpot, Wave 1 starts again with each jackpot now requiring two shots to each purple arrow.
 
@@ -172,7 +172,7 @@ An Encounter can be started by shooting the left ramp until the insert in front 
 
 Each Encounter requires three waves of lit target hits indicated by the yellow flashing inserts on the mini-playfield, which can also be spotted by activating the **[Rising Phoenix (Pro) / Jet Pack (Prem / LE)](#heading--equipment)**. After completing the three sets of targets, a timed **Bonus Level** begins where all shots score 2 million + points for each target made during the Bonus Level, and shooting the roving purple targets adds more points to the value scored at the end of the Bonus Level. Progress towards completing Encounter levels carries over between attempts, though Bonus Level ends when either the timer expires or the ball exits the mini-playfield.
 
-Soft plunges and orbits that enter the mini playfield start a Sneaky Encounter, with a starting value that carries over multiple entries. This encounter has a 10 second timer that resets as successful target shots are made (progressing through blue - purple - green), and when the ball exits the mini playfield. 
+Soft plunges and orbits that enter the mini playfield start a Sneaky Encounter, with a starting value that carries over multiple entries. This encounter has a 10 second timer that resets as successful target shots are made (progressing through blue - purple - green), and when the ball exits the mini playfield.
 
 ## Other Features {#heading--otherfeatures}
 
@@ -202,7 +202,7 @@ Beskar can be collected through the following methods:
 
 Once any of the above methods have been achieved, "Foundry" will light at the left scoop to trade in the Beskar for a variety of features. Five of these items are **[equipment](#heading--equipment)**, which can also be obtained through other methods; while others can only be obtained here. Two adjacent items can be purchased during each trip to the Foundry, with a 10% discount on two-item purchases. You may also pass and save your Beskar for later.
 
-Each time you purchase an item, that item's cost will increase by 50% from its current cost (not the base cost). For example, the first Light Encounter is 100 Beskar, the 2nd would be 100 x 1.5 = 150, your 3rd would be 150 x 1.5 = 225, etc. Armor and Extra Ball can only be purchased once and will be replaced with ? on further visits to the Foundry. 
+Each time you purchase an item, that item's cost will increase by 50% from its current cost (not the base cost). For example, the first Light Encounter is 100 Beskar, the 2nd would be 100 x 1.5 = 150, your 3rd would be 150 x 1.5 = 225, etc. Armor and Extra Ball can only be purchased once and will be replaced with ? on further visits to the Foundry.
 
 | Item | Description | Cost | Restrictions |
 | --- | --- | --- | --- |
@@ -249,7 +249,7 @@ Hitting any lit arrow before the timer expires collects the corresponding award 
 
 If no other modes are running and the U-Turn (Pro) / right scoop (Prem / LE) has been shot, all six major shots might light for about 5 seconds; two out of the six shots will start Ambush, while the others will escape and score a bonus of 2 million. On competition settings, the second shot will always start the mode. After the first Ambush has been played, the number of lit shots that might start the mode will decrease to 5.
 
-This is a unique hurry-up mode that starts with the U-turn / reverse scoop lit red to stop the value counting down on the display, and all other shots lit in white to add a few seconds of time and increase the displayed value. Shooting the U-turn / reverse scoop locks in the value, and lights all shots blue (except for the U-turn and right ramp) to add to the value further and return to the white stage to potentially increase the ambush value further again. Shooting the right ramp when all shots are lit blue will end the mode and award the value, meaning the mode can go on for as long as you like if you continuously increase the value. 
+This is a unique hurry-up mode that starts with the U-turn / reverse scoop lit red to stop the value counting down on the display, and all other shots lit in white to add a few seconds of time and increase the displayed value. Shooting the U-turn / reverse scoop locks in the value, and lights all shots blue (except for the U-turn and right ramp) to add to the value further and return to the white stage to potentially increase the ambush value further again. Shooting the right ramp when all shots are lit blue will end the mode and award the value, meaning the mode can go on for as long as you like if you continuously increase the value.
 
 Bonus awards are given out if the player pushes their luck and continues the Ambush instead of ending it:
 - 2 Ambush restarts - **[Flamethrower](#heading--equipment)**
@@ -298,14 +298,14 @@ Super spinner is started upon collecting 100 spinner hits on a single ball, or f
 ### Extra Balls {#heading--extraballs}
 
 Lit extra balls can be collected at the left scoop, and can be lit by:
- * Starting 2 **[Missions](#heading--missions)** 
+ * Starting 2 **[Missions](#heading--missions)**
  * Purchasing one at the **[Foundry](#heading--foundry)** for 600 Beskar (one time only)
  * **[The Child's mystery award](#heading--child)**
 
 ### End-of-Ball Bonus {#heading--bonus}
 
 End of ball bonus is determined by:
-- Switch bonus 
+- Switch bonus
 - 2.5 million per **[Super Jackpot](#heading--razorcrest)** scored
 - 2.5 million per **[Mission](#heading--missions)** completed
 
@@ -326,7 +326,7 @@ Fill out the grid on the left side of the topper by:
 - Completing a **[Hunter](#heading--hunter)** mode
 - Cashing out the value during an **[Ambush](#heading--ambush)**
 
-Once all six icons are solidly lit, and no other modes are running, the next shot to the Razor Crest will start Mandalorian Madness. 
+Once all six icons are solidly lit, and no other modes are running, the next shot to the Razor Crest will start Mandalorian Madness.
 
 Mandalorian Madness starts out as a timed single-ball mode but can turn into a 4-ball multiball by cashing out super jackpots during the mode. All the shots that helped you get to Mandalorian Madness are lit during this mode, and completing any of the sets listed below lights the U-turn for super jackpot:
 - All 3 Mission shots (eject, left ramp, right ramp)
@@ -362,9 +362,9 @@ Play all 3 **[Razor Crest Multiballs](#heading--razorcrest)** once, then shoot t
 
 ### I Like Those Odds {#heading--odds}
 
-Play all 5 **[Missions](#heading--missions)** once, then this mini-wizard mode will start as the 6th mission. This wizard mode is split into three phases: 
-- Shoot both ramps and the Razor Crest once each. Shoot the scoop to finish the phase. 
-- Shoot the above shots again, along with the U-turn. Shoot the scoop to finish the phase. 
+Play all 5 **[Missions](#heading--missions)** once, then this mini-wizard mode will start as the 6th mission. This wizard mode is split into three phases:
+- Shoot both ramps and the Razor Crest once each. Shoot the scoop to finish the phase.
+- Shoot the above shots again, along with the U-turn. Shoot the scoop to finish the phase.
 - 4-ball multiball then begins. Make every major shot to win the mode and start a wizard frenzy for 60 seconds (every switch scores 250,000 points).
 
 ### You Have What I Want {#heading--want}
@@ -373,7 +373,7 @@ Play all 3 **[Encounters](#heading--encounters)** once, then shoot the left ramp
 
 ## This Is The Way {#heading--wizard}
 
-Play all three of the **[mini-wizard modes](#heading--miniwizards)**, then make all six major lit shots followed by the left scoop, to start *This Is The Way* and attempt to earn your Signet. 
+Play all three of the **[mini-wizard modes](#heading--miniwizards)**, then make all six major lit shots followed by the left scoop, to start *This Is The Way* and attempt to earn your Signet.
 
 This mode consists of three rounds, each of which alternates between a single-ball phase and *Multiball Bonus Round*. The single-ball phases start with a ball saver, where you must make 5 shots to qualify the scoop, left ramp, or center shot to start the multiball phase. The first round will have three shot choices per shot, the second will have two, and the third will have one.
 

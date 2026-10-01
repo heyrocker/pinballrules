@@ -30,8 +30,8 @@ opdb_id: "GvBPJ-M1rjr"
 
 - Lead Designer: Steve Ritchie
 - Code/Rules: Bill Grupp
-- Mechanical Engineers: 
-- Artwork: 
+- Mechanical Engineers:
+- Artwork:
 - Display and Animations:
 - Sound Design: Pierce Colbert (base audio), Slash, Jun Senoue (additions to "Open Your Heart" and "It Doesn't Matter")
 - Release Date: June 2026
@@ -44,7 +44,7 @@ opdb_id: "GvBPJ-M1rjr"
 
 Whenever the ball is in the plunger, the player can use the action button to select the **[zone](#heading--zones)** they want to play.
 
-**On ball 1 - Lab Detour**: 
+**On ball 1 - Lab Detour**:
 Eggman will confront Sonic and the player can attack him with a well-aimed shot at the start of the game using the upper playfield. Plunge the ball and hit either the center ramp or left ramp to send the ball to the upper playfield. Then shoot Eggman to score the skill shot, worth a hurry-up starting at 5M, and increase the base scoring for **[boss battles](#heading--zones)**; with boss battles on the first ball scoring 2x their normal amount. The skill shot opportunity disappears if the 20-second timer runs out, or if the ball exits the upper playfield without hitting Eggman's mech. The player also gets 10 seconds of victory laps on the upper playfield after making the skill shot, where every shot adds 5 **[rings](#heading--rings)**.
 
 **On subsequent & locked balls**:
@@ -60,7 +60,7 @@ Awards will be disabled under certain conditions. **Checkpoint** won't be given 
 
 <h2 id="heading--zones">Zones & Boss Battles:</h2>
 
-The main goal of ***Sonic the Hedgehog*** pinball is to complete zones, then win the boss fight against Eggman at the end of each zone. The player selects a zone by using the flippers and action button while the ball is in the plunger lane, then locks it in when they plunge the ball. 
+The main goal of ***Sonic the Hedgehog*** pinball is to complete zones, then win the boss fight against Eggman at the end of each zone. The player selects a zone by using the flippers and action button while the ball is in the plunger lane, then locks it in when they plunge the ball.
 
 During any zone, make enough lit shots to reach **checkpoints** that save your progress in the current zone. The shot value is based on shot difficulty - they vary between 1x, 2x, and 3x the value. Each zone has 6 checkpoints (excluding the last two zones), with the final shot being the Goal Ring that can be scored at either the center ramp (2x) or lab jump ramp (3x) while in single-ball play.
 
@@ -74,7 +74,7 @@ There are seven zones to play through:
 - **Sky Sanctuary**
 - **Seaside Hill**
 
-The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all located on the lower playfield, while 3x "expert" shots are located on the lab upper playfield and indicated with flashing blue lights. 
+The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all located on the lower playfield, while 3x "expert" shots are located on the lab upper playfield and indicated with flashing blue lights.
 
 [details="Zone shot maps"]
 
@@ -167,7 +167,7 @@ Eggman will then present himself and Boss Battle will activate. Shoot the center
 
 **NOTE: All feature modes excluding Master Emerald Mission are not implemented on 0.94 code.**
 
-Feature Modes take priority over all other modes and multiballs once started, and serve as mini-wizard modes of the game. 
+Feature Modes take priority over all other modes and multiballs once started, and serve as mini-wizard modes of the game.
 
 - **Casino Night**: Lights at the lockup after completing 2 **[boss battles](#heading--zones)**. Scores 25M as this mode is not implemented.
 - **Boss Rush**: Lights at the lockup after completing 4 **boss battles**. Scores 50M as this mode is not implemented.
@@ -246,7 +246,7 @@ If the ball drains straight down the middle after shooting the right ramp, defau
 
 <h3 id="heading--froggy">Find Froggy:</h3>
 
-Big is one of Sonic's friends who shows up in the most unexpected places. His pet frog, Froggy, was temporarily controlled by one of the same Chaos Emeralds that gave Chaos its power. 
+Big is one of Sonic's friends who shows up in the most unexpected places. His pet frog, Froggy, was temporarily controlled by one of the same Chaos Emeralds that gave Chaos its power.
 
 Every time the player reaches a **checkpoint** in a **[zone](#heading--zone)**, the Froggy target on the far right of the playfield will light to score a mystery award based on the current fishing gear. Lower tier mystery awards include 5M points and **[rings](#heading--rings)** (5 or 10), while higher tier awards include activating ball save for 8 seconds. More checkpoints are required to light the Find Froggy target every time it is scored. Once the player has all gear, they will be able to catch Froggy (indicated by the target flashing purple / green) and light the center ramp for **[extra ball](#heading--extraballs)**.
 

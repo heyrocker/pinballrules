@@ -32,12 +32,12 @@ These powers are:
 **Action Button -** *Direwolf* … Ghost to the rescue: activating it will immediately complete the house mode you are playing. If you’ve stacked two modes, it will only complete one of the two modes: the house that is listed on top during mode selection screen will be the one that gets completed by Direwolf. The “top” house will correspond with the house displayed on the left of DMD during the stacked modes. Direwolf only awards 5 million points in lieu of any points that would be scored in the mode, so it's best used as a way to ensure you reach HOTK or Iron Throne sooner.
 
 - **Baratheon:**
-**Persistent:** Awards 2 advances towards Battle for the Wall Multiball immediately at the start of the game, and increases Jackpot values during Wall MB. Each completion of drops (presumably during single-ball play only) also advances toward Wall MB. 
+**Persistent:** Awards 2 advances towards Battle for the Wall Multiball immediately at the start of the game, and increases Jackpot values during Wall MB. Each completion of drops (presumably during single-ball play only) also advances toward Wall MB.
 **Action Button:** _Lord of Light_… You’ve got the Red Woman on speed dial: get an instant timed outlane ball-save on both outlanes. Timer looks like it lasts only a few seconds after hitting your next switch.
 
-- **Lannister:** 
+- **Lannister:**
 **Persistent:** Shooting gold targets will award around 1.5x the gold you'd obtain otherwise with other houses. 500 gold is also given at the start of the game. Some of the Mystery awards at high amounts of gold can be worth decent amounts, particularly when stacked with mixed multipliers, and you’ll be hitting the gold targets by accident throughout gameplay anyway.  More importantly, as Lannister, you can now spend your gold on playfield multipliers.
-**Action Button:** _Golden Playfield X_… It pays to be rich: you can instantaneously buy your next PFx level without hitting the battering ram. The PFx level cost = N PFx times 600 gold. So 2x PFx costs 1,200 gold, 3x PFx costs 1,800 gold, etc. You cannot purchase a PFx level that you have not yet qualified from Sword collects. 
+**Action Button:** _Golden Playfield X_… It pays to be rich: you can instantaneously buy your next PFx level without hitting the battering ram. The PFx level cost = N PFx times 600 gold. So 2x PFx costs 1,200 gold, 3x PFx costs 1,800 gold, etc. You cannot purchase a PFx level that you have not yet qualified from Sword collects.
 Note: The Golden PFx ability is *not* limited to once per ball. However, there is overall cap of 8 uses *throughout your game*, so use this wisely!
 
 - **Greyjoy:**
@@ -46,14 +46,14 @@ Note: The Golden PFx ability is *not* limited to once per ball. However, there i
 
 - **Tyrell:**
 **Persistent:** One inlane is always lit to increase the combo multiplier. Lit inlane toggles via lane-change. Tyrell's power may seem small, but it means a LOT - especially during modes.
-**Action Button:** _Iron Bank_ … Trading multipliers for points with the Braavosi bank: same concept as the original code Iron Bank, but with increasing exponential points based on the combination of PFx and ComboX levels that are running when you cash it in. Can be worth up to approx 300M max point value, apparently. As before, cashing in Iron Bank eliminates your active PFx and ComboX. 
+**Action Button:** _Iron Bank_ … Trading multipliers for points with the Braavosi bank: same concept as the original code Iron Bank, but with increasing exponential points based on the combination of PFx and ComboX levels that are running when you cash it in. Can be worth up to approx 300M max point value, apparently. As before, cashing in Iron Bank eliminates your active PFx and ComboX.
 Note: all other non-Tyrell houses that used to have Iron Bank no longer have Iron Bank ability.
 
 - **Martell:**
 **Persistent:** None.
-**Action Button:** _Add-A-Ball_ ... During any Multiball, press the action button to obtain an add-a-ball. 
+**Action Button:** _Add-A-Ball_ ... During any Multiball, press the action button to obtain an add-a-ball.
 
-- **Targaryen** (you can now play as Targaryen!) 
+- **Targaryen** (you can now play as Targaryen!)
 **Persistent:** Similar to Greyjoy, the Targaryen mode is immediately spotted as complete -- house completion without playing any of the three levels of Targaryen.
 **Action Button:** _Freeze Timers_… Even timers bend the knee to Khaleesi: immediately pause all actively running timers (not including ball-save timers) for 15 seconds. Any timers that start during the Freeze period will start out as paused, and then begin their count-down only after Freeze has expired.
 
@@ -86,10 +86,10 @@ Right Target 2-Bank: A bank of touch targets that light locks for Blackwater Mul
 
 All versions allow for a soft plunge and a hard plunge. Playfield validation occurs on a rollover hit.
 
-[Pro] 
+[Pro]
 Skill Shot: Hard plunge into the lit lane to collect the skill shot award of (500k x Ball #) and 1 bonus X.
 
-[Premium/LE] 
+[Premium/LE]
 Plunge options: There is no skill shot, but a hard plunge will feed the upper playfield once per ball.
 
 Bonus X: Complete the two top lanes to increase the bonus multiplier. Bonus X can also be awarded in the pop bumpers or as a Mystery Award. [Pro] Top lane completions also advance to the Wall Multiball. Bonus X caps out at 20x.
@@ -159,7 +159,7 @@ A list with values/bonuses seen on version 1.26 is being worked on. Known values
 Specials: 25 million
 Extra Balls: 15 million; collected at the Dragon [Pro] or Right Loop [Premium/LE].
 
-Winter is Coming: Once a house is lit, the shot you made to advance to it "ices over". Complete any combination of three "iced over" shots or target banks (does not necessarily have to be the same shot) to start the mode. During the mode, the last "iced over" shot will flash and no other progress (other than locks, lighting outlanes, and multiball starts) can be made. Shoot the flashing white shot to collect the hurry up value. Collect four hurry-up values to begin the Winter Has Come mini-wizard mode. Each of the seven shots can be collected (both target banks, both ramps, both loops, and the dragon). _Warning: if your third Blackwater lock is lit and you start Winter is Coming on the center ramp, multiball will start without the option to choose House modes to stack into it! One possible workaround strategy is to just get the center ramp hurryup out of the way before locking balls. This is by design and is not a bug._ 
+Winter is Coming: Once a house is lit, the shot you made to advance to it "ices over". Complete any combination of three "iced over" shots or target banks (does not necessarily have to be the same shot) to start the mode. During the mode, the last "iced over" shot will flash and no other progress (other than locks, lighting outlanes, and multiball starts) can be made. Shoot the flashing white shot to collect the hurry up value. Collect four hurry-up values to begin the Winter Has Come mini-wizard mode. Each of the seven shots can be collected (both target banks, both ramps, both loops, and the dragon). _Warning: if your third Blackwater lock is lit and you start Winter is Coming on the center ramp, multiball will start without the option to choose House modes to stack into it! One possible workaround strategy is to just get the center ramp hurryup out of the way before locking balls. This is by design and is not a bug._
 
 Multipliers: There are two types of multipliers in the game: one for the overall playfield scoring and another for combos collected. Making shots allows the multipliers for other shots to increase up to 5x. Shooting the battering ram 3 times qualifies the playfield multiplier, and shooting it again begins a round where all playfield values are 2x for a period of time.  For each subsequent 4 hits to the ram, the playfield multiplier will increase 1x to a maximum of 5x. The higher the multipliers are, the less time you have to use them. These multipliers can be cashed in at any time during the ball by pressing the action button; despite taking away all multipliers, this also can award some decent points. The best way to handle cashing in is by pressing the action button as the ball drains.  **Exception:**  If you have wildfire lit at the ram, only 3 hits are required to increase the playfield multiplier.  Also, you will notice that after the first hit to the battering ram the blue arrow in front of it will start flashing.  While this is flashing, you can advance to the next portion of lighting the playfield multiplier.  If this times out, you must hit the ram again, get the arrow flashing, then hit the ram a second time to advance.  So, while in theory it only takes 3-4 hits to the ram to increase the playfield multiplier, if you take too much time, it can take you more hits.
 
@@ -173,8 +173,8 @@ Swords: Completing any house mode (or a pop bumper award) lights the right ramp 
 
 **Blackwater Multiball**: Shoot the two standup targets to the right to light lock at the left ramp. You must lock a ball prior to lighting your next lock. Lock 3 balls to begin the multiball. During multiball, complete the five major shots to collect Jackpots and light the Super Jackpot at the battering ram. The Super Jackpot stays lit for 20 seconds and can be collected as many times as you hit the ram, which also counts for playfield multiplier increases. The Super Jackpot is worth ((6 * SJP level * jackpot amount) + SJP BASE AMOUNT) * playfield multiplier. When the Super Jackpot times out with the multiball still running, the Jackpots re-light and need to be collected twice, but the second shot and the Super Jackpot are worth double. Timing out subsequent Super Jackpots will add another shot required for completion at 1x higher multiplier, and make the Super worth 1x more. Locks for the first multiball only require one hit to either green target; 2nd BWMB locks require both individual targets to be hit; 3rd+ BWMB requires completing both targets on a timer after the first target is hit.
 
-**Wall Multiball**: 
-[Pro] Completing the top lanes 6 times enables Wall Multiball. Shoot the dragon to begin the multiball. 
+**Wall Multiball**:
+[Pro] Completing the top lanes 6 times enables Wall Multiball. Shoot the dragon to begin the multiball.
 [Premium/LE] Shooting Castle Black 6 times enables Wall Multiball. Shoot the right loop to begin the multiball.
 [Both] Completing the Baratheon drop targets, while playing _as_ House Baratheon, also spots one advancement toward Wall.
 Once the 3-ball multiball begins, shoot 3 ramp shots to collect Jackpots and light the Super Jackpot on the Dragon. The Jackpots will then be lit on the loops. Shooting 3 loops lights the Dragon again for a Super Jackpot, and Jackpots return to the ramps. Baratheon's powerup increases the value of the Jackpot and Super Jackpot, and used to be a viable house for high scores via Wall MB, but later code revisions decreased the points from Wall MB significantly. Further Wall multiballs require 11 top lane completions/Castle Black shots.
@@ -222,10 +222,10 @@ Completing four houses while not currently challenging a house will light HOTK.
 The houses that you take into HOTK wizard mode can be important. Each house brings with it an attribute that will make it easier or more difficult to get through the mode. They are as follows:
 
 * **Stark**: Bonus round - 20 Seconds of free shooting after a completed set (lights up random shots for points; you may not want to go for these, it's a waste of time and it could end HOTK prematurely)
-* **Baratheon**: All 7 shots instead of 4 shots must be completed in order to finish a set. 
+* **Baratheon**: All 7 shots instead of 4 shots must be completed in order to finish a set.
 * **Lannister**: +100,000,000 added to hurry-up
 * **Greyjoy**: One less set needed to start super jackpot hurry up
-* **Tyrell**:  +15,000,000 per super jackpot 
+* **Tyrell**:  +15,000,000 per super jackpot
 * **Martell**: All shots must be completed twice
 * **Targaryen**: +500,000 per shot award
 
@@ -300,13 +300,13 @@ During modes, the upper playfield is used to collect Castles and advance in the 
 
 * Tyrell: Does nothing before the castle is collected, but lights the back lanes to spot the current lit shot afterwards.
 
-* Targaryen 1/2: Build Targaryen Hurry-Up. Collecting the castle also lights the targets. 
+* Targaryen 1/2: Build Targaryen Hurry-Up. Collecting the castle also lights the targets.
 
 * Targaryen 3: Build Targaryen Hurry-Up. Collecting the castle also lights the targets, which do damage to the dragon as well (just like 1 hurry-up collect).
 
 Spinner Rule:
 
-There are 9 levels to the spinner.     
+There are 9 levels to the spinner.
 - You can only increase the level of your spinner up to how many house modes you have completed plus one.
 - When the spinner value is increased the value grows based on what level your spinner is at. Each level grows the spinner faster.
 - Each ball the spinner starts a level one.

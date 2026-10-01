@@ -87,9 +87,9 @@ There are six main objectives listed above the flippers that must be completed t
 
 Shoot the gong to light island scenes at the same shot that was used to start them. On the Pro models that lack a gong, island (blue) arrows must be collected to light start scene: one arrow is required to light the first scene increasing by one per scene to a max of five.
 
-Every island scene completed by making the required shots in the 60-second time limit will award a **[map segment](#heading--map)**. The timer can be extended by +15 seconds by hitting the gong, once per scene. Playing all five island scenes rewards island scenes completed level 1 towards **[8th Wonder](#heading--wonder)**, but completing all five island scenes rewards it at level 2. The **[Crash the Gate](#heading--gate)** mini-wizard mode is also made available once all five island scenes are completed, and the player can repeat island scenes as many times as possible until they are completed. 
+Every island scene completed by making the required shots in the 60-second time limit will award a **[map segment](#heading--map)**. The timer can be extended by +15 seconds by hitting the gong, once per scene. Playing all five island scenes rewards island scenes completed level 1 towards **[8th Wonder](#heading--wonder)**, but completing all five island scenes rewards it at level 2. The **[Crash the Gate](#heading--gate)** mini-wizard mode is also made available once all five island scenes are completed, and the player can repeat island scenes as many times as possible until they are completed.
 
-Any **[multiball](#heading--multiballs)** can be started during a scene, unless the scene was turned into a 2-ball multiball using **[Island Lock](#heading--lock)**, in which case all progress towards advancing or starting the other multiballs is delayed until the player returns to single-ball play. 
+Any **[multiball](#heading--multiballs)** can be started during a scene, unless the scene was turned into a 2-ball multiball using **[Island Lock](#heading--lock)**, in which case all progress towards advancing or starting the other multiballs is delayed until the player returns to single-ball play.
 
 There are five Island Scenes:
 
@@ -123,7 +123,7 @@ These features become enabled if the player activates an island scene mode with 
   - **Cross the Chasm** - U-turn shots
   - **Pterodactyl Attack** - Kong cave shots
   - **Stegosaurus Encounter** - all lit shots
-  - **Escape the Swamp** - punchback target hits 
+  - **Escape the Swamp** - punchback target hits
 - **Victory Challenge**: After completing the required shots during an island scene, if the player is still in multiball, a victory challenge will start for the rest of the mode's length (the first 5 lit shots will add +5 seconds to the timer each). All shots are lit to score awards: "easy" shots score 5% of the mode total and "hard" shots score 10% of the mode total. After collecting all of the lit shots, the gong will light to score a victory jackpot worth 50% of the mode total. Victory challenge ends once time runs out or the player drains down to one ball.
 
 ## Climbing the Building: {#heading--climb}
@@ -139,7 +139,7 @@ Awards are given for every section of the building climbed:
 - 500 ft - Light **island lock**
 - 600 ft - 10M & light **NYC event 2**
 - 700 ft - Spot a **map segment**
-- 800 ft - 
+- 800 ft -
 - 900 ft - Light **island lock**
 - 1000 ft - 10M & light **NYC event 3**
 - 1100 ft -
@@ -160,7 +160,7 @@ NYC Events *cannot be stacked* with other modes. An NYC Event cannot be started 
   - Completing the mode starts victory laps.
 - *Limited flip count (2x scoring)*
   - Single-ball, left and right flippers have their own flip counts. Each flipper starts with 30 flips.
-  - Ball save is on for the duration of the mode. 
+  - Ball save is on for the duration of the mode.
   - Hitting the gong will add 10 flips to both flippers, up to 3 times. Advancing a stage will award 3 more flips each on both flippers. Draining the ball will subtract 5 from both flippers.
   - When one flipper is out of flips, it is disabled but the mode can continue. Note that the flipper cannot be held up after the final flip. When both flippers are out of flips, the ball is forcibly drained.
   - Draining with 5 or fewer flips on each flipper ends the mode, but the ball is saved and returns to single-ball play. The auto-plunger does not fire, but skill shots are not available on this plunge.
@@ -252,7 +252,7 @@ Scoring a super jackpot during King Kong Multiball and playing the fourth Pit Mu
 
 ### King Kong Multiball: {#heading--kong}
 
-Light the locks for this multiball at the center ramp by completing the drop targets when "light kong lock" is flashing.  All three locks will be lit the first time, but afterwards only one lock will light at a time. The third lock will start King Kong Multiball (or light it to start at the right orbit on the Pro). 
+Light the locks for this multiball at the center ramp by completing the drop targets when "light kong lock" is flashing.  All three locks will be lit the first time, but afterwards only one lock will light at a time. The third lock will start King Kong Multiball (or light it to start at the right orbit on the Pro).
 
 King Kong multiball starts on the Prem / LE by releasing all three balls from the train for Kong awards at the side ramp. The Kong award then resets to a lower value for the rest of the multiball.
 
@@ -273,7 +273,7 @@ The first multiball requires four pit shots, three to light it and one to start 
 The three multiballs are, from top to bottom:
 - **2-Legged Lizard**: Shoot the pit three times to light jackpot and score increasing points. To score the jackpot, shoot the pit, then knock the ball held by the magnet into the targets. Lit shots increase the jackpot by 500k. The maximum jackpot value is ?
 - **Octopus Insect**: Shoot all three right-side standup targets to light the jackpot at the pit. Far left standup target increases target values, and red shots increase jackpot value. Finish multiple rounds of standup targets to increase the jackpot multiplier.
-- **Giant Spider**: Collect 30 switch hits (+5 per jackpot) to light jackpot at the pit. Further non-spinner switch hits increase the base jackpot value. Shoot the ramps to increase the jackpot multiplier +1x. Each lit ramp can only be hit once meaning the maximum jackpot multiplier is 4x, and the maximum jackpot value is 25M x 4. 
+- **Giant Spider**: Collect 30 switch hits (+5 per jackpot) to light jackpot at the pit. Further non-spinner switch hits increase the base jackpot value. Shoot the ramps to increase the jackpot multiplier +1x. Each lit ramp can only be hit once meaning the maximum jackpot multiplier is 4x, and the maximum jackpot value is 25M x 4.
 
 **[Island mystery](#heading--mystery)** (lit via **[River Awards](#heading--river)**) will always award Add-A-Ball the first time it is collected during any of the first three pit multiballs.
 
@@ -387,7 +387,7 @@ Once Rapids begins, you have 40 seconds to loop the center spinner shot to build
 
 The log bridge is a hidden diverter near the **[river](#heading--river)** shot that diverts all balls to the mini-flipper, allowing the player to pick off drop targets or hit the **[cliffs ramp](#heading--cliffs)**. While the diverter activates on its own during modes that require cliffs ramp shots, the player can also control when this bridge activates. In competition mode, the bridge activates less often: it will never activate unless a drop target cipher is available or the cliffs ramp is lit for an award. During **[NYC events](#heading--nyc)**, the player has unlimited bridge uses for as long as the mode lasts.
 
-The player starts the game with 1 log bridge use. One use is added at the start of every ball, and more can be earned by earning **[KING KONG](#heading--trex)** letters or hitting the spider pit (competition mode only), to a maximum of 5. To use the log bridge, press the *action button* right before the ball enters the river lane, either after shooting the right orbit or even off of the initial plunge. 
+The player starts the game with 1 log bridge use. One use is added at the start of every ball, and more can be earned by earning **[KING KONG](#heading--trex)** letters or hitting the spider pit (competition mode only), to a maximum of 5. To use the log bridge, press the *action button* right before the ball enters the river lane, either after shooting the right orbit or even off of the initial plunge.
 
 The third **[treasure hunt](#heading--map)** of a game awards the **Echo Horn** which adds +2 log bridge uses per ball.
 
@@ -448,7 +448,7 @@ There are many different combos corresponding to different banana types that can
 
 ## Island Mystery: {#heading--mystery}
 
-Light island mystery at the Kong Cave VUK by collecting enough **[river shots](#heading--river)**. 
+Light island mystery at the Kong Cave VUK by collecting enough **[river shots](#heading--river)**.
 
 Mystery can award any of the following:
 
@@ -505,7 +505,7 @@ Crash the Gate is a 90-second timed mode (but can be up to 120 seconds long, as 
 
 - **Save Ann** - gong
 - **Cross the Chasm** - cliffs ramp
-- **Pterodactyl Attack** - drop targets 
+- **Pterodactyl Attack** - drop targets
 - **Stegosaurus Encounter** - center spinner
 - **Escape the Swamp** - punchback target
 
@@ -521,7 +521,7 @@ Shoot all of the flashing arrows to score awards while avoiding slingshots. Shoo
 
 If 15 slingshots are triggered, the player must hit the gong to save Ann; all progress towards T-Rex damage is postponed until the gong is hit.
 
-Once all of the currently flashing arrows of the same color have been hit, shoot the pit to hold the ball and light the action button to rapidly pummel the T-Rex for 100k + 2k per button mash for 10 seconds. Each red arrow shot during pummel adds 500k to the pummel value, increases the pummel multiplier by +1x (applied to the total of all button presses when the timer expires), and increases the Pummel phase timer. Each T-Rex takes two Pummels, with the third lit shot to the Pit defeating it (7.5M for the first, 15M for the second). 
+Once all of the currently flashing arrows of the same color have been hit, shoot the pit to hold the ball and light the action button to rapidly pummel the T-Rex for 100k + 2k per button mash for 10 seconds. Each red arrow shot during pummel adds 500k to the pummel value, increases the pummel multiplier by +1x (applied to the total of all button presses when the timer expires), and increases the Pummel phase timer. Each T-Rex takes two Pummels, with the third lit shot to the Pit defeating it (7.5M for the first, 15M for the second).
 
 Defeating one T-Rex awards an add a ball. Defeating both T-Rex will complete the mode and give credit for the level 2 "T-Rex Defeated" light towards **[8th Wonder](#heading--wonder)**.
 

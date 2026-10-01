@@ -12,7 +12,7 @@ THis will take you to Github's editor interface where you can create your rulesh
 
 ![A screenshot of the editor interface on Github](images/new_rulesheet.png)
 
-The first thing you will need to do is name your rulesheet, although what you are actually doing is naming the file the rulesheet will be stored in. The standard for rulesheet file names is that each word in the title is separated by hyphens, and given an extension of ".md". For instance World Cup Soccer becomes world-cup-soccer.md. 
+The first thing you will need to do is name your rulesheet, although what you are actually doing is naming the file the rulesheet will be stored in. The standard for rulesheet file names is that each word in the title is separated by hyphens, and given an extension of ".md". For instance World Cup Soccer becomes world-cup-soccer.md.
 
 The rule sheets are written in [Markdown](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet), which allows you to do formatting using plain text. The previous Tilt Forums rulesheets also used Markdown, although they had a more complete editor to help with it. Name your rulesheet, make whatever changes are necessary, and then click the "Commit changes..." button at the top right.
 

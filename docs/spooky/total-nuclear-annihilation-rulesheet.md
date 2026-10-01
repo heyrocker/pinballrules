@@ -174,13 +174,13 @@ It is possible to score a quick Super Jackpot when multiball starts by shooting 
 
 ### Multiball Multiplier {#heading--multiballmultiplier}
 
-**Multiball Multiplier** 
-During multiball, playfield values will be multiplied by the number of balls in play.  The multiplier inserts will change color and reflect the playfield multiplier during multiball (2x or 3x). 
+**Multiball Multiplier**
+During multiball, playfield values will be multiplied by the number of balls in play.  The multiplier inserts will change color and reflect the playfield multiplier during multiball (2x or 3x).
 
 ### Add-a-ball {#heading--addaball}
 
 **Add-a-ball**
-During multiball, put the ball in the scoop behind the drop targets for an add-a-ball. This can raise the playfield multiplier to 4x if you still have all other balls in play. Add-a-ball will be awarded if you hit that scoop immediately when the multiball starts, before the drops have been reset to the up position. 
+During multiball, put the ball in the scoop behind the drop targets for an add-a-ball. This can raise the playfield multiplier to 4x if you still have all other balls in play. Add-a-ball will be awarded if you hit that scoop immediately when the multiball starts, before the drops have been reset to the up position.
 
 ### Jackpot values {#heading--jackpotvalues}
 

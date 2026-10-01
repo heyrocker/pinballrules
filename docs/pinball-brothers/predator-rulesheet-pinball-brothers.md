@@ -25,7 +25,7 @@ opdb_id: "Gwe3B"
 There are 6 weapons in the game, ranging from the Pistol to the legendary Minigun. For each upgrade you will be better prepared for facing the Hunter.
 
 Shoot the 3 GUN Targets in the middle of the playfield to qualify a weapon collect in the Camp Scoop. Once collected you need to change the weapon in the left Camp
-Reverso ramp to get it equipped. 
+Reverso ramp to get it equipped.
 
 Sweep the GUN Targets to collect AND equip a weapon in one go!
 
@@ -35,7 +35,7 @@ To survive all the Predator Attacks: First Encounter, If It Bleeds We Can Kill I
 
 To use the weapon, just press the launch button. For each time you fire, ammo will decrease.
 
-To use weapons, you need ammunition. Collect ammo in A-M-M-O lanes and from jungle target hurry-up triggered by left inlane. Maximum 5 clips of ammo can be carried at a time. 
+To use weapons, you need ammunition. Collect ammo in A-M-M-O lanes and from jungle target hurry-up triggered by left inlane. Maximum 5 clips of ammo can be carried at a time.
 
 When you are fully stacked with ammo, every other A-M-M-O collect will award Bonus X! It can be wise to collect some multipliers before start using up the ammo again.
 
@@ -46,14 +46,14 @@ You can use the weapon to:
 - Progress towards Special Missions
 - Make progress IN Special Missions
 - Score jackpots in multiballs
-- Fight and find the Hunter 
+- Fight and find the Hunter
 
 Using up all ammo will reset the currently equipped weapon and leave you with the Pistol again!
 
-#### AMMO hurry-up 
+#### AMMO hurry-up
 Right lower standup target, triggered by left inlane and left reverso
 
-### Skill shots 
+### Skill shots
 - Quick push/release of the Launch Ball Button launches with power but
 no control. Press and HOLD the button the engage the timed
 launcher. The arrow inserts will start animating in the shooter lane. Each
@@ -62,7 +62,7 @@ weakest and all arrows lit the strongest. Release the button in a
 timely manner to score Skillshots.
 - Before pushing the Launch Button you can move between several Skillshots around the playfield with the flipper buttons – to decide what you should
 aim for. Once the Launch Button is pressed the Skillshot is locked in.
-- Scoring a Skillshot lights the Super Skillshot in the right Helicopter Ramp. 
+- Scoring a Skillshot lights the Super Skillshot in the right Helicopter Ramp.
 
 ### THE CREW
 Dutch needs his crew to get out of the jungle! Collect the soldiers and Anna around the playfield. Every crew member improves the Special Missions (modes) by adding 0.5x to the scoring. Bringing the whole squad means a massive boost of points in every mission!
@@ -70,7 +70,7 @@ Dutch needs his crew to get out of the jungle! Collect the soldiers and Anna aro
 But once gathered you also need to protect your crew. Watch out as the Hunter will take every chance to take them out. Luckily, this is a pinball game and here the crew can be revived and return to action!
 In normal game play crew inserts will blink red for any crew in need of revival.
 
-During Predator Attacks the crew can be revived in the Camp Scoop when the Hunter has temporarily snuck away to lick its wounds (during the Search Phase). 
+During Predator Attacks the crew can be revived in the Camp Scoop when the Hunter has temporarily snuck away to lick its wounds (during the Search Phase).
 
 Gathering the whole squad will get the Hunter’s attention. Prepare for Hunter
 Multiball for some unmatched kill and revival action!
@@ -102,7 +102,7 @@ Reaching the first Jungle Hunt (step 4) will award an Extra Ball.
 
 ### PREDATOR ATTACKS
 There are three different, but all lethal, encounters with the Predator on the way towards the final fight. They all play in a similar way, but they get increasingly more difficult. Bring your best crew and your biggest gun to stand a chance to (temporarily) beat the Hunter! Predator isn't hiding. He's hunting, and you're the target.
- 
+
 #### Deadly Attack - First Encounter
 #### if it Bleeds, We Can Kill It
 #### El Cazador - Trofeo de los Hombres
@@ -148,8 +148,8 @@ The first and second Jungle Encounters are easier to win compared to ones that f
 awards an Item besides scoring big.
 
 USING SPECIAL ITEMS
-There are five Special Items represented in the game. Each and everyone of them significant from the movie. Each Item provides a benefit in the Special Mission to which it is related. 
-The following relations between Items and Special Missions apply: 
+There are five Special Items represented in the game. Each and everyone of them significant from the movie. Each Item provides a benefit in the Special Mission to which it is related.
+The following relations between Items and Special Missions apply:
 • Map            - The Assignment  = Double Spins to prepare soldiers disembark
 • Badge         - Green Berets = 1 reverso ramp instead of 2
 • Knife           - Settings Traps = Awards 2 hits per target
@@ -158,7 +158,7 @@ The following relations between Items and Special Missions apply:
 
 #### The Assignment
 
-The mission goal is to disembark the whole crew in the jungle. 
+The mission goal is to disembark the whole crew in the jungle.
 Shoot the spinners (3) in the game to make the chopper closing in to the ground and get ready for disembarking soldiers. Every time a spinner is hit the meters are counting down towards 0 where a disembark possible. The conditions are hard and there is only a limited amount of time to get them all down on the ground.
 
 Every time the meter reaches zero from ramp shots another soldier is ready to
@@ -174,14 +174,14 @@ Shoot the two reverso ramps, left and right, to search for the crashed chopper w
 
 Once located you need to make the climb up the trees to actually find the
 skinned bodies hanging from the trees! Make the climb three times to light up
-the final mission shot in the right ramp! 
+the final mission shot in the right ramp!
 
-Make the final shot up the right ramp to collect the Win in the Helicopter. 
+Make the final shot up the right ramp to collect the Win in the Helicopter.
 
 #### Setting Traps
 
 Aim for all the stand-up targets in the game (4) to set a trap. You need to set 10 traps before the time runs out to catch the Hunter (temporarily). Shoot the camp bumper area to build up the
-cash-out score. 
+cash-out score.
 
 Shoot pop bumpers to build up lookout points.
 
@@ -192,9 +192,9 @@ Hunter in the net and get the cash out!
 
 HELP ANNA ESCAPE!
 Shots are lit all over the playfield while the crew is making its way through the jungle.
-Anna is considering when and where she will find a way to escape. Make a purple shot and Anna escapes this way! If she gets caught, all shots get lit again. Make another shot to make her escape again. 
+Anna is considering when and where she will find a way to escape. Make a purple shot and Anna escapes this way! If she gets caught, all shots get lit again. Make another shot to make her escape again.
 
-With the Hostage on the run the crew must follow and find here. Now only the route Anna took is lit, shoot this shot to catch her and get a good reward. Points will increase for every time Anna is caught. 
+With the Hostage on the run the crew must follow and find here. Now only the route Anna took is lit, shoot this shot to catch her and get a good reward. Points will increase for every time Anna is caught.
 
 #### Hunter & Prey
 BUILD TRAPS AND EVADE THE HUNTER!
@@ -205,7 +205,7 @@ Prepare the traps to eventually capture the Hunter. Shooting lit mode shots awar
 - Distracting (Standup Targets)
 - Evading (Outer orbits)
 
-Manage your way through all of the stages, by making enough mode shots for each stage, to finally completing the mode in the Jungle. 
+Manage your way through all of the stages, by making enough mode shots for each stage, to finally completing the mode in the Jungle.
 
 Make the final shot into the jungle to evade the Hunter. Dutch falls into
 the water and the epic end fight will eventually start.
@@ -215,9 +215,9 @@ the water and the epic end fight will eventually start.
 
 #### Get to the Choppa Multiball
 LIGHT LOCKS & START MULTIBALL
-Shoot the right ramp until LIGHT LOCK is lit. 
+Shoot the right ramp until LIGHT LOCK is lit.
 Shoot right ramp again to lock the first ball in the Helicopter.
-Shoot it a second time to lock ball 2 and to kick off GET TO DA CHOPPA! Multiball. 
+Shoot it a second time to lock ball 2 and to kick off GET TO DA CHOPPA! Multiball.
 
 TABLES ARE TURNED
 Shoot the inner orbit surrounding the Predator and the perspective will change into the thermal vision of the Hunter. Music is deranged and jackpots are lowered. But this only lasts for a few seconds before things go back to normal. But maybe there is a purpose of this. Perhaps there is something to gain if you change into this perspective right before… well maybe you can find out.
@@ -229,7 +229,7 @@ all to light the Super Jackpot in the Jungle. Get the Super Jackpot before
 the timer is down at zero to score the Super and advance to Phase 2.
 
 PHASE 2 - RIVER
-This phase starts when Dutch falls down into the river and starts swimming. Keep swimming by shooting all the jackpots and qualify the Super Jackpot in the Chopper. 
+This phase starts when Dutch falls down into the river and starts swimming. Keep swimming by shooting all the jackpots and qualify the Super Jackpot in the Chopper.
 
 ADD-A-BALL
 Lower Right Standup target is flashing blue for Add-A-Ball.
@@ -248,30 +248,30 @@ Shoot the reverso ramps to collect jackpots. Shoot enough to lit up the Super Ja
 #### Jungle Blast Multiball
 
 LIGHT LOCKS & START MULTIBALL
-Down the GUN targets to light LOCK at the top lock magnet reached via both left and right orbits. If you are lucky, you can get a sneak lock by dropping the ball into the subway without lighting lock! One way of doing this is to hold up the upper right flipper when the ball comes from a quick shot in the inner orbit around the Predator. 
+Down the GUN targets to light LOCK at the top lock magnet reached via both left and right orbits. If you are lucky, you can get a sneak lock by dropping the ball into the subway without lighting lock! One way of doing this is to hold up the upper right flipper when the ball comes from a quick shot in the inner orbit around the Predator.
 
 Lock 3 balls on the minigun wire form under the army net and you are good to go. Epic MB intro awaits!
 
 The goal is to score jackpots to fill up the extra special ammo meter for the Ol’
-Painless in the upper left corner of the screen. Time will decrease the meter, so you better fill it up and aim for the Super Jackpot before it drops again. The Super is lit in the left and right orbits leading to the top magnet. 
+Painless in the upper left corner of the screen. Time will decrease the meter, so you better fill it up and aim for the Super Jackpot before it drops again. The Super is lit in the left and right orbits leading to the top magnet.
 
 BLAIN REVIVE JACKPOT
-Bring Blain into Jungle Blast MB to get a chance to score a special Revive Jackpot in the left reverso. Blain dies in this legendary part of the movie, but you can revive him and get awarded! 
+Bring Blain into Jungle Blast MB to get a chance to score a special Revive Jackpot in the left reverso. Blain dies in this legendary part of the movie, but you can revive him and get awarded!
 
-#### Hunter Multiball 
+#### Hunter Multiball
 Playing as the Predator with the goal of killing all the soldiers. Hunter MB is
 qualified for start in the right Wrist Blade Reverso Ramp after collecting all 6 crew members.
-First stage is killing all the soldiers. Hit one of the 6 soldier shots for 5 million points per soldier killed. When all 6 soldiers are killed you start the second stage. 
+First stage is killing all the soldiers. Hit one of the 6 soldier shots for 5 million points per soldier killed. When all 6 soldiers are killed you start the second stage.
 Second stage is reviving all the soldiers. Videos are in black and white with color overlays. Hit one of the 6 soldier shots to revive  your soldier. Revive all 6 soldiers to complete the mode.
 
-Other: 
+Other:
 
 #### Yautja display
  - displays weapon in yautja language, some countdowns, jackpot, add-a-ball, Multiball ended
  #### Bonus x
 -  completed missions award bonus x
 
-#### End of ball bonus 
+#### End of ball bonus
 - weapons collected x250k, soldiers (characters) x 500k, jungle progress x100k, items collected x 1million, all that times bonus x
 
 -------------------------------------

@@ -177,7 +177,7 @@ Hit either lowered scoop ramp entrance (from either the lower or upper flipper) 
 The first crab suit requires approx six target hits; the second requires 12 and a shot to both orbits; the third requires 18 and two shots to both orbits.
 
 There are 3 stages of the multiball - each time you defeat the crab suit, the next stage will start in order.
- 
+
 Scoring a super jackpot during this multiball awards a **[PANDORA letter](#heading--pandora)**.
 
 **[Milestones](#heading--milestones)** are awarded for completing 1 stage, or playing all 3 stages of this multiball.
@@ -206,7 +206,7 @@ Two **[lane awards](#heading--inlanes)** can make it easier to take advantage of
 
 Meuia increases by 1 every time a shot is made over the course of the ball, though **[skill shots](#heading--skillshots)** can increase the meuia earned from certain shots by +1 for the remainder of the ball. Hitting the shot that started a **[Sivako](#heading--sivako)** mode 3 times after completing one, or shooting the high camp upper loop shot, will increase meuia by +5. After enough honor has been earned, the home tree VUK will light to collect a Meuia award.
 
-Meuia awards all of the following, based on the thresholds listed below, but once the award has been scored, the player must collect the required amount of meuia to light it again (ie. they can't collect duplicates of the same award in one shot). 
+Meuia awards all of the following, based on the thresholds listed below, but once the award has been scored, the player must collect the required amount of meuia to light it again (ie. they can't collect duplicates of the same award in one shot).
 
 - 7 Meuia: +1x bonus
 - 8 Meuia: spot **[songcord token](#heading--songcords)**
@@ -216,7 +216,7 @@ Meuia awards all of the following, based on the thresholds listed below, but onc
 - 25 Meuia: advance **[PANDORA](#heading--pandora)**
 - 50 Meuia: light **[extra ball](#heading--extraballs)**
 - 100 Meuia: start **[eclipse](#heading--eclipse)**
- 
+
 ### Eywa Award (Mystery): {#heading--eywa}
 
 Shots to the two targets flanking the Tree of Souls shot (upper left ramp) add letters to EYWA. Once EYWA is completed with four target hits, the upper left ramp will be lit for a mystery award.
@@ -238,7 +238,7 @@ Mystery can award any of the following with limitations based on what modes are 
 
 ### Eclipse: {#heading--eclipse}
 
-On Pandora, an eclipse happens once per day, causing the planet to completely change in lighting and atmosphere. 
+On Pandora, an eclipse happens once per day, causing the planet to completely change in lighting and atmosphere.
 
 Switch hits advance the time of day on Pandora. Once the eclipse starts, the playfield lighting will immediately dim, and all shots & targets are lit to increase the value of the eclipse jackpot that can be scored with a strong shot to the right ramp, for as long as the eclipse is running. The eclipse jackpot also accounts for scoring during other events like **[songcord modes](#heading--songcords)** and **[multiballs](#heading--multiballs)**, and incorporates a percentage of each award scored during concurrently active events.
 

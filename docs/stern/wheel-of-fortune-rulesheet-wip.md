@@ -14,7 +14,7 @@ The classic game show gets its own pinball machine. Designed by Dennis Nordman a
 
 ## Software notes (PLEASE READ)
 * Sadly, *Wheel of Fortune*'s software was never completed; many rules and features are non-functional.
-* There's two versions: the official 5.0 release and an unofficial 6.02 tournament release. 
+* There's two versions: the official 5.0 release and an unofficial 6.02 tournament release.
 * V5.0 has a bug in which Trip Multiball jackpot values *don't* reset unless the game is power cycled. If you don't or cannot power cycle the game regularly, this version is not suitable for competitive play.
 * V5.0 also contains a bug where two Trip Multiballs can be activated at once in tournament modes if you collect “Complete Puzzle” off of the Wild Card while a Prize Puzzle is active and Trip Multiball is already active. This was never fixed, not even in 6.02.
 * V6.02 contains several new rules not present in V5.0, which will be identified throughout.
@@ -67,15 +67,15 @@ The classic game show gets its own pinball machine. Designed by Dennis Nordman a
 
 # Toss-Up Skill Shot
 
-Each ball begins with a chance to score some quick and easy points right off the bat with the Toss-Up Skill Shot. Plunge the ball strongly, but not all the way, so it goes around the Toss-Up loop for 1 Million + 1 Million per successful Skill Shot. Then, shoot the scoop to collect a Hurry-Up starting at double the value of the Skill Shot. 
+Each ball begins with a chance to score some quick and easy points right off the bat with the Toss-Up Skill Shot. Plunge the ball strongly, but not all the way, so it goes around the Toss-Up loop for 1 Million + 1 Million per successful Skill Shot. Then, shoot the scoop to collect a Hurry-Up starting at double the value of the Skill Shot.
 
 Outside of the normal skill shot, the Toss-Up switch awards 1M, increasing by 250K to a maximum of 2.5M per switch hit. If you know the exact plunger strength required to make a Skill Shot, this can be helpful!
 
-# Solving Puzzles 
+# Solving Puzzles
 
 ## The Wheel
 
-The Wheel is arguably the most important feature of the game, as it determines values during modes and the puzzles themselves. There are three colored wedges at the top of the wheel - from left to right, red, yellow, and blue - that correspond to their respective contestants. 
+The Wheel is arguably the most important feature of the game, as it determines values during modes and the puzzles themselves. There are three colored wedges at the top of the wheel - from left to right, red, yellow, and blue - that correspond to their respective contestants.
 
 There are 24 total wedges on the wheel: some add points to the bank, some add other goodies, and some are dangerous. The following list is in clockwise order, but don’t expect the values to be the same every game - they’re random!
 
@@ -85,7 +85,7 @@ There are 24 total wedges on the wheel: some add points to the bank, some add ot
 - 100,000 + Special (added to the prize bank)
 - 30,000
 - 250,000
-- Bankrupt (removes all prizes and points from the bank of the contestant it lands on right away - avoid this!) 
+- Bankrupt (removes all prizes and points from the bank of the contestant it lands on right away - avoid this!)
 - Extra Ball (added to the prize bank)
 - 60,000
 - 40,000
@@ -108,13 +108,13 @@ There are 24 total wedges on the wheel: some add points to the bank, some add ot
 
 Hits to any of the three contestant targets during normal play will make them guess a consonant in the current puzzle; each letter will add the value that the contestant’s wedge is on to their prize bank. One contestant will always be flashing as opposed to solidly lit, which means that all points scored by letters or other bankable items will be given to the flashing contestant. Collecting all of the available consonants will award a 1 million bonus.
 
-A shot to a solidly lit contestant will change the flashing contestant to the one you just hit. You can also change the flashing contestant by shooting the center ramp and spinning the wheel. 
+A shot to a solidly lit contestant will change the flashing contestant to the one you just hit. You can also change the flashing contestant by shooting the center ramp and spinning the wheel.
 
 Vowels can be collected at the scoop after enough letters in the puzzle have been properly guessed. The points from vowels are given to the currently flashing contestant, like all other awards, but a vowel will also remove 25k from the contestant’s current banked value. Collecting all of the available vowels in the puzzle will award a 2 million bonus.
 
 ## Prize Banks
 
-Along with the points scored by completing puzzles, you can also add three items to each contestant’s prize bank either off of lucky wheel spins or through some Wild Card awards: Extra Ball, Special, and Trip. The only prize bank collected when you complete a puzzle is that of the currently flashing contestant, which is the last one you hit before completing it. 
+Along with the points scored by completing puzzles, you can also add three items to each contestant’s prize bank either off of lucky wheel spins or through some Wild Card awards: Extra Ball, Special, and Trip. The only prize bank collected when you complete a puzzle is that of the currently flashing contestant, which is the last one you hit before completing it.
 
 ## Rounds
 
@@ -138,7 +138,7 @@ These modes are:
 
 - **Ramp Rampage:** “*Experience the excitement of... shooting the ramp!*” The left ramp scores 10x the red wedge, the center ramp scores 10x the yellow wedge (and spins the wheel), and the right ramp scores 10x the blue wedge. Each shot to any ramp increases its multiplier by 10x.
 
-- **Combos:** "*All three spaces lit for mega points!*" The five BONUS inserts are lit to score the three currently lit wedge values with a 5x multiplier. Making any lit shot scores the value and briefly lights the other shots to recollect the value with an additional +1x multiplier. 
+- **Combos:** "*All three spaces lit for mega points!*" The five BONUS inserts are lit to score the three currently lit wedge values with a 5x multiplier. Making any lit shot scores the value and briefly lights the other shots to recollect the value with an additional +1x multiplier.
 
 - **Keep it Spinning:** “*Keep the Wheel spinning for a goodie bag of points!*” The more playfield switches are hit, the faster the wheel spins; hitting few switches causes the Wheel to slow to a standstill. Every full revolution of the wheel scores 75k.
 
@@ -153,11 +153,11 @@ If you start (V5.0 only) or complete (V6.02 only) all modes, they reset and you 
 Qualify Wheel of Fortune Multiball at the scoop by completing the nine MULTIBALL standup targets scattered around the playfield, then shoot the scoop to start it. There are varying difficulty levels for starting this multiball:
 
 * The first time, hitting any target (regardless if it has already been collected or not) gives a MULTIBALL letter.
-* The second time, each MULTIBALL letter must be hit *once*. 
+* The second time, each MULTIBALL letter must be hit *once*.
 * The third time, each MULTIBALL letter must be hit *twice*.
 * [Any others?]
 
-Wheel of Fortune Multiball is a three-ball affair where four shots will be lit for Jackpots starting at 750k, starting with the four shots on the left. You can increase the Jackpot value by 7.5k either by making additional hits to the MULTIBALL targets before starting Multiball or through spinning the Wheel, where every revolution will add 7.5k to the Jackpot. 
+Wheel of Fortune Multiball is a three-ball affair where four shots will be lit for Jackpots starting at 750k, starting with the four shots on the left. You can increase the Jackpot value by 7.5k either by making additional hits to the MULTIBALL targets before starting Multiball or through spinning the Wheel, where every revolution will add 7.5k to the Jackpot.
 
 The second Jackpot is a Double Jackpot, the third Jackpot is a Triple Jackpot, and the fourth Jackpot is a Super Jackpot (5x). Collecting the Super Jackpot will light the three contestant targets; hit either of these to light all six major shots to score half of the Jackpot value, and complete all those shots to relight four more shots to restart the Jackpot sequence.
 
@@ -191,9 +191,9 @@ Hitting the third drop target will light the Wild Card lane to score a random aw
 - Add 10x Bonus (!)
 - Complete Puzzle
 - Light Bank Specials
-- Any of the Hold awards from the left orbit 
+- Any of the Hold awards from the left orbit
 
-Hitting the lit Wild Card lane will also score the Wild Card value built up by the bumpers. 
+Hitting the lit Wild Card lane will also score the Wild Card value built up by the bumpers.
 
 # Big Money
 
@@ -209,7 +209,7 @@ The base pop bumper value is 1K, increasing by 100 points every 10 hits. The max
 
 The base value is also influenced by a multiplier, which starts at 1X and increases by .5K with every right orbit shot; the maximum is 5X.
 
-Each hit to a pop bumper also adds its value to the Wild Card value, which is scored whenever one is made and resets at the end of the ball (unless you’ve held it over). The Wild Card value maxes out at 500k. 
+Each hit to a pop bumper also adds its value to the Wild Card value, which is scored whenever one is made and resets at the end of the ball (unless you’ve held it over). The Wild Card value maxes out at 500k.
 
 # Super Modes
 

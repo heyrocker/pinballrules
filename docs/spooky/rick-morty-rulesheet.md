@@ -40,7 +40,7 @@ Scott Danesi’s second game for Spooky Pinball takes players into a world where
 - Left ramp - This steep ramp heads behind the back panel of the game and feeds the upper flipper, similarly to the left ramp in Black Rose. A shot to the left ramp will qualify the scoop to start an Adventure, indicated by its insert.
 - Noob Noob standup - This single target is located between the left garage entrance and the side loop, and scores the skill shot at the start of the ball but doesn't do much else (with one exception... read the Total Rickall section for more info). It’s a gimme, so why would it score much anyway?
 - Side loop - This shot can be made from the upper flipper and sends the ball right back to the upper flipper for more sequential shots. Typically, you can make this loop off of an early upper flipper shot. A diverter near this shot can force right orbit shots to exit out of the entrance to this shot. There is a spinner in front of this loop. Collects Extra Ball when available.
-- Spinner - A satisfying spinner is located in front of the side loop, and collecting enough spins to fully power up the portal gun will light both garage entrances to activate a portal to another dimension. 
+- Spinner - A satisfying spinner is located in front of the side loop, and collecting enough spins to fully power up the portal gun will light both garage entrances to activate a portal to another dimension.
 - Left lock - This part of the Danesi Lock 2.0 is easier to make as a backhand from the left flipper and has a drop target with Rick’s face on it on the front. Locks a ball when lit and also used during modes.
 - Scoop - Located in between the Danesi Lock 2.0 is a scoop that can easily be made from either flipper. Shooting the scoop when lit will collect Mystery, start an Adventure after the left and/or right ramp has been shot (see **Adventure Qualification**), or start Multiball when two balls are locked.
 - Ship - This replica of Rick & Morty’s spaceship sits above the scoop and shakes at certain times during play; it also bobbles around when balls are locked. Really nice light show effects here.
@@ -57,11 +57,11 @@ Scott Danesi’s second game for Spooky Pinball takes players into a world where
 
 ## Skill Shots: {#heading--skillshots}
 
-At the start of a ball, the auto-plunger will fire the ball directly towards the upper flipper for a skill shot opportunity. The Noob Noob target will be lit for 200k while the Garage will be lit for 400k (it increments on successful skill shots - the 2nd successful is 300k / 600k), while a full shot around the side loop will multiply the skill shot values (and yes, you can do this multiple times - good luck...). 
+At the start of a ball, the auto-plunger will fire the ball directly towards the upper flipper for a skill shot opportunity. The Noob Noob target will be lit for 200k while the Garage will be lit for 400k (it increments on successful skill shots - the 2nd successful is 300k / 600k), while a full shot around the side loop will multiply the skill shot values (and yes, you can do this multiple times - good luck...).
 
 ## Gromflomite Battle Multiball: {#heading--gromflomitemb}
 
-Hitting the Flooble Crank once will qualify either side of the Danesi Lock 2.0 for a lock. Once a ball is locked another Flooble Crank hit will light the remaining open side for a lock. The center scoop will begin flashing the green multiball light once two balls have been locked. Shooting the center scoop will begin Gromflomite Battle MB. Collecting any Jackpot will light the first Super Jackpot at the garage, which can be collected from either the left orbit to the garage or the right orbit. Only the first Super Jackpot can be collected via the right orbit, all subsequent Super Jackpots must be collected at the left orbit to garage shot. During multiball the screen will display how many jackpots you have to collect to light the next super jackpot (increases by one for each subsequent attempt). 
+Hitting the Flooble Crank once will qualify either side of the Danesi Lock 2.0 for a lock. Once a ball is locked another Flooble Crank hit will light the remaining open side for a lock. The center scoop will begin flashing the green multiball light once two balls have been locked. Shooting the center scoop will begin Gromflomite Battle MB. Collecting any Jackpot will light the first Super Jackpot at the garage, which can be collected from either the left orbit to the garage or the right orbit. Only the first Super Jackpot can be collected via the right orbit, all subsequent Super Jackpots must be collected at the left orbit to garage shot. During multiball the screen will display how many jackpots you have to collect to light the next super jackpot (increases by one for each subsequent attempt).
 
 Stacking an Adventure start on the Multiball start, along with making it quite a bit easier to make progress in the Adventure, will actually combine the two ball saver times. You are also able to hit the left and right ramps to qualify your next mode if you aren’t in one during multiball or if you complete a mode during multiball. You cannot start the next mode but you can at least qualify it to be ready when you exit multiball.
 
@@ -69,7 +69,7 @@ After the first multiball, lit locks will slowly fade and timeout.  With each su
 
 **Add-A-Ball:** Make the Flooble Crank three times to add a ball to the Multiball. The first two hits will light a solid green light below the Flooble Crank, and the third will add a ball into play and give a 10 second additional ball saver. You can only collect 1 add-a-ball per continuous multiball -- for example: if you start GMB and collect the add-a-ball and then bring in Meeseeks Mania, you can not add another ball.  Once you have earned the add-a-ball in any multiball, following multiballs will require 4 shots for the add-a-ball.
 
-**Lock Stealing:** Similarly to TNA, one player can steal another player’s multiball, but this time there are some smart design changes to how it can be stolen. Here's an example using a two player game for simplicity’s sake: 
+**Lock Stealing:** Similarly to TNA, one player can steal another player’s multiball, but this time there are some smart design changes to how it can be stolen. Here's an example using a two player game for simplicity’s sake:
 - Player 1 locks one or two balls into the Danesi Lock 2.0, then drains.
 - Player 2’s horseshoe will be lit orange on any side with locked balls to indicate that the locks are shielded. Additional Flooble Crank hits will be required for each ball that is locked:
   - One ball locked: 2 hits to the Flooble Crank to light the 2nd lock then multiball will be ready.
@@ -80,35 +80,35 @@ The additional Flooble Crank hits in these sequences will award a virtual lock o
 
 ## Adventures: {#heading--adventures}
 
-The main modes in this game take the form of adventures that Rick forces his grandson to go through; started or completed adventures will be shown on both the display and on the Morty Adventure Card directly above the flippers. 
+The main modes in this game take the form of adventures that Rick forces his grandson to go through; started or completed adventures will be shown on both the display and on the Morty Adventure Card directly above the flippers.
 
 **Adventure Qualification:** Qualify an Adventure by shooting either the left or right ramp at the start of the game. The ramps will have their Start Adventure lights lit purple when available to qualify an Adventure. On default settings only one of these ramps is needed to qualify the first Adventure at the center scoop. All subsequent Adventures require both the left and right ramp to be completed. On default settings and updated code, the scoop will be automatically lit for Adventure on ball 3 if it hasn’t been lit yet. All Adventures start at the center scoop except for Pickle Rick (which is started at either garage entrance).
 
-**Scoop Timer:** For reference, the “Scoop Timer” is used during most of these modes for various objectives. All Adventures will award a 10 second ball saver when started. This ball saver timer will also freeze after a lock until the ball is back in the playfield so there is a lot of strategy in when to start your mode to activate your ball saver. 
+**Scoop Timer:** For reference, the “Scoop Timer” is used during most of these modes for various objectives. All Adventures will award a 10 second ball saver when started. This ball saver timer will also freeze after a lock until the ball is back in the playfield so there is a lot of strategy in when to start your mode to activate your ball saver.
 
 **Adventure Stamps:** Adventure Stamps will be awarded regardless of whether or not an Adventure was completed; if you drain during an Adventure, it will still award you with the stamp - but if you Complete the adventure, you'll get a green stamp. Free stamps awarded from the mystery are shown with a yellow stamp. There are currently 10 modes in the game and hopefully more on the way.  Default settings start the card with 4 stamps lit, 2 of which are green.
 
 **Adventure Selector - AKA Morty's Choice:** Morty gets to choose 1 of every 10 adventures, so when you have completed 9, the 10th adventure start will bring up the adventure selector and you can choose what adventure you go on. All the adventures are available to pick from.  Any adventure you have not "Completed" already will be available with multiplied scoring. The amount of the multiplier is based on the number of green stamps you have on your card. Rick Potion No.9 is only available from the adventure selector on a full card.
-- **Roy: A Life Well Lived**: Roy is a 5-decision deep branching VR narrative. If you make it through all 5 choices, Roy’s life ends and you’ll have won the mode. If you drain early; well, that’s a tragedy. Make green shots to make ‘positive’ life choices or make red shots to make ‘negative’ life choices. Positive choices will advance the age shown on the digit display a bit more than negative choices, and if you make it through the entire mode, you’ll score a bonus dependent on Roy’s age. Consecutive similar decisions (ie. shots of the same color) will be multiplied depending on the length of the string. There also seems to be a secret “Rick option” that is hidden behind one of the arrows at each choice which awards a fairly insane choice and gives a lot more points. The Scoop Timer displays Roy’s age in this mode. 
+- **Roy: A Life Well Lived**: Roy is a 5-decision deep branching VR narrative. If you make it through all 5 choices, Roy’s life ends and you’ll have won the mode. If you drain early; well, that’s a tragedy. Make green shots to make ‘positive’ life choices or make red shots to make ‘negative’ life choices. Positive choices will advance the age shown on the digit display a bit more than negative choices, and if you make it through the entire mode, you’ll score a bonus dependent on Roy’s age. Consecutive similar decisions (ie. shots of the same color) will be multiplied depending on the length of the string. There also seems to be a secret “Rick option” that is hidden behind one of the arrows at each choice which awards a fairly insane choice and gives a lot more points. The Scoop Timer displays Roy’s age in this mode.
 
   * Completion Condition: Make all 5 decisions.
 - **Total Rickall**: Parasites from other dimensions have invaded the home of our “heroes”, and it’s time to kill them all! Kill 20 parasites by shooting the both drop targets, Beth and Summer three times each to win (some hits award more than one parasite kill). The value of each parasite increases for a short time when one is killed, but it will slowly decrease afterwards, so try and kill parasites as consistently and as quickly as you can. Hit the Noob Noob target shortly after killing all the parasites for a little secret bonus. The Scoop Timer displays the total remaining number of parasites in this mode.
 
   * Completion Condition: Kill all the parasites.
-- **Whirly Dirly**: Battle Risotto and his henchman on a crazy rollercoaster inside an immortality field. Advance towards the edge of immortality field by making two orbit shots (either the right lane, side loop, or unlit lock can count towards this), which will then cause the right ramp to light briefly for a kill shot. If you miss this shot, you’ll have to keep looping until you qualify it again, and you only have three opportunities to make this shot. Making the kill shot twice (to kill both Risotto and his henchman) and hitting the scoop will finish the mode. 
+- **Whirly Dirly**: Battle Risotto and his henchman on a crazy rollercoaster inside an immortality field. Advance towards the edge of immortality field by making two orbit shots (either the right lane, side loop, or unlit lock can count towards this), which will then cause the right ramp to light briefly for a kill shot. If you miss this shot, you’ll have to keep looping until you qualify it again, and you only have three opportunities to make this shot. Making the kill shot twice (to kill both Risotto and his henchman) and hitting the scoop will finish the mode.
 
   * Completion Condition: Make both 'kills' on the ramp, and the final scoop shot.
 - **Look Who’s Purging Now**: On the purge planet, purges happen... well, a lot - and Rick unknowingly  traps his grandson there on an adventure. Buy time for Rick to build the communicator and save both of their lives by fending off the planet’s fierce locals, represented by purple arrows moving from left to right across the playfield towards Morty. Locals are killed by hitting the shot they are currently on.  You can also kill the right most local by lobbing a defraculation grenade if you have one, this is done by shooting the inner loop. The longer the mode lasts, the closer together the locals spawn, and the farther to the right they are when you kill them their value increases. Morty is located at the right garage entrance, and if a local reaches him, you’ll only have a few seconds to make the shot and save him before the mode ends. Holding off the locals for a long enough time (killing 5 locals) will light the Summer target on the left target bank; hit it with a precise shot to summon the armored suits, and then stay alive for 20 seconds. Shoot the scoop afterwards for hot purging action and successful completion of the mode. Good luck!
 
   * Completion Condition: Make the scoop shot to put on the armor suits.
 
-  Extra note for this mode: If you hold a ball on a flipper, the locals will speed up while you do so. 
-- **Pirates of the Pancreas**: Welcome to Anatomy Park! Power on their Pirates of the Pancreas ride by shooting either the left or right ramp to spell the name of the ride (yup, 20 shots!). Each ramp shot also adds 3 seconds to the timer for the mode; if enough time goes by without making any shots, all of the major shots will light up to add letters to the name of the ride, but only the ramps will add time properly (because Ruben’s about to blow). Shortly after this Rick will get fed up with you and tell you to just shoot 3 more shots and a scoop to end the mode, you can’t collect letters or extend the timer anymore during this phase and the timer stops running as well. 
+  Extra note for this mode: If you hold a ball on a flipper, the locals will speed up while you do so.
+- **Pirates of the Pancreas**: Welcome to Anatomy Park! Power on their Pirates of the Pancreas ride by shooting either the left or right ramp to spell the name of the ride (yup, 20 shots!). Each ramp shot also adds 3 seconds to the timer for the mode; if enough time goes by without making any shots, all of the major shots will light up to add letters to the name of the ride, but only the ramps will add time properly (because Ruben’s about to blow). Shortly after this Rick will get fed up with you and tell you to just shoot 3 more shots and a scoop to end the mode, you can’t collect letters or extend the timer anymore during this phase and the timer stops running as well.
 
   * Completion Condition: Spell at least "PIRATE" before escaping.
 - **Pickle Rick**: This mode is unique among the implemented modes so far because unlike the other Adventures, it can only be started at the garage; both shots that lead to the garage will begin flashing purple when this mode is qualified instead of the center scoop and Rick will begin telling you to come to the Garage. Landing the shot in the Garage to start the mode will actually hold the ball (instead of the usual instant left inlane scoop eject) so you can relax and watch the intro, where out of pure incompetence and a desire to brag, Rick turned himself into a pickle, Morty! He’s Pickle Rick! Advance through the life cycle of this scientific monstrosity by first hitting the bumper or slingshot enough times to get off the ground, then shoot the scoop. You'll then be tasked to shoot targets to kill rats with your upgraded weapons and armor. Killing enough rats will then light the scoop to start the final timed phase, where shooting ramps and loops will kill goons at the consulate. Killing enough of the goons will light the scoop for one last shot to finish the mode. This is very difficult to accomplish, good luck!
 
-  * Completion Condition: Make it to the 3rd Phase in the Consulate 
+  * Completion Condition: Make it to the 3rd Phase in the Consulate
 - **Get Schwifty**: Earth has been chosen to compete on the hit Cromulon reality show Planet Music. Rick and Morty will perform Get Schwifty and it's your job to sway the Cromulons to vote in the positive with your impressive pinball skills.  The shots in this mode are groups: Targets, Loops, Ramps.  They light in sequence, one at a time.  Hitting any lit shot will improve the Cromulons sentiment.  As time passes without hitting shots, their opinion of the performance will sour.  If you spend a while not hitting anything, all shots will light for a single shot to get you back on track.  Points are earned per second you're in the positive, and for each successful shot.  Max out the meter for big points!  Be in the positive on the vote meter at the end of the song to win the mode and get a Cromulon vote bonus.
 
   * Completion Condition: Finish the song in the positive on the vote meter.
@@ -138,18 +138,18 @@ The possible dimensions are:
 
 | Dimension Name | Effects                                           | Category |
 |----------------|---------------------------------------------------|--------------------|
-| 17-R4MP5 | 3x Ramp Scoring! | Positive | 
-| BW00-P | 3x Spinner Scoring! | Positive | 
+| 17-R4MP5 | 3x Ramp Scoring! | Positive |
+| BW00-P | 3x Spinner Scoring! | Positive |
 | mega-sl4m | 5x Slam Ring Scoring! | Positive |
 | L4ne-3 | 10x In/Out Lane Scoring! | Positive |
 | g0tu-Fam | 3x Family Target Scoring! | Positive |
-| CMB-0 | 3x Combo scoring! | Positive | 
+| CMB-0 | 3x Combo scoring! | Positive |
 | H4-+ch | 3x Scoop Scoring! | Positive |
-| Hv3-LT | 3x Scoring on the LEFT half! | Positive | 
+| Hv3-LT | 3x Scoring on the LEFT half! | Positive |
 | Hv3-RT | 3x Scoring on the RIGHT half! | Positive |
 | Ye-Zu5 | 1000x RICK TARGET SCORING! | Positive |
-| d3d-BMP | SLAM RING is disabled! | Negative | 
-| d3d-SLi | Slingshot is disabled! | Negative | 
+| d3d-BMP | SLAM RING is disabled! | Negative |
+| d3d-SLi | Slingshot is disabled! | Negative |
 | d3d-SPn | Spinner is disabled! | Negative |
 | d3d-CRnk | Flooble-crank is disabled! | Negative |
 | d3d-BOx | Meeseeks Box is disabled! | Negative |
@@ -159,12 +159,12 @@ The possible dimensions are:
 | FL-33p | Activates all flippers together.  Yells "FLEEP!"  | Negative |
 | FL-2p | Upper flipper activates with left flipper button. | Negative |
 | W1L-HM | All targets / slings play the 'Wilhelm Scream'    | Feature |
-| 13u-TT | Just passing through ... | Feature | 
+| 13u-TT | Just passing through ... | Feature |
 | TW-z0n3 | Removes all color from LEDs | Feature |
 | BLK-0p | Night Vision Engaged! | Feature |
 | b1-ind | GI Lighting Strobes | Feature |
 | N0-ramp5 | TNA Lampshow & Music | Feature (also Ramps = 0 pts) |
-| sp-0ng3 | Underwater dimension | Feature | 
+| sp-0ng3 | Underwater dimension | Feature |
 | gR-w0of  | Where are they, Summer?  | Feature |
 | r5h-0ur  | Expressions of frustration.  | Feature |
 | sp-0tz  | It's like a Hollywood premiere in here.  | Feature |

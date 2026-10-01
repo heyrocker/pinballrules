@@ -50,7 +50,7 @@ Following the death of his beloved pet dog Daisy at the hands of a Russian crime
 - Shoot the weapons case / VUK to light jobs, then VUK to start them. Lit shots during jobs are multiplied by the enemies (blue circles) in front them, which spawn over time as switch hits are made. Increase the number of enemies spawned by hitting orange standup targets and the Red Circle bumper.
   - Each faction has a specific perk given for cashing out their job by making the required shots, then shooting the left eject.
 - Light allies by hitting gold coin targets *before starting a job*. Then hit either the left, center, or right ramp to qualify ally for use during the next job.
-- Defeat 10 enemies during single-ball play to light the left eject for adversary battle. Adversary battles are single-ball modes with a long ball save. 
+- Defeat 10 enemies during single-ball play to light the left eject for adversary battle. Adversary battles are single-ball modes with a long ball save.
   - Light the escape jackpot by making lit shots and hitting the blood marker to light the left eject, then either cash out or keep the battle going with increased scoring. Doing well enough in the battle awards "Be Seeing You" for 25M, 10M in end-of-ball bonus, and an extra ball for the first Be Seeing You in a game.
 - Bash the car enough times to light car multiball at left orbit (four for the first multiball on Pro, two on Prem / LE). Default car multiball is helipad showdown, hit car to change the lit multiball.
 - Captive ball spells WINSTON to light locks for deconsecrated multiball at the center ramp.
@@ -72,14 +72,14 @@ Not from the gameplay menu, but the following is changed if a Competition Instal
 
 ## Skill Shots: {#heading--skillshots}
 
-* Plunge the ball into the right VUK for a crate skill shot. Doing this without hitting any switches is the Baba Yaga skill shot which scores 1.5M and immediately starts the lit job, regardless of job progress. Hitting one switch is the super crate skill shot which advances the crate towards lighting job + scores points starting at 750k. Hitting more than one switch awards the crate skill shot which awards points only, starting at 150k. If the VUK is already lit to start a job, then any of the crate skill shots will start it. 
+* Plunge the ball into the right VUK for a crate skill shot. Doing this without hitting any switches is the Baba Yaga skill shot which scores 1.5M and immediately starts the lit job, regardless of job progress. Hitting one switch is the super crate skill shot which advances the crate towards lighting job + scores points starting at 750k. Hitting more than one switch awards the crate skill shot which awards points only, starting at 150k. If the VUK is already lit to start a job, then any of the crate skill shots will start it.
 * Plunge the ball into the backdoor to the Red Circle club for a VIP skill shot. Starts at 650k + 250k per VIP skill shot. If Excommunicado multiball is lit, this will start the multiball.
 * Full plunge and then make the 3-shot combo of right orbit - right ramp - left eject for the MXV skill shot. This scores 10M and adds 10 **[enemies](#heading--enemies)** to the next time enemies are spawned.
 * (Prem / LE) Plunge the ball behind the car for a car skill shot. Starts at 850k + 250k per car skill shot and advances the car towards the next car multiball. If the left orbit is already lit for car multiball, this skill shot will only score points.
 
 ## Jobs: {#heading--jobs}
 
-Shoot the weapons crate or the right VUK to advance the blue lights in front of the crate. Once all three are lit solid, the right VUK will light to start the next job. **[Allies](#heading--allies)** can be used during jobs if qualified by shooting their respective shots. 
+Shoot the weapons crate or the right VUK to advance the blue lights in front of the crate. Once all three are lit solid, the right VUK will light to start the next job. **[Allies](#heading--allies)** can be used during jobs if qualified by shooting their respective shots.
 
 Each job is timed for 60 seconds, with 3 seconds added for each shot made, and every 4th job having +30 seconds added to the base timer. The timer can also be extended by 30 seconds, once per job, by completing the weapons crate targets and then shooting the right VUK to boost the timer.
 
@@ -105,7 +105,7 @@ Detailed rules for each job:
 
 * **Night Watch (Bowery)**: All 7 shots are lit purple. Making a shot unlights it, and one roving white shot is lit to score 2x (moving left to right across the lit shots and back). Complete all shots to light the cashout and relight every shot for a second go.
 * **Assassination (New York Continental)**: Shoot lit green shots to light the captive ball for kill shot. After 5 kill shots (one for every green arrow shot), the cashout is lit.
-* **Security Detail (Osaka Continental)**: Shoot the single blinking red shot to score; after 7 shots, the left eject will light to finish the Job.  The left ramp starts lit, and the target shot moves one to the right (excluding Red Circle) every time one is made or a Dance Floor target or bumper is hit.  Dance Floor shots (targets and bumpers) are marked with a solid red arrow, and will increase the score value for subsequent blinking red shots.  
+* **Security Detail (Osaka Continental)**: Shoot the single blinking red shot to score; after 7 shots, the left eject will light to finish the Job.  The left ramp starts lit, and the target shot moves one to the right (excluding Red Circle) every time one is made or a Dance Floor target or bumper is hit.  Dance Floor shots (targets and bumpers) are marked with a solid red arrow, and will increase the score value for subsequent blinking red shots.
 * **VIP Award (High Table)**: Two shots are lit white at a time, one solid and one blinking. The blinking shot is a hurry up worth 5M that changes when made, and the solid shot resets the value and moves them one shot to the right of the playfield. Score 6 hurry-ups to light cashout.
 * **Heist (Ruska Roma)**: Shoot standups to light major shots yellow to score. Hitting the gold coin targets during single-ball play collects all lit shots, and rebounding into them off of the blood marker collects them all at 2x value. Score 6 lit major shots to light cashout.
 * **Gather Intel (Marquis de Gramont)**: The left, center, and right ramps are lit blue. Combo the left and right ramps to score and increase a jackpot scored at the center ramp (2x if made as a combo) by their respective values. Collect 6 left / right ramp shots to light cashout.
@@ -157,7 +157,7 @@ The car jackpot starts at 2M, and pink "award" shots during the multiballs score
 - Jackpots during car multiballs (+50k)
 - Super jackpots during car multiballs (+250k)
 
-There are four different Car Chase Multiballs. The game starts with **helipad showdown** lit, but the car multiball changes down the list every time the car is hit before starting it, wrapping around from 4 to 1. 
+There are four different Car Chase Multiballs. The game starts with **helipad showdown** lit, but the car multiball changes down the list every time the car is hit before starting it, wrapping around from 4 to 1.
 
 - **Helipad Showdown** (1): Shoot red shots to collect showdown awards and increase the jackpot awarded by hitting the car. Either a single, 2x, 3x, or 4x jackpot can be awarded based on how many "car" inserts are lit (1 additional shot is needed to light each jackpot, so 9 shots are needed for a 4x jackpot). After nine jackpots have been scored (with progress based on the jackpot multiplier), the car can be hit for a super (5x) jackpot, and the left orbit can be shot for a 2x super jackpot.
 - **Taxicab Chase** (2): Starts with a 15-second timed hurry-up to hit the car and lock in the hurry-up jackpot value (starting at the built car jackpot award). Shoot sets of lit chase awards to increase (and light) the jackpot at the car; the jackpot multiplier increases with each subsequent jackpot scored, and each jackpot requires one more award to light. After collecting four jackpots, the left orbit lights for a super (5x) jackpot, which can be further increased by bashing the car.
@@ -197,7 +197,7 @@ Each ball starts with a minimum of 5 enemies. Enemies are created (“spawned”
 
 A “phone ring” sound accompanies each spawn during play, and all of the blue circles on the playfield will briefly flash. The initial placement of enemies is partially random, but may be influenced by player performance during the game and based on what shots are currently lit to score the highest points.
 
-Enemies act as shot multipliers during **[Jobs](#heading--jobs)** and **[Multiballs](#heading--multiballs)** for the shots they're placed in front of (each lit blue circle corresponds to +1x shot multiplier, up to the maximum of 3 enemies, which is a 4x multiplier for that shot). When the shot is made, the enemy is “defeated,” and is no longer lit.  Defeating enemies also increases the shot values during **[Jobs](#heading--jobs)** and **[Multiballs](#heading--multiballs)** by substantial amounts on the same ball, and lower amounts over the course of the game. 
+Enemies act as shot multipliers during **[Jobs](#heading--jobs)** and **[Multiballs](#heading--multiballs)** for the shots they're placed in front of (each lit blue circle corresponds to +1x shot multiplier, up to the maximum of 3 enemies, which is a 4x multiplier for that shot). When the shot is made, the enemy is “defeated,” and is no longer lit.  Defeating enemies also increases the shot values during **[Jobs](#heading--jobs)** and **[Multiballs](#heading--multiballs)** by substantial amounts on the same ball, and lower amounts over the course of the game.
 
 During single-ball play, defeating a total of 10 enemies will qualify the next **[Adversary Battle](#heading--adversaries)**. This rule is disabled during multiball play.
 
@@ -281,11 +281,11 @@ The wizard modes are played in the same order every game, as listed below.
 
 ### Red Circle Reckoning (Mini-Wizard Mode): {#heading--redcircle}
 
-The easiest of the four mini-wizard modes to reach, Red Circle Reckoning is a 60-second timed 4-ball multiball where the player must clear every shot for 10M each, with a final shot at the Red Circle worth 30M, ending the mode, and awarding an **[extra ball](#heading--extraballs)**. 
+The easiest of the four mini-wizard modes to reach, Red Circle Reckoning is a 60-second timed 4-ball multiball where the player must clear every shot for 10M each, with a final shot at the Red Circle worth 30M, ending the mode, and awarding an **[extra ball](#heading--extraballs)**.
 
 Collecting enough switch hits in the Red Circle bumper area will add 10 seconds to the mode. A bonus is awarded of 1M per second remaining when the player makes the final Red Circle shot.
 
-**[Lights Out](#heading--lights)** can double any scoring in the mode, including the final shot and time bonus.  
+**[Lights Out](#heading--lights)** can double any scoring in the mode, including the final shot and time bonus.
 
 ### The Staircase (Wizard Mode 1): {#heading--staircase}
 
@@ -306,11 +306,11 @@ Shooting the center ramp to finish level 3 will start the final part of the mode
 
 This is a three-level wizard mode that starts as 2-ball multiball and has a lengthy ball save at the start of the mode. The goal of the mode is to keep both balls in play for as long as possible to double the scores for every shot.
 
-The player must first hit the Red Circle, then the left & center ramps, then the left orbit & right ramp, before locking the two balls at both the left eject and crate within 10 seconds of each other. All shots on this mode are on a hurry-up timer: the first shot of each level starts at 5M, the next four shots start at 10M, and the final two shots start at 15M (but only if the player locks both balls in time). 
+The player must first hit the Red Circle, then the left & center ramps, then the left orbit & right ramp, before locking the two balls at both the left eject and crate within 10 seconds of each other. All shots on this mode are on a hurry-up timer: the first shot of each level starts at 5M, the next four shots start at 10M, and the final two shots start at 15M (but only if the player locks both balls in time).
 
 Once the player locks the two balls, the player must press the action button at the right time as Caine and Wick fire at each other. The timing of the crosshair on the display indicates when the player can score the maximum points from the action button, up to 25M for a perfectly timed press (dead center). The scoring opportunity times out after about 5 seconds.
 
-Repeat this sequence 3 times to light the final four shots at the left eject, Red Circle, right orbit, and crate: the first three starting at 25M and the final one awarding 50M & completing the mode. 
+Repeat this sequence 3 times to light the final four shots at the left eject, Red Circle, right orbit, and crate: the first three starting at 25M and the final one awarding 50M & completing the mode.
 
 As mentioned, if the player keeps both balls in play throughout the entirety of the mode, all scores from the mode are doubled.
 
@@ -324,8 +324,8 @@ This mode is a single-ball limited flip mode where Wick must finally defeat Vigg
 - Left and right ramps (3x each)
 - Left orbit (3x)
 - Center ramp (3x)
-- Red Circle (3x) 
-- Left eject (3x) 
+- Red Circle (3x)
+- Left eject (3x)
 
 Every enemy defeated scores 10M. Comboing lit shots scores 2x the value, every enemy killed adds 6 flips, and draining the ball removes 5 flips.
 

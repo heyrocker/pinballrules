@@ -39,7 +39,7 @@ opdb_id: "GV8wB"
 - Code/Rules: Tanio Klyce, Andrew Wilkening, Joshua Henderson
 - Mechanical Engineers: Mason Dooley, Thomas Malcolm
 - Artwork: The Pokemon Company
-- Display and Animations: 
+- Display and Animations:
 - Sound Design: Jerry Thompson
 - Release Date: March 2026
 - Wiki Rulesheet based on Code Rev: 0.86
@@ -55,7 +55,7 @@ opdb_id: "GV8wB"
 Three skill shots are available:
 
 - Plunge at full strength and hit whatever lane is flashing to increase the **[bonus multiplier](#heading--bonus)** by 2x + 1x each time the skill shot is made. Starts at 500k.
-- Hold the left flipper and full plunge to enable super skill shots worth 2x the skill shot value. Starts at 1M. 
+- Hold the left flipper and full plunge to enable super skill shots worth 2x the skill shot value. Starts at 1M.
   - Hitting the center lane as a super skill shot instantly completes the BATTLE targets and lowers the **[Meowth balloon](#heading--rocket)** in addition to the score award.
   - If **Team Rocket multiball** is lit at the center lane, hitting the center lane as a super skill shot will start the multiball and light the add-a-ball without BATTLE having to be completed.
   - Hitting the scoop as a super skill shot lights the **[mystery award](#heading--mystery)** if it isn't already lit.
@@ -86,7 +86,7 @@ Playing four story modes of the same level will light the right ramp to choose a
 - **Pikachu**:
   - *Pikachu vs. Raichu* - 2-ball multiball. All shots are lit yellow to score jackpots and unlight once made, until another shot's jackpot is scored. Scoring a jackpot (+1 per super jackpot) lights the super jackpot at the Pokedex captive ball based on their combined value. Nail the captive ball to hit the very back target for a 2x super jackpot. Collect 3 super jackpots to complete the mode. Add-a-ball is available in this multiball by completing the BATTLE targets, then pressing the action button while blinking green.
   - *Pikachu vs. Mimikyu* - 3-ball multiball w/ add-a-ball opportunities. The ramps and orbits are lit for jackpots, but must be relit by hitting the BATTLE targets. Collecting 2 jackpots lights the center lane to score a super jackpot and add-a-ball, the first three times a super jackpot is scored, and resets the process with 1 more jackpot required to light super jackpot than before. Mode is completed after scoring 3 super jackpots.
- 
+
 - **Charmander**:
   - *Charmander 1* - The right orbit is lit to collect a spinner jackpot, worth 30k/spin. The left orbit and both ramps multiply the jackpot (up to 4x). Final shot lights at the captive ball after 100 spins to complete the mode.
   - *Charmander 2* - Battle Dragonite by making left ramp & right ramp combos. While the combo is running, all lit ramp shots are multiplied. Make a total of 6 ramp shots, either in or out of a combo, to light the captive ball to complete the mode.
@@ -95,7 +95,7 @@ Playing four story modes of the same level will light the right ramp to choose a
 
 The player starts the game in the forest biome by default, and on competition mode. If the player is signed into Insider Connected, has already played Forest Battle, and are playing on normal settings, they will get the choice of which biome to start before plunging the first ball.
 
-After completing the **[travel](#heading--travel)** process described later in the guide, the player can head to the other three biomes and gets a choice of which biome to visit next. Hitting switches while a mode or multiball isn't running (primarily the top lanes and bumpers) will fill up the gauge and eventually discover a Pokémon that can be scanned by shooting the captive ball. 
+After completing the **[travel](#heading--travel)** process described later in the guide, the player can head to the other three biomes and gets a choice of which biome to visit next. Hitting switches while a mode or multiball isn't running (primarily the top lanes and bumpers) will fill up the gauge and eventually discover a Pokémon that can be scanned by shooting the captive ball.
 
 Scanning the Pokémon activates the ball save for a short time, and starts a hurry-up that starts at 2M. Shoot purple targets to spell CATCH! and light the Poké Ball shot at the left ramp to catch it for a value starting at the combined value of the prior shots. Catching Pokémon lights the right scoop to start a **[rival battle](#heading--battle)**; one successful capture is required to light the first one, and each subsequent battle requires one more capture than before, to a maximum of 3 captures to light battle. This means that forest battle requires 1, 2nd biome battle requires 2 more after that, 3rd biome battle requires another 3 captures, etc.
 
@@ -162,7 +162,7 @@ Add-a-ball is available in all Team Rocket multiballs by completing the BATTLE t
 
 Qualify shot multipliers by completing **[story modes](#heading--missions)** or scoring the 1st super jackpot during any **[Team Rocket multiball](#heading--rocket)**. The next shot made once either task is achieved will enable 2x scoring at that shot for the rest of the ball. The shot multiplier affects all scoring from that shot - not only the mode / multiball scores, but values scored during **[CATCH! hurry-up](#heading--find)** and the third shot of any **[Eevee evolution combo](#heading--eeveecombos)** that ends at a shot that can be multiplied.
 
-If the player has lit shot multipliers at every shot, then qualifies an additional shot multiplier, 3x scoring will be enabled at the next shot made. 
+If the player has lit shot multipliers at every shot, then qualifies an additional shot multiplier, 3x scoring will be enabled at the next shot made.
 
 ### Training Targets: {#heading--training}
 

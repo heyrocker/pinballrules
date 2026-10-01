@@ -39,9 +39,9 @@ opdb_id: "Gryw4"
 
 * Lead Designer: Steve Ritchie
 * Lead Game Developer: Lonnie Ropp
-* Lead Mechanical Engineer: 
-* Lead Sound Designer: 
-* Lead Artist: 
+* Lead Mechanical Engineer:
+* Lead Sound Designer:
+* Lead Artist:
 * Release Date: January 2013
 * Wiki Rulesheet based on Code Rev: 1.62
 
@@ -54,7 +54,7 @@ opdb_id: "Gryw4"
 
 ## Modes {#heading--modes}
 
-**General Mode Strategy** 
+**General Mode Strategy**
 Shoot the matching colored shots for the modes to earn points and advance. Combos will double points that would've been earned. Once you hit one mode shot, you can shoot the 'Away Team' shot (under the upper flipper), which adds 20 seconds and changes the primary objective of the mode to some specific shots. Usually, it's a pretty good idea to do so as the shots become much more valuable.
 
 When a mode ends, start another mode (or restart the mode) by shooting the Mission Start (far left eject hole) or the Away Team (under the upper flipper) shots and then choosing a mode.
@@ -68,7 +68,7 @@ Level I modes are the default "starting" modes, operating on a timer. When time 
 
 Each Level I mode may be advanced to Galactic Mode for improved scoring and alternate objectives. To begin Galactic Mode, first shoot any lit mode shot, then shoot the "Away Team" rollover (underneath the upper right flipper). The mode timer from Level I continues with an additional 20 seconds added. Galactic Away Team Mode may be started after any number of mode shots have been completed as long as the timer has not run out. Draining during a Galactic Mode will end the mode with the current medal status. Galactic Away Team Modes are only available during Level I modes.
 
-Level II modes may only be started after completing their respective Level I (or Galactic) mode. Level II modes feature two kinds of lit shots: regular-color arrows, which award mode points and advance toward bronze medal awards; and multi-color arrows, which award double mode points and count towards silver and gold medal awards. The Level II mode will end and be marked complete when a certain number of total shots are made (as described per mode); if the ball drains or the timer runs out, the mode exits and may be re-started later, with progress saved. 
+Level II modes may only be started after completing their respective Level I (or Galactic) mode. Level II modes feature two kinds of lit shots: regular-color arrows, which award mode points and advance toward bronze medal awards; and multi-color arrows, which award double mode points and count towards silver and gold medal awards. The Level II mode will end and be marked complete when a certain number of total shots are made (as described per mode); if the ball drains or the timer runs out, the mode exits and may be re-started later, with progress saved.
 
 Level III modes may only be started after completing their respective Level II mode. Level III modes operate similarly to Level II modes, but with improved scoring. Completing a Level III mode will light one particular shot on the playfield for double scoring for the rest of the game. In this case, the combo arrow for the shot lights permanently, effectively replacing 2x combo scoring.
 
@@ -243,7 +243,7 @@ Making any lit shot restarts the cycle. (Note: You can achieve perfect medal pro
 ## Captain's Chair and Level 3 Completion {#heading--captainschair}
 
 **Captain's Chair:**
-Completing three same-level modes in a line enables the Captain's Chair. 
+Completing three same-level modes in a line enables the Captain's Chair.
 
 |||
 |-|-|

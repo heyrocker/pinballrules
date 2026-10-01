@@ -143,7 +143,7 @@ If you successfully collect 100 Ghosts during We're Ready to Believe You, you no
 * Level 3: "When someone asks you if you're a god, you say... YES!" Collect a *one billion* completion bonus (and yes, this can be multiplied by playfield X), then a 6-ball "victory lap" multiball where all shots are lit for increasing jackpots.
 
 Hitting the captive ball at any time during the first two stages adds time.
- 
+
 **PKE**
 PKE builds up through bumper awards, bumper lane rollovers, and hitting the left standup targets. PKE fuels your scoring in PKE Frenzy, and is also a minor part of the end of ball bonus.
 

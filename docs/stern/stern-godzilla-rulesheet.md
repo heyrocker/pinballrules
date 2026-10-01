@@ -69,7 +69,7 @@ opdb_id: "GweeP"
 * The goal of *Godzilla* is to defeat the Xiliens on Planet X by starting (not necessarily *completing*) every objective in a city. Each city has a Kaiju that must be defeated in order to conquer it.
 * Shoot either ramp twice to light **Kaiju Battle** at the scoop. Subsequent battles require a shot to both ramps.
   * Use the flippers to select which monster you want to battle and follow the flashing arrows.
-  * Winning battles allows you to *switch cities* at the scoop, to win more battles and attempt tier 2 battles, or progress to Planet X right away as soon as you've played all four objectives. 
+  * Winning battles allows you to *switch cities* at the scoop, to win more battles and attempt tier 2 battles, or progress to Planet X right away as soon as you've played all four objectives.
  * Other tasks like *destroying the powerlines, tanks, and bridges* award bonus modes and points. These also light the *Destruction Jackpot* at the building and are also required for Planet X.
 * Shoot the ramps and the building itself to destroy the building and light **Godzilla Multiball**.
   * Use the window inserts in front of the building to determine the number of hits remaining. Start Godzilla Multiball by shooting the building again.
@@ -89,13 +89,13 @@ opdb_id: "GweeP"
 
 ## Skill Shots: {#heading--skillshots}
 
-The plunger on this game is player-controlled. Plunging at full strength will usually result in the ball hitting the Magna-Grab captive ball. 
+The plunger on this game is player-controlled. Plunging at full strength will usually result in the ball hitting the Magna-Grab captive ball.
 
 **Regular Skill Shots:**
 - #1: Short plunge to the switch directly under the bumper. Scores 250K x number of unique skill shots, and 3 seconds of ball save time. Boosts future skill shots #1 and #2 by 250K.
 - #2: Short plunge to the first switch out of the shooter lane. Scores 500K x number of unique skill shots, and 5 seconds of ball save time. Boosts future skill shots #1 and #2 by 250K.
 - Short plunge directly to the bumper - or shoot it after failing to register any other switch. Scores 750K x number of unique skill shots, and 5 seconds of ball save time.
-- Plunge the ball into the left spinner lane, behind the upper flipper. Scores 5M + 1M x the number of unique skill shots made, and 8 seconds of ball save time. 
+- Plunge the ball into the left spinner lane, behind the upper flipper. Scores 5M + 1M x the number of unique skill shots made, and 8 seconds of ball save time.
 
 **(Super) Secret Skill Shots:**
 - Plunge to the upper flipper and make a reflex shot to the upper loop. Scores 4M x the number of unique skill shots made, and 5 seconds of ball save time. Boosts future secret skill shots by 2M.
@@ -104,11 +104,11 @@ The plunger on this game is player-controlled. Plunging at full strength will us
 
 ## City Objectives: {#heading--monstermonitor}
 
-The Xiliens plan to wipe out the populations of four major cities by summoning mind-controlled monsters once thought to have been defeated. Godzilla must emerge from the depths once more to take down the opposing forces while destroying the cities. 
+The Xiliens plan to wipe out the populations of four major cities by summoning mind-controlled monsters once thought to have been defeated. Godzilla must emerge from the depths once more to take down the opposing forces while destroying the cities.
 
-Each city has four major objectives: **[Kaiju Battles (RAID)](#heading--raid)**, **[Tesla Strike (POWER)](#heading--power)**, **[Bridge Attack Multiball (BRIDGE)](#heading--bridgemb)**, and **[Tank Attack Multiball (TANKS)](#heading--tankmb)**. These objectives can only be accomplished once per city; completing any of them - or just attempting a **Kaiju Battle** - will light the **[Destruction Jackpot](#heading--destructionjp)** at the building and allow the player to **[change cities](#heading--cityselect)** by shooting the scoop. 
+Each city has four major objectives: **[Kaiju Battles (RAID)](#heading--raid)**, **[Tesla Strike (POWER)](#heading--power)**, **[Bridge Attack Multiball (BRIDGE)](#heading--bridgemb)**, and **[Tank Attack Multiball (TANKS)](#heading--tankmb)**. These objectives can only be accomplished once per city; completing any of them - or just attempting a **Kaiju Battle** - will light the **[Destruction Jackpot](#heading--destructionjp)** at the building and allow the player to **[change cities](#heading--cityselect)** by shooting the scoop.
 
-The player doesn't need to complete each feature in a city to move on, though they will miss out on perks for having *[conquered cities](#heading--cityselect)*; and once the latter three objectives have been played out, the player can repeatedly shoot the shots that started them for **[Annihilation Bonus](#heading--annihilationbonus)** points. These act as "victory laps" of sorts, and add up into **[Carnage Bonus](#heading--annihilationbonus)**, awarded after changing cities. 
+The player doesn't need to complete each feature in a city to move on, though they will miss out on perks for having *[conquered cities](#heading--cityselect)*; and once the latter three objectives have been played out, the player can repeatedly shoot the shots that started them for **[Annihilation Bonus](#heading--annihilationbonus)** points. These act as "victory laps" of sorts, and add up into **[Carnage Bonus](#heading--annihilationbonus)**, awarded after changing cities.
 
 Play all four of the listed objectives in a single game, across multiple different cities, to light the scoop for **[Planet X Multiball](#heading--planetx)**.
 
@@ -120,7 +120,7 @@ Summon the Xiliens and listen to their plan for world domination by shooting eit
 
 Subsequently, battles have to be lit by shooting both ramps instead of just one ramp twice.
 
-Progress is saved between battle attempts, but the shot value resets, and the timer bonus for the final shot (500k x seconds remaining, or 2.5M x seconds remaining if chosen via **[Godzilla Power-Up #2](#heading--powerups)**) is reduced to 1/10 of its normal value if the player didn't win on their first try. 
+Progress is saved between battle attempts, but the shot value resets, and the timer bonus for the final shot (500k x seconds remaining, or 2.5M x seconds remaining if chosen via **[Godzilla Power-Up #2](#heading--powerups)**) is reduced to 1/10 of its normal value if the player didn't win on their first try.
 
 **[Jet Fighter Attack](#heading--jetfighter)**, **[Tesla Strike](#heading--power)**, and any **[Multiball](#heading--multiballs)** modes can be activated during and stacked with Tier 1 battles - but Tier 2 battles take priority over all other scoring features. A Kaiju Battle cannot be started if a multiball is already running or if **[Tank Attack Multiball](#heading--tankmb)** is lit at the scoop.
 
@@ -130,7 +130,7 @@ Progress is saved between battle attempts, but the shot value resets, and the ti
 Collect 15 spins from the left and right spinners each, and 40 spins from the center spinner. Each completed spinner scores 5M + 5M per spinner. After completing all three spinners, shoot the pop bumper for the final blow, worth 25M.
 
 **Titanosaurus**
-Shoot five flashing targets - the three powerline targets from left to right, then the Maser Cannon, and lastly, the Magna-Grab captive ball. The first target scores 4M, then 7M, 10M, 15M, and final shot is 20M.  Each shot to the Mechagodzilla targets during this battle scores 1M and adds 500K to the next shot. 
+Shoot five flashing targets - the three powerline targets from left to right, then the Maser Cannon, and lastly, the Magna-Grab captive ball. The first target scores 4M, then 7M, 10M, 15M, and final shot is 20M.  Each shot to the Mechagodzilla targets during this battle scores 1M and adds 500K to the next shot.
 
 **Gigan**
 Make eight left or right ramp shots in any combination. Ramp shots award 1M + 500k per shot, and shooting the opposite ramp as a combo scores double (note that looping one ramp does *not* count as a combo). The final blow, if made as a combo, scores 4x the value (or 2x if it wasn't made as a combo).
@@ -160,7 +160,7 @@ During Fight or Flee, pressing the left flipper for “Fight” adds 35 seconds 
 
 ### POWER - Tesla Strike: {#heading--power}
 
-To activate **Tesla Strike**, all 3 Powerline targets must be completed twice (+1 per activation). This will start **Powerline Attack** and cause a single Powerline target insert to rove between targets. Shoot the flashing target 5 times +2 per activation for 500,000 points each, with the final shot starting **Tesla Strike**. 
+To activate **Tesla Strike**, all 3 Powerline targets must be completed twice (+1 per activation). This will start **Powerline Attack** and cause a single Powerline target insert to rove between targets. Shoot the flashing target 5 times +2 per activation for 500,000 points each, with the final shot starting **Tesla Strike**.
 
 **Tesla Strike** is an untimed mode that revolves around shooting the center spinner to light the major shots. Shoot the center spinner to increase the Tesla Value, which starts at 2M (+2M per Tesla Strike started), by 100K points per spin. Then, shoot any of the blue flashing shots to collect the Tesla Value. The amount the spinner builds the Tesla Value also increases by 100k per spin after each Tesla Value collect; however, only one rip of the center spinner is allowed before you must collect a unique blue shot to relight it. Repeat this process 5 times, making 5 unique shots, to win the mode.
 
@@ -176,7 +176,7 @@ Playing **Bridge Attack Multiball** will light **[Bridge Annihilation Bonus](#he
 
 ### TANKS - Tank Attack Multiball: {#heading--tankmb}
 
-Shoot the lit TANK shots to destroy tanks; two will be lit at a time, at random shots on the playfield. Defeat 10 tanks (+5 per activation) to light **Tank Attack Multiball** at the scoop. If qualified, this multiball overrides the **[Kaiju Battle](#heading--raid)** selection screen, though you can start it during a currently active Kaiju Battle. 
+Shoot the lit TANK shots to destroy tanks; two will be lit at a time, at random shots on the playfield. Defeat 10 tanks (+5 per activation) to light **Tank Attack Multiball** at the scoop. If qualified, this multiball overrides the **[Kaiju Battle](#heading--raid)** selection screen, though you can start it during a currently active Kaiju Battle.
 
 **Tank Attack Multiball** is a 2-ball multiball, where the goal is to shoot the flashing, roving TANK shots for jackpots before they attack Godzilla at the captive ball. Each tank destroyed scores 2.5M + 1M per super jackpot collected - 500K per shot the tank moves towards, and increases the super jackpot multiplier +1x to a max of 3x. Tanks spawn at the left spinner and scoop, with one being lit at the right ramp at the start of multiball.
 
@@ -195,7 +195,7 @@ Destruction Jackpot can be lit at the building by:
 - Collecting 10 **[Trains](#heading--trains)** (w/ +1x Multiplier)
 - **[Mystery Award](#heading--masercannon)**
 
-Shoot the building during single-ball play when Destruction Jackpot is lit, and the Magna-Grab post will hold the ball, then drop it to the upper flipper after about 9 seconds. Shoot the upper loop to collect the Destruction Jackpot. A brief grace period is given to collect the Destruction Jackpot if you miss the initial loop shot, which can be increased as an option from **[Godzilla Powerup](#heading--powerups)** #3. Each collected Destruction Jackpot also boosts the value of all **[Annihilation Bonuses](#heading--annihilationbonus)** by +1% and lights the left spinner to advance towards **[Monster Rampage](#heading--monsterrampage)**. 
+Shoot the building during single-ball play when Destruction Jackpot is lit, and the Magna-Grab post will hold the ball, then drop it to the upper flipper after about 9 seconds. Shoot the upper loop to collect the Destruction Jackpot. A brief grace period is given to collect the Destruction Jackpot if you miss the initial loop shot, which can be increased as an option from **[Godzilla Powerup](#heading--powerups)** #3. Each collected Destruction Jackpot also boosts the value of all **[Annihilation Bonuses](#heading--annihilationbonus)** by +1% and lights the left spinner to advance towards **[Monster Rampage](#heading--monsterrampage)**.
 
 The total Destruction Jackpot value = 5M (+1M per Monster Monitor insert) + Temporary Base Value x Multiplier. The temporary base value is removed when the player *[changes cities](#heading--cityselect)*. An additional +4M is added to the Destruction Jackpot if London has been *[conquered](#heading--cityselect)*, and an additional +15M is added for conquering all four Cities in a single game.
 
@@ -221,7 +221,7 @@ When you complete the following in a City, an **Annihilation Bonus** will be lit
 - **[Bridge Attack Multiball](#heading--bridgemb)**, hitting switches will pulse the Attack Bridge insert
 - **[Tank Attack Multiball](#heading--tankmb)**, a single pulsing Tank Shot
 
-Annihilation Bonuses are boosted by +1% for every **[Destruction Jackpot](#heading--destructionjp)** collected, are boosted by +1% for *[conquering](#heading--cityselect)* Tokyo, and are also boosted by 1% as the 2nd **[Imposter Battle](#heading--magnagrab)** award. Each Annihilation Bonus is added into the **[Carnage Bonus](#heading--annihilationbonus)** value, and has a base value of 1M. If multiple Annihilation Bonuses are lit at once, their scoring will be given a +1x multiplier, up to 3x for having all three lit on the same ball. 
+Annihilation Bonuses are boosted by +1% for every **[Destruction Jackpot](#heading--destructionjp)** collected, are boosted by +1% for *[conquering](#heading--cityselect)* Tokyo, and are also boosted by 1% as the 2nd **[Imposter Battle](#heading--magnagrab)** award. Each Annihilation Bonus is added into the **[Carnage Bonus](#heading--annihilationbonus)** value, and has a base value of 1M. If multiple Annihilation Bonuses are lit at once, their scoring will be given a +1x multiplier, up to 3x for having all three lit on the same ball.
 
 Once the player leaves a City, they will score the **Carnage Bonus**. This is determined by adding up:
 - The current **[Destruction Jackpot](#heading--annihilationbonus)**, excluding the multiplier but including temporary base value
@@ -235,7 +235,7 @@ After **[playing a Kaiju Battle](#heading--raid)**, the right scoop will light f
 
 The purpose of City Select is to determine whether you want to continue playing for a potentially larger Carnage Bonus by playing out the current city, or if you want to complete cities quickly to get to **[Planet X](#heading--planetx)**. **[Kaiju Battles](#heading--raid)** are locked to the City they have been selected in, and changing cities before completing their respective battle will permanently forfeit the city. The four city objectives can only be played once per city, and the city must be changed to re-qualify them.
 
-Cities can be conquered by winning their respective **[Kaiju Battles](#heading--raid)**, and each city awards a perk, **[+1 Bonus X](#heading--bonus)**, and **[+1x Super Spinner](#heading--heatray)** immediately after the end of the Battle. Additional perks are awarded if Godzilla conquers a number of cities. 
+Cities can be conquered by winning their respective **[Kaiju Battles](#heading--raid)**, and each city awards a perk, **[+1 Bonus X](#heading--bonus)**, and **[+1x Super Spinner](#heading--heatray)** immediately after the end of the Battle. Additional perks are awarded if Godzilla conquers a number of cities.
 
 **[Planet X](#heading--planetx)** is made available after completing all four tasks, even if it took them multiple cities to do so. If Planet X is chosen, the player will not be able to score any perks from associated cities or play any remaining Kaiju Battles. You cannot return to Earth once you travel to Planet X.
 
@@ -254,7 +254,7 @@ These three multiball modes can only be played by themselves, but can stack with
 
 ### Godzilla Multiball: {#heading--godzillamb}
 
-Damage the building and decrease the building integrity to 0% to light Godzilla Multiball. Upper / middle floors can be destroyed by shooting the ramps or the building, while lower floors can only be destroyed by shooting the building itself. Once the building integrity has reached 0%, shoot the building to start Godzilla Multiball. (On the Premium / LE, shoot the building three times after reaching 0% to lock balls, with the third lock starting Godzilla Multiball.) 
+Damage the building and decrease the building integrity to 0% to light Godzilla Multiball. Upper / middle floors can be destroyed by shooting the ramps or the building, while lower floors can only be destroyed by shooting the building itself. Once the building integrity has reached 0%, shoot the building to start Godzilla Multiball. (On the Premium / LE, shoot the building three times after reaching 0% to lock balls, with the third lock starting Godzilla Multiball.)
 
 Hold the action button at the very start of Godzilla Multiball (during the initial buildup) to change the background music. This defaults to Blue Oyster Cult's "Godzilla" but there are seven tracks that can be played.
 
@@ -273,7 +273,7 @@ Balls can be added to this 3-ball multiball by shooting any three green Neo-Barr
 
 Shoot the right spinner enough times (20 + 10 per activation) to bring Mechagodzilla online, then shoot the spinner once more to deploy him. Once Mechagodzilla has been deployed, the jump ramp will rotate to the target bank side on the Prem / LE. Disable the Neo Barrier by shooting all three targets (or on the Pro, the two standup targets and the right spinner). Then, shoot the right spinner once more (or use the jump ramp on the Prem / LE) to start Mechagodzilla Multiball.
 
-During Multiball, the ramps and building are lit to score jackpots worth 1M + 500K per Mechagodzilla Multiball started. After collecting a jackpot, shoot the target bank to score another jackpot and re-light the jackpots that weren't collected - third and fourth jackpots are 2x, fifth and sixth jackpots are 3x. 
+During Multiball, the ramps and building are lit to score jackpots worth 1M + 500K per Mechagodzilla Multiball started. After collecting a jackpot, shoot the target bank to score another jackpot and re-light the jackpots that weren't collected - third and fourth jackpots are 2x, fifth and sixth jackpots are 3x.
 
 Collect all three jackpots at the lit shots and the target bank for a timed super jackpot - build up the super jackpot value by 500K points per spinner hit for 20 seconds, then collect it at the Tail Whip / right spinner lane within 20 seconds; 3x at the Tail Whip lane (+3 **[Godzilla Power-Up](#heading--powerups)**), 1x at the right spinner lane (+2 Godzilla Power-Up). Draining to a single ball while the super jackpot is lit will give the player a 10 second timer to collect it. Scoring a Super Jackpot during this multiball is necessary to qualify **[Terror of Mechagodzilla](#heading--terror)**.
 
@@ -326,13 +326,13 @@ Destroyed jet fighters also count up and score various awards during the course 
 - 10 Jets: **[Extra Ball](#heading--extraballs)**
 - 15 Jets: +1x **[Destruction Jackpot](#heading--destructionjp)**
 - 21, 33, 45, etc. Jets: Light **Ally**
-- 27, 39, 51, etc. Jets: +1 **[Godzilla Power-Up](#heading--powerups)** 
+- 27, 39, 51, etc. Jets: +1 **[Godzilla Power-Up](#heading--powerups)**
 
 ### Magna-Grab & Imposter Battle: {#heading--magnagrab}
 
 Completing all 3 Powerline stand-up targets lights the right inlane. Passing through a lit right inlane will light the Magna-Grab to score points and capture the ball. Release a ball from the Magna-Grab by pressing both flippers at the right time; every **[loop shot](#heading--loops)** following a Magna-Grab will be worth 5x its normal value.
 
-Alternatively, time the release of the ball so that it enters the left spinner, and one of a series of Imposter Battle awards will be scored in the following order: 
+Alternatively, time the release of the ball so that it enters the left spinner, and one of a series of Imposter Battle awards will be scored in the following order:
 - 15M & Light **[Ally](#heading--allies)**
 - 20M & +1% **[Annihilation Bonus](#heading--annihilationbonus)**
 - 30M & +1x **[Destruction Jackpot](#heading--destructionjp)**
@@ -366,13 +366,13 @@ Making cumulative shots during the mode scores the following:
 
 Qualify the **Heat Ray** by spinning the center spinner enough times - 60 for the first, 120 for the second, etc. Once the action button is flashing, *hold* the action button to "charge" the Heat Ray to collect all lit shots. As soon as the meter on the display reaches 100%, it's safe to release the button. The more times you use the Heat Ray, the longer you will need to hold the action button to use it (though this can be sped up by *[conquering](#heading--cityselect)* three **Cities**).
 
-(*Note that the Heat Ray cannot be used on **[Destruction Jackpots](#heading--destructionjp)**, can only be used once during Tier 2 **[Kaiju Battles](#heading--raid)** and **multiball modes**, and is disabled during **[Planet X Multiball](#heading--planetx)***). 
+(*Note that the Heat Ray cannot be used on **[Destruction Jackpots](#heading--destructionjp)**, can only be used once during Tier 2 **[Kaiju Battles](#heading--raid)** and **multiball modes**, and is disabled during **[Planet X Multiball](#heading--planetx)***).
 
 For spinner-based modes (**[Ebirah](#heading--tier1)**, **[Terror of Mechagodzilla](#heading--terror)** phases 2 and 4), Heat Ray spots 5 spins on each spinner.
 
 In **[Mechagodzilla Multiball](#heading--mechamb)**, when multiple shots or targets are lit but only one can be scored, Heat Ray spots one of those shots at random.
 
-After using the Heat Ray, the next spinner shot will score **Super Spinner** points - 2x per spin +1x for every city Godzilla has *[conquered](#heading--cityselect)* - for one spinner rip only, with no cap. +2x can also be added from **[Godzilla Power-Up](#heading--powerups)** #7. 
+After using the Heat Ray, the next spinner shot will score **Super Spinner** points - 2x per spin +1x for every city Godzilla has *[conquered](#heading--cityselect)* - for one spinner rip only, with no cap. +2x can also be added from **[Godzilla Power-Up](#heading--powerups)** #7.
 
 ### Godzilla Powerups: {#heading--powerups}
 
@@ -437,7 +437,7 @@ Godzilla Wallop also lights **[Advance Train](#heading--trains)** at the left ra
 
 ### Loops: {#heading--loops}
 
-Shoot the upper loop from the upper flipper to score 500K (+15K per loop), with consecutive loop shots adding +1x to the loop value for only that consecutive sequence - to a max of 10x. The base loop value maxes out at 2M, and loop scoring is multiplied by 5x after releasing a ball from the lit **[Magna-Grab](#heading--magnagrab)** captive ball. 
+Shoot the upper loop from the upper flipper to score 500K (+15K per loop), with consecutive loop shots adding +1x to the loop value for only that consecutive sequence - to a max of 10x. The base loop value maxes out at 2M, and loop scoring is multiplied by 5x after releasing a ball from the lit **[Magna-Grab](#heading--magnagrab)** captive ball.
 
 Reaching consecutive loop shot thresholds awards certain perks the first time they are reached during a game:
 - 3 consecutive loops: +1 **[Godzilla Power-Up](#heading--powerups)**
@@ -451,7 +451,7 @@ Each loop adds 100,000 points to **[end-of-ball bonus](#heading--bonus)**.
 
 ### Tail Whips: {#heading--tailwhips}
 
-Score **[Magna-Grab](#heading--magnagrab)** when lit to light the tail whip shot for Tail Whip. Shooting the loop followed by the tail whip awards a “Super Tail Whip” worth 2M x the number of loop shots made before the tail whip, and collects 2 Tail Whips. 
+Score **[Magna-Grab](#heading--magnagrab)** when lit to light the tail whip shot for Tail Whip. Shooting the loop followed by the tail whip awards a “Super Tail Whip” worth 2M x the number of loop shots made before the tail whip, and collects 2 Tail Whips.
 
 Tail Whips count up and score awards during the game:
 - 3 Tail Whips: +2 **[Godzilla Power-Up](#heading--powerups)**
@@ -468,16 +468,16 @@ Shoot the left ramp when “Advance Train” is lit to collect 1 train for 2 mil
 
 **Awards:**
  - 3 trains: +2 **[Godzilla Power-Up](#heading--powerups)**
- - 5 trains (Pro): Big Points (50M) 
- - 5 trains (Prem / LE): **Super Train Loops** 
- - 10 trains: +1x and Lights **[Destruction Jackpot](#heading--destructionjp)** 
+ - 5 trains (Pro): Big Points (50M)
+ - 5 trains (Prem / LE): **Super Train Loops**
+ - 10 trains: +1x and Lights **[Destruction Jackpot](#heading--destructionjp)**
 - 15, 25, 35, etc. trains: Big Points (50M)
 - 20, 30, 40, etc. trains: +2 **[Godzilla Power-Up](#heading--powerups)**
 
  **Super Train Loops:**  (Prem/LE only)
 
 This timed mini-mode starts at the 5th train collected and takes priority over all other modes. Repeatedly "loop" shots to a single ramp to score big points, with each shot made without hitting any other switches adding multipliers to the value. Shooting the building ends the mode prematurely.
-- The building is set to the one-story lower height to facilitate looping either ramp. 
+- The building is set to the one-story lower height to facilitate looping either ramp.
 - Successful shots add a couple seconds of time.
 - After 5 consecutive Right Ramps, the building will divert the ball to the other flipper.
 - After 5 consecutive shots to the Left Ramp, the Bridge open and divert the ball.
@@ -566,7 +566,7 @@ If time runs out, the flippers are killed and the ball drains; and if the ball d
 ### Extra Balls:
 
 Extra balls are instantly awarded once any of the below tasks have been achieved.
-- **[Win 2 Kaiju Battles](#heading--raid)** 
+- **[Win 2 Kaiju Battles](#heading--raid)**
 - Destroy 3 **[Saucers](#heading--saucerattack)**
 - Destroy 10 **[Jet Fighters](#heading--jetfighter)**
 - Make 12 shots during **[Monster Rampage](#heading--monsterrampage)** the first time
@@ -615,7 +615,7 @@ Planet X is qualified as a **[City Select](#heading--cityselect)** option by ach
 - Starting **[Bridge Attack Multiball](#heading--bridgemb)**
 - Starting **[Tank Attack Multiball](#heading--tankmb)**
 
-Choosing to head to Planet X when qualified will award the **Earth Bonus**, awarding 25% of the total **[Carnage Bonus](#heading--annihilationbonus)** awarded from each City x the number of Cities visited (up to 4x). The mini-wizard mode, **Planet X Multiball**, will then start. This is a 3-ball multiball with balls added at each major phase; it can also be played as a single-ball mode, but will end if the ball drains. 
+Choosing to head to Planet X when qualified will award the **Earth Bonus**, awarding 25% of the total **[Carnage Bonus](#heading--annihilationbonus)** awarded from each City x the number of Cities visited (up to 4x). The mini-wizard mode, **Planet X Multiball**, will then start. This is a 3-ball multiball with balls added at each major phase; it can also be played as a single-ball mode, but will end if the ball drains.
 
 Defeat the Xiliens once and for all by making the following sets of shots in order:
 - 3 **blue** Powerline targets, then center spinner for 10M

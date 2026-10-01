@@ -28,9 +28,9 @@ Pirates of the Caribbean is JJP's 4th game. Designed by newcomer Eric Meunier, P
 
 - Port Royal - Left orbit shot, which can either feed the pop bumpers or feed the ship popper. This is also where Curse of the Black Pearl Multiball is started. An up post is featured at the very start of the shot, which can hold balls at certain times during play. This shot is used in modes and also qualifies the yellow skull for the Star Map.
 
-- PIRATE target - Spot target in between Port Royal and the left Chest Target that collects a lit PIRATE award when qualified through the inlanes. 
+- PIRATE target - Spot target in between Port Royal and the left Chest Target that collects a lit PIRATE award when qualified through the inlanes.
 
-- Chest Targets - Two targets on both sides of the Chest shot, with green arrows pointing towards them. Completing both targets qualifies the lock at the Chest. 
+- Chest Targets - Two targets on both sides of the Chest shot, with green arrows pointing towards them. Completing both targets qualifies the lock at the Chest.
 
 - The Chest - Orbit that feeds the ball to the upper left flipper for shots at the Captain's Quarters, Fountain of Youth, or the GOLD targets, with a replica of the Dead Man's Chest on top of it. It also locks balls for Dead Man's Chest Multiball thanks to a u-turn that feeds the inside of the chest. Lastly, it's also used in modes, and qualifies the green skull for the Star Map. In prototype versions of the game, the chest replica would open up, but this was changed in the production releases.
 
@@ -50,7 +50,7 @@ Pirates of the Caribbean is JJP's 4th game. Designed by newcomer Eric Meunier, P
 
 - Black Pearl Ship - A unique upper playfield with several shots that can be made. The ship constantly rocks back and forth, and the more you get done on the ship, the more difficult it becomes to control the ball. The upper playfield has two orbits with a spinner each, both of which are used during modes, with the spinners qualifying the "Load Cannon" targets. There are also two blue targets to the left of the playfield that qualify the Bonus X targets, two yellow targets at the center that spot a GOLD target, and two green targets (one near the cannon and one near the right exit) that qualify the Cannon when lit. The ball can exit the playfield through a habitrail towards the right of the playfield or drop into the bumpers (which also gives credit for the right orbit shot).
 
-- Cannon - Difficult shot at the upper left of the Black Pearl Ship, with a door in front of it that raises when the Cannon is qualified. When a ball is loaded into the Cannon, the action button must be pressed at the right time to fire at the opposing ship. The Cannon is used to qualify and collect Super Jackpots during Curse of the Black Pearl Multiball. 
+- Cannon - Difficult shot at the upper left of the Black Pearl Ship, with a door in front of it that raises when the Cannon is qualified. When a ball is loaded into the Cannon, the action button must be pressed at the right time to fire at the opposing ship. The Cannon is used to qualify and collect Super Jackpots during Curse of the Black Pearl Multiball.
 
 - Ship popper - VUK that kicks the ball into the top of the Black Pearl Ship. The ball typically doesn't land here on purpose, but it can be made from a Skill Shot or a weak orbit shot.
 
@@ -74,7 +74,7 @@ Pirates of the Caribbean is JJP's 4th game. Designed by newcomer Eric Meunier, P
 
 - Action Button & Screen - This button is your friend. During gameplay, you can use it to collect gold whenever it spawns on screen. You can also press it at any time during play to change the PIRATE award that will be qualified through the inlanes. There is a screen above the action button that has multiple functions during gameplay, including acting as a "compass" that points towards the most valuable shot available.
 
-**Character Select:** 
+**Character Select:**
 
 Every game of POTC starts with an opportunity to choose which character you want to play as. Each character gives benefits to the player (ie. easier Multiballs, easier Chapters, etc.), and also allows you to skip the character's shot during Chapters. In a multiplayer game, the same character cannot be chosen twice.
 
@@ -130,15 +130,15 @@ At any time during play (as long as Gold hasn't spawned), you can press the acti
 - Light Extra Ball (after 5-6 PIRATE completions)(Amber)
 - Light Liar's Dice (after 3 PIRATE completions)(Pink)
 
-**Bonus X:** 
+**Bonus X:**
 
 Completing the two "Advance X" targets on the Black Pearl Ship qualifies the standups to increase the bonus multiplier. Once the multiplier is collected, you will have to complete them again to qualify the multipliers again. Bonus X caps at 6x.
 
-**Shot X:** 
+**Shot X:**
 
 This can be qualified as one of the PIRATE inlane awards. When this is collected, shooting any flashing target will make the value of *only* the next shot multiplied by whatever number was on the target.
 
-**Super X:** 
+**Super X:**
 
 This can be qualified as one of the PIRATE inlane awards. The first time this is collected, only the "2x" target will be flashing. Hitting the target begins 2x scoring for about 30 seconds. The playfield multiplier can be increased up to 6x on subsequent activations of Super X. If a MAP Award is collected during this time, it'll typically advance the playfield multiplier by 1x.
 
@@ -149,7 +149,7 @@ Completing the MAP targets qualifies the Captain's Quarters to collect a Map Awa
 The possible Map combinations are listed below:
 
 - First layer:
-  - Light 
+  - Light
   - Award
   - Add
   - Change
@@ -180,8 +180,8 @@ The possible Map combinations are listed below:
 Notes on Plundering:
 - "Plunder Opponent's Character" allows you to steal an opponent's character, giving you the benefits of that character. The downside of this is that if you achieve a character champion high score at the end of the game and you've plundered a character, you won't qualify for that ego award.
 - "Plunder Opponent's Ball" is **very** rare, but it can be awarded. Consider yourself lucky if you get this.
- 
-**Liars' Dice:** 
+
+**Liars' Dice:**
 
 This is awarded as an option off of the 3rd PIRATE award and can be accessed at the start of a game by playing as Davy Jones. Shoot the right orbit or fall into the Ship VUK to start this video mode. First, select out of a few options what you want the stakes for the game to be (ie. gold, tilt warnings, points, souls, etc.) You can also select "Walk Away", which allows you to exit the mode, and "Help!", which brings up a page teaching you how the rules of Liar's Dice works (just like in the movies). If you lose, it'll be double or nothing - ie. if you had 119 gold as the stakes, winning Liar's Dice would award you with that amount added to your total, but if you lost, you would lose all of your gold. (How do souls work exactly? Do they have something to do with the wizard modes?)
 
@@ -190,8 +190,8 @@ This is awarded as an option off of the 3rd PIRATE award and can be accessed at 
  In POTC, the player will collect tons of gold throughout the course of the game by hitting the action button when they spawn. The gold spawning is accompanied by a callout and the blinkers on the playfield flashing yellow. When the gold is about to vanish, they will turn red. The primary purpose of gold is to light Tortuga Multiball at the right saucer, which can be stacked into other Multiballs for big points. Gold can spawn through:
 - "Gold" PIRATE lanes (10 x number of collects, up to 50)
 - Hitting the GOLD targets (the higher combo you attain before hitting them, the more gold spawns)
-- Making shots during Chapters 
-- Mystery awards 
+- Making shots during Chapters
+- Mystery awards
 
 **Combos & Treasure Horde:**
 
@@ -201,9 +201,9 @@ There are 12 two-shot combos that can be viewed in the status report. Each combo
 
 Something to do when you don't have anything else to do. Shooting the Star Map during normal play will light a random shot for the Constellation Bonus. After enough Constellation Bonuses are collected, the Extra Ball will be lit.
 
-**Chapters:** 
+**Chapters:**
 
-There are five colored skulls shown at the top of the backglass display, as well various shots on the playfield: Port Royal (yellow skull), the Chest (green skull), the Maelstrom (red skull), the Fountain of Youth (blue skull), and the Devil's Triangle (purple skull). 
+There are five colored skulls shown at the top of the backglass display, as well various shots on the playfield: Port Royal (yellow skull), the Chest (green skull), the Maelstrom (red skull), the Fountain of Youth (blue skull), and the Devil's Triangle (purple skull).
 
 Shooting any of these shots once qualifies a chapter at the Star Map shot. If the Star Map is made with multiple chapters qualified, the ball will bounce around and collect the Skull value for each target hit. The last target hit before time runs out will be the chapter you play.
 
@@ -245,7 +245,7 @@ The other objective POTC players will be pursuing are the six Multiballs (one fo
 
 **Multiball 4 (*On Stranger Tides*):** Multiball 4 is started by making successive shots to the Fountain of Youth - the upper loop. It takes about 8 or 9 loops to qualify MB. Another shot to the Fountain of Youth will start Multiball 4. During the Multiball, the inner loop will score Jackpots. Shooting chest-loop combos awards Double Jackpots; orbit-loop combos awards Triple Jackpots. After enough Jackpots are collected, the right orbit, chest, or inner loop has to be shot to trap a ball behind the post. The Super Jackpot is collected by knocking the ball out of the post with another ball.
 
-**Multiball 5 (*Dead Men Tell No Tales*):** Shooting the spinner in front of the Devil's Triangle will progress towards lighting this Multiball. After enough spins, shoot the Devil's Triangle to start the Multiball. In order for the MB to begin, the ball must travel all the way up the left orbit and hit the switch at the u-turn and the end. During the Multiball, a roving Purple Jackpot is lit. Shoot the roving jackpot to light the Super Jackpot at the Devil's Triangle. 
+**Multiball 5 (*Dead Men Tell No Tales*):** Shooting the spinner in front of the Devil's Triangle will progress towards lighting this Multiball. After enough spins, shoot the Devil's Triangle to start the Multiball. In order for the MB to begin, the ball must travel all the way up the left orbit and hit the switch at the u-turn and the end. During the Multiball, a roving Purple Jackpot is lit. Shoot the roving jackpot to light the Super Jackpot at the Devil's Triangle.
 
 **Tortuga Multiball:**  Collecting 50 (+50 for subsequent multiball) Gold during the game will qualify the right saucer to begin Tortuga Multiball. During the Multiball, all of the major shots will light for Jackpots. These don't score too many points, but they do increase the Super Jackpot value that the right saucer will collect. If the player is patient with collecting their Jackpots and brings in a Super X, the Super Jackpot can score a ton of points. The other benefit of Tortuga Multiball is that completing the GOLD targets will instantly add a ball to the Multiball. After completing these targets the first time, GOLD has to be completed in order from top to bottom to award another add-a-ball. One of the best uses of this MB is to "resurrect" other MB's during the grace period after a drain down to one ball.
 
@@ -253,7 +253,7 @@ The other objective POTC players will be pursuing are the six Multiballs (one fo
 
 Wizard mode scoring is based on a "score level," which is calculated by:
 
-(1 + # of Super Jackpots) * (1 + # of characters collected in modes) 
+(1 + # of Super Jackpots) * (1 + # of characters collected in modes)
 
 Curse of the Black Pearl Wizard Mode (The Cursed Treasure of Cortés): Play 5 yellow chapters and Curse of the Black Pearl Multiball to qualify, and then shoot Port Royal to start it. During this mode, the player is tasked with collecting 882 pieces of Aztec gold through switch hits. This sounds like a difficult task, but certain targets contribute more than others. In particular, the spinners can add a ton of Aztec gold to your collection really quickly. Another challenging aspect of this wizard mode is that the ports where Aztec gold can be collected eventually deplete; in order to change ports, a flashing yellow shot must be made. The mode ends upon collecting all 882 pieces of gold or when the timer runs out, which is fairly lengthy for this mode.
 

@@ -51,7 +51,7 @@ There are four Skill Shots on this machine.
 
 ## Golden Tickets: {#heading--tickets}
 
-The main objective of Wonka is to complete 5 tasks and score Golden Tickets to start wizard modes. Each Golden Ticket corresponds to a different task and most tasks can be progressed towards while others are running. 
+The main objective of Wonka is to complete 5 tasks and score Golden Tickets to start wizard modes. Each Golden Ticket corresponds to a different task and most tasks can be progressed towards while others are running.
 
 ### Factory Tour Modes: {#heading--tour}
 
@@ -75,13 +75,13 @@ There are three types of Factory Tour modes that can be started at the saucer, e
 
 ### Gobstopper Multiball: {#heading--gobstoppermb}
 
-Shoot the target blocking the Most Secret Machine to increase the **[Bonus Multiplier](#heading--bonus)** and open up the hole to lock a ball. Only one hit to the target is needed for per lock for the first Multiball on default settings, increasing by one each time. Balls that enter the lock hole will be deposited into the plunger lane. Virtually lock 3 balls to start the Multiball. 
+Shoot the target blocking the Most Secret Machine to increase the **[Bonus Multiplier](#heading--bonus)** and open up the hole to lock a ball. Only one hit to the target is needed for per lock for the first Multiball on default settings, increasing by one each time. Balls that enter the lock hole will be deposited into the plunger lane. Virtually lock 3 balls to start the Multiball.
 
 During Gobstopper Multiball, each shot up the left and right ramp will score a Jackpot, and the center ramp will score a Double Jackpot (and count two Jackpots towards the Gobstopper Jackpot progression). Hits to the Most Secret Machine will also increase the Jackpot value by a small amount. After collecting 3 Jackpots at the ramps, the hole in front of the Most Secret Machine will light to collect a Gobstopper Jackpot, worth 5x the value of a normal Jackpot. Collecting five Gobstopper Jackpots - one for each Kid - will award the **Golden Ticket** for Gobstopper Multiball.
 
 Balls can be added by shooting the factory target.
 
-If the player has a terrible Gobstopper Multiball (barely any Jackpots scored), the hole in front of the Most Secret Machine will light for about 20 seconds to restart the Multiball with two balls in play. 
+If the player has a terrible Gobstopper Multiball (barely any Jackpots scored), the hole in front of the Most Secret Machine will light for about 20 seconds to restart the Multiball with two balls in play.
 
 ### Kid Multiball: {#heading--kidmb}
 
@@ -106,7 +106,7 @@ Completing certain tasks during the game lights the spinner for Super Lock. Supe
 After locking 3 balls in the elevator, virtually on SE or physically on LE / CE, Wonkavator Multiball begins. The multiball is split into 3 different phases, and the Super Jackpot must be won during each to score the Wonkavator Multiball **Golden Ticket**.
 
 - Wave 1: All major shots in the game light blue/yellow for Jackpot awards. The same shot can be made more than once to make progress towards qualifying the Super Jackpot award. After 6 Jackpots have been collected, the Gobstopper target will begin flashing. The target has to be hit once in order to open the lock. Once all balls except for one have been locked, the spinner will light for a Super Jackpot multiplied by the number of balls that have been locked.
-- Wave 2: Starts off the same way as the first wave, except each Jackpot shot can only be made once. Five Jackpots are required to qualify the Super. 
+- Wave 2: Starts off the same way as the first wave, except each Jackpot shot can only be made once. Five Jackpots are required to qualify the Super.
 - Wave 3: Jackpots can only be collected on a roving shot.  After each Jackpot, the captive ball must be hit to light the next Jackpot.  Five Jackpots are required to qualify the Super.
 
 ### Gumball Machine: {#heading--gumball}
@@ -118,8 +118,8 @@ Various tasks throughout the game - many not done on purpose - will count as ach
 After collecting **Golden Tickets**, one of the game's major shots lights to start a wizard mode, played in the following order. Wizard modes are mutually exclusive and take priority over all other features once started.
 - **Oompa-Loompa Odyssey**: This mode is qualified at the center loop after one Golden Ticket has been collected and no other modes are running. The display will use a camera to show the player's face and all shots on the playfield will be flashing green and orange for Jackpots. Once a Jackpot has been collected, shooting the same shot again will award a smaller value and will not count as a unique jackpot. Collecting 10 unique Jackpots during the mode will qualify the Super Jackpot at any roving shot. Score the Super Jackpot to add a ball and re-light all major shots for Jackpots.
 - **Wonka's Office**: This mode is qualified at the saucer after two Golden Tickets have been collected and no other modes are in progress. This mode is played by alternating left to right shots as directed by the game lights and audio. The mode can be finished in as little as 3 shots, but can be extended by not hitting the finishing jackpot shot, and instead locking a ball in the Gobstopper.  This will increase the final jackpot's value, and a new 3 shot sequence will begin. The mode finishes when you drain, or collect the final jackpot shot.
-- **Candy Stash**: Awarded after collecting 3 golden tickets. This simply awards +100 **[Wonka Bars](#heading--bars)** and +50 **[Candy Jar](#heading--spinner)**. 
-- **The Most Secret Machine**: Qualified after 4 Golden Tickets, this wizard mode is started at the Gobstopper hole. This is a 60 second unlimited ball mode where the goal is to keep shooting balls back into the Gobstopper hole for an increasing value. The more shots you make, the more the most secret machine moves around making the shot harder! Each jackpot will also light another shot around the playfield for a smaller award and light the captive ball for more time. Once the timer reaches 0, the ball save expires and you enter sudden death. No more time can be added but the hole and other shots still score. The mode ends once only one ball is in play. 
+- **Candy Stash**: Awarded after collecting 3 golden tickets. This simply awards +100 **[Wonka Bars](#heading--bars)** and +50 **[Candy Jar](#heading--spinner)**.
+- **The Most Secret Machine**: Qualified after 4 Golden Tickets, this wizard mode is started at the Gobstopper hole. This is a 60 second unlimited ball mode where the goal is to keep shooting balls back into the Gobstopper hole for an increasing value. The more shots you make, the more the most secret machine moves around making the shot harder! Each jackpot will also light another shot around the playfield for a smaller award and light the captive ball for more time. Once the timer reaches 0, the ball save expires and you enter sudden death. No more time can be added but the hole and other shots still score. The mode ends once only one ball is in play.
 - **Pure Imagination**: Final wizard mode, lit at the saucer after collecting all 5 Golden Tickets. Appears to be a 4-ball Multiball with no timer and limited ballsave, ending when only one ball is in play. Switches score big points and add those points to the jackpot values; only one is lit at a time, and each one starts at 20,000 points. Mode starts at "Level 1", shooting a certain number of jackpots increases the level. Effect of higher levels is not known (but it probably increases the switch value). The starting level is adjustable, as is a requirement to collect jackpots from all shots before any one can be collected a second time.
 
 ## Other Scoring: {#heading--other}
@@ -136,31 +136,31 @@ After scoring 200 Wonka Bars, **Wonka Bar Ransom** is active for the rest of the
 
 Collecting (5 + 1 per award) **[Wonka Bars](#heading--bars)**, or making a **[skill shot](#heading--skillshots)** up the center ramp, will qualify the saucer to collect a Computer Award. Shoot the standup target to the right of the center ramp to change the lit Computer Award. Certain Computer Awards can only be started after enough have been qualified by progressing through the game.
 - *Computer Ticket Modes*: These modes are typically accessed later in the game than lower-priority awards. All four of these modes share the same timer, which means if you start another Computer Ticket mode while one is already active, the timer will reset.
-  - *The Candy Man*: Shoot the standup targets for big points determined by the current **[Candy Jar](#heading--spinner)** value.  After enough targets are scored, a jackpot is lit at the right orbit. Collect the jackpot to relight the targets. 
+  - *The Candy Man*: Shoot the standup targets for big points determined by the current **[Candy Jar](#heading--spinner)** value.  After enough targets are scored, a jackpot is lit at the right orbit. Collect the jackpot to relight the targets.
   - *Wonka Bar Craze*: Shoot the three ramps for big points determined by the number of collected **[Wonka Bars](#heading--bars)**. Once all 3 ramps have been made, shoot the roving ramp shot to score a jackpot and relight the ramps.
   - *Dots, Dots, Dots!*: Shoot the captive ball for a value determined by the number lit in front of the captive ball. After enough captive ball hits, shoot the center ramp to score a jackpot subject to the same rules and relight the captive ball.
   - *Unlimited Kickback*: All loops are worth big points and the left outlane kickback will remain lit until the Computer Award timer runs out (along with scoring the loop value).
-- Small Points 
-- Medium Points 
-- Big Points 
-- Add Tilt Warning 
+- Small Points
+- Medium Points
+- Big Points
+- Add Tilt Warning
 - Light **[Super Lock](#heading--wonkavatormb)** (all 3!)
 - Light Special (at both outlanes)
 - Super Jets (all bumper hits score more points than usual)
 - Advance **[Candy Jar](#heading--spinner)** (+10)
 - Increment **[Captive Ball](#heading--mystery)** (+1)
 - Hold **[Bonus X](#heading--bonus)**
-- 15 Second Ball Saver 
-- Light **[Extra Ball](#heading--extraballs)** 
+- 15 Second Ball Saver
+- Light **[Extra Ball](#heading--extraballs)**
 
 ### Captive Ball Mystery: {#heading--mystery}
 
 Shoot ramps to increase the number in front of the captive ball, which reduces if enough time passes without any ramp shots, then shoot the captive ball when "?" is lit to collect a mystery award. For further mystery awards, combo shots must be made to the two ramps to advance the captive ball. The center ramp permanently advances the captive ball by +1 when shot. Mystery awards are:
 - Light **[Super Lock](#heading--wonkavatormb)** (1 lock only)
-- Light **[Extra Ball](#heading--extraballs)** 
+- Light **[Extra Ball](#heading--extraballs)**
 - **World Record Gum Chewing** (timed mode, hit the GUM targets as much as possible)
 - **Wonkatania Mania** (timed mode, game freaks out, shoot the ramps to collect big points and shoot orbits to increase them)
-- Big Points 
+- Big Points
 - **Oompa-Loompa Hurry-Up** (picks a random shot for a quick hurry-up award)
 - **Store Room Combo Challenge** (collect all of the materials in the store room with successful combo shots - right ramp - left loop - center ramp - inner loop)
 - **Wonka Wash Frenzy** (timed mode, all switches score 500 points for 20 seconds)
@@ -178,7 +178,7 @@ Collecting enough hits to the standup targets scattered throughout the playfield
 
 ### Candy Jar: {#heading--spinner}
 
-Add Candy to the Jar through successful **[skill shots](#heading--skillshots)**, completing the two outer inlanes which cycle with the flipper buttons, or through certain other awards. The more Candy is in the Jar, the more points the spinner is worth (regular spins and super spinner). 
+Add Candy to the Jar through successful **[skill shots](#heading--skillshots)**, completing the two outer inlanes which cycle with the flipper buttons, or through certain other awards. The more Candy is in the Jar, the more points the spinner is worth (regular spins and super spinner).
 
 ### Extra Balls: {#heading--extraballs}
 

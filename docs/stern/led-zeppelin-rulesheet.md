@@ -33,9 +33,9 @@ opdb_id: "Gweel"
 
 - Lead Designer: Steve Ritchie
 - Code/Rules: Tim Sexton, Raymond Davidson
-- Lead Mechanical Engineer: 
-- Artwork: 
-- Computer Graphics Art Director: 
+- Lead Mechanical Engineer:
+- Artwork:
+- Computer Graphics Art Director:
 - Lead Sound Designer: Jerry Thompson
 - Release Date: January 2021
 - Code Rev: 1.20
@@ -75,7 +75,7 @@ Your goal during each song mode is to collect 5 gold **records** to complete the
 
 
 **Communication Breakdown** (2:28): *All shots start lit and then break down in half until solo at center ramp.*
-- Section 1 (intro): All shots 
+- Section 1 (intro): All shots
 - Section 2 (verses): Both orbits, left & right ramps
 - Section 3 (chorus): left eject, left ramp, side shot, right orbit
 - Section 4 (solo): center ramp
@@ -152,7 +152,7 @@ Completing five songs qualifies **[Mothership Multiball](#heading--mothership)**
 
 ### "Change Song": {#heading--changesong}
 
-After collecting the required 5 gold **records** during a **[song mode](#heading--songmodes)**, the right orbit lights for "Change Song". Changing to a new song allows you to progress through the game, increases the song award value, and awards 2 **[Band Boosts](#heading--bandboosts)**. 
+After collecting the required 5 gold **records** during a **[song mode](#heading--songmodes)**, the right orbit lights for "Change Song". Changing to a new song allows you to progress through the game, increases the song award value, and awards 2 **[Band Boosts](#heading--bandboosts)**.
 
 Once you shoot the right orbit to change songs, the feature will unlight until you score another 5 gold records on whichever song you select. (*Getting 10 platinum records in a song will permanently allow you to instantly change songs whenever you play that song.*)
 
@@ -197,7 +197,7 @@ Zeppelin Multiball starts with 4 jackpots lit, each marked with red arrows. Hitt
 * Center ramp -> Right orbit
 * Right ramp -> Left eject
 
-Once all four jackpots have been made, and all double jackpots have been either timed out or collected, the super jackpot lights at *both* the left eject and the upper flipper shot for the sum total of all jackpots and double jackpots achieved since the last super; the side shot scores 2x the value of the less difficult left eject. Completing the LED, ZEP, and ROCK banks while the super jackpot is lit will add a +1x multiplier to the super jackpot, up to 4x. 
+Once all four jackpots have been made, and all double jackpots have been either timed out or collected, the super jackpot lights at *both* the left eject and the upper flipper shot for the sum total of all jackpots and double jackpots achieved since the last super; the side shot scores 2x the value of the less difficult left eject. Completing the LED, ZEP, and ROCK banks while the super jackpot is lit will add a +1x multiplier to the super jackpot, up to 4x.
 
 Balls can be added during Zeppelin Multiball by shooting the Icarus target three times.
 
@@ -205,7 +205,7 @@ Balls can be added during Zeppelin Multiball by shooting the Icarus target three
 
 On Prem / LE models of the game, completing the LED and ZEP target banks, followed by making any lit shot, will cause the Electric Magic spinner to raise. Subsequent Electric Magic modes require additional completions of LED and ZEP. Once the device is raised, shoot the spinner to charge it up. Once it is fully charged, shoot it again to start one of two Electric Magic Multiball modes:
 
-- **Electric Magic Multiball**: The first phase of Electric Magic Multiball is a hurry-up that counts down. Shoot the left eject or top eject to lock in the value, and set it as your jackpot. After one ball is locked, another ball comes out and a timer counts down from 20. The timer is locked in with one more shot to  the electric magic spinner, and acts as a multiplier for the super jackpot; *or*, shoot the eject you didn't make at the start to reset the timer to 40. Multiball then begins with jackpots equal to the hurry-up at all major shots, relighting when another lit shot is made. Super jackpot is lit at the electric magic spinner for the hurry-up x the amount of seconds remaining after 5 jackpots, with more jackpots required for subsequent super jackpots. 
+- **Electric Magic Multiball**: The first phase of Electric Magic Multiball is a hurry-up that counts down. Shoot the left eject or top eject to lock in the value, and set it as your jackpot. After one ball is locked, another ball comes out and a timer counts down from 20. The timer is locked in with one more shot to  the electric magic spinner, and acts as a multiplier for the super jackpot; *or*, shoot the eject you didn't make at the start to reset the timer to 40. Multiball then begins with jackpots equal to the hurry-up at all major shots, relighting when another lit shot is made. Super jackpot is lit at the electric magic spinner for the hurry-up x the amount of seconds remaining after 5 jackpots, with more jackpots required for subsequent super jackpots.
 - **Electric Magic Frenzy**: This frenzy style multiball has 2 phases that it constantly cycles between: frenzy phase and super phase. During the frenzy phase, for 30 seconds, every switch except for the electric magic spinner (which adds 100 points to switch hits) scores a frenzy value and adds 1% of this value to the super jackpot value. Locking balls in the ejects multiplies these values by 2x or 3x until time runs out. After the frenzy timer runs out, super jackpot is lit at the center spinner for 15 seconds, with each spin scoring points determined by how many frenzy switches you scored during the frenzy phase. After the super jackpot timer runs out, you go back to the frenzy phase and the super jackpot value resets.
 
 ## Other Scoring: {#heading--other}
@@ -252,9 +252,9 @@ If disabled, extra balls score 10M and can be multiplied by the playfield multip
 
 ### End-of-Ball Bonus: {#heading--bonus}
 
-Bonus is determined by the **[combos](#heading--icarusx)** you made that ball, plus **[gold and platinum records](#heading--songmodes)** you've collected during the game, multiplied by the bonus X which is increased by completing ROLL at the inlanes and maxes at 50x. 
+Bonus is determined by the **[combos](#heading--icarusx)** you made that ball, plus **[gold and platinum records](#heading--songmodes)** you've collected during the game, multiplied by the bonus X which is increased by completing ROLL at the inlanes and maxes at 50x.
 
-The lit ROLL lanes can be moved with the flippers, but the lane change is temporarily disabled if the center ramp is shot three times in a row. Lane change is re-enabled once a different major shot is made.  
+The lit ROLL lanes can be moved with the flippers, but the lane change is temporarily disabled if the center ramp is shot three times in a row. Lane change is re-enabled once a different major shot is made.
 
 The base bonus is calculated as:
 
@@ -273,7 +273,7 @@ After completing 5 **[songs](#heading--songmodes)**, the next shot to the right 
 
 ### World Tour Multiball: {#heading--worldtour}
 
-After playing all four **[Tour Multiball](#heading--tourmb)** modes, the next left eject shot will begin World Tour Multiball. This mode starts as a six-ball multiball, with all major shots and all target banks excluding the ball save target bank lit for City Jackpots. Collecting a City Jackpot removes it from the possible shot selection, and to light the next City Jackpot, you have to collect miles by shooting around the playfield. After enough miles have been collected and you land in the next city, the remaining City Jackpots you haven't collected yet are lit. Collect one to score city jackpot worth (# of city jackpots collected x Tour Jackpot Value) and go back to collecting miles. Every 2 City Jackpots collected adds a ball to the multiball, and scoring 5 City Jackpots lights the **[extra ball](#heading--extraballs)**. Upon collecting all 10 City Jackpots, super jackpots are lit and stay lit for the remainder of the multiball. 
+After playing all four **[Tour Multiball](#heading--tourmb)** modes, the next left eject shot will begin World Tour Multiball. This mode starts as a six-ball multiball, with all major shots and all target banks excluding the ball save target bank lit for City Jackpots. Collecting a City Jackpot removes it from the possible shot selection, and to light the next City Jackpot, you have to collect miles by shooting around the playfield. After enough miles have been collected and you land in the next city, the remaining City Jackpots you haven't collected yet are lit. Collect one to score city jackpot worth (# of city jackpots collected x Tour Jackpot Value) and go back to collecting miles. Every 2 City Jackpots collected adds a ball to the multiball, and scoring 5 City Jackpots lights the **[extra ball](#heading--extraballs)**. Upon collecting all 10 City Jackpots, super jackpots are lit and stay lit for the remainder of the multiball.
 
 ### Top of the Charts Multiball: {#heading--topofthecharts}
 

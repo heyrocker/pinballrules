@@ -19,41 +19,41 @@ The main objective of JJP GNR is to collect your seven band members and start a 
 ## Collecting Band Members
 
 Collect each band member by shooting their corresponding shot on the playfield a certain number of times.
-- Axl - Spell A-X-L on top lanes.  The playfield LCD will assist in indicating which letter is selected.  
-- Slash - Spin record a certain number of times.  Spinning the record also eventually qualifies Slash Solo mode. 
-- Duff - Shoot the left ramp enough times.  On the LE/CE this is the VUK that feeds the bass wireform.  This is usually hit with the mini upper playfield flipper.  
-- Richard - Shoot the center spinner just to the left of the center scoop enough times.  
+- Axl - Spell A-X-L on top lanes.  The playfield LCD will assist in indicating which letter is selected.
+- Slash - Spin record a certain number of times.  Spinning the record also eventually qualifies Slash Solo mode.
+- Duff - Shoot the left ramp enough times.  On the LE/CE this is the VUK that feeds the bass wireform.  This is usually hit with the mini upper playfield flipper.
+- Richard - Shoot the center spinner just to the left of the center scoop enough times.
 - Melissa - Roll over the teal keyboard insert below the center scoop enough times.
 - Dizzy - Roll over the purple keyboard insert below the center scoop enough times.
-- Frank - Hit the jets or right ramp.  
+- Frank - Hit the jets or right ramp.
 
-Each band member is represented in the revolver inserts in the middle of the playfield just above the flippers.  When the band member inserts turn from flashing to solid, you have qualified them. 
+Each band member is represented in the revolver inserts in the middle of the playfield just above the flippers.  When the band member inserts turn from flashing to solid, you have qualified them.
 
 Spelling **J-A-M** at the right inlane lights the JAM target to the left of the scoop for a short time.  Hitting the JAM target will collect between 1 to 6 missing band members, depending on whether the player shoots the left orbit before hitting the target, and how quickly the player shoots the target.
 
 ## Locking Balls
 
-After a band member has been collected, a ball can be locked either at the lock shot (LE) or by shooting the left ramp twice (Pro). Locking all 6 balls will start the currently selected **song** automatically, so be careful.  The number of locked balls increases your song’s starting value and increases the song ball save time.  
- 
+After a band member has been collected, a ball can be locked either at the lock shot (LE) or by shooting the left ramp twice (Pro). Locking all 6 balls will start the currently selected **song** automatically, so be careful.  The number of locked balls increases your song’s starting value and increases the song ball save time.
+
 ## Song Selection
 
-When a song is qualified, the corresponding Album insert will be lit white and the name of the song will display on the playfield LCD.  The song can be changed by hitting one of the 4 album standup targets next to the ramps (from left to right: **Appetite for Destruction**, **Use Your Illusion I**, **Use Your Illusion II**, **Chinese Democracy**). The player also has the ability to change the song by hitting the action button right before the song starts. If the song is manually chosen this way, you will lose 15 from the song level, so take what the game gives you if you're hoping to score big points. Once a song is played, it can’t be replayed.  
+When a song is qualified, the corresponding Album insert will be lit white and the name of the song will display on the playfield LCD.  The song can be changed by hitting one of the 4 album standup targets next to the ramps (from left to right: **Appetite for Destruction**, **Use Your Illusion I**, **Use Your Illusion II**, **Chinese Democracy**). The player also has the ability to change the song by hitting the action button right before the song starts. If the song is manually chosen this way, you will lose 15 from the song level, so take what the game gives you if you're hoping to score big points. Once a song is played, it can’t be replayed.
 
 ## Booster Multiballs
 
-Starting a Booster Multiball can make it easier to collect band members, lock balls, and advance towards starting the song; and will also advance the song level if you do well enough. 
+Starting a Booster Multiball can make it easier to collect band members, lock balls, and advance towards starting the song; and will also advance the song level if you do well enough.
 
-Each Booster Multiball can be played once each before a song is started; if their corresponding inserts are flashing, they can be started, and if they are solidly lit, they have been maxed out. After the Booster Multiball has been played, it is still possible to max it out by hitting the corresponding shots that started it. 
+Each Booster Multiball can be played once each before a song is started; if their corresponding inserts are flashing, they can be started, and if they are solidly lit, they have been maxed out. After the Booster Multiball has been played, it is still possible to max it out by hitting the corresponding shots that started it.
 * **Make Some Noise Multiball**  – Blue: Spell NOISE by making **Skill Shots**, then shoot under the upper right flipper when "Noise" is lit to start the Multiball.  Two shots are randomly selected; shoot them both to light the super jackpot under the upper right flipper. Each jackpot adds lights to the Noise meter; the more lights that are lit when the player shoots it, the larger the super jackpot value.
-* **Throw the Lights Multiball**  - Purple: Hit the Lights target on the upper playfield (LE/CE) 3 times in a row, or make successive shots to the left ramp (SE) to start the Multiball. Shoot the left and right ramps to light the Jackpot on the upper playfield. Combo ramp shots to light it quicker. 
+* **Throw the Lights Multiball**  - Purple: Hit the Lights target on the upper playfield (LE/CE) 3 times in a row, or make successive shots to the left ramp (SE) to start the Multiball. Shoot the left and right ramps to light the Jackpot on the upper playfield. Combo ramp shots to light it quicker.
 * **Ignite the Flames Multiball**  - Red: Hit the Pyro target behind the spinning record four times to start the Multiball.  Hit a certain number of switches to start a timed jackpot collect on the LCD display.  All inserts turn red and the shaker will go off to indicate to the player that this is available.  A fuse is moving across the screen and single, double, or triple jackpot will be awarded based on when they press the action button. Qualify more jackpots by hitting more switches.
-* **Turn it Up! Multiball**  - Yellow: Complete A-M-P at the far left inlane to start the Multiball. Two hurry-ups are lit at the start of this Multiball.  Complete the hurry-ups to light jackpots at the major shots. 
+* **Turn it Up! Multiball**  - Yellow: Complete A-M-P at the far left inlane to start the Multiball. Two hurry-ups are lit at the start of this Multiball.  Complete the hurry-ups to light jackpots at the major shots.
 
 # Song Scoring
 
-Each song has several stages that are completed by hitting lit shots or a certain number of switch hits.  Once the stage is complete, the center scoop flashes green / white.  You must hit the center scoop to progress to the next stage of the song; while in Multiball play, doing this will add-a-ball and move on to the next stage. The song progress and lit shots are indicated on the playfield LCD. As you progress through the stages of the song, the song jackpot increases. 
+Each song has several stages that are completed by hitting lit shots or a certain number of switch hits.  Once the stage is complete, the center scoop flashes green / white.  You must hit the center scoop to progress to the next stage of the song; while in Multiball play, doing this will add-a-ball and move on to the next stage. The song progress and lit shots are indicated on the playfield LCD. As you progress through the stages of the song, the song jackpot increases.
 
-In single ball play, hitting the scoop when the stage is complete presents a choice to the player: Take the Song Jackpot and stop the song (action button), or continue to the next stage of the song and add a ball.  When you continue, there is no additional ball save, so be careful.  Each stage of the song exponentially increases the value of the song's scoring and the song jackpot.  
+In single ball play, hitting the scoop when the stage is complete presents a choice to the player: Take the Song Jackpot and stop the song (action button), or continue to the next stage of the song and add a ball.  When you continue, there is no additional ball save, so be careful.  Each stage of the song exponentially increases the value of the song's scoring and the song jackpot.
 
 ## Song Level
 
@@ -66,8 +66,8 @@ There are various ways to increase the Song Level:
 
 ## Rock-It Meter & Encore
 
-The Rock-It Meter discourages controlled play, but can lead to even higher Applause Jackpots if the player maintains it. As you make the lit shots during a song, the Rock-It Meter increases; it decreases if the player fails to make lit shots, and decreases very quickly if they cradle a ball. If the meter reaches zero, the crowd will boo you off stage and the song will end early, returning to standard single-ball play. 
- 
+The Rock-It Meter discourages controlled play, but can lead to even higher Applause Jackpots if the player maintains it. As you make the lit shots during a song, the Rock-It Meter increases; it decreases if the player fails to make lit shots, and decreases very quickly if they cradle a ball. If the meter reaches zero, the crowd will boo you off stage and the song will end early, returning to standard single-ball play.
+
 If you complete a song with the Rock-It Meter full, an **Encore** is awarded, and the next song in the current album will play with the **Song Level**, scoring, and balls that were locked before the first song carrying over to the next song. You do NOT need to earn an **Applause Jackpot** to get an Encore, and multiple Encores can be collected in a row.
 
 ## Power Chord Award
@@ -79,12 +79,12 @@ If multiball is active during a song, the player can re-lock balls on the upper 
 4 ball - 500k
 5 ball - 1M
 6 ball - 2.5M
-  
+
 A successful Power Chord will add a ball into play and release all the locked balls back into play. If you lock every ball but one in the guitar, and drain the ball in play, you’ll get a small award for the locked ones 10k per ball locked 50k) and they will be released. You cannot score the same power chord twice in the same song.
 
 ## Band Frenzy
 
-Inserts corresponding to certain band members are lit at different points during each song. Shooting the corresponding band member’s shot will boost the band member and increase the **Rock-It Meter**.  Repeating this process for every member will start a Band Frenzy that increases the Song Jackpot for every switch hit.  
+Inserts corresponding to certain band members are lit at different points during each song. Shooting the corresponding band member’s shot will boost the band member and increase the **Rock-It Meter**.  Repeating this process for every member will start a Band Frenzy that increases the Song Jackpot for every switch hit.
 
 ## Applause Jackpot
 
@@ -134,14 +134,14 @@ Another three song album, but this one is generally more manageable as both song
 
 # Album Modes
 
-Time spent playing songs helps qualify the respective Album Mode for each album. 3:00 worth of songs from an album being played is the bare minimum required to qualify the the Album Mode (and a silver record). Gold and Platinum Albums can be earned by playing more songs from the same albums, and increase scoring during the Album Modes. All Album Modes have completion bonuses based on how quickly they are completed. 
+Time spent playing songs helps qualify the respective Album Mode for each album. 3:00 worth of songs from an album being played is the bare minimum required to qualify the the Album Mode (and a silver record). Gold and Platinum Albums can be earned by playing more songs from the same albums, and increase scoring during the Album Modes. All Album Modes have completion bonuses based on how quickly they are completed.
 
 ## Album Mode Rules
 
 The four Album Modes are:
-* **Thirst for Carnage** (Appetite for Destruction) - Hit the dirty robot by making lit shots; once a lit shot has been made, you can repeat the same shot up to three times to deal more damage. Once the hurry-up timer ends or the player makes all three shots, the major shots will relight. Additionally, you can shoot the green flashing targets to charge up the Power Hit Meter, and press the action button when qualified a more powerful attack. The faster you destroy the robot and press the action button to end the mode, the larger the completion bonus.  
+* **Thirst for Carnage** (Appetite for Destruction) - Hit the dirty robot by making lit shots; once a lit shot has been made, you can repeat the same shot up to three times to deal more damage. Once the hurry-up timer ends or the player makes all three shots, the major shots will relight. Additionally, you can shoot the green flashing targets to charge up the Power Hit Meter, and press the action button when qualified a more powerful attack. The faster you destroy the robot and press the action button to end the mode, the larger the completion bonus.
 * **Desert Demolition** (Use Your Illusion I) - Wipe out all 7 band members and win the race. The red racer on the display represents your current position in the race; whichever band member the racer is closest to will light their corresponding shot to wipe them out. Remember to use the action button to accelerate to prevent entering last place; switch hits will also build the turbo meter for an even larger boost. Wipe out all 7 racers to win.
-* **Tear Down the Wall** (Use Your Illusion II) - Six major shots on the playfield each correspond to a poster on the wall, seen on the display, from left to right. Shoot the record spinner to move the cannon depending on the direction of the record shot; when the cannon reaches an undamaged poster, press the action button to destroy it for points. Shooting lit shots corresponding to undamaged posters increases their multipliers for when the cannon is ready; shooting a damaged shot will place another poster there and force you to shoot it again. 
+* **Tear Down the Wall** (Use Your Illusion II) - Six major shots on the playfield each correspond to a poster on the wall, seen on the display, from left to right. Shoot the record spinner to move the cannon depending on the direction of the record shot; when the cannon reaches an undamaged poster, press the action button to destroy it for points. Shooting lit shots corresponding to undamaged posters increases their multipliers for when the cannon is ready; shooting a damaged shot will place another poster there and force you to shoot it again.
 * **Shall We Play a Game?** (Chinese Democracy) - The POPR computer decides you've had enough and shuts down the game. Give the computer a taste of your mind by shooting the blue / white shots to advance through the mode, scoring additional points for completing the streak; while avoiding the red / yellow shots, as these will break the streak. The longer the streak, the easier it is to finish the mode.
 # Patches
 
@@ -186,7 +186,7 @@ Collect Patches by spelling G-N-R on the left inlane, or by draining from the up
 
 ## Patch Sets
 
-**Patch Sets**  are sets of like patches that can have even greater benefits.  
+**Patch Sets**  are sets of like patches that can have even greater benefits.
 
 |**Patch Set**|**Benefit**|
 | --- | --- |
@@ -208,28 +208,28 @@ Shoot the GNR Logos around the playfield to spell GUNS N ROSES.  Once spelled, M
 * ·  Award 1-3 Patches
 * ·  Light Extra Ball
 * ·  Award (x) Lock(s)
-* ·  Start Song – This can be dangerous if the song isn’t boosted to your satisfaction.  
+* ·  Start Song – This can be dangerous if the song isn’t boosted to your satisfaction.
 * ·  Spot Band Member(s)
 * ·  Points
- 
+
 **Slash Solo**
 
 Spin the record a certain number of times, shoot the guitar lock.  Shoot spinners. Repeat victory laps.
- 
+
 **Cities / On the Road**
 
-Shooting the loops (left / right and inner upper flipper) will collect cities.  The cities are indicated with the small inserts on the map in the center of the playfield.  Hitting a certain number of cities starts On the Road a 20(?) second timed mode where the loops (orbits) are lit.  During On the Road, you can discover band member “power ups”.  Once all 53 cities are visited, you qualify Tour Multiball. 
+Shooting the loops (left / right and inner upper flipper) will collect cities.  The cities are indicated with the small inserts on the map in the center of the playfield.  Hitting a certain number of cities starts On the Road a 20(?) second timed mode where the loops (orbits) are lit.  During On the Road, you can discover band member “power ups”.  Once all 53 cities are visited, you qualify Tour Multiball.
 
- **Tour Multiball** 
+ **Tour Multiball**
 
-Two ball Multiball.  Stand up targets on either side of both ramps will add-a-ball.  Hit the loops to light jackpots and super jackpots.  As of 1.08, this does not seem to be complete **.** 
+Two ball Multiball.  Stand up targets on either side of both ramps will add-a-ball.  Hit the loops to light jackpots and super jackpots.  As of 1.08, this does not seem to be complete **.**
 
  **Coma Ballsave**
 
-Earn Coma ball save by hitting the Coma target multiple times.  This lights Coma as the left outlane.   When Coma starts, hit 100 switches to empty the IV bag.  Once empty, two shots are lit.  Hit those two shots to start Coma Multiball.  
+Earn Coma ball save by hitting the Coma target multiple times.  This lights Coma as the left outlane.   When Coma starts, hit 100 switches to empty the IV bag.  Once empty, two shots are lit.  Hit those two shots to start Coma Multiball.
 You have 40 seconds to complete.
- 
-**Coma Multiball** 
+
+**Coma Multiball**
 
 Hit the lit shots for jackpots
 

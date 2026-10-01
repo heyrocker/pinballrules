@@ -10,7 +10,7 @@ opdb_id: "GRo7K"
 
 ## Game Information & Overview: {#heading--gameinfo}
 
-- Manufacturer: Williams 
+- Manufacturer: Williams
 - Release Date: 1981
 - Original Wiki Rulesheet hosted on [Tilt Forums](/williams/barracora-williams-1981)
 
@@ -29,9 +29,9 @@ opdb_id: "GRo7K"
 
 **Upper left saucer:** Collects bonus when lit and becomes ball lock when lock insert is lit
 
-**B-A-RR left drop target bank:** Competing the left drop targets in sequence lights lower left saucer for ball lock, advances bonus multiplier, lights green insert in front of bank and lights spinner for 1k a spin. 
+**B-A-RR left drop target bank:** Competing the left drop targets in sequence lights lower left saucer for ball lock, advances bonus multiplier, lights green insert in front of bank and lights spinner for 1k a spin.
 
-**A-C-O-R-A right drop target bank:** Completing the right drop targets in sequence lights upper left saucer for ball lock, advances bonus multiplier, lights green insert in front of bank and lights spinner for 1k a spin. 
+**A-C-O-R-A right drop target bank:** Completing the right drop targets in sequence lights upper left saucer for ball lock, advances bonus multiplier, lights green insert in front of bank and lights spinner for 1k a spin.
 
 **Spinner:** The spinner is worth 100 per spin unless lit. To light the spinner for a 1k a spinner complete either the left or right drop target banks. The spinner is only lit for 1k for a short time after a drop bank completion.
 
@@ -48,11 +48,11 @@ Barracora has two and three ball multiball. To start two ball multiball, complet
 
 **Strategy, Tips and Tricks**
 
-The basic strategy for Barracora is to build, multiply and collect bonus. Barracora is also a game where strategy can change based on post settings, tilt sensitivity and how the lower left saucer kickout behaves. 
+The basic strategy for Barracora is to build, multiply and collect bonus. Barracora is also a game where strategy can change based on post settings, tilt sensitivity and how the lower left saucer kickout behaves.
 
-The most important thing to know about Barracora is that the upper left ball lock is not held between balls and is ejected if the ball in play is lost while a ball is locked in the upper left saucer. Completing the right bank of five drop targets will essentially award an extra ball once the upper left saucer ball lock is made. This can not be adjusted or turned off. The main strategy of Barracora is to exploit this feature in order to prolong your turn and progress the bonus and bonus multipliers. 
+The most important thing to know about Barracora is that the upper left ball lock is not held between balls and is ejected if the ball in play is lost while a ball is locked in the upper left saucer. Completing the right bank of five drop targets will essentially award an extra ball once the upper left saucer ball lock is made. This can not be adjusted or turned off. The main strategy of Barracora is to exploit this feature in order to prolong your turn and progress the bonus and bonus multipliers.
 
-If the Barracora you are playing is not difficult there is almost no reason not to shoot the right drop target bank to light the upper left lock from the beginning. Once completed shoot the upper left lock. As long as there is a ball in the upper left lock you can not lose your turn. Now there are several priorities to consider. I feel that completing the right side bank down to two targets is top priority so your next upper left ball lock is easy to get back to. Next, I would consider completing the left drop target bank. After completing this bank you should now have 2x super bonus and 3x regular bonus or 6x. At this point I would prioritize the spinner in order to advance bonus score to maximum. You should also be aware that three ball multiball is available at the lower left saucer but, I tend to avoid it as much as possible unless all of my other priorities are met first. This is part of what makes Barracora an amazing game because you are faced with an interesting risk reward decision. While it is safe to leave the last two targets on the right bank in order to get back to your extra ball lock, you can not advance super bonus multiplier to the maximum without completing both banks. Personally I almost always choose to shoot the spinner and pick up whatever points I can until my ball drains and the upper left ball is ejected back on to the playfield. 
+If the Barracora you are playing is not difficult there is almost no reason not to shoot the right drop target bank to light the upper left lock from the beginning. Once completed shoot the upper left lock. As long as there is a ball in the upper left lock you can not lose your turn. Now there are several priorities to consider. I feel that completing the right side bank down to two targets is top priority so your next upper left ball lock is easy to get back to. Next, I would consider completing the left drop target bank. After completing this bank you should now have 2x super bonus and 3x regular bonus or 6x. At this point I would prioritize the spinner in order to advance bonus score to maximum. You should also be aware that three ball multiball is available at the lower left saucer but, I tend to avoid it as much as possible unless all of my other priorities are met first. This is part of what makes Barracora an amazing game because you are faced with an interesting risk reward decision. While it is safe to leave the last two targets on the right bank in order to get back to your extra ball lock, you can not advance super bonus multiplier to the maximum without completing both banks. Personally I almost always choose to shoot the spinner and pick up whatever points I can until my ball drains and the upper left ball is ejected back on to the playfield.
 
 During the above process you should also be very aware of lighting your bonus collect with the top lanes. As soon as you go back to the upper left saucer for your next lock you want to also collect whatever bonus is available. Because you will eventually shoot the spinner back to the top lanes in order to advance bonus you need to remember which sequence of top lanes you have completed so that you can complete the other and relight the bonus collect. Early on in the game you can use the value of the lower left saucer or right touch target to keep track of which needs to be completed next. I tend to work on 4-5-6 first. Pop bumpers also tend to send the ball back up into the top lanes for more completions and bonus. Once both the lower left saucer and right touch target values are maximized, you will need to remember your last completion to make lighting the upper left saucer for bonus collect easier. If you have already lit bonus collect and shot a ball into the upper left saucer for a lock, try not to complete 1-2-3 or 4-5-6 instead save it so its easier to relight your bonus collect again.
 

@@ -51,8 +51,8 @@ opdb_id: "G7ZEz"
 
 ## Rules Overview: {#heading--overview}
 
-- Shoot the white shots to light **missions** at the "midtown" center ramp or "subway" right loop. Use the flippers and action button to select a mission. 
-  - Every time a mission is completed, the player will travel in time to the future. Defeat 6 sentinels at the flashing shots, then shoot the center ramp to return to the past. 
+- Shoot the white shots to light **missions** at the "midtown" center ramp or "subway" right loop. Use the flippers and action button to select a mission.
+  - Every time a mission is completed, the player will travel in time to the future. Defeat 6 sentinels at the flashing shots, then shoot the center ramp to return to the past.
   - "Challenging" missions have a different future mode called **Escape Nimrod**. Make any red shot 3 times then shoot the center ramp or right loop to complete.
   - Escaping the future awards a perk; a different perk for every mission completed!
 - Hit the giant Sentinel head enough times to spawn the giant sentinel, then start **Sentinel Multiball** by defeating it. Shoot jackpots to enable sentinel kills and light the super jackpot at the giant head. The danger room ramp relights all jackpot shots and increases their multiplier.
@@ -123,7 +123,7 @@ Modes are listed clockwise.
 Successfully completing any of the 8 missions will start one of the two versions of the Future, which are timed mini-modes.  Successfully completing the Future earns a "perk" specific to the character and mission.
 
 #### The Future: Sentinel Mode {#heading--sentinelfuture}
- 
+
 Completing any **[easy mission](#heading--missions)** starts a 40-second timed mode with ball save lasting for its first 10 seconds.  If you complete the mission while in a multiball, the center ramp will light to start the Future when the multiball is finished. The game will always attempt to hold the ball when The Future starts.
 
 In the Future, **Sentinels** have taken over and other modes cannot be started. The player must destroy the Sentinels by shooting the shots they have spawned in front of; shots to the giant sentinel head increase the value for defeating each individual sentinel (in the order white - green - yellow - red, +1x per color change). Each Sentinel occupies 1 shot, and once defeated, another shot must be made to relight the previously destroyed Sentinel. Destroying 35 Sentinels over the course of the game will light the uptown ramp to start **[berzerker multiball](#heading--berserker)**.
@@ -157,7 +157,7 @@ The **perks** are dependent on what mission was completed prior to starting Esca
 ## Non-Mission Perks: {#heading--perks}
 
 There are also four perks earned through other methods besides completing missions, each of which is awarded instantly upon completing the applicable requirement.
- 
+
 |**Character**|**Requirement**|**Perk Description**|
 | --- | --- | --- |
 |**Beast**|Advance **[Beast's Lab](#heading--beast)** to level 3|Beast's Lab awards can now be earned in the future.|
@@ -179,7 +179,7 @@ Leveling up the **[danger room](#heading--danger)** before or during any multiba
 
 Hit the giant sentinel 3 times (+2 per multi) to spawn it. While the giant sentinel is active, decrease its integrity with more direct hits to it. Eventually, it's mouth will open up; defeat the giant sentinel by hitting it enough times to start the multiball. Making a **[Fastball Special](#heading--fastball)** combo will advance the Sentinel to its next stage immediately.
 
-During the multiball, all major shots start lit to score jackpots at 1x value (lit yellow). The jackpots can be relit at an increased multiplier by shooting the **danger room** exit ramp (orange for 2x, and red for 3x); and if a shot isn't lit for jackpot, it will instead kill 1 **sentinel** towards lighting **[berzerker multiball](#heading--berserker)**. 
+During the multiball, all major shots start lit to score jackpots at 1x value (lit yellow). The jackpots can be relit at an increased multiplier by shooting the **danger room** exit ramp (orange for 2x, and red for 3x); and if a shot isn't lit for jackpot, it will instead kill 1 **sentinel** towards lighting **[berzerker multiball](#heading--berserker)**.
 
 After four jackpots have been scored, the super jackpot, worth the total of all jackpots collected during the previous wave, can be scored at the sentinel head (multiplied by 2x with a shot to the open mouth). The super jackpot value resets once scored and more jackpots are required to light subsequent super jackpots, to a maximum of six.
 
@@ -194,12 +194,12 @@ Hitting each of the six primary ramp/loop shots on the playfield (X-Jet, Downtow
 During Save the City multiball, there are five areas of the city that can be lit for jackpot (7M + the shot value from their current level + any increases from qualifying shots) via enough hits to their corresponding shots, listed in the UI:
 
 - Downtown (left) loop - loops (X-jet and left loop)
-- Uptown (left) ramp - ramps (left ramp, center ramp, right loop, and right ramp) 
+- Uptown (left) ramp - ramps (left ramp, center ramp, right loop, and right ramp)
 - Midtown (center) ramp - targets (danger room, Nightcrawler, and ball save targets)
 - Subway (right) loop - spinner (in the danger room)
 - Highway (right) ramp - bumpers (bishop / gambit bumpers)
 
-Each hit to the corresponding targets listed above increases the jackpot value scored at their respective shot, if their jackpot is already lit. 
+Each hit to the corresponding targets listed above increases the jackpot value scored at their respective shot, if their jackpot is already lit.
 
 Once all five jackpots have been scored, the X-Jet ramp will be lit. Shoot the ramp to light the danger room spinner for a super jackpot, worth 1M for every spin of the spinner. 15 seconds are given to score as many spinner rips as possible before the process of lighting and scoring jackpots resets, with bounces into Kitty Pryde's lane adding +10 seconds to the super jackpot timer.
 
@@ -213,7 +213,7 @@ Hit six blue lit shots to "summon" random X-Men and score jackpots. The same sho
 
 ### Berserker Multiball: {#heading--berserker}
 
-This multiball lights at the uptown ramp after 35 **Sentinels** have been defeated and no other modes or multiballs are active. Sentinels are accumulated over the course of the game and can be earned in various ways: 
+This multiball lights at the uptown ramp after 35 **Sentinels** have been defeated and no other modes or multiballs are active. Sentinels are accumulated over the course of the game and can be earned in various ways:
 
 - During the **[Sentinel Facility Raid](#heading--missions)** mission, each shot destroys a sentinel, up to a maximum of 7 sentinels from this mission
 - During **[the future](#heading--future)**, all lit shots defeat sentinels, 2 sentinels if **[danger room](#heading--danger)** was advanced to level 3 before completing the prior mode
@@ -231,7 +231,7 @@ The danger room is accessed by hitting the X-Jet shot to feed it, or the ball ca
 Level up the danger room by hitting the various features down there: the spinner, targets, ramp, and bumper. Every shot made increases the progress bar at the top of the display and eventually maxes it out, advancing a level and increasing the scoring for each **[multiball](#heading--multiballs)** accordingly. The danger room level resets after each mission played, and each level gives the following perks:
 
 - Level 1 (green): All shot values during the next **[mission](#heading--missions)** are doubled.
-- Level 2 (yellow): One less sentinel is required to light the escape shot during **[the future](#heading--future)**. 
+- Level 2 (yellow): One less sentinel is required to light the escape shot during **[the future](#heading--future)**.
 - Level 3 (red): Doubles the sentinels killed and their corresponding awards during **the future**. During Escape Nimrod, adds 5 seconds to the final shot timer.
 
 After completing 3 danger room levels over the course of the game, Cyclops will join the fight and increase all **[combo timers](#heading--combos)** for the rest of the game.
@@ -289,7 +289,7 @@ Beast's Lab is disabled in **[the future](#heading--future)** unless Beast's per
 
 ### Gambit: {#heading--gambit}
 
-Hit Gambit's bumper three times to increase the value of the next mode or multiball shot to 2x. Shatzing / alley passing the bumper immediately increases the next mode shot's value to 2x. 
+Hit Gambit's bumper three times to increase the value of the next mode or multiball shot to 2x. Shatzing / alley passing the bumper immediately increases the next mode shot's value to 2x.
 
 If Gambit's **[perk](#heading--future)** has been qualified, the shot multiplier will be increased to 3x!
 

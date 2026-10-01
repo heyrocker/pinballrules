@@ -67,7 +67,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 See below for full rulesheet.
 - **Competition:**
 Same as *Standard* but with elements of randomness removed.
-- **Cooperative:** 
+- **Cooperative:**
 All players are on the same team. All scores, completed **mini-modes**, and **XP** are shared between players.
 - **Team Play:**
 Adds the scores of two different sets of players for team play. The highest score wins.
@@ -82,7 +82,7 @@ NOT a gameplay mode. This mode operates like a jukebox, allowing you to play the
 
 ## Host Selection / Skill Shots: {#heading--hosts}
 
-At the start of each ball, the player will be prompted to select a host, as Venom cannot exist without a being to feed off of. Hosts change the rules of the game, making certain rules easier or more difficult, changing the layout (*Prem / LE exclusive*) and also change the game’s large selection of music. 
+At the start of each ball, the player will be prompted to select a host, as Venom cannot exist without a being to feed off of. Hosts change the rules of the game, making certain rules easier or more difficult, changing the layout (*Prem / LE exclusive*) and also change the game’s large selection of music.
 
 Hosts can also be changed during a ball by completing any host's column of **[mini-modes](#heading--minimodes)**, or after the first host change of a ball, completing that host's **[battle mode](#heading--battles)**, then shooting the left ramp. The four hosts available at the start of the game are:
 
@@ -279,7 +279,7 @@ Shoot flashing shots in sequence, at any time, to score combos and boost the sho
 
 After playing **[Toxin Team-Up](#heading--toxin)**, host combos will be enabled. Each host has a signature combo listed in *[the linked grid](#heading--hosts)* and marked by unique colored shots that, when completed, lights the scoop for Host Hurry-Up. During Host Hurry-Up, complete the signature combo again before time runs out to score the currently displayed value for each shot. The value starts at 20M and each hurry-up increases by the value of the last.
 
-Each host's signature combo can only be completed once per game. 
+Each host's signature combo can only be completed once per game.
 
 ### Mystery: {#heading--mystery}
 
@@ -307,7 +307,7 @@ Mystery lists three awards, with the fourth award *always* being “all of the a
 - Special (percentage based)
 
 If the player's current **[host](#heading--hosts)** is Captain America, mystery will always award "all of the above"!
- 
+
 (*In competition mode, mystery awards are scored in a set order.*)
 
 ### Million Plus Pops (Prem / LE): {#heading--pops}

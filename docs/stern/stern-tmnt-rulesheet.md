@@ -103,10 +103,10 @@ NOT a gameplay mode. This mode operates like a Jukebox, allowing you to play the
 
 Turtle Select and Levels: {#heading--gameinfo}
 
-At the beginning of the game, you select one of the 4 turtles. Each turtle has their own set of perks awarded by leveling up through the **[Training](#heading--training)** mode, and a certain shot that lights for their **[skill shot](#heading--skillshots)** award. The turtles' levels are reset at the end of the game unless the player has an Insider Connected account, in which case they will be saved between games. You start at level 1 and therefore receive that perk at the start of the game. 
+At the beginning of the game, you select one of the 4 turtles. Each turtle has their own set of perks awarded by leveling up through the **[Training](#heading--training)** mode, and a certain shot that lights for their **[skill shot](#heading--skillshots)** award. The turtles' levels are reset at the end of the game unless the player has an Insider Connected account, in which case they will be saved between games. You start at level 1 and therefore receive that perk at the start of the game.
 
-Turtle | Corresponding Shot | Level 1 | Level 2 | Level 3 | Level 4 
---- | --- | --- | --- | --- | --- 
+Turtle | Corresponding Shot | Level 1 | Level 2 | Level 3 | Level 4
+--- | --- | --- | --- | --- | ---
 **Leonardo** (Well-Trained Leader) | Lair | Light **[Training](#heading--training)** | +10 Seconds to All Timers | 2x **[Weapon Hurry-Up](#heading--whu)** | 2x **[Team-Up Multiball](#heading--tumb)** and Pizza Party (Victory Laps)
 **Raphael** (Cool But Rude Bruiser) | Left Ramp | Light **[Start Episode](#heading--episodes)** | 2x **[Krang Kombo](#heading--krangkombo)** | Increase **[Playfield Multiplier](#heading--2x)** (to 3x) | 3x **[Episode](#heading--episodes)** scoring (shots and completion bonus)
 **Michelangelo** (Pizza-Loving Party Dude) | Pizza Parlor | Light **[Battle Again](#heading--battleagain)** & +5 **[Pizza Slices](#heading--pizza)** | 2x **[April Hurry-Up](#heading--april)** | 2x **[Pizza Eating Contest](#heading--pizza)** | 3x **[Ninja Pizza Multiball](#heading--npmb)**
@@ -123,7 +123,7 @@ Turtle | Corresponding Shot | Level 1 | Level 2 | Level 3 | Level 4
 
 Shredder has devised a cross-dimensional device that could spell doom for the Turtles. The turtles' adventures take them everywhere from the streets of New York to the decrepit world of Dimension X, all the while taking on and defeating villains.
 
-There are eight **Episodes** that can be started during the game, each corresponding to a different villain; most can be played in any order though some can only be played after an earlier episode has been played, whether won or lost. 
+There are eight **Episodes** that can be started during the game, each corresponding to a different villain; most can be played in any order though some can only be played after an earlier episode has been played, whether won or lost.
 
 **Lighting and Starting an Episode**
 Light Start Episode by shooting the left and right ramps, then shoot the pizza parlor to start the episode. Each episode has an insert on the playfield that flashes when it is the next one to start, and this insert can be changed via the Dimension X standup targets (left target goes up the icon list on the display's far-right column, and the right target goes down the list). Starting an episode re-enables the **[LAIR](#heading--training)** and **[APRIL](#heading--april)** targets if they are locked out (cycling the letter inserts), and completing an episode adds a specific perk to the **[Team-Up Multiball](#heading--tumb)** mini-wizard mode.
@@ -133,9 +133,9 @@ Light Start Episode by shooting the left and right ramps, then shoot the pizza p
 - Play 8 episodes: Lights **[Final Battle](#heading--finalbattle)** at the left ramp
 
 **General Episode Information:**
-Episodes are typically timed, starting with 30 seconds and adding time by shooting certain lit episode shots. In order to complete an episode, you need to shoot a certain set of shots to light the **Turtle Shots,** shooting one of these multi-color flashing shots will award the **Completion Bonus** and complete the episode. Completed episode icons will have a green bar next to them on the display. Played episodes display in color. Unplayed episodes are grayed out. 
+Episodes are typically timed, starting with 30 seconds and adding time by shooting certain lit episode shots. In order to complete an episode, you need to shoot a certain set of shots to light the **Turtle Shots,** shooting one of these multi-color flashing shots will award the **Completion Bonus** and complete the episode. Completed episode icons will have a green bar next to them on the display. Played episodes display in color. Unplayed episodes are grayed out.
 
-When you start an episode you are awarded **Episode Start Points**. For episodes 1 through 6 this value starts at 275k and increases by 25k for every episode you've played; for episodes 7 and 8 this value seems to be boosted by 100k (375k).  
+When you start an episode you are awarded **Episode Start Points**. For episodes 1 through 6 this value starts at 275k and increases by 25k for every episode you've played; for episodes 7 and 8 this value seems to be boosted by 100k (375k).
 
 ####  {#heading--tsvp}
 
@@ -172,7 +172,7 @@ Episode 3: I Want a Body
 - Completion Bonus: 1M
 - Max base episode total: 1.88M
 
-Both ramps start lit, shooting a lit shot will unlight it and light the ramp or the orbit on the other side of the playfield, the ramp takes priority but if it's already lit, the orbit will be lit instead. Shoot 4 lit shots to light Turtle Shots. Shots follow the **[TSVP™](#heading--tsvp)** and it is possible to shoot 5 total lit shots, as long as the lit shot that you don't shoot as your 4th shot is NOT the left ramp. Basically, if the Left Ramp is lit for your 4th shot, shoot it and the other shot will remain lit for additional points. 
+Both ramps start lit, shooting a lit shot will unlight it and light the ramp or the orbit on the other side of the playfield, the ramp takes priority but if it's already lit, the orbit will be lit instead. Shoot 4 lit shots to light Turtle Shots. Shots follow the **[TSVP™](#heading--tsvp)** and it is possible to shoot 5 total lit shots, as long as the lit shot that you don't shoot as your 4th shot is NOT the left ramp. Basically, if the Left Ramp is lit for your 4th shot, shoot it and the other shot will remain lit for additional points.
 
 Episode 4: Night of the Mousers
 
@@ -196,7 +196,7 @@ The 3 ramps start lit, shoot a lit ramp to unlight all ramps and light the LAIR 
 
 Episode 6: Welcome To The Concrete Jungle
 
-- Left-side playfield insert, at tip of Leo's sword 
+- Left-side playfield insert, at tip of Leo's sword
 - **[TUMB](#heading--tumb)** Perk: Boosts Foot Soldier and Bebop and Rocksteady shot values by 250k
 - Episode Start Points: 275k
 - Completion Bonus: 1M
@@ -301,14 +301,14 @@ Possible awards include:
 - "Really Big Points" (300k)
 - Start **[April Hurry-Up](#heading--april)**
 - Increase **[April Hurry-Up](#heading--april)**
-- Increase **[Weapon Hurry-Up](#heading--whu)** Value 
+- Increase **[Weapon Hurry-Up](#heading--whu)** Value
 - Light **[1-2-3 Foot](#heading--foot123)**
 - "Add Time" (+10 seconds, if a timer is active)
 - Light **[Battle Again](#heading--battleagain)**
 - Light **[Extra Ball](#heading--extraballs)**
 - Light **[Start Episode](#heading--episodes)**
 - Light **[Turtle Power](#heading--tpmb)**
-- Light **[Weapon](#heading--whu)** 
+- Light **[Weapon](#heading--whu)**
 - +1x, +2x, or +3x **[Bonus Multiplier](#heading--bonus)**
 - Bonus Held
 - Special
@@ -340,7 +340,7 @@ Training Modes are timed, starting with 15 seconds and the LAIR Target will add 
 
 ### Neutrino Pizza Party: {#heading--neutrino}
 
-After completing a **[Training Mode](#heading--training)**, during normal play, completing the two Dimension X Targets before they time out will light the Left Ramp to start **Neutrino Pizza Party**. Progress towards completing the targets can still be made in other modes even if they aren't seen flashing. (*Will it still award progress? Or is it just able to time out?*)  You can only play Neutrino Pizza Party once per game. 
+After completing a **[Training Mode](#heading--training)**, during normal play, completing the two Dimension X Targets before they time out will light the Left Ramp to start **Neutrino Pizza Party**. Progress towards completing the targets can still be made in other modes even if they aren't seen flashing. (*Will it still award progress? Or is it just able to time out?*)  You can only play Neutrino Pizza Party once per game.
 
 Neutrino Pizza Party is a single-ball mode, and starts with a set 30-second timer. During the mode, 1 shot is lit blue for 350K (left orbit, then left ramp, right ramp, right orbit, repeat) and the rest of the shots are lit red. Shooting the red shots will unlight that shot and build the value of all future blue shots by 200K (+100K) up to a cap of 5M. Shooting the blue shot will collect its value and reset the mode timer to nearly 30 seconds (seems like one less second for each reset). The blue shot value never resets. When time runs out or the player drains, the mode ends.
 
@@ -356,7 +356,7 @@ Pizza slices also count up towards several other awards, points after certain th
 
 ### Krang Kombo: {#heading--krangkombo}
 
-Repeatedly make shots to the upper loop to increase the Krang Kombo value, then shoot the center ramp to cash the value out. The Kombo value maxes out at 500k (with three upper loop shots before timing out), and collecting a Max Krang Kombo is required to qualify the **[Cowabunga Wizard Mode](#heading--cowabunga)**. 
+Repeatedly make shots to the upper loop to increase the Krang Kombo value, then shoot the center ramp to cash the value out. The Kombo value maxes out at 500k (with three upper loop shots before timing out), and collecting a Max Krang Kombo is required to qualify the **[Cowabunga Wizard Mode](#heading--cowabunga)**.
 
 ### Glider (Prem / LE Exclusive): {#heading--glider}
 
@@ -420,7 +420,7 @@ Each completed episode provides the following perks for the multiball:
 
 ### Rescue Phase:
 
-Ball save is active for 20 seconds (by default). 6 shots will be lit to defeat "Bad Guys:" both orbits for Bebop and Rocksteady and the ramps and the Krang Loop for Foot Soldiers. Shooting a Bad Guy will defeat them and unlight that shot. Defeat all 6 Bad Guys to start a Rescue Hurry-Up at one of the Turtle Shots, starting at 500k points. Shoot a lit Turtle Shot to collect the hurry-up value and add-a-ball. Repeat this process to collect the 2nd Rescue Hurry-Up, then repeat it again to start a Shredder Hurry-Up at the Right Ramp, collect this hurry-up to light the final Rescue Hurry-Up. If a Rescue Hurry-Up times out, you need to (or get to, if you are looking to maximize points) defeat the 6 Bad Guys to start it again. 
+Ball save is active for 20 seconds (by default). 6 shots will be lit to defeat "Bad Guys:" both orbits for Bebop and Rocksteady and the ramps and the Krang Loop for Foot Soldiers. Shooting a Bad Guy will defeat them and unlight that shot. Defeat all 6 Bad Guys to start a Rescue Hurry-Up at one of the Turtle Shots, starting at 500k points. Shoot a lit Turtle Shot to collect the hurry-up value and add-a-ball. Repeat this process to collect the 2nd Rescue Hurry-Up, then repeat it again to start a Shredder Hurry-Up at the Right Ramp, collect this hurry-up to light the final Rescue Hurry-Up. If a Rescue Hurry-Up times out, you need to (or get to, if you are looking to maximize points) defeat the 6 Bad Guys to start it again.
 
  - **Shot Value:** The Bebop and Rocksteady shots start at 500k and increase by 25k for each lit one defeated (not sure what the cap is). The Foot Soldier shots start at 125k and increase by 75k for each lit one defeated, up to a max of 1m per Foot Solider defeated. Rescue Hurry-ups and Shredder Hurry-ups all start at 500k and count down to 50k before timing out and relighting the Bad Guy shots.
     - By timing out your Rescue Hurry-Ups and continuing to defeat Bad Guys, you can start scoring pretty good points, as long as you keep the multiball going. A full set of Bad Guys is worth 1.975m the first time, 2nd time: 3.275m, 3rd: 4.575m, 4th: 5.325m, 5th and on: around 5.5m+.

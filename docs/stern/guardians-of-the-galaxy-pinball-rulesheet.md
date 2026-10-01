@@ -32,7 +32,7 @@ opdb_id: "GRWvz"
 
 ## Modes {#heading--modes}
 
-At the start of any ball, if a mode is not running, you can choose to start any mode that hasn't been completed yet using the flipper buttons. If a mode is not running *during* the ball, shoot the right scoop to start one. During modes, shoot the flashing shots, and take note of the characters involved in each mode, as their corresponding shots on the playfield (marked by the flashing character insert) will be permanently lit for advances. Making shots as combos scores *2x* the shot value. At any point, you may shoot the right scoop to **Upgrade** the mode once, altering and / or making the shots required for the mode more valuable. 
+At the start of any ball, if a mode is not running, you can choose to start any mode that hasn't been completed yet using the flipper buttons. If a mode is not running *during* the ball, shoot the right scoop to start one. During modes, shoot the flashing shots, and take note of the characters involved in each mode, as their corresponding shots on the playfield (marked by the flashing character insert) will be permanently lit for advances. Making shots as combos scores *2x* the shot value. At any point, you may shoot the right scoop to **Upgrade** the mode once, altering and / or making the shots required for the mode more valuable.
 
 Completing a mode will start the 2nd level of the mode. These are "super modes" that will continue, untimed, *for the rest of the ball*, or until the number of shots are completed.  Once a level 2 mode ends, it cannot be restarted until the second cycle of modes. Completing a mode also adds approximately 10% of the mode total to **[end-of-ball bonus](#heading--bonus)** for the rest of the game and qualifies the mode's corresponding character shot as a 5x jackpot shot during **[Groot Multiball](#heading--groot)**.
 
@@ -44,17 +44,17 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
 
 * <b>Antiquities Shop</b> (cyan)
   * Duration: 61 seconds
-  * Shots: 7 
+  * Shots: 7
   * Corresponding Shot: Orb
-  * This is a switch-based mode; along with shooting the flashing shots to make progress (including the Orb and one other shot that changes each time it is made), collecting 20 switch hits will also progress through the mode and count as one of your seven shots. The orbits will divert to the pop bumpers during this mode. Shots start at 500k and advance by 250k per shot. 
+  * This is a switch-based mode; along with shooting the flashing shots to make progress (including the Orb and one other shot that changes each time it is made), collecting 20 switch hits will also progress through the mode and count as one of your seven shots. The orbits will divert to the pop bumpers during this mode. Shots start at 500k and advance by 250k per shot.
   * Upgrade reduces the switch threshold required to spot each shot.
-  * Completing Antiquities Shop will increase the scoring of each individual switch for the next 100 switch hits. 
+  * Completing Antiquities Shop will increase the scoring of each individual switch for the next 100 switch hits.
 
 * <b>Knowhere</b> (red)
   * Duration: 85 seconds
   * Shots: 8
   * Corresponding Shot: Right Orbit
-  * Hit 8 red shots to complete the mode; either orbit, or either ramp, although the orbits score more. Shots start at 400k and increase by 400k per shot. 
+  * Hit 8 red shots to complete the mode; either orbit, or either ramp, although the orbits score more. Shots start at 400k and increase by 400k per shot.
   * Collecting Upgrade during this mode lights all of the shots for one advance, making the mode easier to complete, and increases the base scoring at the orbits.
   * Completing Knowhere lights Super Loops for 10 shots; the orbits will always send the ball towards the flippers and be lit for the highest value collected during this mode.
 
@@ -66,17 +66,17 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
   * Collecting Upgrade during this mode increases the base scoring for each lane.
   * Completing Escape Kyln awards Super Lanes for 10 shots, for the highest value collected during the mode.
 
-- <b>Pod Chase</b> (blue) 
+- <b>Pod Chase</b> (blue)
   * Duration: 154 seconds
-  * Shots: 10 
+  * Shots: 10
   * Corresponding Shot: Left Ramp
-  * Make 10 blue ramp shots to complete the mode. Shots start at 300,000 and increase by 200,000 per shot. 
+  * Make 10 blue ramp shots to complete the mode. Shots start at 300,000 and increase by 200,000 per shot.
   * Collecting Upgrade during this mode lights all the shots, making it easier to complete, and increases the base scoring at the ramps. Each shot lit via Upgrade can only be made once.
   * Completing Pod Chase lights Super Ramps for 10 shots, for the highest value collected during the mode. These values can be doubled if they are made as a combo.
 
 - <b>Quill's Quest</b> (light orange)
   * Duration: 166 seconds
-  * Shots: 12 
+  * Shots: 12
   * Corresponding Shot: Scoop
   * The first time this mode is chosen per mode cycle, 2-ball multiball will start, with 2 random shots and the right scoop lit to collect a 500k hurry-up value that increases by 250k per shot. Collect 12 hurry-ups to complete the mode. After playing this mode once, it will be a single-ball affair - although you can still stack either **[multiball](#heading--multiballs)** with it, which can't be activated the first time this mode is played. The first playthrough of the mode automatically ends when the multiball ends.
   * Collecting Upgrade during this mode increases the base value of the hurry-ups permanently.
@@ -92,19 +92,19 @@ Start 3 modes, and complete 6 modes, to light the scoop for **[extra ball](#head
 
 - <b>Sibling Rivalry</b> (green)
   * Duration: 101 seconds
-  * Shots: 10 
+  * Shots: 10
   * Corresponding Shot: Right Ramp
   * Make 10 ramp shots to complete the mode, with combos increasing the base score value per shot.
   * Collecting Upgrade during this mode opens up more combo shots to open up; shooting any lit combo shot lights the 4 shots on the left or right side of the playfield, whichever is more natural for the completed shot.
   * Completing this mode allows you to shoot the right ramp once to re-collect all the points scored from this mode. This collect can be multiplied by all applicable **[multipliers](#heading--pfx)**.
 
-- <b>Yaka Arrow</b> (white) 
+- <b>Yaka Arrow</b> (white)
   * Duration: 54 seconds
-  * Shots: 8 
+  * Shots: 8
   * Corresponding Shot: "Dead-End" Lane
   * Shoot the flashing shots and the bumpers to complete the mode. Collecting 10 bumper hits spots a lit mode shot, and lights another shot to progress through the mode. The "dead-end" lane on the left side is always lit to advance through the mode. Shots start at 1M and increase by 500k per shot.
   * Collecting Upgrade during this mode will allow the left two Hadron standups to spot shots.
-  * Completing Yaka Arrow will light Super Pops for 50 pop bumper hits, *and* light the Yondu dead-end shot to recollect the mode total. This collect can be multiplied by all applicable **[multipliers](#heading--pfx)** and also disables super pops. 
+  * Completing Yaka Arrow will light Super Pops for 50 pop bumper hits, *and* light the Yondu dead-end shot to recollect the mode total. This collect can be multiplied by all applicable **[multipliers](#heading--pfx)** and also disables super pops.
 
 ## Multiballs {#heading--multiballs}
 
@@ -114,7 +114,7 @@ During both multiballs, **[Mystery](#heading--mystery)** will always award an ad
 
 Shoot Groot's mouth to light the lock, then shoot into Groot's mouth to lock a ball. The first multiball is 3-ball, subsequent multiballs are 4-ball and require more hits to start. If balls have already been locked at Groot during a multiplayer game, or if the mouth mechanism has been disabled, locks will be virtual instead.
 
-During Groot Multiball, all shots will be lit for three jackpots per shot. Jackpots start at 300k and increase by 25k per jackpot. After the 9th and 18th jackpots, Groot will light for a Super Jackpot worth the total of the jackpots collected prior, to a max of 25M. 
+During Groot Multiball, all shots will be lit for three jackpots per shot. Jackpots start at 300k and increase by 25k per jackpot. After the 9th and 18th jackpots, Groot will light for a Super Jackpot worth the total of the jackpots collected prior, to a max of 25M.
 
 If any **[modes](#heading--modes)** have been completed prior to Groot MB, 5x jackpots can be scored. The character inserts at each shot indicate whether 5x jackpots are available:
 
@@ -133,7 +133,7 @@ You can hit Groot again during Groot Multiball to open Groot's mouth. Re-lock a 
 
 ### Orb Multiball {#heading--orb}
 
-Shoot the drop target followed by the standup target behind it to collect an Orb, and temporarily hold the ball behind the drop target. For Orbs 1 & 2, the ball is then released, and Magna-Force will catch it and then release it wildly. Collect 3 Orbs to begin Orb Multiball. Orbs 1 or 2 can also be collected via **[Mystery](#heading--mystery)**. 
+Shoot the drop target followed by the standup target behind it to collect an Orb, and temporarily hold the ball behind the drop target. For Orbs 1 & 2, the ball is then released, and Magna-Force will catch it and then release it wildly. Collect 3 Orbs to begin Orb Multiball. Orbs 1 or 2 can also be collected via **[Mystery](#heading--mystery)**.
 
 Orb Multiball will start by holding the ball behind the Orb drop target. A hurry-up will start counting down from 2M (+500k per subsequent Orb MB + 500k per Orb Super) to 500k. Hit the drop target to lock in the hurry-up value for your Orb Jackpots, and free the ball for 3-ball multiball. If you fail to free the ball within a short amount of time, the drop target will lower and you'll only get a 2-ball multiball. The initial drop target shot has to be made naturally, not by using the Hadron Enforcer.
 
@@ -143,7 +143,7 @@ After the ball is released, all of the shots will be lit for Jackpots worth the 
 
 These are the ways to multiply value for features throughout the game besides the **[Groot Multiball](#heading--groot)** playfield multiplier. Excluding **[Rocket's Rampage](#heading--rocket)** which simply adds the +2x playfield to other applicable multipliers, the multipliers all multiply each other (ie. Nova Corps + combo multiplier = 4x multiplier for that shot).
 
-The combo multiplier is described in the **[modes](#heading--modes)** subsection. 
+The combo multiplier is described in the **[modes](#heading--modes)** subsection.
 
 ### Rocket's Rampage 2x Scoring {#heading--rocket}
 
@@ -151,7 +151,7 @@ Hit the Rocket shot to collect a letter in RAMPAGE. Spell RAMPAGE to activate 2x
 
 ### Nova Corps {#heading--nova}
 
-Complete the five red Nova Corps rollovers to light the shot multipliers. The top right rollovers, the left inlane rollovers, and the right inlane rollover are lane-changed independently (example: lane change only changes the lit insert between the two left inlane rollovers, and doesn't change the lit insert to the upper lanes or the right inlane similar to Iron Man and Metallica). 
+Complete the five red Nova Corps rollovers to light the shot multipliers. The top right rollovers, the left inlane rollovers, and the right inlane rollover are lane-changed independently (example: lane change only changes the lit insert between the two left inlane rollovers, and doesn't change the lit insert to the upper lanes or the right inlane similar to Iron Man and Metallica).
 
 After completing the rollovers, shoot any pulsing shot to light it solidly for 2x scoring for the rest of the ball. After qualifying all shots for 2x, a strobing shot will move across the playfield for 3x the value of the shot.
 
@@ -159,11 +159,11 @@ After completing the rollovers, shoot any pulsing shot to light it solidly for 2
 
 ### Hadron Enforcer {#heading--hadron}
 
-Completing the five standup targets scattered throughout the playfield will light the action button for 3 charges of the Hadron Enforcer. When the button is hit, it will spot one shot during the current **[mode](#heading--modes)** and / or **[multiball](#heading--multiballs)**. Hadron Enforcer charges can't be used to collect certain mode shots (read: **Escape Kyln** final Rocket shot, **Sanctuary** any shots), or the final super jackpots during all **[multiball modes](#heading--multiballs)**. The Hadron Enforcer prioritizes shots on the leftmost side of the playfield and will give credit for **[multiplied scoring](#heading--pfx)**. 
+Completing the five standup targets scattered throughout the playfield will light the action button for 3 charges of the Hadron Enforcer. When the button is hit, it will spot one shot during the current **[mode](#heading--modes)** and / or **[multiball](#heading--multiballs)**. Hadron Enforcer charges can't be used to collect certain mode shots (read: **Escape Kyln** final Rocket shot, **Sanctuary** any shots), or the final super jackpots during all **[multiball modes](#heading--multiballs)**. The Hadron Enforcer prioritizes shots on the leftmost side of the playfield and will give credit for **[multiplied scoring](#heading--pfx)**.
 
 ### Mystery {#heading--mystery}
 
-Hit the flashing Guardians target several times to advance the **[end-of-ball bonus multiplier](#heading--bonus)** and light Mystery at the right scoop. Each hit spots a letter in GUARDIANS; spelling GUARDIANS will light the scoop. When the S is left, the insert will slowly pulse. 
+Hit the flashing Guardians target several times to advance the **[end-of-ball bonus multiplier](#heading--bonus)** and light Mystery at the right scoop. Each hit spots a letter in GUARDIANS; spelling GUARDIANS will light the scoop. When the S is left, the insert will slowly pulse.
 
 Mystery awards include:
 * Add-a-ball (first award during any **[multiball](#heading--multiballs)**)
@@ -198,12 +198,12 @@ After the 60 seconds are up, the flippers are killed, all balls are drained, and
 
 ### Immolation Initiative {#heading--immolation}
 
-Make at least 50% progress on all eight **[modes](#heading--modes)** and both **[Groot and Orb multiballs](#heading--multiballs)** to light the right scoop to start the mini-wizard mode. 
+Make at least 50% progress on all eight **[modes](#heading--modes)** and both **[Groot and Orb multiballs](#heading--multiballs)** to light the right scoop to start the mini-wizard mode.
 
-Immolation Initiative starts as a 3-ball multiball. Jackpots are collected at yellow shots, and also after certain intervals of switch hits. The super jackpot during Immolation Initiative lights at the moving-mouth Groot after enough jackpots have been made, scores the jackpot total, and adds a ball into play an unlimited number of times. 
+Immolation Initiative starts as a 3-ball multiball. Jackpots are collected at yellow shots, and also after certain intervals of switch hits. The super jackpot during Immolation Initiative lights at the moving-mouth Groot after enough jackpots have been made, scores the jackpot total, and adds a ball into play an unlimited number of times.
 
 ### Save Xandar {#heading--xandar}
 
-Complete all **[modes](#heading--modes)** and both **[multiballs](#heading--multiballs)** to light the right scoop to start the wizard mode. 
+Complete all **[modes](#heading--modes)** and both **[multiballs](#heading--multiballs)** to light the right scoop to start the wizard mode.
 
 4-ball multiball. Collect all the purple jackpots to light the Super Jackpot at the right scoop. Shoot the right scoop when flashing to collect a huge super jackpot that adds a ball into play, an unlimited number of times. Just like Immolation Initiative, there are also lots of add-a-ball opportunities.

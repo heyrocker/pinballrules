@@ -37,8 +37,8 @@ opdb_id: "G0l8P"
 
 ## Layout: {#heading--layout}
 
-| Gold: | 
-| --- | 
+| Gold: |
+| --- |
 | ![](https://sternpinball.com/wp-content/uploads/2018/11/Beatles-Gold-Playfield-sm-848x1536.webp) |
 
 ## Skill Shots: {#heading--skillshots}
@@ -55,7 +55,7 @@ Hitting the same Skill Shot a 2nd, 3rd, etc. time will increase the amount of po
 
 Modes are lit at the start of a ball and can be changed with the flippers; the goal of each 60-second timed mode is to complete whichever objective is listed above the flippers to advance the level of the mode. The lit mode alternates every 5 seconds. Once a mode has ended (whether by time running out, or by completing it after level 5 has been reached), the next mode can be started by completing F-A-B and F-O-U-R, then shooting the upper magnet. If the mode has been lit during the ball, the pop bumpers will cycle the lit mode. The inserts for modes that have been completed all the way to level 5 will be lit solid, while those that have been played but not completed will slowly flash, and the currently selected mode will flash quickly.
 
-* **All My Loving**: 2-Ball Multiball. This untimed mode is added into the mode rotation on ball 3 as a pity multiball, or after the four other modes have been played. Jackpot increases with switch hits, starts at 250k points, and can be collected at the upper magnet. All scoring is doubled while the mode is running and **[Mystery](#heading--mystery)** will award an add-a-ball. 
+* **All My Loving**: 2-Ball Multiball. This untimed mode is added into the mode rotation on ball 3 as a pity multiball, or after the four other modes have been played. Jackpot increases with switch hits, starts at 250k points, and can be collected at the upper magnet. All scoring is doubled while the mode is running and **[Mystery](#heading--mystery)** will award an add-a-ball.
 * **Drive My Car**: Loop Mania. Shoot orbit shots (anything that goes around the upper magnet counts). Each loop advances a level. Each loop is worth 25k multiplied by the current level of the mode.
 * **I Should Have Known Better**: Drop Target Frenzy. Complete drop target banks. Each drop target bank completed advances a level. Each individual drop target is worth 7.5k multiplied by the current level of the mode.
 * **Ticket to Ride**: Super Spinners. Shoot the spinners. 30 spins at either spinner combined advances a level. Each spinner hit awards 10k multiplied by the current level of the mode plus a boosted value per spin.

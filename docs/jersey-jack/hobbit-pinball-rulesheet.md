@@ -18,7 +18,7 @@ Thanks to anyone who ends up contributing to this, anyone whose footage I use to
 - Release Date: March 2016
 - Original Wiki Rulesheet hosted on [Tilt Forums](/jersey-jack/hobbit-pinball-rulesheet)
 
-The Hobbit is a wide-body from Jersey Jack Pinball released in March 2016. The game features 31 modes, 2 multiballs, and some Super features to boot. The LCD screen in the backglass will give you everything you need to know; there is no "Instant Info" in this game! 
+The Hobbit is a wide-body from Jersey Jack Pinball released in March 2016. The game features 31 modes, 2 multiballs, and some Super features to boot. The LCD screen in the backglass will give you everything you need to know; there is no "Instant Info" in this game!
 
 ## Rules Overview: {#heading--overview}
 
@@ -46,7 +46,7 @@ The major shots in this game are as follows:
 
 * Mystery Target - Located to the right of the right ramp, the Mystery target awards a mystery award when hit while lit.
 
-* Bag End - Three pop bumpers located in the upper-right playfield between the Right VUK and the Mystery Target. Hitting these enough starts Super Pops. 
+* Bag End - Three pop bumpers located in the upper-right playfield between the Right VUK and the Mystery Target. Hitting these enough starts Super Pops.
 
 * Kickback - The left outlane has a kickback and a stopper pin. Mode starts hold the ball in the outlane, which can be launched out automatically or by pressing the Ring button.
 
@@ -74,9 +74,9 @@ So let's start our main lesson at the top-center and center of the screen: the M
 *Dwarf* - Complete the upper left target bank. Qualifies 3 Modes.
 *Man* - Complete the lower right target bank.
 
-If not in a mode, the book in the upper right corner of the playfield will show the current mode and a description of the respective event from the movie trilogy/book. In order to cycle the modes, shoot the left ramp when "BOOK" is lit to move to the next mode. To start a mode, shoot the right ramp when "MODE" is lit. Modes can be started at any time, unless no non-completed modes are available, the Mode Start is delayed (see Ring), or a Smaug Multiball lock is lit. 
+If not in a mode, the book in the upper right corner of the playfield will show the current mode and a description of the respective event from the movie trilogy/book. In order to cycle the modes, shoot the left ramp when "BOOK" is lit to move to the next mode. To start a mode, shoot the right ramp when "MODE" is lit. Modes can be started at any time, unless no non-completed modes are available, the Mode Start is delayed (see Ring), or a Smaug Multiball lock is lit.
 
-When playing modes, a certain set of shots or scoring opportunities are available for 30 seconds (with the exception of hurry-up modes, which are mostly 1 shot on a 2500 point hurry-up). This time, the current mode total, and the next shot value are shown in the book. The description of what to do is up in the upper-central part of the screen, and the scrolls under each of the mode's shots will light orange. 
+When playing modes, a certain set of shots or scoring opportunities are available for 30 seconds (with the exception of hurry-up modes, which are mostly 1 shot on a 2500 point hurry-up). This time, the current mode total, and the next shot value are shown in the book. The description of what to do is up in the upper-central part of the screen, and the scrolls under each of the mode's shots will light orange.
 
 In timed modes, shooting the left ramp when "TIME" is lit blue will award 10 seconds and change the "TIME" lights to purple. Shooting the left ramp when "TIME" is lit purple will award 3 seconds, and making mode progress turns the "TIME" light back to blue. When time expires or the mode is completed, a mode point total will be shown in the upper-central part of the screen and the game will resume normal play.
 
@@ -105,11 +105,11 @@ For the first Beast Frenzy, unlit inlanes can be lit by rolling over the inlane 
 
 For each Beast Frenzy after that, all the inlanes must be lit by their respective shots; rolling over inlanes no longer works. But don't give up hope! One of the Mystery Awards is "Light Beasts," which lights all 4 shots for you as an alternative.
 
-During Beast Frenzy Multiball, one ball will be plunged (making it a 2-ball multiball) and a minor ball save is awarded. Beasts will pop out of the playfield, awarding 1,000 points per hit. If you trap up the beasts will eventually change, allowing for key Mode Start or mode shots to be made. 
+During Beast Frenzy Multiball, one ball will be plunged (making it a 2-ball multiball) and a minor ball save is awarded. Beasts will pop out of the playfield, awarding 1,000 points per hit. If you trap up the beasts will eventually change, allowing for key Mode Start or mode shots to be made.
 
-Both of these multiballs can be stacked into each other (Beast progress can be made in Smaug Multiball and Smaug Locks can be lit and made during Beast Frenzy Multiball) and provides an add-a-ball when added in. 
+Both of these multiballs can be stacked into each other (Beast progress can be made in Smaug Multiball and Smaug Locks can be lit and made during Beast Frenzy Multiball) and provides an add-a-ball when added in.
 
-**Dwarves** 
+**Dwarves**
 
 In the lower-right quadrant of the screen is the Dwarves. The silhouettes 13 dwarves of Thorin and Company can be seen at the game start, and are collected on 13 different shots in the game:
 
@@ -177,7 +177,7 @@ After charging the Ring button with switch hits, the Ring can be used for the fo
 
 *I can't confirm that they have been added yet, since I have completed all of the requirements to light one of these modes but haven't seen any notification that one is lit.*
 
-After completing a mode, starting Smaug and Beast Frenzy Multiball, starting Super Spinners, and collecting all of the Dwarves, an Arkenstone Mode will light. The 3 Arkenstone Modes are Into the Fire, Barrel Escape, and Battle of the Five Armies. 
+After completing a mode, starting Smaug and Beast Frenzy Multiball, starting Super Spinners, and collecting all of the Dwarves, an Arkenstone Mode will light. The 3 Arkenstone Modes are Into the Fire, Barrel Escape, and Battle of the Five Armies.
 
 **Modes**
 
@@ -189,7 +189,7 @@ This mode is a frenzy mode in which every shot awards 50 points. The left ramp c
 
 * *An Unexpected Party* - Bilbo Baggins Mode
 
-To start, the Bag End pop bumpers will be lit and a random drop target will rise. Shooting Bag End awards 1,000 points per trip, and hitting the drop target adds another drop target 1,000 points to the Bag End shot. 
+To start, the Bag End pop bumpers will be lit and a random drop target will rise. Shooting Bag End awards 1,000 points per trip, and hitting the drop target adds another drop target 1,000 points to the Bag End shot.
 
 * *Moon Runes* - Elf Mode
 

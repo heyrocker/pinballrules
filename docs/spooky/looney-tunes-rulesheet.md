@@ -25,7 +25,7 @@ opdb_id: "GJ2K0"
   - [Blueprints (Playfield X)](#heading--pfx)
   - [Hare Restore (Outlane Ball Save)](#heading--ballsave)
   - [Extra Balls & Special](#heading--extraballs)
-  - [End-of-Ball Bonus](#heading--bonus)  
+  - [End-of-Ball Bonus](#heading--bonus)
 - [Wizard Modes](#heading--wizard)
   - [Taz-Mania (Mini-Wizard Mode)](#heading--taz)
   - [Factory Mayhem (Mini-Wizard Mode)](#heading--factory)
@@ -33,18 +33,18 @@ opdb_id: "GJ2K0"
 
 # Game Information & Overview: {#heading--gameinfo}
 
-- Lead Designer: 
+- Lead Designer:
 - Code/Rules:
 - Lead Mechanical Engineer:
 - Artwork:
 - Display and Animations:
-- Sound Design: 
+- Sound Design:
 - Release Date: March 2024
 - Wiki Rulesheet based on Code Rev: 2025.03.01
   - *Edit the Code revision, if applicable, when you make changes*
 - Original Wiki Rulesheet hosted on [Tilt Forums](/spooky/looney-tunes-rulesheet)
 
-***Looney Tunes*** is the third pinball machine based on the iconic Warner Bros. cartoons, released by Spooky Pinball in early 2024 (using the same layout as *Texas Chainsaw Massacre* but with different rules). The machine takes place at the ACME factory, which contains a vault dedicated to the escapades of the cartoon characters in their original theatrical shorts, and a plethora of wild inventions that can change the course of gameplay if used wisely. 
+***Looney Tunes*** is the third pinball machine based on the iconic Warner Bros. cartoons, released by Spooky Pinball in early 2024 (using the same layout as *Texas Chainsaw Massacre* but with different rules). The machine takes place at the ACME factory, which contains a vault dedicated to the escapades of the cartoon characters in their original theatrical shorts, and a plethora of wild inventions that can change the course of gameplay if used wisely.
 
 # Layout: {#heading--layout}
 
@@ -89,7 +89,7 @@ also be lit to collect it. The mode is completed after scoring both hurry-ups.
 
 ## Area 51 & 3/4 Modes: {#heading--area5134}
 
-These three modes can be started at the left ramp after enough spinner hits have been made at the left orbit. These modes lack the **encore bonus** that the **[episodes](#heading--modes)** do, but each one unlocks a different **[item](#heading--items)** that can be earned at the crate after completing each mode. 
+These three modes can be started at the left ramp after enough spinner hits have been made at the left orbit. These modes lack the **encore bonus** that the **[episodes](#heading--modes)** do, but each one unlocks a different **[item](#heading--items)** that can be earned at the crate after completing each mode.
 
 The modes are based on the following shorts, respectively: **Haredevil Hare** (1948), **Hare-Way to the Stars** (1958), and **Duck Dodgers in the 24 1/2th Century** (1953).
 
@@ -106,7 +106,7 @@ All multiballs excluding **TNT Add-A-Ball** are mutually exclusive and cannot st
 
 Light the add-a-ball by completing the TNT targets at the bottom right of the playfield. Then, add a 2nd ball into play by shooting the lane hidden below the upper right flipper.
 
-TNT Add-A-Ball is a frenzy mode where all switches score the current frenzy value, increased with shots to the TNT targets. During the frenzy, a single ball can be held in the lane under the right upper flipper for 15 seconds, doubling all frenzy values while the ball is being held. 
+TNT Add-A-Ball is a frenzy mode where all switches score the current frenzy value, increased with shots to the TNT targets. During the frenzy, a single ball can be held in the lane under the right upper flipper for 15 seconds, doubling all frenzy values while the ball is being held.
 
 This is a true add-a-ball, meaning that you are able to start **[Episodes](#heading--modes)** and other **multiball modes** with the extra ball on the playfield. In this case, you don’t need to start the mode prior to starting the multiball.
 
@@ -136,7 +136,7 @@ Rocket Skates Multiball is a 3-ball to 6-ball multiball that ends once the super
 
 ## ACME Crate / Items: {#heading--items}
 
-Shooting the ACME Crate three times will send the ball into the crate and award an item, changed by hitting the left eject when "advance item" is lit. More and more crate hits are required to award subsequent items, and some items can only be earned if certain criteria have been accomplished as listed in the below table. 
+Shooting the ACME Crate three times will send the ball into the crate and award an item, changed by hitting the left eject when "advance item" is lit. More and more crate hits are required to award subsequent items, and some items can only be earned if certain criteria have been accomplished as listed in the below table.
 
 If an item is available, use it by pressing the action button. Players can have more than one item available at a time - if they do, the secondary flipper buttons on the sides of the cabinet will change what item will be activated next.
 
@@ -180,7 +180,7 @@ The upper loops are the Roadrunner shots and advance towards multiple rules when
 
 ## Combo Jackpots: {#heading--combos}
 
-Shoot lit shots in succession to score combos and progress towards lighting one of the boxing maneuvers at the right ramp: jab, hook, then uppercut. When a maneuver is lit, a jackpot will be scored based on the total combined value of the combos that led up to it. 
+Shoot lit shots in succession to score combos and progress towards lighting one of the boxing maneuvers at the right ramp: jab, hook, then uppercut. When a maneuver is lit, a jackpot will be scored based on the total combined value of the combos that led up to it.
 
 Collect all three punches to light the **extendo-punch** insert for **[Factory Mayhem](#heading--factory)** and qualify the **Rabbit Punch** mode the next time **[start episode](#heading--reel)** is available.
 

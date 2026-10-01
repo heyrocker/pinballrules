@@ -17,7 +17,7 @@ opdb_id: "G4doo"
 - Sound Design: David Thiel
 - Release Date: July, 2017
 - Original Wiki Rulesheet hosted on [Tilt Forums](/multimorphic/lexy-lightspeed-escape-from-earth)
- 
+
 ## Rules Overview: {#heading--overview}
 
 **Multiballs** (not coupled with story mode)
@@ -55,7 +55,7 @@ Secret hole behind the ship- starts hurry up for misc awards
 Score multiplier - targets behind shooting range pop bumpers
 Search the galaxy - left ramp
 Collect specimens - left orbit
-LEXY lanes - white buttons rotate left right, completing LEXY awards bonus multiplier and misc awards.  Multiple completions required per bonus x (progressive).  Progression does not reset between balls, but bonus does. 
+LEXY lanes - white buttons rotate left right, completing LEXY awards bonus multiplier and misc awards.  Multiple completions required per bonus x (progressive).  Progression does not reset between balls, but bonus does.
 
 Bonus:
 Bonus awarded for mode completions and for other achievements such as killing bugs, aliens, and secret objectives.  Bonus carries over ball to ball but bonus multiplier does not.

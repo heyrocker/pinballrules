@@ -129,10 +129,10 @@ title: "Rulesheet Master List"
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
-| [Portal](/multimorphic/portal-extended-edition-rulesheet) | March 2025 | Ian Harrower, Michael Ocean, Stephen Silver |  Ian Harrower, Michael Ocean | 
-| [The Princess Bride](/multimorphic/the-princess-bride-rulesheet) | February 2024 | Colin MacAlpine, Gerry Stellenberg, Josh Kugler, Rory Cernuda, Stephen Silver, Steve Shoyer, TJ Weaver |  Josh Kugler, Greg Goldey, Michael Ocean, Steve Shoyer | 
-| [Final Resistance](/multimorphic/final-resistance-rulesheet-multimorphic-2023) | March 2023 | Scott Danesi |  Micheal Ocean, Bowen Kerins | 
-| [Weird Al's Museum of Natural Hilarity](/multimorphic/weird-als-museum-of-natural-hilarity-rulesheet) 	| March 2022 | Stephen Silver |  Micheal Ocean, Greg Goldey, Gerry Stellenberg, Bowen Kerins, Colin MacAlpine  | 
+| [Portal](/multimorphic/portal-extended-edition-rulesheet) | March 2025 | Ian Harrower, Michael Ocean, Stephen Silver |  Ian Harrower, Michael Ocean |
+| [The Princess Bride](/multimorphic/the-princess-bride-rulesheet) | February 2024 | Colin MacAlpine, Gerry Stellenberg, Josh Kugler, Rory Cernuda, Stephen Silver, Steve Shoyer, TJ Weaver |  Josh Kugler, Greg Goldey, Michael Ocean, Steve Shoyer |
+| [Final Resistance](/multimorphic/final-resistance-rulesheet-multimorphic-2023) | March 2023 | Scott Danesi |  Micheal Ocean, Bowen Kerins |
+| [Weird Al's Museum of Natural Hilarity](/multimorphic/weird-als-museum-of-natural-hilarity-rulesheet) 	| March 2022 | Stephen Silver |  Micheal Ocean, Greg Goldey, Gerry Stellenberg, Bowen Kerins, Colin MacAlpine  |
 | [Sorcerer's Apprentice](/multimorphic/sorcerers-apprentice-rulesheet) 	| August 2021 |   |  Greg Goldey  |
 | [Heist](/multimorphic/heist-rulesheet) 	| March 2020 | Stephen Silver | BJ Wilson, Greg Goldey, Thomas Law |
 | Cosmic Cart Racing 	| October 2018 | Gerry Stellenberg & TJ Weaver | Gerry Stellenberg |

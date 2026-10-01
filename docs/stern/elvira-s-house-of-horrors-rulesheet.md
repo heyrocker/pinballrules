@@ -31,7 +31,7 @@ opdb_id: "GZVOd"
 ## Game Information & Overview: {#heading--gameinfo}
 
 - Designer: Dennis Nordman
-- Code/Rules: Lyman Sheats (*prior to 1.00*), 
+- Code/Rules: Lyman Sheats (*prior to 1.00*),
 - Lead Mechanical Engineer: Tom Kopera
 - Artwork: Greg Freres
 - Display and Animations: Chuck Ernst
@@ -72,7 +72,7 @@ All Haunts start with 45 seconds on the clock. The timer pauses if the ball ente
 
 If you drain or time out during a Haunt, you won’t be able to play it again until **[They Came From Space](#heading--hauntwizard)** is played.
 
-Completing any Haunt will qualify the **[Trailer Trash](#heading--trailertrash)** hurry-up at the House and advance your B-Restorator rank towards lighting **[Director’s Cut](#heading--directorscut)** after four Haunts have been completed. Completing two Haunts lights Extra Ball. 
+Completing any Haunt will qualify the **[Trailer Trash](#heading--trailertrash)** hurry-up at the House and advance your B-Restorator rank towards lighting **[Director’s Cut](#heading--directorscut)** after four Haunts have been completed. Completing two Haunts lights Extra Ball.
 
 There are six main Haunts in the game. These can be accessed even without the Skeleton Key.
 
@@ -100,7 +100,7 @@ There are six main Haunts in the game. These can be accessed even without the Sk
   - Stage 4: 100k increment. Identical to stage 3, except shooting the Cellar will turn off all shots and light the final shot at the House.
 - **The Werewolf of Washington:** (Right side of house, attic window)
   - Stage 1: No increment. Both orbits are lit (flashing blue/cyan), shoot either orbit to "Transform" for 500k + 50k per transformation.
-  - Stage 2: When transformed, the Garage and Crypt are lit solid blue, and the House, left ramp, and right ramp are lit flashing blue/cyan. Shoot flashing shots to keep a combo going, with the value for each shot increasing quadratically in the length of the combo -- the Nth shot in the combo is worth the base value + 125K x (N<sup>2</sup> - N). Shooting either the Garage or Crypt or timing out the combo after shooting a flashing shot ends the transformation for the current value. 
+  - Stage 2: When transformed, the Garage and Crypt are lit solid blue, and the House, left ramp, and right ramp are lit flashing blue/cyan. Shoot flashing shots to keep a combo going, with the value for each shot increasing quadratically in the length of the combo -- the Nth shot in the combo is worth the base value + 125K x (N<sup>2</sup> - N). Shooting either the Garage or Crypt or timing out the combo after shooting a flashing shot ends the transformation for the current value.
     - The initial shot to start the combo has no time limit (aside from the mode timer), but after shooting a flashing shot, the next shot must be made within 7 seconds to continue the combo, with no grace period. Shooting the House keeps all 5 shots lit, while shooting the left or right ramp turns off the shot until another shot is made.
     - *Note:* If you shoot the left orbit to transform and the ball falls in the Back Door, the spotted shot starts the 7-second combo timer.
   - When the 1st or 2nd transformation ends, the base value is incremented by 125K and the mode returns to Stage 1. When the 3rd transformation ends, the final shot will be lit at the House.
@@ -123,7 +123,7 @@ Along with the six main Haunts, there are four Haunts located at the right-most 
 
 ### Trailer Trash
 
-This bonus round is awarded after completing any Haunt. The House Entrance will light on a hurry-up timer to award you 50% of the total amount of points you scored during the Haunt again. The value can be increased to 75% by shooting either the left or right ramp, or 100% by shooting both ramps before collecting the value at the House. If Multiball is active when a Haunt has been completed, you will still be able to play Trailer Trash during the Multiball. Progress towards Haunts and other objectives can still be made during Trailer Trash. 
+This bonus round is awarded after completing any Haunt. The House Entrance will light on a hurry-up timer to award you 50% of the total amount of points you scored during the Haunt again. The value can be increased to 75% by shooting either the left or right ramp, or 100% by shooting both ramps before collecting the value at the House. If Multiball is active when a Haunt has been completed, you will still be able to play Trailer Trash during the Multiball. Progress towards Haunts and other objectives can still be made during Trailer Trash.
 
 *Note: The **[Atomic Raygun](#heading--junk)** cannot be used on the Trailer Trash hurry-up, although it can be used on either of the ramps to boost the value.*
 
@@ -143,7 +143,7 @@ Director's Cut is an extended version of **[Trailer Trash](#heading--trailertras
 
 Deadhead Family Crypt
 
-Hitting the Crypt entrance enough times (1 + 1 hit for each defeated Deadhead) will allow the entrance to lower, revealing a scoop that you can shoot the ball into. A skull head will then lower, which you can shoot several times to hit the Deadhead shown on the display. After enough shots (3 + 2 more hits for each defeated Deadhead), you will be able to shoot into the Crypt one more time to finish the Deadhead off. There are 15 different Deadheads. 
+Hitting the Crypt entrance enough times (1 + 1 hit for each defeated Deadhead) will allow the entrance to lower, revealing a scoop that you can shoot the ball into. A skull head will then lower, which you can shoot several times to hit the Deadhead shown on the display. After enough shots (3 + 2 more hits for each defeated Deadhead), you will be able to shoot into the Crypt one more time to finish the Deadhead off. There are 15 different Deadheads.
 
 Defeating a Deadhead will light **[Return](#heading--return)** at the right outlane.
 
@@ -151,9 +151,9 @@ Defeating two Deadheads will light **[Extra Ball](#heading--extraballs)**.
 
 The third Deadhead will light Super Head Shot at the Crypt as the final shot, which behaves the same way as a normal final shot but *requires* the player to aim for the flashing target using the button. Completing the Super Head Shot is one of the requirements to qualify **[Wild Market Value](#heading--wildmarket)**.
 
-Defeated Deadheads score 250k in end of ball bonus. 
+Defeated Deadheads score 250k in end of ball bonus.
 
- Freak Fryer & Gappa Angry! 
+ Freak Fryer & Gappa Angry!
 
 Every switch hit counts towards the Freak Fryer. Reaching level 1 requires 150 switch hits and awards 1 million points, with each subsequent level requiring 25 more switch hits than the previous level and awarding 500k more:
 
@@ -167,7 +167,7 @@ Every switch hit counts towards the Freak Fryer. Reaching level 1 requires 150 s
 
 After advancing the Freak Fryer to its maximum level, the House Entrance will light to start Gappa Angry!.
 
-Gappa Angry! is a unique single-ball mode with several different outcomes, where you have to make flashing shots and lock balls in a specific order. The shots in each stage start at 500k, increasing by 500k per stage, and increase by 25k for each shot made during the stage. All switch hits add to a Super Jackpot that will be collected if you’re able to lock all six balls. 
+Gappa Angry! is a unique single-ball mode with several different outcomes, where you have to make flashing shots and lock balls in a specific order. The shots in each stage start at 500k, increasing by 500k per stage, and increase by 25k for each shot made during the stage. All switch hits add to a Super Jackpot that will be collected if you’re able to lock all six balls.
 
 Make the shots and lock the balls in this order to advance through the scene, build the Jackpot and Super Jackpot values, and potentially start a 6-ball Multiball mode!
 
@@ -176,7 +176,7 @@ Make the shots and lock the balls in this order to advance through the scene, bu
 - Left and right orbits + House Entrance, then lock a ball in the Crypt
 - Left and right ramps + House Entrance + Crypt, then lock a ball in the Trunk
 - Left and right orbits + left and right ramps + House Entrance, then lock another ball in the Garage
-- Cellar to collect the Super Jackpot and start 6-ball Multiball! 
+- Cellar to collect the Super Jackpot and start 6-ball Multiball!
 
 There are also other ways to progress through the mode. Making the Back Door Skill Shot will also award you with one shot’s worth of progress through the current level, and if a ball lands in the Trunk while one is already locked (if one was locked before Gappa Angry or after level 4), then the level will instantly be completed for you, awarding all of the shot values as well.
 
@@ -193,9 +193,9 @@ Various modes are available if the player fails to reach the final stage of Gapp
 
 Gar-Goils Gone Wild
 
-Complete the Gar-Goil targets two times (increasing up to four times) to advance the Gar-Goil Gauge to its maximum, then complete the targets one more time to start the mode. 
+Complete the Gar-Goil targets two times (increasing up to four times) to advance the Gar-Goil Gauge to its maximum, then complete the targets one more time to start the mode.
 
-Each hit to a Gar-Goil target during this mode scores 50k + 10k increment, with a bonus of 150k + 25k increment for hitting all four targets. Hitting either orbit will score 150k + 150k per shot. 
+Each hit to a Gar-Goil target during this mode scores 50k + 10k increment, with a bonus of 150k + 25k increment for hitting all four targets. Hitting either orbit will score 150k + 150k per shot.
 
 There is also a Super Jackpot during this mode (worth decent points, 20 million maybe?), how is this collected? According to the official Stern Insider instructions page, the orbits feature into this mode in some way.
 
@@ -223,9 +223,9 @@ Trunk Multiball
 
 This is a 2-ball Multiball. Two Jackpots are lit at random shots, and a hit to any of the Trunk Targets will change the location of the lit Jackpots. Making the targets will also light the left ramp to collect a Super Jackpot and 1 - 3 (a random amount in this range) of a random piece of Junk. This Multiball can be brought into any other mode.
 
- Phone-A-Fiend Multiball 
+ Phone-A-Fiend Multiball
 
-Phone-A-Fiend Multiball is qualified by collecting at least one of all the Junk in the Trunk. Start the multiball by locking two balls in the Trunk as you did before. 
+Phone-A-Fiend Multiball is qualified by collecting at least one of all the Junk in the Trunk. Start the multiball by locking two balls in the Trunk as you did before.
 
 Shoot the Trunk targets to light the left ramp to score a jackpot and light all major ramp and orbit shots for 20 seconds. Shoot them to score additional jackpots, then when time runs out, reset the process by shooting the Trunk targets to light the left ramp again. Each jackpot is worth 500k more than the previous.
 
@@ -243,16 +243,16 @@ Double Trouble can be a quick way to score many points. Light either inlane for 
 
 ### Hand of Fate & Manos Wheel {#heading--manoswheel}
 
-The Hand of Fate is lit at the left outlane by completing the right target bank.  When triggered by losing the ball down the left outlane, the player is presented with a spinning wheel on the display which they must stop by hitting the lock down bar action button.  
+The Hand of Fate is lit at the left outlane by completing the right target bank.  When triggered by losing the ball down the left outlane, the player is presented with a spinning wheel on the display which they must stop by hitting the lock down bar action button.
 
-The wheel has 6 segments, each containing a different award.  The player is awarded the item the wheel is stopped on and the award is replaced with a portion of the image behind the awards.  When all awards are collected (and the image is complete), Manos Wheel will start.  
+The wheel has 6 segments, each containing a different award.  The player is awarded the item the wheel is stopped on and the award is replaced with a portion of the image behind the awards.  When all awards are collected (and the image is complete), Manos Wheel will start.
 
 No award is collected if the player does not stop the wheel (after 6 seconds) or if the wheel is stopped on an already collected award.  Note that the Hand of Fate may be triggered during a multiball. Hand of Fate can still be collected if a ball save is active.
 
 The awards are:
 - Ball Save (can’t be chosen if Ball Save is already active)
 - Extend Garage Multiball
-- Extend Trunk Multiball 
+- Extend Trunk Multiball
 - 5 Million
 - 2 Million
 - Double Bone-Us (doubles entire bonus, on top of any multipliers!)
@@ -286,14 +286,14 @@ Extra Balls are lit to collect at the House by...
 ### End of Ball Bonus {#heading--bonus}
 
 Bonus is determined by:
-- Deadheads (250k per killed Deadhead, held from ball to ball) 
+- Deadheads (250k per killed Deadhead, held from ball to ball)
 - Haunt Shots (5k per Haunt Shot)
 - Base value (how is this determined?)
 
 x Bonus Multiplier (x Double Bone-Us if applicable)
 
 ## Wild Market Value {#heading--wildmarket}
-This is a final wizard mode where you get to sell the house for a value built up during the game by hitting the wild market value spot target.  Once lit this mode is started at the cellar and starts a 30 second hurry-up to hit the wild market value spot target and sell the house.  
+This is a final wizard mode where you get to sell the house for a value built up during the game by hitting the wild market value spot target.  Once lit this mode is started at the cellar and starts a 30 second hurry-up to hit the wild market value spot target and sell the house.
 
 These are the requirements to light this mode:
 - Start DIRECTOR'S CUT.

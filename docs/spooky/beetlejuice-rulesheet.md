@@ -18,7 +18,7 @@ The playfield features a 3-flipper design (two lower, one upper right) with the 
 
 * Left Outlane / Inlane: Standard arrangement.
 * Mode Change Switch: A rebound switch located above the left slingshot and below the left orbit.
-* Left Orbit: Feeds the upper playfield; a perfect shot will do a figure-8 through the right side of the Upper Loop 
+* Left Orbit: Feeds the upper playfield; a perfect shot will do a figure-8 through the right side of the Upper Loop
 * Left Ramp: Includes a wheel that awards "Spin the Wheel" prizes.
 * Spinner: Standard spinner shot; clean shots will go through the pops and into the Juno Scoop; some shots may rattle and feed the pops or the upper playfield.
 * Pops: above the L Orbit, L Ramp and Spinner, and below the Upper Playfield.
@@ -114,7 +114,7 @@ Hitting the three Sandworm wall targets starts a Sandworm Battle. Each Battle ha
 
 * Qualifying: Shoot yellow shots to spell S-H-O-W-T-I-M-E. Yellow shots are ONLY available when you've qualified but not yet started a Beetlejuice Mode. Start the multiball at the Right Orbit.
 * Gameplay: At the start, press the Action Button (or say "Beetlejuice" three times). Carousel shots qualify the "Strength Test" Super Jackpot.
-* Progression: Shoot 3 (+1) jackpots, then shoot the Right Orbit/Deadend to lock a ball. Hit the Right Orbit Drop Target to ricochet the locked ball into the vari-target for a Super Jackpot, the first of which will Add-a-Ball. 
+* Progression: Shoot 3 (+1) jackpots, then shoot the Right Orbit/Deadend to lock a ball. Hit the Right Orbit Drop Target to ricochet the locked ball into the vari-target for a Super Jackpot, the first of which will Add-a-Ball.
 
 ### Singing in the Stairwell
 

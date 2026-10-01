@@ -47,10 +47,10 @@ Portal is available in two forms: as just the main playfield module (the Standar
 
 # Quick Tips {#heading--quick-tips}
 
-* Hit the Elevator Call Button standup target (just left of the Center Loop) to raise the leftmost scoop, then shoot into that Elevator Scoop to start a test chamber.  
-* While in the Hub, hit the Turret Lock Standup Target to light the Turret Control Center Scoop red, and shoot into that scoop to lock a ball for Turret Multiball. Do this three times to start the multiball.  
-* While in the Hub, hit the ESC Captive Ball twice to lock two balls for Edgeless Safety Cube Multiball, then while the virtual ball is traveling across the screen, hit the Ramp Control Target (just to the left of the Spinner Lane) to start Edgeless Safety Cube Multiball.  
-* While in the Hub, shoot the Left Ramp to raise it up, then shoot under the Left Ramp to portal the ball into the L.O.F.T. Use the Right White Flipper Button to bash the cube with the ball and push it back. That will activate the Faith Plate in the Center Loop to lock balls for Aerial Faith Plate Multiball. Three hits to the Faith Plate will start the multiball.  
+* Hit the Elevator Call Button standup target (just left of the Center Loop) to raise the leftmost scoop, then shoot into that Elevator Scoop to start a test chamber.
+* While in the Hub, hit the Turret Lock Standup Target to light the Turret Control Center Scoop red, and shoot into that scoop to lock a ball for Turret Multiball. Do this three times to start the multiball.
+* While in the Hub, hit the ESC Captive Ball twice to lock two balls for Edgeless Safety Cube Multiball, then while the virtual ball is traveling across the screen, hit the Ramp Control Target (just to the left of the Spinner Lane) to start Edgeless Safety Cube Multiball.
+* While in the Hub, shoot the Left Ramp to raise it up, then shoot under the Left Ramp to portal the ball into the L.O.F.T. Use the Right White Flipper Button to bash the cube with the ball and push it back. That will activate the Faith Plate in the Center Loop to lock balls for Aerial Faith Plate Multiball. Three hits to the Faith Plate will start the multiball.
 * While in the Hub, complete objectives to raise the playfield multiplier for the next test chamber you start.
 
 # Playfield Layout {#heading--playfield-layout}
@@ -119,10 +119,10 @@ The Upper Right Ramp is intended to award a one-time Skill Shot. However, if you
 
 The Hub is the base mode of the game, which is active when you’re not in a test chamber. Each ball starts in the Hub, and you return to the Hub after completing a test chamber. While in the Hub, you can do things like:
 
-* Work toward objectives  
-* Lock balls and play multiballs  
-* Activate Super Spinner  
-* Light and collect mystery awards  
+* Work toward objectives
+* Lock balls and play multiballs
+* Activate Super Spinner
+* Light and collect mystery awards
 * Hit the Elevator Call Button to allow starting a test chamber
 
 Note that you can also activate Super Spinner while in test chambers, and you can light and collect mystery awards in some test chambers.
@@ -131,13 +131,13 @@ Note that you can also activate Super Spinner while in test chambers, and you ca
 
 While in the Hub, you can hit the Elevator Call Button standup target to raise the leftmost scoop, and shooting into that scoop will start a test chamber. By default, the game will automatically select the next chamber to be played, but you can use the yellow flipper buttons to choose whichever chamber you want to play, with two caveats:
 
-* You can only play any given test chamber once per game. Once you’ve started a chamber, you can’t re-start that chamber for the rest of the game.  
+* You can only play any given test chamber once per game. Once you’ve started a chamber, you can’t re-start that chamber for the rest of the game.
 * Test chambers 1–6 are available to be selected at the start of the game, but test chamber 7 has to be unlocked before you can play it.
 
 If you accidentally raise the Elevator when you don’t actually want to start a test chamber, you can dismiss it in one of the following ways:
 
-* Shoot the ball into the Right Orbit so that it comes all the way around and out the Left Orbit.  
-* Complete an objective and light an objective hurry-up. You can’t start a test chamber while a hurry-up is running, so if the Elevator is raised, it will be lowered.  
+* Shoot the ball into the Right Orbit so that it comes all the way around and out the Left Orbit.
+* Complete an objective and light an objective hurry-up. You can’t start a test chamber while a hurry-up is running, so if the Elevator is raised, it will be lowered.
 * Start a multiball. You also can’t start a test chamber while in a multiball.
 
 Note that while the game offers a high score table for the fastest completions for each of the first six test chambers, there is no time limit imposed for those chambers. You can take as long as you need to figure out how to complete the chamber (or until you drain out of it). However, test chamber 7 does use a timer.
@@ -148,18 +148,18 @@ Each test chamber has a primary objective that you need to complete the chamber,
 
 You’re trying to make it to the top of the test chamber, and then fling yourself into a portal. This chamber is completed in several phases:
 
-1. Start your climb by hitting each of the three ramps (Left Ramp, Upper Right Ramp, and Lower Right Ramp), in any order.  
-2. Shoot the Faith Plate to fling yourself even higher.  
-3. Shoot beneath either the Left Ramp or the Upper Right Ramp to portal the ball to the Hard Light Bridge shot. Alternatively, if the Left Ramp is lowered, then shooting it will directly feed the Hard Light Bridge shot without the need for a portal. Use the Left White Flipper Button to activate the Hard Light Bridge Wall Panel and send the ball into the landing area on the right side of the playfield. If you fail to successfully make it across the Hard Light Bridge, you can shoot back under a ramp to make another attempt. If you fail the Hard Light Bridge shot enough times, then shooting under the Upper Right Ramp will eventually allow you to skip this shot and progress to the next phase of the test chamber.  
-4. Shoot the ball up either the Upper or Lower Right Ramp to portal the ball into the L.O.F.T. Use the Right White Flipper Button to use the mini-flipper to hit the side targets to send the cube back, and then shoot into the scoop in front of the cube to make a Momentum Jump over the Moat. If you drain out of the L.O.F.T. before making the Momentum Jump, you can shoot back up either of the Upper or Lower Right Ramp to make another attempt.  
+1. Start your climb by hitting each of the three ramps (Left Ramp, Upper Right Ramp, and Lower Right Ramp), in any order.
+2. Shoot the Faith Plate to fling yourself even higher.
+3. Shoot beneath either the Left Ramp or the Upper Right Ramp to portal the ball to the Hard Light Bridge shot. Alternatively, if the Left Ramp is lowered, then shooting it will directly feed the Hard Light Bridge shot without the need for a portal. Use the Left White Flipper Button to activate the Hard Light Bridge Wall Panel and send the ball into the landing area on the right side of the playfield. If you fail to successfully make it across the Hard Light Bridge, you can shoot back under a ramp to make another attempt. If you fail the Hard Light Bridge shot enough times, then shooting under the Upper Right Ramp will eventually allow you to skip this shot and progress to the next phase of the test chamber.
+4. Shoot the ball up either the Upper or Lower Right Ramp to portal the ball into the L.O.F.T. Use the Right White Flipper Button to use the mini-flipper to hit the side targets to send the cube back, and then shoot into the scoop in front of the cube to make a Momentum Jump over the Moat. If you drain out of the L.O.F.T. before making the Momentum Jump, you can shoot back up either of the Upper or Lower Right Ramp to make another attempt.
 5. The Elevator Scoop will be raised, and shooting it will allow you to take the Elevator out of the test chamber.
 
 ## Test Chamber 2: Encouragement via Discouragement {#heading--test-chamber-2--encouragement-via-discouragement}
 
 A discouragement beam is positioned in the center of the playfield display. Shooting the Spinner will cause the beam to rotate, which may damage things in the chamber:
 
-* If the beam hits a slingshot, it will be temporarily deactivated and won’t fire if the ball hits it.  
-* If the beam hits a flipper, it will temporarily become a no-hold flipper, in which pressing the Red Flipper Button will cause it to flip, but then immediately drop back down rather than allow you to hold it up.  
+* If the beam hits a slingshot, it will be temporarily deactivated and won’t fire if the ball hits it.
+* If the beam hits a flipper, it will temporarily become a no-hold flipper, in which pressing the Red Flipper Button will cause it to flip, but then immediately drop back down rather than allow you to hold it up.
 * Hitting standup targets with the ball will cause either turrets or items of questionable worth to fall down in front of the target. These will be destroyed if the beam hits them, and that’s a good thing for the turrets, but it’s better to collect the items of questionable worth by hitting the corresponding target a second time rather than letting the beam get them.
 
 Rotating the discourage beam enough times to hit the Turret Control Center Scoop three times will deactivate it. The Elevator Scoop will be raised, and shooting it will allow you to take the Elevator out of the test chamber.
@@ -168,17 +168,17 @@ Rotating the discourage beam enough times to hit the Turret Control Center Scoop
 
 An energy pellet is floating around the test chamber, bouncing between panels. Hitting various shots can reposition the panels, and you ultimately want to arrange them so that the energy pellet makes its way to a detector. There are five shots that you can use to move the panels:
 
-* A shot under the Left Ramp, which will portal the ball into the L.O.F.T. and (hopefully) loop around the cube.  
-* A shot up the Center Loop and out the Right Orbit.  
-* A shot up the Upper Right Ramp to the Right Inlane.   
-* A shot up the Lower Right Ramp to the Right Inlane.  
+* A shot under the Left Ramp, which will portal the ball into the L.O.F.T. and (hopefully) loop around the cube.
+* A shot up the Center Loop and out the Right Orbit.
+* A shot up the Upper Right Ramp to the Right Inlane.
+* A shot up the Lower Right Ramp to the Right Inlane.
 * A shot around the Right Orbit and out the Left Orbit.
 
 Each of these shots is associated with a different panel, and hitting that shot will alternate the position of that panel. At the start of the chamber, all of the panels are in the wrong position, so you ideally want to hit each of the shots once to orient them all correctly. If you hit one of the shots again, then you’ll need to hit a third time to move it back into the desired alignment.
 
 A couple of things to be aware of when playing this test chamber:
 
-* When shooting under the Left Ramp and into the L.O.F.T., the ball should be allowed to loop around the cube and then drain out of the loft. If you flip the ball so that it loops around the cube again, then that will move the corresponding panel back out of alignment and you’ll need to loop it again. On the other hand, when the ball is launched into the L.O.F.T., if it doesn’t have enough momentum to make it around the cube, then you’ll need to shoot it again so that it does make it around the cube.  
+* When shooting under the Left Ramp and into the L.O.F.T., the ball should be allowed to loop around the cube and then drain out of the loft. If you flip the ball so that it loops around the cube again, then that will move the corresponding panel back out of alignment and you’ll need to loop it again. On the other hand, when the ball is launched into the L.O.F.T., if it doesn’t have enough momentum to make it around the cube, then you’ll need to shoot it again so that it does make it around the cube.
 * Shooting the Lower Right Ramp will move the orange portal from beneath the Upper Right Ramp into the L.O.F.T. So you’ll typically want to shoot the Upper Right Ramp before shooting the Lower Right Ramp to make it easier to hit the orange portal.
 
 After hitting all of the necessary shots and aligning the panels, you need to wait for the energy pellet to make it to the detector, and during this time, you want to ensure that you don’t hit any shots that will move any of the panels out of alignment. If possible, cradle the ball on a flipper until the pellet makes it to the detector. When the pellet does reach the collector, the Elevator Scoop will raise, and shooting into it will allow you to complete the test chamber.
@@ -189,8 +189,8 @@ In this chamber, you need to collect a companion “cube” (a second ball) and 
 
 Shoot the Faith Plate to launch a second ball (the companion cube) into play, then shoot both balls into one of the following locations:
 
-* Beneath the Left Ramp.  
-* Beneath the Faith Plate.  
+* Beneath the Left Ramp.
+* Beneath the Faith Plate.
 * Beneath the Upper Right Ramp.
 
 Shooting a ball into one of these locations will cause the other two to close, and you need to shoot the second ball so that it goes into the same location as the first. Repeat this until you get both balls into all three locations, and the final of these shots will portal the ball into the L.O.F.T. where you need to use the Left White Flipper Button to shoot the ball so that it pushes the companion cube back into the incinerator, which will complete the chamber. If the ball drains out of the L.O.F.T. without pushing back the cube, you can shoot the ball back into the L.O.F.T. to keep trying.
@@ -201,8 +201,8 @@ Note that if you lose one of the balls while trying to shoot the ball beneath on
 
 You need to traverse a long distance by making shots. There are eleven shots that you need to hit, where options for each shot you can make at each point are signified by yellow inserts. However, you can use portals to skip over some of the shots and complete the chamber more quickly. Available portals include:
 
-* Hitting the Ramp Control Target (to the left of the Spinner Lane) will raise the Faith Plate, and shooting into it will jump ahead four steps.  
-* Hitting the Turret Lock Standup Target (to the right of the Spinner late) will raise the Left Ramp, and shooting under it will jump ahead two steps.  
+* Hitting the Ramp Control Target (to the left of the Spinner Lane) will raise the Faith Plate, and shooting into it will jump ahead four steps.
+* Hitting the Turret Lock Standup Target (to the right of the Spinner late) will raise the Left Ramp, and shooting under it will jump ahead two steps.
 * Hitting the standup target on either side of the Lower Right Ramp will raise the Upper Right Ramp, and shooting under it will jump ahead six steps.
 
 Note that some or all of these portals may not be available at various points in the test chamber, so you’ll need to hit at least one non-portal shot to complete the chamber. Also note that if you can’t use a portal to complete all of the remaining steps, the final step will need to be made by hitting a roving shot, so you’ll need to time it so that you hit it when the yellow insert is on that shot. As such, you might want to plan your route through the test chamber so that you can complete it by shooting into a portal to avoid the need to hit the roving shot.
@@ -255,17 +255,17 @@ If you don’t complete this objective via the Skill Shot route, then you can li
 
 The Moat jump, also called a Momentum Jump, occurs when launching a ball over the Moat in the middle of the back part of the playfield. To achieve a Moat jump:
 
-1. Shoot under the Left Ramp while it’s raised, and while the Upper Right Ramp is not also raised (if both upper ramps are raised, then the portal mini-loop will be active). This will send the ball into the L.O.F.T.  
-2. If the companion cube is in its forward position covering the scoop, bash it with the ball to push it back.  
-3. Loop around the cube until the scoop is lit yellow or green.  
+1. Shoot under the Left Ramp while it’s raised, and while the Upper Right Ramp is not also raised (if both upper ramps are raised, then the portal mini-loop will be active). This will send the ball into the L.O.F.T.
+2. If the companion cube is in its forward position covering the scoop, bash it with the ball to push it back.
+3. Loop around the cube until the scoop is lit yellow or green.
 4. Shoot into the scoop. If it’s lit yellow, then it will make a medium-strength Moat jump, which is enough to satisfy this objective. If the scoop is lit green, then it will make a full-strength jump all the way to the upper landing area in the back right of the playfield.
 
 ## Three Loops {#heading--three-loops}
 
 This objective can be completed by shooting any combination of three loop shots (that is, you can hit the same loop shot three times, three different loop shots, or two of one and one of another). This includes:
 
-* Shooting the ball into the Left Orbit so that it comes out the Right Orbit.  
-* Shooting the ball up the Center Loop past the Faith Plate so that it comes out the Right Orbit.  
+* Shooting the ball into the Left Orbit so that it comes out the Right Orbit.
+* Shooting the ball up the Center Loop past the Faith Plate so that it comes out the Right Orbit.
 * Shooting the ball into the Right Orbit so that it comes out the Left Orbit.
 
 Note that a shot to any of these locations that doesn’t make it all the way around will not count as progress toward this objective.
@@ -274,12 +274,12 @@ Note that a shot to any of these locations that doesn’t make it all the way ar
 
 This objective requires you to shoot the ball through eight different portals. This includes:
 
-* Shooting under the Left Ramp when the Upper Right Ramp is down so that the ball enters the L.O.F.T.  
-* Shooting the ball into the scoop in front of the cube in the L.O.F.T. for an attempted Moat jump.  
-* Draining out of the L.O.F.T. back to the lower playfield without hitting the scoop.  
-* Shooting under the Left Ramp when the Upper Right Ramp is raised so that the ball comes out of the right side of the portal mini-loop.  
-* Shooting under the Upper Right Ramp when the Left Ramp is down so that the ball is sent to the Hard Light Bridge.  
-* Shooting under the Upper Right Ramp when the Left Ramp is raised so that the ball comes out of the left side of the portal mini-loop.  
+* Shooting under the Left Ramp when the Upper Right Ramp is down so that the ball enters the L.O.F.T.
+* Shooting the ball into the scoop in front of the cube in the L.O.F.T. for an attempted Moat jump.
+* Draining out of the L.O.F.T. back to the lower playfield without hitting the scoop.
+* Shooting under the Left Ramp when the Upper Right Ramp is raised so that the ball comes out of the right side of the portal mini-loop.
+* Shooting under the Upper Right Ramp when the Left Ramp is down so that the ball is sent to the Hard Light Bridge.
+* Shooting under the Upper Right Ramp when the Left Ramp is raised so that the ball comes out of the left side of the portal mini-loop.
 * Hitting the ESC Captive Ball to lock a ball in the backbox for the Edgeless Safety Cube Multiball. Hitting this shot actually counts as two of the eight portals, because you also get one when the ball drops back down into the ESC Captive Ball area.
 
 ## One Hard Light Bridge {#heading--one-hard-light-bridge}
@@ -300,11 +300,11 @@ Normally, raising one ramp will lower the others, but you can change that behavi
 
 This objective requires you to hit eight different standup targets around the playfield. These targets include:
 
-* The Ramp Control Target to the left of the Spinner Lane  
-* The Turret Lock Standup Target to the right of the Spinner Lane  
-* The Elevator Call Button  
-* Both of the standup targets on either side of the Lower Right Ramp  
-* The standup target to the right of the Edgeless Safety Cube Captive Ball  
+* The Ramp Control Target to the left of the Spinner Lane
+* The Turret Lock Standup Target to the right of the Spinner Lane
+* The Elevator Call Button
+* Both of the standup targets on either side of the Lower Right Ramp
+* The standup target to the right of the Edgeless Safety Cube Captive Ball
 * Both standup targets in the left wall of the L.O.F.T.
 
 Note that even though there are standup targets on both the left and right sides of the ESC Captive Ball, only the one on the right is actually used for this objective.
@@ -349,23 +349,23 @@ You can qualify mystery awards by completing all of the CAKE targets in the inla
 
 Once a mystery award is qualified, the Turret Control Center Scoop will be lit white, and shooting into it will display a panel with several possible awards, and one of them will be chosen. There are some awards listed that you won’t ever actually be given, but awards that you can get include:
 
-* Ball Saver \+20s:  Add 20 seconds to any currently running ball saver, or start a new ball saver that lasts for 20 seconds.  
-* Big Points: Award some number of points (and not a particularly big number of points, to be honest).  
-* Bonus Multiplier 2X: Double the value of the bonus that will be awarded at the end of the ball (assuming that you don’t tilt).  
-* Next Objective 2X: Double the playfield multiplier that you get for completing the next objective (that is, it’ll increase by 1 instead of 0.5).  
-* Performance Review: Collect any bonus earned so far on the current ball.  
-* Super Spinner: Raise the Spinner value to the next multiple of 100, and start the Super Spinner hurry-up.  
+* Ball Saver \+20s:  Add 20 seconds to any currently running ball saver, or start a new ball saver that lasts for 20 seconds.
+* Big Points: Award some number of points (and not a particularly big number of points, to be honest).
+* Bonus Multiplier 2X: Double the value of the bonus that will be awarded at the end of the ball (assuming that you don’t tilt).
+* Next Objective 2X: Double the playfield multiplier that you get for completing the next objective (that is, it’ll increase by 1 instead of 0.5).
+* Performance Review: Collect any bonus earned so far on the current ball.
+* Super Spinner: Raise the Spinner value to the next multiple of 100, and start the Super Spinner hurry-up.
 * Tilt Forgiveness: Removes any tilt warnings collected thus far on the current ball.
 
 Note that each time you qualify a mystery award, the number of times you have to complete the CAKE inserts to be able to qualify another increases by one. So you need to have two completions for the second mystery award, three for the third, and so on.
 
 By default, mystery awards will be chosen at random. However, a setting is available to allow these awards to be granted in a deterministic order, which can be useful in competition play. That deterministic order is:
 
-* Bonus Multiplier 2X  
-* Next Objective 2X  
-* Performance Review  
-* Super Spinner  
-* Ball Saver \+20s  
+* Bonus Multiplier 2X
+* Next Objective 2X
+* Performance Review
+* Super Spinner
+* Ball Saver \+20s
 * Big Points
 
 # Final Wizard Mode {#heading--final-wizard-mode}
@@ -374,9 +374,9 @@ After playing all seven of the test chambers (you only have to start them; you d
 
 This mode is played in several phases:
 
-1. You first need to collect parts to assemble a special device. You might have already collected some of the necessary items while playing in test chambers (perhaps the worth of those items wasn’t so questionable after all?). Certain shots will be lit blue for the items you still need, and hitting them will collect them.  
-2. You then need to call the supervisor. Certain shots will be lit green, corresponding to numbers on a telephone keypad. Hitting enough of these shots will proceed to the next phase.  
-3. At this point, Reggie’s evil twin, Eginald (aka Eggie), will reveal himself, and he will introduce GLaDOS as the supervisor. Then, Reggie will come sweeping through, and you’ll need to use the Core Switcher to re-install Reggie as your preferred Personality Core. You’ll need to hit a combination of green (representing Reggie) and orange (representing Eggie) shots to activate the Core Switcher, most of which are at the Turret Control Center Scoop. After hitting a green shot, a second ball will be kicked out and you need to send both balls into the Core Switcher. Losing one of the balls in two-ball play will take a step backward in your progress. Eventually, a red shot will light, and you can use it to condemn Eggie to the Moat.  
+1. You first need to collect parts to assemble a special device. You might have already collected some of the necessary items while playing in test chambers (perhaps the worth of those items wasn’t so questionable after all?). Certain shots will be lit blue for the items you still need, and hitting them will collect them.
+2. You then need to call the supervisor. Certain shots will be lit green, corresponding to numbers on a telephone keypad. Hitting enough of these shots will proceed to the next phase.
+3. At this point, Reggie’s evil twin, Eginald (aka Eggie), will reveal himself, and he will introduce GLaDOS as the supervisor. Then, Reggie will come sweeping through, and you’ll need to use the Core Switcher to re-install Reggie as your preferred Personality Core. You’ll need to hit a combination of green (representing Reggie) and orange (representing Eggie) shots to activate the Core Switcher, most of which are at the Turret Control Center Scoop. After hitting a green shot, a second ball will be kicked out and you need to send both balls into the Core Switcher. Losing one of the balls in two-ball play will take a step backward in your progress. Eventually, a red shot will light, and you can use it to condemn Eggie to the Moat.
 4. Finally, you’re up against GLaDOS. You need to hit yellow shots marked by a ball icon to load a ball in front of the Faith Plate, and then shooting the Faith Plate will lob a ball at GLaDOS. You can also hit the ESC Captive Ball to get another ball in play for a margin of safety. You need to have at least two balls in play to be able to lob balls at GLaDOS. After enough hits, GLaDOS will be defeated, and you’ll win the game, although she may be able to recover if too much time passes between hits.
 
 After winning the game, you’ll be awarded a completion bonus, and the game will end. If you win the game while you’re not yet on your last ball, the completion bonus will be re-awarded for each ball you have remaining. On the other hand, if you drain out of the Final Wizard Mode while you still have at least one more ball, then you’ll get to resume the attempt on your next ball.

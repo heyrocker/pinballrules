@@ -22,7 +22,7 @@ opdb_id: "GWyyq"
 **Callouts:** Jeff Teolis and others
 **Sound:** Frank Gigliotti, Matt Kern, and Chuck Michael
 **Animations:** Frank Gigliotti
-**Creative Designer:** Fay Kiaurakis 
+**Creative Designer:** Fay Kiaurakis
 * Release Date: October 2021
 
 The **Classic Edition** includes black powder-coated rails, legs, hinges, lockdown bar, over 100 RGB lights, interactive Thor’s Hammer, hundreds of callouts, 22 total game modes including various Multiball modes.
@@ -43,7 +43,7 @@ Non-Legend battles:
 'TROLLS': Shoot the LOOPS
 'DWARVES': Shoot the SPINNER
 
-Hit Berzerker to add 10 seconds to the timer. 
+Hit Berzerker to add 10 seconds to the timer.
 War on Land can be played unlimited times during the game. After all 3 characters are battled, the 4th and subsequent character is random and adds increasing value to each war on land. Each completed shot increases the base value.
 JOTNAR = *base scoring + (Battles played * 50k) + (Legends defeated * 100k) + 25k increment
 TROLLS = *base scoring + (Battles played * 50k) + (Legends defeated * 100k) + 25k increment
@@ -176,7 +176,7 @@ Left Ramp>Center ramp>Spinner>upper right orbit - combo worth 2X
 Left Ramp>Center ramp>Spinner>right ramp - Asgard Combo worth 3X
 
 **DOUBLE SCORING**
-Hit the right ramp 4 times during gameplay to start a 45 second double scoring. The right ramp arrow turns yellow when you need 1 more right ramp to start Double Scoring. The ship LED turns YELLOW during Double Scoring and RED the last 5 seconds of Double Scoring. Double Scoring is enabled for all modes, including wizard modes. 
+Hit the right ramp 4 times during gameplay to start a 45 second double scoring. The right ramp arrow turns yellow when you need 1 more right ramp to start Double Scoring. The ship LED turns YELLOW during Double Scoring and RED the last 5 seconds of Double Scoring. Double Scoring is enabled for all modes, including wizard modes.
 
 **MYSTERY AWARDS**
 Hit the Berzerker drop target enough times to light the scoop and right shooter lane for Mystery Awards.
@@ -189,7 +189,7 @@ to defeat a legend* during battle or score points outside of a battle.
 (*except THOR who can't be defeated with the hammer)
 
 Summon a Valkyrie by: performing 5 combos or getting it as a mystery award
-Use a Valkyrie during a battle to score the next shot** to get one shot closer to defeating 
+Use a Valkyrie during a battle to score the next shot** to get one shot closer to defeating
 (**except Dearg Due who is defeated with a Valkyrie)
 
 **TASKS**: Complete 8 tasks to qualify Valhalla wizard mode

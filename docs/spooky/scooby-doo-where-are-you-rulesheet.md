@@ -59,7 +59,7 @@ The skill shot is indicated by a flashing red light on the playfield. Use the fl
 
 * Left Drop Target Bank: Spawns additional Scooby Snacks
 * Character Orbits: Fills that character's orbit inserts, qualifying their mode.
-* Standup Targets: Raises the drop target between the flippers. 
+* Standup Targets: Raises the drop target between the flippers.
 
 **Secret Skill Shot** happens when your select the Left Drops as the skill shot and when you hit the lowermost drop target for 100k points
 
@@ -67,17 +67,17 @@ The skill shot is indicated by a flashing red light on the playfield. Use the fl
 
 Shoot the flashing fingerprint shots to qualify a case at the Mystery Machine. The first case is qualified after two clues, with subsequent cases requiring additional fingerprint shots. Cases are randomized with the left spinner, but it can be locked in by pressing the launch button.
 
-Within each case the player must collect the number of clue shots, as indicated by the magnifying glass located on the bottom left of the display. Each case also has a timer themed as a "Bravery Meter". This meter also acts as a multiplier for all shots during the mode, so keeping your characters bravery high throughout the case will maximize scoring. Bravery can be restored by collecting **[Scooby Snacks](#heading--snacks)**. 
+Within each case the player must collect the number of clue shots, as indicated by the magnifying glass located on the bottom left of the display. Each case also has a timer themed as a "Bravery Meter". This meter also acts as a multiplier for all shots during the mode, so keeping your characters bravery high throughout the case will maximize scoring. Bravery can be restored by collecting **[Scooby Snacks](#heading--snacks)**.
 
 When the required number of clues have been collected the a timer will start, During this timer, the player will have a limited amount of time to collect trap shots and then unmask the villain. Trap shots are different for each villain and work as a multiplier for the unmasking bonus. Shoot the Mystery Machine before the timer runs out to unmask the villain.
 
 From left to right, the rules for each mystery mode are:
 
-- **Charlie the Robot** - Shoot the roving blue shot to follow Charlie. Shooting the yellow shots will shut off the attractions limiting where the roaming shot can travel. Shutting down attractions will also increase the value when the roaming shot is collected. On the default difficulty, four blue shots are required to complete the case. The trap shot for this mode is the center ramp. 
+- **Charlie the Robot** - Shoot the roving blue shot to follow Charlie. Shooting the yellow shots will shut off the attractions limiting where the roaming shot can travel. Shutting down attractions will also increase the value when the roaming shot is collected. On the default difficulty, four blue shots are required to complete the case. The trap shot for this mode is the center ramp.
   - (*Note: You have to let the ball though the center ramp without activating the bookcase flipper for the trap shots to count.*)
-  - During the main case, shots to the habitrails will ride the rollercoasters of Funland: Comet, Cyclone, and Hurricane. 
+  - During the main case, shots to the habitrails will ride the rollercoasters of Funland: Comet, Cyclone, and Hurricane.
 - **Captain Cutler** - Shoot any Captain Cutler shot on the upper playfield to fill your scuba tank with oxygen and light orange clue targets on the lower playfield. Your oxygen meter will start depleting when the ball is on the lower playfield. If it runs out you must return to the upper playfield to replenish oxygen before more clues can be collected. On the default difficulty, six shots are needed to complete the case. The trap shots for this mode are the upper playfield Captain Cutler shots.
-  - Shoot the ball behind the Drop Targets and into the Left VUK to discover the "secret storehouse of scuba tanks". 
+  - Shoot the ball behind the Drop Targets and into the Left VUK to discover the "secret storehouse of scuba tanks".
 
 - **Miner 49'er** - The inner orbits and spinners are lit. They represent the combination to an old safe, which leads to the abandoned mine. You will need to collect these shots in a specific order, which is randomized at the start of the case. Green shots are correct, red shots are incorrect and will will force you to start over - shooting the targets next to the shots will reveal if they are the next shot in the combination. Memorize the combination and complete all four shots in the correct order to complete the case. The trap shots for this mode are the three main shots on the upper playfield.
   - Shoot the three main shots on the upper playfield during the main case to ride in a runaway mine cart.
@@ -100,7 +100,7 @@ Shoot the character orbits to qualify a unique mode for each member of Mystery I
 
   - Shots to the Dive Helmet will spawn a shot to one of the main shots on the upper playfield. These shots will slow the monster making it easier to target the required purple shots.
 
-- **Fred's Plan:** Create a cunning plan. All fingerprint arrows will strobe blue. Shooting any of those shots will turn them solid white and lock in one step of the plan. The player will have a limited amount of time to add as many steps to the plan as possible. The phase ends when all shots are completed, the timer runs out, or the player hits the action button. 
+- **Fred's Plan:** Create a cunning plan. All fingerprint arrows will strobe blue. Shooting any of those shots will turn them solid white and lock in one step of the plan. The player will have a limited amount of time to add as many steps to the plan as possible. The phase ends when all shots are completed, the timer runs out, or the player hits the action button.
   - During the second phase, the player will have to complete the shots from the previous phase, in order. Shots of the plan will light up one at a time to guide the player. The value of shots will build with each step in the plan, with a jackpot scored for completing the plan.
   - Bonuses can be scored by repeatedly shooting the mini orbit on the upper playfield without hitting the dive helmet, or performing magic tricks either by clearing the Drop Targets and shooting the ball into the Left VUK, or hitting the Passive Sling on the upper playfield.
 
@@ -140,7 +140,7 @@ Scooby Snack Multiball is currently the only mode that is stackable over other m
 
 ### Scooby Snacks: {#heading--snacks}
 
-Shoot the two banks of drop targets on the left side of the playfield to light major shots for snacks, and shoot the shots where they're lit to collect them. Snacks increase the **[Bravery Meter](#heading--mysteries)** during mysteries. 
+Shoot the two banks of drop targets on the left side of the playfield to light major shots for snacks, and shoot the shots where they're lit to collect them. Snacks increase the **[Bravery Meter](#heading--mysteries)** during mysteries.
 
 ### Ruh-Roh Ballsave: {#heading--ruhroh}
 
@@ -154,7 +154,7 @@ Light both left outlanes to save your current ball.
 
 The trap door is a drop target between the flippers that pops up to save the ball from draining SDTM. There are two ways to engage the drop target:
 
-* Engage the trap door (up) by hitting the clue stand-ups on either side of the center ramp.   
+* Engage the trap door (up) by hitting the clue stand-ups on either side of the center ramp.
 * Hit each of the lit dog tag targets by the left ramp and Mystery Machine
 
 ### Green Ghouls Hurry-Up: {#heading--greenghouls}

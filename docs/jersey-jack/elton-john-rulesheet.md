@@ -33,8 +33,8 @@ opdb_id: "G2LWd"
 
 - Lead Designer: Steve Ritchie
 - Code/Rules: Joe Katz, Bill Grupp
-- Lead Mechanical Engineer: 
-- Artwork: 
+- Lead Mechanical Engineer:
+- Artwork:
 - Computer Graphics Art Director: Joe Katz
 - Sound Designer:
 - Release Date: November 2023
@@ -104,7 +104,7 @@ Click the spoiler tab to view the full list of songs, presented in the order tha
 
 [/details]
 
-The name of the current song occasionally replaces the "Credit" counter on the display. The remaining time for the song is represented by the vanishing lights along the edge of the song panel. Songs will continue to run in the background of most Multiball modes (but not during wizard modes.) 
+The name of the current song occasionally replaces the "Credit" counter on the display. The remaining time for the song is represented by the vanishing lights along the edge of the song panel. Songs will continue to run in the background of most Multiball modes (but not during wizard modes.)
 Once any song times out, the next, randomly-selected song will start.
 
 ### Wardrobe Items {#heading--wardrobe}
@@ -161,10 +161,10 @@ One **[milestone](#heading--milestones)** requires the player to collect 30 albu
 ### Encore Modes: {#heading--encore}
 
 The encore modes are unlocked after collecting five **[albums](#heading--albums)** from the drop targets and are started in different ways, as indicated below:
-- **Tiny Targets** - Hit the tiny dancer target 8 times to start. Rockabox award spots 2 target shots. All targets score bonus points. Shoot the left target to increase the multiplier for target values. 
-- **Super Bennie and the Jets** - Shoot 6 orbits to start. Rockabox award spots 2 orbit shots. Feed the bumpers via either orbit for bonus points. Piano ramp also redirects ball into bumpers while running. 
+- **Tiny Targets** - Hit the tiny dancer target 8 times to start. Rockabox award spots 2 target shots. All targets score bonus points. Shoot the left target to increase the multiplier for target values.
+- **Super Bennie and the Jets** - Shoot 6 orbits to start. Rockabox award spots 2 orbit shots. Feed the bumpers via either orbit for bonus points. Piano ramp also redirects ball into bumpers while running.
 - **Backstage Frenzy** - Shoot the backstage 5 times to start. Rockabox award spots 3 backstage shots. All switches score, shoot the backstage shot to boost their value.
-- **Super Spinners** - Spin either spinner a total of 1000 times to start. Rockabox award will spot 300 spins. Shoot the spinners in front of either the left or right ramp for bonus points. 
+- **Super Spinners** - Spin either spinner a total of 1000 times to start. Rockabox award will spot 300 spins. Shoot the spinners in front of either the left or right ramp for bonus points.
 - **Piano-Matic** - Shoot the piano ramp 5 times to start (though repeated piano ramp shots won't count). Rockabox award will spot 3 ramp shots. Repeatedly loop the side ramp for bonus points.
 
 **[Rockabox award](#heading--albums)** #9 will spot a fixed amount of progress towards one of the encore modes, potentially activating a mode if no others are currently active.
@@ -185,7 +185,7 @@ Only **[Crocodile Rock](#heading--croc)** and **[Rocket Man](#heading--rocket)**
 
 A VUK is hidden under the crocodile toy at the right side of the playfield. Lock can be lit at this VUK by shooting the Tiny Dancer target on the left side of the game. The player can also advance towards this multiball, either lighting a Lock or awarding the 1st Lock if already lit, by selecting "Adv. Croc MB" during a **[skill shot.](#heading--skillshots)**
 
-The first Crocodile Rock multiball only requires two balls to be locked at the crocodile. Subsequent multiballs during the same game require three balls to be locked there. Only one ball can be locked in the VUK at a time; further locks are virtual locks. After the second Crocodile MB, locks will begin to time out unless they are made, including locks lit from a skill shot. 
+The first Crocodile Rock multiball only requires two balls to be locked at the crocodile. Subsequent multiballs during the same game require three balls to be locked there. Only one ball can be locked in the VUK at a time; further locks are virtual locks. After the second Crocodile MB, locks will begin to time out unless they are made, including locks lit from a skill shot.
 
 During Crocodile Rock multiball, shoot the flashing shots to score jackpots and light the crocodile for a super jackpot after scoring enough. If the player quickly locks a second ball at the crocodile within 10 seconds, the super jackpot will be doubled.
 
@@ -216,7 +216,7 @@ The four Signature Stage multiballs are:
 
 - **1970 - Hollywood**: All shots are lit to score jackpots, with combo shots adding +1x multiplier to the jackpot value. After 2 jackpots are scored, the side ramp is lit to score a super jackpot worth 4M +1x for each subsequent loop of the side ramp. Once the super jackpot is collected, an additional 2 jackpots must be scored to relight, up to 10 at maximum.
 - **1975 - Los Angeles**: A tougher version of the above multiball. Super Jackpot values decrease over time, and only a few shots are lit for jackpot. 2 jackpot shots will light the super jackpot, future super jackpots require 2 more regular jackpots. The lit shots reset and move to different places with each super jackpot scored.
-- **2009 - Las Vegas**: Shoot the drop targets to light jackpots. One drop target will be called out at the start - shoot that target to light double jackpots across many shots, or shoot another drop to light single jackpots. When super jackpot is lit, a unique color strobing effect begins on the drop target grid, akin to a slot machine - time your shots so the colors match to increase jackpot scoring. 
+- **2009 - Las Vegas**: Shoot the drop targets to light jackpots. One drop target will be called out at the start - shoot that target to light double jackpots across many shots, or shoot another drop to light single jackpots. When super jackpot is lit, a unique color strobing effect begins on the drop target grid, akin to a slot machine - time your shots so the colors match to increase jackpot scoring.
 - **2023 - London**: The toughest multiball of the bunch, with no ball save in sight - not even after activating Add-A-Ball or the 4th Album award! Only 1 jackpot is lit at a time, which moves from the left to right side of the playfield every 10 seconds or so. Super jackpots only require 1 regular jackpot to qualify during this multiball, with 1 more required to relight each time, up to 3. Regular jackpots start at 1M, super jackpots worth 10M.
 
 Super jackpots during all four Signature Stage multiballs are scored the same way in each. After collecting enough jackpots, keep looping the side ramp to score super jackpots and increase their multiplier with each successive loop. Every super jackpot also awards a SUPERSTAR! letter, which accumulates across games; spelling it out fully will award the Superstar Jackpot and award a **[milestone](#heading--milestones)**. A milestone is also awarded for scoring a 3x super jackpot, during any Signature Stage multiball.
@@ -276,7 +276,7 @@ After the third shot of certain combos that end at a repeatable shot, the shot w
 
 Collecting one unique combo (by default) counts as a **[milestone](#heading--milestones)**.
 
-Collecting five unique combos lights **[extra ball](#heading--extraballs)**. 
+Collecting five unique combos lights **[extra ball](#heading--extraballs)**.
 
 The 17th **[Rockabox award](#heading--albums)** resets the combo list, allowing previously-completed combos to be collected again.
 
@@ -324,7 +324,7 @@ After playing all five **[encore modes](#heading--encore)** awarded by collectin
 
 At the beginning of Champ Multiball, the total shots made during the encore modes will be tallied up, and serve as the scoring for their respective shots for as long as the multiball lasts. If *no* points, or very few points, were earned from a particular encore mode, a minimum shot value will be in its place. These shots *(except the Jets)* will count as jackpots and do not unlight after being shot!
 
-All scoring during Champ Multiball is multiplied by the playfield multiplier (shown at the left side of the UI), dependent on the number of balls in play (5 balls = 2.5x, 4 = 2x, 3 = 1.5x, 2 = 1x). 
+All scoring during Champ Multiball is multiplied by the playfield multiplier (shown at the left side of the UI), dependent on the number of balls in play (5 balls = 2.5x, 4 = 2x, 3 = 1.5x, 2 = 1x).
 
 **Super Jackpot**
 After enough jackpots are made to complete the grid, the super jackpot initially lights at the left saucer, crocodile, and the rocket. Shoot one of these to collect the first SJP. For future SJPs, only one of the previous three shots is lit *(appears to be random)*.

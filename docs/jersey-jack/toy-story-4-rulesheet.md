@@ -40,15 +40,15 @@ opdb_id: "GJ2o0"
 ## Game Information: {#heading--gameinfo}
 
 - Lead Designer: Pat Lawlor
-- Code/Rules: 
-- Lead Mechanical Engineer: 
+- Code/Rules:
+- Lead Mechanical Engineer:
 - Artwork: John Youssi
 - Computer Graphics Art Director: Joe Katz
 - Sound Designer: [Unlock Audio](https://www.unlockaudio.com/)
 - Release Date: June 2022
-- Wiki Rulesheet based on Code Rev: 
+- Wiki Rulesheet based on Code Rev:
 
-***Toy Story 4***, designed by Pat Lawlor, takes players on an adventure to the carnival where fun games and new toys of all shapes and sizes await. Designed with players of all skill levels in mind, the goal of the game is to start or complete scenes to access the wizard mode. 
+***Toy Story 4***, designed by Pat Lawlor, takes players on an adventure to the carnival where fun games and new toys of all shapes and sizes await. Designed with players of all skill levels in mind, the goal of the game is to start or complete scenes to access the wizard mode.
 
 ## Rules Overview: {#heading--overview}
 
@@ -91,15 +91,15 @@ The lockup is lit to add balls an unlimited amount of times until the first Mega
 
 ### Buzz Quick Multiball: {#heading--buzzmb}
 
-Collect enough hits to the Inner Voice saucer to light the saucer for Buzz Quick Multiball and *qualify* the scene upon starting it. 
+Collect enough hits to the Inner Voice saucer to light the saucer for Buzz Quick Multiball and *qualify* the scene upon starting it.
 
 Shoot the ramps and captive ball during Quick Multiball to score jackpots and hit the bumpers to increase their multiplier by +.1x for a short time, to a max of 4x. After collecting 5 jackpots, score the super jackpot at the Inner Voice saucer. After collecting the Super Jackpot, the Intergalactic Jackpot hurry-up begins (starting at 500k) and can be collected at the scoop. Scoring the Intergalactic Jackpot *completes* the scene. The process then repeats, but with the ramps and captive ball alternating for jackpots.
 
 ### Rescue Forky: {#heading--forky}
 
-Complete the FORKY standup targets to enable the **kickback** and light the left ramp for **Rescue Forky**. Rescue Forky by shooting the Duke Caboom ramp followed by the scoop, all in one combo, for 250,000 points (+250k per successful rescue); scoring the final value *completes* the scene. Shooting the roving FORKY targets while Forky Rescue is already lit increases the value for the next Forky Rescue by 50,000 points per hit. 
+Complete the FORKY standup targets to enable the **kickback** and light the left ramp for **Rescue Forky**. Rescue Forky by shooting the Duke Caboom ramp followed by the scoop, all in one combo, for 250,000 points (+250k per successful rescue); scoring the final value *completes* the scene. Shooting the roving FORKY targets while Forky Rescue is already lit increases the value for the next Forky Rescue by 50,000 points per hit.
 
-On subsequent attempts, Forky Rescue will instead be started at the right ramp and require a timed left ramp - jump ramp - scoop shot; then left ramp followed by the above sequence at max difficulty. Shooting the roving FORKY targets while Forky Rescue is already lit increases the value for the next Forky Rescue by 50,000 points per hit. 
+On subsequent attempts, Forky Rescue will instead be started at the right ramp and require a timed left ramp - jump ramp - scoop shot; then left ramp followed by the above sequence at max difficulty. Shooting the roving FORKY targets while Forky Rescue is already lit increases the value for the next Forky Rescue by 50,000 points per hit.
 
 Ricocheting a ball off the FORKY targets into the scoop nets you a secret "Trash Bonus" of 20,000 + 5,000 per collect.
 
@@ -182,7 +182,7 @@ To *complete* the scene, during or after playing Super Loops, shoot 3 consecutiv
 
 The other main objective of ***Toy Story 4*** is collecting everything on the Take A Chance Wheel to start **[Take A Chance Multiball](#heading--chancemb)**. This functions similarly to how the wheel worked on some earlier Pat Lawlor games, particularly *Red & Ted's Road Show*, and similarly has a wide selection of awards that can help out during normal play. This time, however, the player has slightly more control over the wheel awards than they did before.
 
-Spell ALIEN by shooting the captive ball (4 letters are lit by default, decreasing by 1 per award collected) to light the Take A Chance Wheel, which has 8 marked inserts corresponding to different awards. Each insert also lists the shot required to score the award, once qualified. Lit awards can be changed by shooting the captive ball (nudges the wheel) or upper loop (spins the wheel). 
+Spell ALIEN by shooting the captive ball (4 letters are lit by default, decreasing by 1 per award collected) to light the Take A Chance Wheel, which has 8 marked inserts corresponding to different awards. Each insert also lists the shot required to score the award, once qualified. Lit awards can be changed by shooting the captive ball (nudges the wheel) or upper loop (spins the wheel).
 
 Each wheel award can only be collected once, but are re-qualified once Take A Chance Multiball has been played.
 
@@ -198,7 +198,7 @@ Scoring **[Mystery](#heading--mystery)** during this mode will usually add more 
 
 Started at the two left inlanes, which will be flashing rainbow colors once qualified.
 
-This is an easier way to complete the **[Duke Caboom Jump](#heading--duke)** scene, without having to go for the Caboom Collect shots. Every jump ramp shot collected while Caboom is enabled immediately lights the jump ramp for another shot, allowing you to continuously loop the shot. 
+This is an easier way to complete the **[Duke Caboom Jump](#heading--duke)** scene, without having to go for the Caboom Collect shots. Every jump ramp shot collected while Caboom is enabled immediately lights the jump ramp for another shot, allowing you to continuously loop the shot.
 
 Every jump ramp shot continues to advance towards qualifying the scene and collecting the Caboom Jackpot, if applicable, though this won't enable Caboom Collect like the jump ramp normally will.
 
@@ -255,7 +255,7 @@ The Gabby Gabby target raises for about 10 seconds at several times during the g
 - Starting **[Super X](#heading--superx)**
 - **[Gabby Gabby Mystery Hurry-Up](#heading--mystery)** (for 15 seconds)
 
-Hitting Gabby Gabby will score a letter in her name and award a hurry-up value starting at 10k. 
+Hitting Gabby Gabby will score a letter in her name and award a hurry-up value starting at 10k.
 
 After 5 shots have been made to the Gabby Gabby target (8 shots for subsequent multiballs), Gabby Gabby Multiball will start. Shoot the ramps to score 25,000 point Jackpots and raise Gabby Gabby for an extra hurry-up value. Shooting the upper loop scores a Double Jackpot, and after 5 Jackpots will also be lit to collect the Super Jackpot worth the total jackpots collected.
 
@@ -328,5 +328,5 @@ After **[all seven scenes](#heading--scenes)** have been qualified or completed,
 To fully complete the wizard mode, the player must complete both Woody and Buzz's paths to the carousel, which means the player will have to qualify or complete all seven scenes twice in order to access both sections of the wizard mode. Each stage of Meet Me At The Carousel requires an objective to be accomplished before the scoop is lit to score a hurry-up completion bonus and start the next stage. If the ball drains, the player will be given one last chance to complete the stage and score the completion value at the scoop; after that chance has been exhausted and the ball drains, the mode ends in failure.
 
 * **Woody's Path**: First stage - collect 180 switch hits. Second stage - shoot 3 jump ramps, keep shooting it afterwards to increase the completion bonus. Third stage - 3 upper loops, keep shooting it afterwards to increase the completion bonus. Fourth stage - spell CAROUSEL by making all seven lit shots, and shoot the scoop to win.
-* **Buzz's Path**: First stage - 3 FORKY target hits, then warp target, then 1 FORKY target hit, then warp again. Faster blinking target or clean warp increases completion bonus. Second stage - four ramp shots, keep comboing ramps to increase completion bonus. Third stage - 3 yellow shots, red / blue shots decrease completion bonus. Fourth stage - three roving shots, then lock lights the scoop to win. 
+* **Buzz's Path**: First stage - 3 FORKY target hits, then warp target, then 1 FORKY target hit, then warp again. Faster blinking target or clean warp increases completion bonus. Second stage - four ramp shots, keep comboing ramps to increase completion bonus. Third stage - 3 yellow shots, red / blue shots decrease completion bonus. Fourth stage - three roving shots, then lock lights the scoop to win.
 * **Fireworks**: Started after completing either character’s path. 4-ball Multiball begins with jump ramp shots increasing and scoring jackpots multiplied by .15x the number of balls in play, and adding a ball into play up to the max of 6. (For the 2nd and all subsequent Fireworks in a game, the jump ramp shots are worth 10x their normal value!)

@@ -33,17 +33,17 @@ opdb_id: "G4PBO"
 
 ## Game Information: {#heading--gameinfo}
 
-- Lead Designer: 
+- Lead Designer:
 - Code/Rules:
-- Lead Mechanical Engineer: 
-- Artwork: 
+- Lead Mechanical Engineer:
+- Artwork:
 - Computer Graphics Art Director:
-- Lead Sound Designer: 
-- Release Date: 
-- Wiki Rulesheet based on Code Rev: 
+- Lead Sound Designer:
+- Release Date:
+- Wiki Rulesheet based on Code Rev:
   - Edit the Code revision, if applicable, when you make changes
 
-Originally planned to release under startup company Heighway Pinball before their abrupt shutdown, ***Alien*** returned to production in 2022 as Pinball Brothers' first release. As Ellen Ripley, the player must fend off alien creatures in their quest to survive in the darkness of space. 
+Originally planned to release under startup company Heighway Pinball before their abrupt shutdown, ***Alien*** returned to production in 2022 as Pinball Brothers' first release. As Ellen Ripley, the player must fend off alien creatures in their quest to survive in the darkness of space.
 
 ## Rules Overview: {#heading--overview}
 
@@ -70,7 +70,7 @@ If three different skill shots are made in a single game, a Super Skill Bonus of
 
 ## Missions: {#heading--missions}
 
-At the start of the game, the player can choose between which of the two films they want to play. Each film has a set of four missions and one wizard mode. The Air Lock is lit by default for the first mission of the game. For further missions, the Air Lock has to be lit by rolling through the left and right return lanes ("WEYLAND" and "YUTANI"). 
+At the start of the game, the player can choose between which of the two films they want to play. Each film has a set of four missions and one wizard mode. The Air Lock is lit by default for the first mission of the game. For further missions, the Air Lock has to be lit by rolling through the left and right return lanes ("WEYLAND" and "YUTANI").
 
 Points from successfully completed missions (ie. without time running out or the ball draining) are added into **[end-of-ball bonus](#heading--bonus)**, and **[special](#heading--extraballs)** lights at the right outlane after 4 completed missions. They also boost the values of the final **[wizard modes](#heading--wizard)** for each movie set, and award the next **[Weapon](#heading--weapons)**.
 
@@ -114,7 +114,7 @@ During Sentry Guns Multiball, shoot the spinners to light the Xenomorph targets 
 
 Shoot the targets under the Xenomorph enough times to begin Ambush Multiball. The first Ambush Multiball of the game requires five shots to the targets to qualify - this number increases on subsequent hits. Using the **[shotgun](#heading--weapons)** also registers two Xenomorph hits. Before starting Ambush Multiball, the base jackpot value can optionally be increased by completing **[Xenomorph lifecycles](#heading--savenewt)**.
 
-On the final shot, the game will darken and attempt to hold the ball on the magnet below the targets so that the Xenomorph can capture the ball and Ambush Multiball will begin. Aliens are attacking from four different quadrants on the display - make shots on the playfield to score jackpots, increase their value, and drive them off. If an alien reaches the center on the display, the jackpot value will reset to minimum and the center Xenomorph target must be made to relight the jackpots. After all attacking aliens have been defeated, Vent 3 will light for a super jackpot based on the total jackpot values collected before the super was made, decreasing over time. 
+On the final shot, the game will darken and attempt to hold the ball on the magnet below the targets so that the Xenomorph can capture the ball and Ambush Multiball will begin. Aliens are attacking from four different quadrants on the display - make shots on the playfield to score jackpots, increase their value, and drive them off. If an alien reaches the center on the display, the jackpot value will reset to minimum and the center Xenomorph target must be made to relight the jackpots. After all attacking aliens have been defeated, Vent 3 will light for a super jackpot based on the total jackpot values collected before the super was made, decreasing over time.
 
 ### Save Newt Multiball: {#heading--savenewt}
 
@@ -143,7 +143,7 @@ Weapons are scored in various ways throughout the game:
 
 To select a weapon, use the flipper buttons to select the weapon you want (extra ball button on the original Heighway model). Then, to use the weapon, press the launch button. Using the launch button will remove the weapon from your inventory, forcing you to collect it again.
 
-The weapon awarded from any of these methods will always be the next one in sequence. At the start of the game, for instance, the first weapon will always be the handgun; then, if the player hasn't used the handgun already, the shotgun; etc. 
+The weapon awarded from any of these methods will always be the next one in sequence. At the start of the game, for instance, the first weapon will always be the handgun; then, if the player hasn't used the handgun already, the shotgun; etc.
 
 Collecting all five weapons lights the **[extra ball](#heading--extraballs)** at the hypersleep ramp or activates a short ball saver if the extra ball has already been collected.
 
@@ -151,7 +151,7 @@ The weapon sequence is:
 
 - *Weapon 1 - Handgun* - Increases the **[bonus multiplier](#heading--bonus)** by +2x.
 - *Weapon 2 - Shotgun* - Spots 2 **[Xenomorph hits](#heading--ambush)**. If the Xenomorph targets are lit for an award in another mode, the shotgun will collect the award as well.
-- *Weapon 3 - Smart Gun* - Smart Collect. Instantly collects everything currently lit on the playfield (ie. lit **[mission](#heading--missions)** shots, lit **[hypersleep locks](#heading--hypersleep)** or **[extra balls](#heading--extraballs)**, etc.). 
+- *Weapon 3 - Smart Gun* - Smart Collect. Instantly collects everything currently lit on the playfield (ie. lit **[mission](#heading--missions)** shots, lit **[hypersleep locks](#heading--hypersleep)** or **[extra balls](#heading--extraballs)**, etc.).
 - *Weapon 4 - Pulse Rifle* - Instantly starts **[2x Scoring](#heading--dropship)**.
 - *Weapon 5 - Flamethrower* - Activates the ball saver for 2 seconds. Perfect to use right before the ball drains.
 
@@ -176,7 +176,7 @@ Mystery, as usual, is pseudo-random and will typically help you out based on wha
 
 Spell DROP and SHIP at the left ramp and right ramp, respectively, to start 2x scoring for 20 seconds. Subsequent DROP and SHIP completions during the game increase the timer by 20 seconds per activation, to a maximum of 60 seconds.
 
-The "2x" insert on the center of the playfield flashes whenever 2x scoring is active, accompanied by a series of beeps that gradually intensifies as the boosted scoring is about to expire. 
+The "2x" insert on the center of the playfield flashes whenever 2x scoring is active, accompanied by a series of beeps that gradually intensifies as the boosted scoring is about to expire.
 
 2x scoring can also be activated by using the **[pulse rifle](#heading--weapons)** (always for 20 seconds) and from a random **[mystery award](#heading--mystery)**.
 
@@ -186,7 +186,7 @@ The target under the hypersleep ramp marked "Recharge" lights during any **[miss
 
 ### Combos: {#heading--combos}
 
-Combos can be a lucrative source of points thanks to the long timers for each shot and just how many shots there are on the playfield. Shoot any shot on the playfield to light another shot for an X-way combo and some points that increase depending on the length of the combo. The last 2 shots made in a combo won't be lit to continue it, so a variety of shots have to be made to keep going. 
+Combos can be a lucrative source of points thanks to the long timers for each shot and just how many shots there are on the playfield. Shoot any shot on the playfield to light another shot for an X-way combo and some points that increase depending on the length of the combo. The last 2 shots made in a combo won't be lit to continue it, so a variety of shots have to be made to keep going.
 
 In addition, there are two special combos that function slightly differently:
 

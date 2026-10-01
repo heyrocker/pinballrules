@@ -44,7 +44,7 @@ A tour of the playfield, starting from the left flipper and working our way arou
 
 * RPM standups: Three standups that spell "RPM" and are stacked, meaning that that the "P" is positioned slightly farther back than the "R", and the "M" is farther back than the "P". Hitting and completing the RPM standups increase the Tachometer value.
 
-* Loop magnet: Found above the pop bumper area. Holds balls for different features, including Loop Crash Multiball.  Balls drop into the pop bumper area through the one-way gate below the magnet after release.  
+* Loop magnet: Found above the pop bumper area. Holds balls for different features, including Loop Crash Multiball.  Balls drop into the pop bumper area through the one-way gate below the magnet after release.
 
 * Pop bumpers: Three bumpers in a triangular array layout.  Players can shoot the opening just to the right of the RPM stand-up targets.  Weaker shooting lane, inner loop, or orbit shots also feed the pops, along with outer loop magnet releases.  Balls sometimes eject out the right inner loop, although typically they exit the pop area through the opening at the bottom.  Players must pay attention as some lower pop area exits may drain SDTM without nudging.
 
@@ -129,7 +129,7 @@ Players collect cars by hitting any of the 4 car stand-up targets on the playfie
 Collecting cars enables Car Chaos multiball, earns an extra ball, and qualifies Collector Case Awards.  There is also an end-of-ball bonus based on the number of collected cars during that ball.
 
 ***Collector Case Awards***
-Collector Case Awards are the mystery awards for the game.  Players qualify the Case Award by collecting enough cars to fill a case; hitting any of the 4 car stand-up targets collects one car.  The display's car icon indicates the number of car collects remaining to qualify the Case Award.  
+Collector Case Awards are the mystery awards for the game.  Players qualify the Case Award by collecting enough cars to fill a case; hitting any of the 4 car stand-up targets collects one car.  The display's car icon indicates the number of car collects remaining to qualify the Case Award.
 
 The Collector Case Award options include:
 * Start battle mode
@@ -180,7 +180,7 @@ If the boost is activated outside of a mode, or no major booted shots/uses are a
 The end-of-ball bonus X target next to the pop bumper exit activates after hitting all four car targets.  The target awards +1 bonus X when lit.
 
 **Multiball Modes**
-There are a total of 4 main multiball modes: Victory Lap, Loop Crash, Track Builder Unlimited, and Car Chaos.  All four multiball modes stack with active BATTLE and Epic modes, although players can only collect Epic letters and not new BATTLE mode letters.  Players can also stack the Loop Crash and Victory Lap multiballs by qualifying both modes before hitting the left orbit.  Draining down to a single ball with no active ball save or down the left outline without the Pit Stop save ends the active multiball modes. 
+There are a total of 4 main multiball modes: Victory Lap, Loop Crash, Track Builder Unlimited, and Car Chaos.  All four multiball modes stack with active BATTLE and Epic modes, although players can only collect Epic letters and not new BATTLE mode letters.  Players can also stack the Loop Crash and Victory Lap multiballs by qualifying both modes before hitting the left orbit.  Draining down to a single ball with no active ball save or down the left outline without the Pit Stop save ends the active multiball modes.
 
 ***Race/Victory Lap Multiball***
 At the beginning of the game, the "12th place" insert flashes on the left orbit.  After hitting the left orbit, the ball stops on the loop magnet, a race start animation plays, and the ball drops into the pop bumper area.  It is possible to skip the animation by pressing both flipper buttons.  Skillful timing can skip the race start intro entirely and allow the ball to continue past the top magnet.
@@ -304,7 +304,7 @@ Once the Epic mode starts, the player needs to hit the following number of shots
 
 The display icon indicates the number of remaining shots of each feature required to light the "EPIC collect" target.  Epic feature shot inserts stop flashing to indicate completion.
 
-If the player qualifies more than one feature before starting the Epic mode, all active feature shot counts must be met to light the "EPIC Collect" stand-up.  Continuing to hit lit feature shots beyond the required amount before the "EPIC Collect" target increases the mode completion bonus point total.  Hitting the activated "EPIC Collect" target ends the mode, awarding the bonus and the active feature completion.  
+If the player qualifies more than one feature before starting the Epic mode, all active feature shot counts must be met to light the "EPIC Collect" stand-up.  Continuing to hit lit feature shots beyond the required amount before the "EPIC Collect" target increases the mode completion bonus point total.  Hitting the activated "EPIC Collect" target ends the mode, awarding the bonus and the active feature completion.
 
 Draining ends the Epic feature mode unsuccessfully which clears all active Epic features and forfeits any accrued mode bonus.  Losing a sufficiently large bonus will cause an "EPIC fail" taunt screen showing the lost full potential bonus amount that reduces to a smaller consolation value.
 
@@ -315,7 +315,7 @@ Successfully completing the Ultimate Epic feature grants the "Bone Shaker" hero 
 **Legend Multiball**
 Final wizard mode, qualified after collecting all five hero cars and started by hitting either saucer.
 
-This is a two minute timed multiball mode with a ball save active for the duration of the mode.  Additional balls are added automatically on a timed release until all six are in play.  
+This is a two minute timed multiball mode with a ball save active for the duration of the mode.  Additional balls are added automatically on a timed release until all six are in play.
 
 At the start of the mode, all shots inserts are lit in white.  Hitting a shot awards a jackpot and clears one of the lights for the shot.  Clearing the last light for a shot awards a super jackpot.  Collecting all super jackpots awards a legend jackpot.
 

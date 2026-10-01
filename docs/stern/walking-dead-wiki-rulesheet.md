@@ -41,9 +41,9 @@ opdb_id: "G5nz5"
 
 * Lead Designer: John Borg
 * Lead Game Developer: Lyman Sheets Jr.
-* Lead Mechanical Engineer: 
-* Lead Sound Designer: 
-* Lead Artist: 
+* Lead Mechanical Engineer:
+* Lead Sound Designer:
+* Lead Artist:
 * Release Date: September 2014
 * Wiki Rulesheet based on Code Rev: 1.60
 * Original Wiki Rulesheet hosted on [Tilt Forums](/stern/walking-dead-wiki-rulesheet)
@@ -77,7 +77,7 @@ Prison Multiball is a 3 ball multiball. By default there is a medium length ball
 During Prison Multiball, hitting the closed doors or a major shot opens the doors to expose the zombie head. Hitting the zombie head closes the doors and relights shots. Rinse and repeat for various jackpots (usually somewhere around 1 million). During the multiball, the value of the prison yard walkers increases each time a prison yard walker is killed while the multiball is running. Each time a jackpot is scored one of the PRISON inserts will light solid, and advance 1 closer to Siege. Once six jackpots are collected the Riot shot will become lit for super jackpot which will begin phase two of Prison multiball.
 
 During phase two the left and right ramps are lit for 500k and either ramp will award 500k and add 50k to the next left or right ramp shot. The value of each ramp shot is also added to a jackpot that is collected by shooting the Prison. This jackpot also counts as a walker kill and advances 1 closer to Siege. Six of these collects in phase 2 will bring the total to 12 during Prison Multiball and light Siege. Progress in phase 1 and phase 2 carries over from one Prison Multiball to the next.
- 
+
 ## Well Walker {#heading--wellwalkermb}
 
 **Starting MB:**
@@ -88,11 +88,11 @@ More specifically, spell W-E-L-L, then hit Well Walker when the WELL inserts are
 **During MB:**
 During phase one of Well Walker multiball, each letter is relit by hitting a certain number of switches.  W: 25, E: 30, L: 35, L: 40 (although the previous jackpot also counts so it's really 29, 34, 39).  The well walker jackpot continues to build for every switch hit.  Hitting the walker scores and adds to the bonus the total value collected in the starting phase based on the values of the WELL when hit, e.g. 50k no letters lit, 55k one letter lit up to 75k if all letters were lit.  Normally somewhere around 300-350k.  Once a letter is completed with the switch hits, the well walker jackpot is lit and hitting the walker collects the current jackpot value and then resets it to zero.  Completing all WELL lights and jackpots then lights the Super Jackpot that re-collects all of the jackpots by hitting the walker again.  Good time to use a big multiplier.  Note:  the premium/LE use of the spinner is valuable in this phase compared to the pro.  Multi-kill is started once the jackpot is collected for the first L (thus the third jackpot, W-E-L).
 
-Once the super jackpot is collected, phase two begins and continues until multiball ends.  During phase two the left and right ramp are lit for 500k and either ramp will award 500k and add 50k to the next left or right ramp shot. The value of each ramp shot is also added to a jackpot that is collected by shooting the Well Walker.  Once a jackpot is collected, the jackpot resets to zero until more ramps are hit.  The jackpot and ramps can continue to be hit and will raise by 50K each hit until multi-ball ends.  Raising jackpots and then collecting via walker with a multiplier can lead to huge jackpots.  
+Once the super jackpot is collected, phase two begins and continues until multiball ends.  During phase two the left and right ramp are lit for 500k and either ramp will award 500k and add 50k to the next left or right ramp shot. The value of each ramp shot is also added to a jackpot that is collected by shooting the Well Walker.  Once a jackpot is collected, the jackpot resets to zero until more ramps are hit.  The jackpot and ramps can continue to be hit and will raise by 50K each hit until multi-ball ends.  Raising jackpots and then collecting via walker with a multiplier can lead to huge jackpots.
 
 ## Blood Bath Multiball {#heading--bbmb}
 
-Blood Bath multiball is qualified by collecting a full set of supply inserts shown in front of the drop target bank. In single ball play the supply inserts will light in sequence from First aid to Weapons and finally to Food. Whenever any of the drop targets are hit the currently lit supply will be locked in. Once all drops have been completed the lit supply will remain solid to indicate that supply has been collected. Once all supplies have been collected the Blood Bath insert will strobe. Clearing the bank once more will begin blood bath multiball. Blood Bath multiball can be started during prison or well walker multiball. 
+Blood Bath multiball is qualified by collecting a full set of supply inserts shown in front of the drop target bank. In single ball play the supply inserts will light in sequence from First aid to Weapons and finally to Food. Whenever any of the drop targets are hit the currently lit supply will be locked in. Once all drops have been completed the lit supply will remain solid to indicate that supply has been collected. Once all supplies have been collected the Blood Bath insert will strobe. Clearing the bank once more will begin blood bath multiball. Blood Bath multiball can be started during prison or well walker multiball.
 
 Blood Bath Multiball is a two ball multiball with a long ball save where each switch is worth 15K points initially. Any time the drop target bank is cleared the value of each switch is increased by 2.5K points. Each switch hits' score is added to the blood bath jackpot value, which is collected whenever the drop target bank is cleared. Super jackpots are awarded when all of the supplies are collected during blood bath. Blood bath is the only main multiball that has an add-a-ball. There are two add-a-balls available by clearing the drop target bank. However, an unlimited number of add-a-balls is awarded by achieving a super jackpot during Blood Bath Multiball.
 
@@ -101,7 +101,7 @@ Blood Bath Multiball is a two ball multiball with a long ball save where each sw
 Gathering a full set of supplies progresses towards Blood Bath Multiball. Each individual supply also awards the following:
 
 ***FIRST AID***
-- Completing the drop targets when "FIRST AID" is lit will permanently increase the value of the prison yard walkers for the remainder of the game. 
+- Completing the drop targets when "FIRST AID" is lit will permanently increase the value of the prison yard walkers for the remainder of the game.
 
 - Prem/LE only: Awards a "Prison Bomb" if Prison doors are open. Bombs can be used to advance 1 hit towards Prison Multiball or collect a jackpot in Prison Multiball.
 
@@ -141,7 +141,7 @@ Play all 5 Dead Features to qualify Escape Terminus (see Mini-Wizard modes). Onc
 ## 2X Playfield {#heading--2xpf}
 
 Shooting the stab targets (targets to either side of the Prison barn) lights 2X playfield. Shooting the Tower standup above the top rollovers starts 2x playfield scoring for 20 seconds. Completing the stab targets repeated times before starting 2X increases its time.
- 
+
 
 ## Bicycle Girl Hurry-Up {#heading--bicyclegirl}
 
@@ -174,7 +174,7 @@ Shooting the right ramp three times awards 100,000 from Fish Tank and lights Woo
 
 ## Crossbow {#heading--crossbow}
 
-Crossbow is lit at the right ramp after the weapons supply insert is collected. The five mode shots are lit for 1M+. Certain switches will disqualify crossbow if a shot is missed. If you are shooting the Tunnel crossbow shot and accidentally hit the well walker the crossbow mode ends. If you are shooting the Riot crossbow shot and hit a stab stand up, the mode ends. During a multiball, no other target hits will disable the Crossbow. Multiple crossbow "attempts" can be stacked at once. If you have collected the weapons supply insert multiple times and shoot the right ramp to light crossbow then shoot the right ramp to collect crossbow the next crossbow mode will start immediately after the right ramp is collected. 
+Crossbow is lit at the right ramp after the weapons supply insert is collected. The five mode shots are lit for 1M+. Certain switches will disqualify crossbow if a shot is missed. If you are shooting the Tunnel crossbow shot and accidentally hit the well walker the crossbow mode ends. If you are shooting the Riot crossbow shot and hit a stab stand up, the mode ends. During a multiball, no other target hits will disable the Crossbow. Multiple crossbow "attempts" can be stacked at once. If you have collected the weapons supply insert multiple times and shoot the right ramp to light crossbow then shoot the right ramp to collect crossbow the next crossbow mode will start immediately after the right ramp is collected.
 
 On the Premium and LE, the ball will cradle in a shooting arm (similar to Austin Powers), and the button can be used to fire the ball at one of the shots.
 
@@ -220,7 +220,7 @@ There are 14 game objectives that qualify Multi-Kills as of v. 1.60:
 
 ## Horde {#heading--horde}
 
-After all of the Multi-Kill inserts have been lit the Horde insert will strobe as well as the dome flasher above the Woodbury/Extra Ball shot. Shooting Woodbury will begin Horde. Horde begins as a two ball multiball and all mode shots are lit for jackpots. These shots represent walkers that are advancing towards the player. Initially the red arrows are lit and as a walker advances towards the player the remaining inserts will light to indicate how close a walker is. The inserts light from the red arrow to the cross hair insert. The DMD also reflects how close a walker is as they advance. 
+After all of the Multi-Kill inserts have been lit the Horde insert will strobe as well as the dome flasher above the Woodbury/Extra Ball shot. Shooting Woodbury will begin Horde. Horde begins as a two ball multiball and all mode shots are lit for jackpots. These shots represent walkers that are advancing towards the player. Initially the red arrows are lit and as a walker advances towards the player the remaining inserts will light to indicate how close a walker is. The inserts light from the red arrow to the cross hair insert. The DMD also reflects how close a walker is as they advance.
 
 The first "wave" of Horde requires 3 kills. Once all the required kills have been made, a DMD animation showing a bomb dropping occurs, which clears all walkers, awards a Super Jackpot, and an add-a-ball. Subsequent waves require one added kill before awarding another Super Jackpot and add-a-ball. Each subsequent Super Jackpot is roughly 2M more than the previous, to no known limit.
 

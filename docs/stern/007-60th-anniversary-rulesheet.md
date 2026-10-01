@@ -31,11 +31,11 @@ opdb_id: "Ge1Dy"
 - Lead Designer: Keith Elwin
 - Code/Rules: Mark Penacho
 - Lead Mechanical Engineer:
-- Artwork: 
+- Artwork:
 - Display and Animations:
 - Music and Sound:
 - Release Date: January 2023
-- Wiki Rulesheet based on Code Rev: 
+- Wiki Rulesheet based on Code Rev:
   - *Edit the Code revision, if applicable, when you make changes*
 
 Desiring a higher-priced 007 machine for the collector's market, MGM commissioned Stern to release a game commemorating the franchise's 60th anniversary featuring elements from every released movie in the series so far. Though the game was designed by Keith Elwin, he largely wasn't involved with the rules - which were instead done by Mark Penacho, a former Williams code designer known for his work on games like *Hurricane* and *Fish Tales*.
@@ -47,14 +47,14 @@ Desiring a higher-priced 007 machine for the collector's market, MGM commissione
 ## Skill Shots: {#heading--skillshots}
 
 Two different skill shots are available at the start of each ball:
-- Plunge for the flashing "007" top lane. The flashing lane does not change with the flippers. Completing this skill shot scores the lit award on the back panel. 
+- Plunge for the flashing "007" top lane. The flashing lane does not change with the flippers. Completing this skill shot scores the lit award on the back panel.
 - Hold in the left flipper and make a shot to the hole behind the linear drop targets. Making this skill shot immediately completes the drop targets and lights the lock for **[Mission Multiball](#heading--missionmb)**.
 - Short plunge and shoot the Q target
 - Hold the left flipper and full plunge and shoot the M target
 
 ## Main Objectives: {#heading--main}
 
-The main objectives of *007 60th Anniversary* are all connected to the spinning disc with Oddjob's hat on it. The disc is used to select **[villain modes](#heading--villain)** and advance towards collecting **[gadgets](#heading--gadgets)**. 
+The main objectives of *007 60th Anniversary* are all connected to the spinning disc with Oddjob's hat on it. The disc is used to select **[villain modes](#heading--villain)** and advance towards collecting **[gadgets](#heading--gadgets)**.
 
 ### Villain Modes: {#heading--villain}
 
@@ -113,7 +113,7 @@ During Gadget Multiball, keep shooting the disc to advance the gadget meter and 
 
 ### Bond Multiball: {#heading--bondmb}
 
-Once **[all six Bonds](#heading--bond)** have been collected, Bond Multiball will begin. Shoot the bumpers, loops, drop targets, and disc to advance the movie meter on the LCD display. Completing the meter awards the corresponding Bond movie and a jackpot. 
+Once **[all six Bonds](#heading--bond)** have been collected, Bond Multiball will begin. Shoot the bumpers, loops, drop targets, and disc to advance the movie meter on the LCD display. Completing the meter awards the corresponding Bond movie and a jackpot.
 
 ## Other Scoring: {#heading--other}
 

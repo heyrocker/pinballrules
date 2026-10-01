@@ -6,17 +6,17 @@ repos:
     rev: v1.50.3
     hooks:
       - id: typos
-  # - repo: https://github.com/pre-commit/pre-commit-hooks
-  #   rev: v6.0.0
-  #   hooks:
-  #     - id: check-toml
-  #     - id: end-of-file-fixer
-  #     - id: mixed-line-ending
-  #       args: [--fix=lf]
-  #     - id: no-commit-to-branch
-  #       args:
-  #         - --branch=main
-  #     - id: trailing-whitespace
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: check-toml
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+        args: [--fix=lf]
+      - id: no-commit-to-branch
+        args:
+          - --branch=main
+      - id: trailing-whitespace
 
 # Configuration per https://pre-commit.ci/#configuration
 ci:

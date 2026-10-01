@@ -49,7 +49,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
 - Code/Rules: Lyman F. Sheats Jr. (RIP), Lonnie D. Ropp, Mike Kyzivat (*original code*); Raymond Davidson (*expanded code*)
 - Artwork:
 - Displays:
-- Sound: Jerry Thompson 
+- Sound: Jerry Thompson
 - Release Date: November 2024
 - Wiki Rulesheet based on Code Rev: 1.01
   - *Edit the Code revision, if applicable, when you make changes*
@@ -58,7 +58,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
 
 ## Rules Overview {#heading--overview}
 
-- Shoot the main features (Grave Markers, Electric Chair, Coffin Captive Ball, and Snake) enough times to begin [**multiball**](#heading--multiballs) modes and make progress towards [**Crank It Up**](#heading--ciu) modes. 
+- Shoot the main features (Grave Markers, Electric Chair, Coffin Captive Ball, and Snake) enough times to begin [**multiball**](#heading--multiballs) modes and make progress towards [**Crank It Up**](#heading--ciu) modes.
    - During **Crank It Up**, shoot the flashing shots to build the jackpot value. Making all four main features again during Crank It Up lights the scoop to either cash out the jackpot or continue the mode.
    - Play all 4 **Crank It Up** modes to qualify **End of the Line**.
    - Multiballs have an add-a-ball by completing pick targets and then locking a ball at the Snake.
@@ -72,7 +72,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
 - Shoot the captive ball to light **[Extra Ball](#heading--ebs)** at the scoop.
 
 ## Song Choice: {#heading--tracklist}
-At the start of the ball the player is able to choose one of the 22 songs in the game as background music. This choice has no effect on gameplay. 
+At the start of the ball the player is able to choose one of the 22 songs in the game as background music. This choice has no effect on gameplay.
 
 Starting any feature, mode or multiball, will change background music to the associated song. Each song that corresponds to a mode has an associated **[setlist combo](#heading--luxaeterna)** described in the appropriate section.
 
@@ -130,7 +130,7 @@ Starting or scoring super jackpots during Electric Chair, Grave Marker, Snake an
 Song: *Creeping Death* (odd-numbered multiballs), *Ride the Lightning* (even-numbered multiballs)
 
 **Starting Multiball**
-Shoot Sparky 10 times to light **[electric chair inserts](#heading--items)** at the major shots and start Electric Chair Multiball. Shots to either side of Sparky score 1 hit, while shots to the target in between them score 2 hits instead. When one shot is remaining, Sparky will taunt you and all three inserts will strobe. Shoot Sparky once more to start multiball. 
+Shoot Sparky 10 times to light **[electric chair inserts](#heading--items)** at the major shots and start Electric Chair Multiball. Shots to either side of Sparky score 1 hit, while shots to the target in between them score 2 hits instead. When one shot is remaining, Sparky will taunt you and all three inserts will strobe. Shoot Sparky once more to start multiball.
 
 Subsequent Electric Chair Multiball attempts require three more Sparky hits than the last.
 
@@ -146,7 +146,7 @@ Level up **James** by starting this multiball, or scoring super jackpots during 
 Song: *Master of Puppets*
 
 **Starting Multiball**
-Each shot to the inline drop targets increases your **[bonus multiplier](#heading--bonus)**, advances towards lighting **[resurrection](#heading--resurrection)** ball save, and lights a **[grave marker insert](#heading--items)** at a random shot. Once all 3 drop targets have been knocked down, shoot the grave marker target behind them to start multiball. 
+Each shot to the inline drop targets increases your **[bonus multiplier](#heading--bonus)**, advances towards lighting **[resurrection](#heading--resurrection)** ball save, and lights a **[grave marker insert](#heading--items)** at a random shot. Once all 3 drop targets have been knocked down, shoot the grave marker target behind them to start multiball.
 
 If any of the drop targets were hit during a different multiball, when you are back to single ball play, the drop targets will reset when it is safe to do so if the number of drop targets physically down exceeds the number of drop targets you’ve hit during single ball play.
 
@@ -155,7 +155,7 @@ Subsequent Grave Marker Multiball attempts require one more grave marker target 
 **During Multiball**
 All four ramps and orbits major shots are lit for jackpots that start at 200k + (2.5k x total **items**). Shooting the grave marker target itself scores a larger jackpot worth 250k at base value, and relights all shots for jackpots.
 
-Once you have scored four jackpots at any shot, the grave marker target will strobe for double jackpot. Scoring the double jackpot will cause the magnet to hold the ball for 20 seconds. The ball can then be knocked off the magnet to score the super jackpot (1.25M + 2.5k x total items). While the ball is being held, hitting three *unique* jackpot shots will increase the super jackpot multiplier by +1x to a maximum of 5x. The super jackpot multiplier is maintained for the rest of the game, but will only increase when the super jackpot isn't scored. 
+Once you have scored four jackpots at any shot, the grave marker target will strobe for double jackpot. Scoring the double jackpot will cause the magnet to hold the ball for 20 seconds. The ball can then be knocked off the magnet to score the super jackpot (1.25M + 2.5k x total items). While the ball is being held, hitting three *unique* jackpot shots will increase the super jackpot multiplier by +1x to a maximum of 5x. The super jackpot multiplier is maintained for the rest of the game, but will only increase when the super jackpot isn't scored.
 
 After the super jackpot has been collected, the number of jackpots required to qualify subsequent double jackpots increases by 1 for the rest of the current multiball.
 
@@ -189,7 +189,7 @@ The number of coffin hits for each captive ball shot can be increased in differe
 As soon as the third ball is locked, Coffin Multiball begins.
 
 **During Multiball**
-Coffin multiball is unique among the multiball modes in ***Metallica*** because it allows players to bring in one additional **[multiball mode](#heading--multiballs)** while it is running. 
+Coffin multiball is unique among the multiball modes in ***Metallica*** because it allows players to bring in one additional **[multiball mode](#heading--multiballs)** while it is running.
 
 Jackpots are available during this multiball by alternating between the captive ball and the flashing shots for 400k + (4k x total **items**). Once all of the flashing shots have been made one time each, the next flashing captive ball shot will score a super jackpot worth 3M + (10k x total **items**) in place of the normal jackpot value.
 
@@ -205,7 +205,7 @@ Frantic Multiball is lit at the piston target after collecting 10 pairs of **[se
 This multiball is mutually exclusive and cannot be started during any other multiball.
 
 **During Multiball**
-Frantic is a 4-ball multiball where all five major shots are constantly changing color between five different colors as they are hit (white - yellow - blue - green - pink - back to yellow). If two or more shots are lit in the same color, they will score jackpots worth 10x the current shot value and increase the base shot value with each jackpot made. 
+Frantic is a 4-ball multiball where all five major shots are constantly changing color between five different colors as they are hit (white - yellow - blue - green - pink - back to yellow). If two or more shots are lit in the same color, they will score jackpots worth 10x the current shot value and increase the base shot value with each jackpot made.
 
 If at least three shots are the same color, then the piston target will light to score a super jackpot worth the total of all jackpots prior (excluding the **[2x playfield multiplier](#heading--fuel2x)**) and adding a ball into play, to a maximum of 3 times. The super jackpot is multiplied by the number of shots with a matching color minus 2.
 
@@ -216,7 +216,7 @@ Song: *...And Justice for All*
 **Starting Multiball**
 This multiball can only be started if the topper is installed. During the **[Lady Justice](#heading--justice)** side mode, hitting the flashing shots will spell out METALLICA using the topper lights if the player isn't currently in a **[Crank it Up](#heading--ciu)** mode or other **[multiball](#heading--multiballs)** mode that isn't coffin multiball. Spell METALLICA by hitting enough shots to start the multiball.
 
-For the first Lady Justice mode, fast flashing shots will add 2 letters and other lit shots will add 1 letter. The difficulty of spelling METALLICA on the topper increases each time the multiball is started. 
+For the first Lady Justice mode, fast flashing shots will add 2 letters and other lit shots will add 1 letter. The difficulty of spelling METALLICA on the topper increases each time the multiball is started.
 
 **During Multiball**
 And Justice for All multiball's rules are comparable to that of the side mode that was used to start it. The left and right shots alternate for jackpots and double jackpots respectively, with each single jackpot adding 1 letter to METALLICA and each double jackpot adding 2. Once three jackpots have been scored, the next shot to either ramp will score a super jackpot and add a ball to the multiball (one time per multiball only). The next super jackpot will then require 1 more additional shot to light, to a max of 6 shots.
@@ -235,11 +235,11 @@ To light the scoop for **[Crank It Up](#heading--info)**, 12 (+1 per subsequent 
 - **[Snakes](#heading--smb)**
 - **[Coffins](#heading--cmb)**
 
-There are three ways to collect the former three items - either by making direct shots to their corresponding feature on the playfield, *or* by shooting the corresponding insert at any of the five major shots, *or* by using a **[self-destruct button](#heading--button)** which collects one item per lit insert and 1 coffin for each full column of 3 inserts. The inserts light by shooting their respective features, and the blue spider arrow determines which shot the insert will be placed on. If all three inserts are on a single shot, the next shot made there will start a **[Coffin Hurry-Up](#heading--seek)**. 
+There are three ways to collect the former three items - either by making direct shots to their corresponding feature on the playfield, *or* by shooting the corresponding insert at any of the five major shots, *or* by using a **[self-destruct button](#heading--button)** which collects one item per lit insert and 1 coffin for each full column of 3 inserts. The inserts light by shooting their respective features, and the blue spider arrow determines which shot the insert will be placed on. If all three inserts are on a single shot, the next shot made there will start a **[Coffin Hurry-Up](#heading--seek)**.
 
 Coffins can only be collected by making direct shots to the captive ball, or by using the **self-destruct button** with a full column of items lit. The left inlanes light the captive ball for 2 hits for a limited time. You can also score more captive ball hits per shot by shooting **[combos](#heading--combos)**; finishing a combo off at the captive ball (ie. hitting it within 2 seconds of the last combo shot) will add one captive ball hit for each shot made in the combo.
 
-Crank It Up lights at the scoop as soon as the required items have been collected and the player has returned to single-ball play, indicated by a unique sound / display and the 4 item inserts above the flippers pulsing. 
+Crank It Up lights at the scoop as soon as the required items have been collected and the player has returned to single-ball play, indicated by a unique sound / display and the 4 item inserts above the flippers pulsing.
 
 Shoot the scoop, and then choose from any of the four Crank It Up modes (that haven't been played yet) using the flipper buttons - or a relatively low amount of points (5M + 1M per subsequent mode) instead of starting it.
 
@@ -247,7 +247,7 @@ Shoot the scoop, and then choose from any of the four Crank It Up modes (that ha
 
 The goal of each Crank It Up mode is to score as many points as possible by shooting flashing shots, then cashing them out at the scoop. These are *long* modes (averaging around 6 minutes each!), so take your time - but remember that ball save is only active for the first few seconds of the mode. A "completion bonus" is scored after making enough shots during the mode, collected right away and added to the jackpot. Scoring the completion bonus adds one letter to UNFORGIVEN to qualify the **[super wizard mode](#heading--unforgiven)**, and enables victory laps for the rest of the mode.
 
-During any Crank It Up mode, making a direct shot to each of the four main features described above will light the scoop to either collect the current jackpot value (L flipper), or continue the mode (R flipper). 
+During any Crank It Up mode, making a direct shot to each of the four main features described above will light the scoop to either collect the current jackpot value (L flipper), or continue the mode (R flipper).
 
 Scoring **[Mystery](#heading--mystery)** during any Crank It Up mode always awards "Crank It Up Bonus", regardless of level. This collects the next lit shot you need for the mode and any increments that might have been awarded otherwise.
 
@@ -258,9 +258,9 @@ All **[side modes](#heading--modes)** can be brought into Crank It Up, or in the
 The Crank It Up modes, from left to right, are as follows:
 
 - **For Whom the Bell Tolls**: The five major shots' item inserts are lit for jackpots. Make three shots to all five to score increasing jackpot values and light their inserts. Completing "columns" or "rows" of inserts scores even higher jackpot values. Lighting all 15 inserts scores the **Completion Bonus.** (**Crank It Up bonus** will make the next shot collect all inserts at its lane.)
-- **Fade to Black**: Switch hits add to the jackpot value, which is collected at a random flashing shot or by collecting 20 switch hits. Solidly lit shots score a portion of the jackpot value. Fill the vertical progress bar on the screen through any combination of jackpots and switch hits to score the **Completion Bonus.** (**Crank It Up bonus** will reduce the switch hits required for the next jackpots by 2 to a maximum of 5.) 
+- **Fade to Black**: Switch hits add to the jackpot value, which is collected at a random flashing shot or by collecting 20 switch hits. Solidly lit shots score a portion of the jackpot value. Fill the vertical progress bar on the screen through any combination of jackpots and switch hits to score the **Completion Bonus.** (**Crank It Up bonus** will reduce the switch hits required for the next jackpots by 2 to a maximum of 5.)
 - **Battery**: Shoot Sparky over and over to score increasing amounts of points and light the electric chair inserts at other shots for jackpots. Hitting the ramps & orbits increases the value of the next Sparky hit, with one random flashing shot that resets when Sparky is hit increasing the value by 2x.  Make 12 shots to Sparky to score the **Completion Bonus**. (**Crank It Up bonus** will light all five shots for 2x advances.)
-- **Enter Sandman**: Three randomly selected inserts on each of the five major shots will be flashing, which alternate shots with *every* switch hit. Making any shot with a solidly lit insert scores a jackpot, which can be doubled or tripled if more than one lit insert is on that shot. Light all 15 of the inserts solid to score the **Completion Bonus.** (**Crank It Up bonus** will add one insert). 
+- **Enter Sandman**: Three randomly selected inserts on each of the five major shots will be flashing, which alternate shots with *every* switch hit. Making any shot with a solidly lit insert scores a jackpot, which can be doubled or tripled if more than one lit insert is on that shot. Light all 15 of the inserts solid to score the **Completion Bonus.** (**Crank It Up bonus** will add one insert).
 
 ## Side Modes {#heading--modes}
 
@@ -278,11 +278,11 @@ Hitting all four targets during 72 Seasons also awards a **[self-destruct button
 
 Hit all five shots with hardwired inserts (the ramps, orbits, and grave marker targets) during single-ball, non-mode play to light the scoop to start **Hardwired Hurry-Up**. Continuing to hit shots with hardwired inserts flashing before shooting the scoop will increase the value for each hurry-up during the mode by 400k per shot.
 
-Once Hardwired starts, all five shots will be lit to score a hurry-up value starting at 5M + any boosts prior, decreasing over time. Collecting each shot scores the hurry-up value and resets. The fifth, final shot of each Hardwired hurry-up is called the Hardwired jackpot and starts at the sum total of all four prior hurry-ups that were scored. Scoring the Hardwired jackpot also awards a **[self-destruct button](#heading--button)** use at the action button, which either advances towards lighting Hardwired, or scores a hurry-up when the mode is running. 
+Once Hardwired starts, all five shots will be lit to score a hurry-up value starting at 5M + any boosts prior, decreasing over time. Collecting each shot scores the hurry-up value and resets. The fifth, final shot of each Hardwired hurry-up is called the Hardwired jackpot and starts at the sum total of all four prior hurry-ups that were scored. Scoring the Hardwired jackpot also awards a **[self-destruct button](#heading--button)** use at the action button, which either advances towards lighting Hardwired, or scores a hurry-up when the mode is running.
 
 ### Setlist Combos / Lux Aeterna {#heading--luxaeterna}
 
-There are 14 unique setlist combos in the game that can only be earned when certain modes are running. The combos, modes they're associated with, and the values they add to the **[combo jackpot](#heading--combos)** are listed below. 
+There are 14 unique setlist combos in the game that can only be earned when certain modes are running. The combos, modes they're associated with, and the values they add to the **[combo jackpot](#heading--combos)** are listed below.
 
 [details="Setlist combos"]
 
@@ -313,7 +313,7 @@ If the mode timer is under 10 seconds, shooting a combo will reset the timer bac
 
 ### FUEL Fast Scoring {#heading--fuel}
 
-Shoot the FUEL targets four times to add to the FUEL gauge, displayed in the center of the playfield, and light the dead end target behind them for **[2x Playfield](#heading--fuel2x)**. Once the FUEL gauge is completely full (after three completions of FUEL for the first attempt), the next shot to any of the targets will start the **FUEL frenzy**. 
+Shoot the FUEL targets four times to add to the FUEL gauge, displayed in the center of the playfield, and light the dead end target behind them for **[2x Playfield](#heading--fuel2x)**. Once the FUEL gauge is completely full (after three completions of FUEL for the first attempt), the next shot to any of the targets will start the **FUEL frenzy**.
 
 This frenzy mode allows the player to rack up big points so long as they maintain their fuel gauge. Every switch hit scores a value that starts at 5k. Direct shots to the FUEL target add time to the mode, increases the switch value by 1k (to a max of 15k) and lights the piston target for fuel jackpot (750k + 50k each time it is earned). The frenzy ends when the player's FUEL gauge runs out, though there is a lengthy grace period to keep it running.
 
@@ -331,7 +331,7 @@ If the **topper** is installed, and the player isn't in a **[Crank it Up](#headi
 
 ### Coffin Hurry-Ups / Seek & Destroy {#heading--seek}
 
-Seek & Destroy starts as soon as all five **Coffin Hurry-Ups** have been collected at the captive ball. 
+Seek & Destroy starts as soon as all five **Coffin Hurry-Ups** have been collected at the captive ball.
 
 **Coffin hurry-ups** are started by lighting all three **[items](#heading--items)** at any of the five major shots, then shooting the shot with the strobing inserts. They can also be automatically qualified through one of the **[super skill shots](#heading--skillshots)**. Hurry-ups start at 750k + 50k x the total of all non-coffin items' shot levels, which increase as shots with the blue arrow *and* an item insert on it are made. The value increases by 750k x the number of active hurry-ups, if multiple hurry-ups are active at once. Once a hurry-up is scored, the three items at the shot that was used to start it will be locked in and won't disappear until Seek & Destroy starts.
 
@@ -435,7 +435,7 @@ During **[Crank It Up modes](#heading--ciu)**, Mystery always awards "Crank It U
 Extra Balls can be lit to collect at the scoop by:
 
 - Shooting the captive ball 10, then 50, 100, etc. times (first extra ball is percentage-based and can be as low as 5)
-- 15, 50, 100, etc. [**Combos**](#heading--combos) 
+- 15, 50, 100, etc. [**Combos**](#heading--combos)
 - 15, 40, 80, etc. [**Blown Pistons**](#heading--blownpistons)
 
 If the extra ball cap has been reached, extra ball awards 2.5M.
@@ -472,9 +472,9 @@ At the start of End of the Line, you receive a hefty bonus for all the items you
 [details="Spoilers!"]
 This wizard mode starts with 2 balls in play and 1 random shot lit for a jackpot. Collect the jackpot to light a roving super jackpot (from left to right, and then back). Once you collect the super jackpot, an add-a-ball plus ball-save is awarded and you return to the jackpot phase, but with one additional shot required to qualify your next super jackpot. You can repeat this cycle until you complete it, with all 6 shots lit for jackpots. After the final super jackpot, all shots award jackpots and no additional super jackpots are possible.
 
-The super jackpot value is determined by 50% of the scores from the Crank It Up modes you played, awarded in order from lowest to highest, and each super jackpot includes the value of the previous ones that were scored. The 5th and 6th super jackpots "wrap around" the mode totals in the super jackpot formula, so 2x the lowest-scoring mode and 2x the 2nd lowest-scoring mode total would be added in, respectively. 
+The super jackpot value is determined by 50% of the scores from the Crank It Up modes you played, awarded in order from lowest to highest, and each super jackpot includes the value of the previous ones that were scored. The 5th and 6th super jackpots "wrap around" the mode totals in the super jackpot formula, so 2x the lowest-scoring mode and 2x the 2nd lowest-scoring mode total would be added in, respectively.
 
-Both [**Fuel 2x Playfield**](#heading--fuel2x) and [**Snake 2x Playfield**](#heading--multiballs) are in play during this multiball, so you can 2x or even 4x these Super Jackpot values! 
+Both [**Fuel 2x Playfield**](#heading--fuel2x) and [**Snake 2x Playfield**](#heading--multiballs) are in play during this multiball, so you can 2x or even 4x these Super Jackpot values!
 
 If you drain down to single-ball play during End of the Line, the scoop can be lit for the final collect the same way that it can during the other Crank It Up modes (and it can also be qualified by completing the four features during the multiball). Scoring the final collect ends the mode and returns to normal play.
 [/details]

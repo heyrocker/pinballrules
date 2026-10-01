@@ -46,7 +46,7 @@ opdb_id: "GLWll"
 - Code/Rules: Rick Naegele, Elizabeth Gieske
 - Lead Mechanical Engineer: Harrison Drake
 - Artwork: Michael Barnard
-- Display and Animations: 
+- Display and Animations:
 - Sound Design: Jerry Thompson
 - Release Date: January 2024
 - Wiki Rulesheet based on Code Rev: 1.01
@@ -64,7 +64,7 @@ Summer has arrived in the small New England town of Amity, and threatening shark
 - "Beachgoers" are added to each shot with shots to the shark tower targets. Collect all three beachgoers to close the beach and start a hurry-up at that shot, and score bonuses at that shot for the rest of the game. Close all five for **rescue multiball** or **search multiball**.
 - Either spin the fishing reel or shoot the right ramp to light **bounty hunt**, then shoot for the right ramp to start a bounty hunt for one of four sharks. Complete the indicated amount of shots on the display while playing out the rest of the game (in single-ball play, exclusively). Then, spin the fishing reel to start a multiball and take down the shark.
 - Light **gear** at the right ramp by collecting quickshots (hit the lit harpoon lane followed by the shark fin). Each piece of gear has unique benefits and the right flipper changes the lit gear. Once all six gear pieces have been found, they can be sold for a large bonus and the final bounty hunt for the great white shark will be qualified.
-- Complete the white arrows at the left target bank to light the right lane for **fish finder**. Shoot any of the flashing left targets from the upper flipper to score the lit award. 
+- Complete the white arrows at the left target bank to light the right lane for **fish finder**. Shoot any of the flashing left targets from the upper flipper to score the lit award.
 
 ## Layout: {#heading--layout}
 
@@ -78,7 +78,7 @@ These modes are accessible by holding both flipper buttons during attract mode u
 
 - **Standard:**
 See below for full rulesheet.
-- **Competition:** 
+- **Competition:**
 - **Shark Hunter**
   Allows you to play the Shark Hunter Video Mode as a standalone game, in exchange for "shark teeth" via Stern Insider. (Must be logged in with Insider to play.)
 - **4th of July Challenge**
@@ -173,20 +173,20 @@ Additionally, a ball saver is active during the 5th hurry-up. Draining during th
 
 *Note:* The 5th hurry-up cannot be stacked with any **[shark encounter](#heading--encounters)** modes or multiballs. After rescuing 14 beachgoers, the 15th beachgoer will temporarily become unlit whenever a Shark Encounter mode is running, preventing the player from starting the 5th hurry-up. Likewise, no other modes or multiballs can be started during the 5th hurry-up.
 
-Rescuing 8 beachgoers awards an **[extra ball](#heading--extraballs)** and lights **[gear](#heading--gear)**. 
+Rescuing 8 beachgoers awards an **[extra ball](#heading--extraballs)** and lights **[gear](#heading--gear)**.
 
 ## Bounty Hunts: {#heading--bounty}
 
 **Bounty hunts** are started at the right ramp after enough fishing reel spins - or, if one isn't currently running, **[Quint's Shack](#heading--shack)** can light a bounty hunt. Unlike typical modes, bounty hunts run in the background of normal single-ball play, are untimed, and only require the player to complete the tasks assigned on the display. Progress on bounty hunts are maintained from ball to ball.
 
 The four sharks a player can hunt for are:
-- **Mako**: 80 spins, 3 ramps, 1 pop hit, 2 chum bucket hits. 
+- **Mako**: 80 spins, 3 ramps, 1 pop hit, 2 chum bucket hits.
   - Reward: **Upgraded Fishing Reel** (fishing reel advances 2x towards subsequent bounty hunts); longer **[flip-lock](#heading--fliplock)** timer
   - Bonus Reward: Light **[Gear](#heading--gear)**
 - **Thresher**: 6 ramps, 3 3-bank targets, 5 boat shots, 4 chum bucket hits.
   - Reward: 2 attempts per **[Quint's challenge](#heading--challenge)** knot; 2x multiball scoring while **[flip-locked](#heading--fliplock)**
-  - Bonus Reward: **[+1x Base Machete](#heading--machete)** 
-- **Hammerhead**: 150 spins, 6 3-bank targets, 4 pop hits, 2 mini-lanes. 
+  - Bonus Reward: **[+1x Base Machete](#heading--machete)**
+- **Hammerhead**: 150 spins, 6 3-bank targets, 4 pop hits, 2 mini-lanes.
   - Reward: Change **[fish finder](#heading--fishfinder)** award with left flipper; **[beach closed](#heading--beaches)** values held
   - Bonus Reward: **[+1x Base Machete](#heading--machete)**
 - **Tiger**: 6 3-bank targets, 5 pop hits, 10 boat hits, 4 mini-lanes.
@@ -203,7 +203,7 @@ Once the player captures all four sharks, or sells all of their **[gear](#headin
 
 ### Bounty Hunt Multiballs: {#heading--bountymb}
 
-Sharks are vicious creatures and must be weakened before they can be successfully caught. After completing the requirements for a **[bounty hunt](#heading--bounty)** and shooting the fishing reel, a multiball will start where the player reels in the shark and weakens it. 
+Sharks are vicious creatures and must be weakened before they can be successfully caught. After completing the requirements for a **[bounty hunt](#heading--bounty)** and shooting the fishing reel, a multiball will start where the player reels in the shark and weakens it.
 
 The multiball for each bounty hunt shark slightly varies depending on which shark was reeled in:
 - **Mako** - 2-ball multiball w/ 5 seconds added to ball save.
@@ -221,9 +221,9 @@ The shark's strength is indicated both on the screen and by the green lights on 
 
 Shoot any final green shot followed by the captive ball / shark shot to capture the shark and award the bounty. Every bounty collected adds +1x to the super jackpot multiplier during **[super celebration multiball](#heading--smile)**.
 
-The bounty is a large score award determined by the following: (10M + 1M x lit **[beachgoers](#heading--beaches)** + 2.5M x flashing targets hit during **[feeding frenzy](#heading--feeding)**) + total score gained from lit "advance bounty" shots x number of sharks captured.  
+The bounty is a large score award determined by the following: (10M + 1M x lit **[beachgoers](#heading--beaches)** + 2.5M x flashing targets hit during **[feeding frenzy](#heading--feeding)**) + total score gained from lit "advance bounty" shots x number of sharks captured.
 
-Once the shark has been captured, **celebration multiball** will start. Shoot the green flashing shots for jackpots worth 250K + 75K per jackpot scored. This value is maintained across the entire game. Each arrow unlights when collected. 
+Once the shark has been captured, **celebration multiball** will start. Shoot the green flashing shots for jackpots worth 250K + 75K per jackpot scored. This value is maintained across the entire game. Each arrow unlights when collected.
 
 The super jackpot is lit at the captive ball / shark shot when 2 or more arrows are unlit. Collecting a super jackpot relights a green arrow. Relighting all green arrows unlights the super jackpot. Super jackpots are worth (jackpot value) x (number of unlit lower playfield jackpots + 1). Note that the 2 upper playfield shots on Prem / LE do not count towards the super jackpot multiplier. Collecting all of the green arrows lights a massive super jackpot which relights all green arrows when collected.
 
@@ -253,7 +253,7 @@ The center ramp lights to start **[Smile, You Son of A...](#heading--smile)** fi
 
 If 2 balls are in play and the 2nd ball drops into the mini-flipper lane while Flip-Lock is active, the mini-flipper will automatically perform a quick release then flip to send the lower ball back into play then catch the upper ball. This does not occur when there are 3 or more balls in play.
 
-Flip-Lock ends once the 20-second long timer expires, indicated by the flashing barrel atop the bumper. Normally, Flip-Lock can only be used once per ball in play. 
+Flip-Lock ends once the 20-second long timer expires, indicated by the flashing barrel atop the bumper. Normally, Flip-Lock can only be used once per ball in play.
 
 The following **[bounty hunt sharks](#heading--bounty)** add perks to Flip-Lock, once caught:
 
@@ -276,12 +276,12 @@ Gear can be lit at the right ramp in various ways:
 - Capturing the **[Mako shark](#heading--bounty)** on the first attempt
 - **["Light gear" wheel award](#heading--wheel)** (Prem / LE)
 
-Once lit, a single shot to the right ramp will collect the *currently flashing* gear, which can be cycled through with the right flipper. 
+Once lit, a single shot to the right ramp will collect the *currently flashing* gear, which can be cycled through with the right flipper.
 
 There are six different types of gear available, listed below in the order they are cycled through using the right flipper:
 
 - **Binoculars**: When hitting a shark tower standup target, 2 **[beachgoers](#heading--beaches)** are lit instead of 1, if possible. Consumed after 3 successful uses. Hitting a shark tower target with 0 or 1 unlit beachgoers at the corresponding beach(es) does not count against the 3 uses.
-- **Oxygen Tank**: For the rest of the ball, all ball save timers and mode timers (ie. **shark encounters**, **feeding frenzy**) are boosted. +5 seconds for ball save, +8 seconds for modes. 
+- **Oxygen Tank**: For the rest of the ball, all ball save timers and mode timers (ie. **shark encounters**, **feeding frenzy**) are boosted. +5 seconds for ball save, +8 seconds for modes.
 - **Tracker**: For the next three **[chum line](#heading--jaws)** advances, the line is advanced twice as fast.
 - **Barrel Hook**: **[Jaws Multiball](#heading--jaws)** Extended. Once the player returns to single-ball play, another ball will be launched and multiball will continue.
 - **Shark Cage**: One-time ball save when hitting the fin drop target. The ball save will continue to activate on every fin hit until it actually saves the ball, at which point it is consumed.
@@ -302,7 +302,7 @@ If the player chooses to sell their gear, the point award is multiplied based on
 
 A partially-used piece of gear, e.g. Binoculars that have been used once or twice but not the full three times, counts as unused.
 
-If the player chooses to keep their gear, the cash out can be relit the next time the player lights gear. 
+If the player chooses to keep their gear, the cash out can be relit the next time the player lights gear.
 
 +50M is added to the gear cash out for every successful knot that was tied during **[Quint's Challenge](#heading--challenge)**. This bonus is not subject to the "unused gear" multiplier.
 
@@ -322,9 +322,9 @@ When Fish Finder is qualified, it can be activated by rolling through the lane d
 
 There are 5 Fish Finder awards:
 
-- **Super Buoys**: Slingshots are lit for more points than usual. Alternate between lit slingshots for values starting at 100k per sling and a multiplier applied for each lit sling hit in a row without hitting the unlit. Lane guides by flipper also light to show lit sling. 
+- **Super Buoys**: Slingshots are lit for more points than usual. Alternate between lit slingshots for values starting at 100k per sling and a multiplier applied for each lit sling hit in a row without hitting the unlit. Lane guides by flipper also light to show lit sling.
 - **Super Life Ring**: Every shot to the **[light life ring](#heading--lifering)** target scores a value starting at 10M + 5M per shot and adds more time to the award. If life ring isn't lit, then collecting a shot during super life ring will automatically qualify it.
-- **Cast 'n' Catch**: Two "count-ups" are lit at the center and right ramp for a value starting at 1M, increasing rapidly to 30M, and then resetting back to 1M. 
+- **Cast 'n' Catch**: Two "count-ups" are lit at the center and right ramp for a value starting at 1M, increasing rapidly to 30M, and then resetting back to 1M.
 - **Light Video Mode** (*Shark Hunter*): Started at the right ramp. Use the flippers to fire harpoons at the sharks while avoiding the divers which remove harpoon shots. 2X scoring for the rest of the video mode plus harpoons and extra time are awarded if and when your score reaches 5000. Bonus items you can shoot in the video mode include +5 harpoon shots, and an **[extra ball](#heading--extraballs)** icon that moves quickly.  Sharks score 500 points each, or 1000 points each after achieving 2X scoring. Scores 3000 x video mode score (e.g. 5000 video mode points = 15 million points when you finish video mode). This award cannot be multiplied by **[Machete](#heading--machete)**.
 - **Night Search Multiball**: 2-ball multiball. Jackpots are lit at all major shots, but disappear if time runs out. Hit any Fish Finder target to relight jackpots, and the bash boat targets to increase their value. After scoring eight jackpots, shoot the shark within 10 seconds for as many super jackpots as possible. Make four jackpots to light **[gear](#heading--gear)** and collect a super jackpot to increase the **[machete](#heading--machete)** multiplier. **Victory combos** starts after the super jackpot round times out. (*On Prem / LE models, the steering wheel on the Orca will award an add-a-ball, one time only.*)
 
@@ -416,7 +416,7 @@ Pipit will also find awards for you with every stick he successfully fetches, gi
 - **[Light Wheel Award](#heading--wheel)** (Prem / LE)
 - **+1x Machete** (temporary)
 
-If any of the above awards are already available, ie. life ring or Quint's challenge is already lit, +1x Machete (temporary) will be awarded in its place. 
+If any of the above awards are already available, ie. life ring or Quint's challenge is already lit, +1x Machete (temporary) will be awarded in its place.
 
 ### Machetes (Shot Multipliers): {#heading--machete}
 
@@ -431,14 +431,14 @@ The machete multiplier starts at 2x and can be increased by +1x **permanently** 
 and **temporarily** increased from...
 
 - Completing the drop targets while a Machete is available (+1x)
-- Successfully rescuing **[Pipit](#heading--pipit)** (1st and 7th+ awards of a set, or given if any award is already active) (+1x) 
-- Collecting the +3x Machete **[wheel award](#heading--wheel)** (Prem / LE) (+3x) 
+- Successfully rescuing **[Pipit](#heading--pipit)** (1st and 7th+ awards of a set, or given if any award is already active) (+1x)
+- Collecting the +3x Machete **[wheel award](#heading--wheel)** (Prem / LE) (+3x)
 
 Machete cannot be lit *during* **[multiballs](#heading--jaws)** unless lit via Pipit, or during **[wizard modes](#heading--wizard)**, but they can be brought into them at their current value.
 
 ### Life Ring: {#heading--lifering}
 
-Shoot the "light life ring" target once, then shoot it again while it's flashing to qualify the life ring ball save. The "life ring" insert above the left outlane only lights for a short time after pressing the action button (when flashing orange), so it must be timed well to save balls that drain there. 
+Shoot the "light life ring" target once, then shoot it again while it's flashing to qualify the life ring ball save. The "life ring" insert above the left outlane only lights for a short time after pressing the action button (when flashing orange), so it must be timed well to save balls that drain there.
 
 A grace period is provided for the first life ring award in a game, and will save the ball even if the left outlane has already been registered. Afterwards, the life ring timer will decrease with every successful use.
 
@@ -446,7 +446,7 @@ Life ring also lights with every shot to its target during the **[super life rin
 
 ### Character Combos: {#heading--combos}
 
-There are seven unique shot sequences on ***Jaws*** that award increasing points (5M + 5M) when completed, each displaying a memorial for a certain character. These character combos can only be completed during single-ball play. Each unique combo adds +250k to all further **[closed beach](#heading--beaches)** shots. 
+There are seven unique shot sequences on ***Jaws*** that award increasing points (5M + 5M) when completed, each displaying a memorial for a certain character. These character combos can only be completed during single-ball play. Each unique combo adds +250k to all further **[closed beach](#heading--beaches)** shots.
 
 - **Chrissie Watkins**: Left orbit - right ramp - center ramp
 - **Pipit**: Wave ramp - harpoon lane (Pro) / lookout tower (Prem / LE)
@@ -458,7 +458,7 @@ There are seven unique shot sequences on ***Jaws*** that award increasing points
 
 ### Orca Wheel Awards (Prem / LE): {#heading--wheel}
 
-The upper playfield on Prem / LE models of ***Jaws*** has an associated wheel award. It lights at the start of the game, and can then be lit at the Orca's steering wheel spinner with enough shots to the lookout tower ramp on the upper playfield. Press the action button to lock in the displayed award once the dial is over it. 
+The upper playfield on Prem / LE models of ***Jaws*** has an associated wheel award. It lights at the start of the game, and can then be lit at the Orca's steering wheel spinner with enough shots to the lookout tower ramp on the upper playfield. Press the action button to lock in the displayed award once the dial is over it.
 
 The five awards are, from top to bottom:
 
@@ -542,7 +542,7 @@ Once the multiball ends by draining down to a single ball, the total will be dis
 
 ### Super Cast 'n Catch: {#heading--supercast}
 
-Collect all five **[fish finder](#heading--fishfinder)** awards to light this mini-wizard mode at the center ramp. 
+Collect all five **[fish finder](#heading--fishfinder)** awards to light this mini-wizard mode at the center ramp.
 
 This is a hybrid single-ball / multiball mode where the goal is to collect and score as many cast n' catch awards as possible. The player must first lock a ball at the mini-flipper via any shot that feeds it, starting a timer for the flip-lock. Then, a new ball will be sent into play, and the player can shoot the center ramp to lock in the cast 'n catch award (between 500k to 5M, the maximum value increasing by 1M with every jackpot stage started). If the flip-lock times out, the player will need to lock a ball there again to return to increasing / locking in the cast 'n catch award.
 
@@ -554,11 +554,11 @@ Super Cast 'n Catch ends when only one ball remains in play and the jackpot stag
 
 This mini-wizard mode is exclusive to the Prem / LE models of ***Jaws***, which feature the Orca mini-playfield and **[wheel awards](#heading--wheel)**. Once all five wheel awards have been scored in a single game, the sixth wheel award will automatically be lit. Shooting the wheel will light **Say Ah!** at the center ramp when no other modes are running. If other wheel award modes were running before starting **Say Ah!**, they will automatically end.
 
-**Say Ah!** is a 3-ball multiball timed for 60 seconds, which activates all five wheel awards with increased scoring: 
+**Say Ah!** is a 3-ball multiball timed for 60 seconds, which activates all five wheel awards with increased scoring:
 - **Shark ramps** at 4x value (12M per ramp)
 - Light **[gear](#heading--gear)** at the right ramp
 - **[+3x Machete](#heading--machete)** for the next lit inlane
-- **Shark combos** at 3x value 
+- **Shark combos** at 3x value
 - **Super spinner** at 2x value
 
 Ball save is active for the entirety of the 60 second mode, and no other modes can be started or advanced during it.

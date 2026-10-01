@@ -32,8 +32,8 @@ opdb_id: "Gd2ox"
 ## Game Information: {#heading--gameinfo}
 
 - Lead Designer: Eric Meunier
-- Code/Rules: 
-- Lead Mechanical Engineer: 
+- Code/Rules:
+- Lead Mechanical Engineer:
 - Artwork: Christopher Franchi
 - Computer Graphics Art Director: Joe Katz
 - Sound Designer:
@@ -60,13 +60,13 @@ At the start of the game, the player can choose which family of crime they want 
 
 - **Barzini**: **[Soldiers](#heading--jobs)** last longer. **[Territories](#heading--turfwar)** are obtained quicker. **[Points scored during jobs](#heading--jobs)** reduced by 50%.
 - **Tattaglia**: **[Soldiers](#heading--jobs)** are obtained quicker. **[Compound Multiball](#heading--compound)** is easier to start. **[Weapons](#heading--pfx)** last longer. Ball save time for multiball modes is shorter.
-- **Corleone**: **[Influence](#heading--influence)** is gained quicker, but costs more. **[Bad guys](#heading--five)** score 2x. Ball save time for multiball modes is longer. 
+- **Corleone**: **[Influence](#heading--influence)** is gained quicker, but costs more. **[Bad guys](#heading--five)** score 2x. Ball save time for multiball modes is longer.
 - **Cuneo**: **[Ventures](#heading--turfwar)** score 2x. Easier to kill **[bad guys](#heading--five)**. Points scored during **[Job Award modes](#heading--jobs)** increased by 50%. **[Influence](#heading--influence)** is gained slower.
 - **Stracci**: Easier to obtain **[weapons](#heading--pfx)**, but they last for less time. Points scored during multiball modes increased by 50%. Harder to gain **[soldiers](#heading--jobs)**.
 
 ## Skill Shots: {#heading--skillshots}
 
-There are 2 "standard" skill shots and 22 super skill shots. Press the action button to enable the super skill shot selection. 
+There are 2 "standard" skill shots and 22 super skill shots. Press the action button to enable the super skill shot selection.
 
 **Standard skill shots:**
 - Soft plunge into the bumper to make progress towards **[Sicily Multiball](#heading--sicily)**.
@@ -172,7 +172,7 @@ The number of collects in each mode are determined by the number of jobs you suc
 - 12 Rings - Reset all **[Super Skill Shots](#heading--skillshots)**.
 
 The **Job Award** modes, listed clockwise from their appearance above the flippers, are:
-- **Tribute**: (*Qualify by playing **Wedding Favor** and **Dinner Specials***) Shoot 5 of the lit ventures to build a value that can be cashed out by shooting behind the upper flipper - flashing ventures add 3x the value. 
+- **Tribute**: (*Qualify by playing **Wedding Favor** and **Dinner Specials***) Shoot 5 of the lit ventures to build a value that can be cashed out by shooting behind the upper flipper - flashing ventures add 3x the value.
 - **Turnpike**: (*Qualify by playing **Take the Cannoli** and **Pursuit***) Shoot the loop ramp to build a value that can be cashed out by shooting the hideout.
 - **Raid**: (*Qualify by playing **Delivery** and **Shakedown***) Shoot the spinners, slingshots and bumper to build a value that can be cashed out by shooting the compound target.
 - **Boxing**: (*Qualify by playing **Market Day** and **Hung Jury***) Shoot the left and right ramps to build a value that can be cashed out by shooting the bad guy.
@@ -189,19 +189,19 @@ Playing all four multiball modes is required to qualify **[Honor](#heading--hono
 
 Lock a ball in the Compound, by either sending a ball into the lock directly or by making the lock off of a **[skill shot](#heading--skillshots)**. The player must then lock another ball in the compound to start Compound Multiball, or increase the jackpot value for the multiball by shooting the compound target followed by the drop target near the compound.
 
-During Compound Multiball, the lit blue shots score jackpots. Collect enough jackpots (3 + 1 per super) to light the Compound lock for super jackpot worth the jackpot total. 
+During Compound Multiball, the lit blue shots score jackpots. Collect enough jackpots (3 + 1 per super) to light the Compound lock for super jackpot worth the jackpot total.
 
 ### Sicily Multiball: {#heading--sicily}
 
 Hit the targets around the bumper, and the bumper itself, to qualify the region target in front of it to collect a region. Once all three regions have been collected, shoot the target under the left ramp to start Sicily Multiball.
 
-During Sicily Multiball, shoot the targets to build the value of the super jackpot that can be collected at the hideout - the shot above the upper loop. 
+During Sicily Multiball, shoot the targets to build the value of the super jackpot that can be collected at the hideout - the shot above the upper loop.
 
 ### Turf War Multiball: {#heading--turfwar}
 
 Shoot the lit "venture" shots around the playfield to light the lock. Lit ventures are determined by the **[family](#heading--families)** chosen at the start of the game and can be spotted with hits to either the "SPOT" slingshot or the bumper. Once all qualified ventures have been collected, shoot either the left or right orbit to lock balls for Turf War Multiball. The number of locks required is progressive, and determined by the ventures from each territory the player has collected - restricted to 2 balls at the start of the game, collecting different types of ventures allows the player to lock up to 6 balls prior to starting the multiball. More ventures can be lit by gaining enough **[influence](#heading--influence)**.
 
-During Turf War Multiball, shoot the lower or upper 3-bank standup targets to score jackpots and gather more territories (1 territory for the lower 3-bank standup targets, 2 territories + super jackpot for the upper 3-bank standup targets, and 3 territories for a combination upper loop ramp/upper 3-bank stand targets shot). The jackpots can be relit by shooting the left and right orbits. 
+During Turf War Multiball, shoot the lower or upper 3-bank standup targets to score jackpots and gather more territories (1 territory for the lower 3-bank standup targets, 2 territories + super jackpot for the upper 3-bank standup targets, and 3 territories for a combination upper loop ramp/upper 3-bank stand targets shot). The jackpots can be relit by shooting the left and right orbits.
 
 Gathering all 17 territories by collecting enough ventures, thus playing this multiball multiple times, is required to qualify **[the final wizard mode](#heading--ring)**.
 

@@ -62,7 +62,7 @@ Holy pinball wizard! ***Batman '66*** takes players into the wild, campy world o
 Three skill shots are available at the start of each new ball, and after locking a ball:
 
 - **Top Lane Skill Shot**: The three arrows in the shooter lane correspond to the three top lanes; hitting the switch directly below the arrows with the ball when any of the arrows are lit will light the corresponding top lanes. Try to roll over the switch when all three arrows are lit. Scores 600k + 200k per skill shot, and increases the **[end-of-ball bonus](#heading--bonus)** by +5x.
-- **Penguin Skill Shot**: Soft plunge the ball directly into the back of the Penguin scoop, or soft plunge to the flippers and shoot the Penguin scoop within a short amount of time, to score the “Penguin Skill Shot”. Scores between 1M to 1.2M in points depending on the number of arrows lit, increased by a value also determined by the arrows; increases the **[end-of-ball bonus](#heading--bonus)** by +5x; and advances towards whatever the Penguin scoop would normally award. 
+- **Penguin Skill Shot**: Soft plunge the ball directly into the back of the Penguin scoop, or soft plunge to the flippers and shoot the Penguin scoop within a short amount of time, to score the “Penguin Skill Shot”. Scores between 1M to 1.2M in points depending on the number of arrows lit, increased by a value also determined by the arrows; increases the **[end-of-ball bonus](#heading--bonus)** by +5x; and advances towards whatever the Penguin scoop would normally award.
 - **Super Skill Shot**: Hold the left flipper and plunge the ball to enable the super skill shot at any major flashing shot for 5 seconds. The Super Skill Shot scores around 550k + 100k per skill shot, and will either qualify the **[major villain](#heading--villains)** that corresponds to the shot you made if one isn't active, or award **[+1 Gadget](#heading--gadgets)** if a villain is currently active.
 
 ## Major Villains & Bat-Phone Hurry-Up: {#heading--villains}
@@ -86,34 +86,34 @@ Scoring for the modes can be multiplied in several ways. Along with the +1x mult
 **[Extra Ball](#heading--ebs)** lights at the left orbit after arresting two different villains; **[Villain Escape](#heading--escape)** is qualified at the left orbit after arresting all four.
 
 At the start of the game, if no major villain mode is running, press and hold the right flipper to toggle between villain modes. Each villain has two modes.
- 
+
 ### Catwoman: {#heading--catwoman}
 
 **Catwoman 1 *(ep. 19/20 "The Purr-fect Crime/Better Luck Next Time")***
- 
+
 - *Stage 1:* The two ramps are lit. Make each ramp 3 times to light the Super Jackpot and relight all major shots. Each major shot will unlight when hit, get as many of the major shots as you like before scoring the Super Jackpot at the scoop and advancing to the next stage.
 - *Stage 2:* Left ramp is lit for hurry-up, with a value based on your mode score thus far. Scoring or timing out the hurry-up will then light the right ramp, followed by 3 shots to the gadget targets, then the scoop, and finally light the Super Jackpot.
 - *Stage 3:* Hurry-up is lit at the right ramp with a value based on your total mode score thus far. Scoring or timing out the hurry-up will then light all major shots, complete them to light Super Jackpot.
-- *Stage 4:* This is the final stage - hitting all five lit shots will light the Super Jackpot. *Unlike* other final stages of major villains, hitting a lit shot will un-light it and not offer "unlimited" scoring. 
+- *Stage 4:* This is the final stage - hitting all five lit shots will light the Super Jackpot. *Unlike* other final stages of major villains, hitting a lit shot will un-light it and not offer "unlimited" scoring.
 
 **Catwoman 2 *(ep. 108 "Catwoman's Dressed to Kill")***
 
-- *Stage 1:* The two ramps are lit. Make a shot to each ramp 3 times, then shoot the turntable to light the Super Jackpot at the scoop. 
+- *Stage 1:* The two ramps are lit. Make a shot to each ramp 3 times, then shoot the turntable to light the Super Jackpot at the scoop.
 - *Stage 2:* All ramps and orbits are lit, make any shot to light the Super Jackpot. Quick and easy.
-- *Stage 3:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot. 
+- *Stage 3:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot.
 
 ### Joker: {#heading--joker}
 
 **Joker 1 *(ep. 5/6 "The Joker is Wild/Batman is Riled")***
 
-- *Stage 1:* The turntable shot is lit, shoot this to light both orbits and ramps. Make these four shots to light all major shots along with the Super Jackpot at the scoop - complete as many lit shots as you like before collecting the Super Jackpot. 
-- *Stage 2:* Hurry-up is lit at the gadget targets with a value based on your total mode score thus far. Scoring or timing out the hurry-up will start a lengthy shot sequence: turntable, scoop, turntable x2, gadget, turntable x2, scoop, then all shots except for the right ramp. Complete all shots to light the Super Jackpot. 
-- *Stage 3:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot. 
+- *Stage 1:* The turntable shot is lit, shoot this to light both orbits and ramps. Make these four shots to light all major shots along with the Super Jackpot at the scoop - complete as many lit shots as you like before collecting the Super Jackpot.
+- *Stage 2:* Hurry-up is lit at the gadget targets with a value based on your total mode score thus far. Scoring or timing out the hurry-up will start a lengthy shot sequence: turntable, scoop, turntable x2, gadget, turntable x2, scoop, then all shots except for the right ramp. Complete all shots to light the Super Jackpot.
+- *Stage 3:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot.
 
 **Joker 2 *(ep. 104 "Surf's Up! Joker's Under")***
 
 - *Stage 1:* The turntable shot is lit, shoot this to light both orbits and ramps. The Super Jackpot is lit in a different way in this mode - each lit shot counts for 10% and any switch hit counts for 1%. Once 100% is reached, all mode shots un-light and Super Jackpot is lit at the scoop.
-- *Stage 2:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot. 
+- *Stage 2:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot.
 
 ### Penguin: {#heading--penguin}
 
@@ -127,27 +127,27 @@ At the start of the game, if no major villain mode is running, press and hold th
 **Penguin 2 *(ep. 95 "Enter Batgirl, Exit Penguin")***
 
 - *Stage 1:* During this stage, the crane will move and pause the wrecking ball around the playfield to one of five designated spots on the playfield marked by a round purple insert. Shoot the wrecking ball to light all five major shots for bonus points and disqualify the wrecking ball from being shot at that position again. Hit the wrecking ball at each of the five locations to light Super Jackpot at the scoop.
-- *Stage 2:* Two hurry-ups are lit at the gadget targets based on your total mode score thus far. After the hurry-up is collected or times out, make a shot to all major shots on the playfield except for the scoop to light Super Jackpot. 
+- *Stage 2:* Two hurry-ups are lit at the gadget targets based on your total mode score thus far. After the hurry-up is collected or times out, make a shot to all major shots on the playfield except for the scoop to light Super Jackpot.
 - *Stage 3:* This is the final stage - unlike those for other villains, this is an endless cycle of shooting the crane, then making any major shot to light the crane again and move its position. Collect five shots in any combination to light the Super Jackpot.
 
 ### Riddler: {#heading--riddler}
 
 **Riddler 1 *(ep. 1/2 "Hi Diddle Riddle/Smack In The Middle")***
 
-- *Stage 1:* The left and right orbits are lit. Make either shot to light a number of main shots on the playfield, depending on the orbit shot that was made (about 5). Complete all lit shots to light the Super Jackpot at the scoop.  
+- *Stage 1:* The left and right orbits are lit. Make either shot to light a number of main shots on the playfield, depending on the orbit shot that was made (about 5). Complete all lit shots to light the Super Jackpot at the scoop.
 - *Stage 2:* This stage works almost exactly like the first stage, shoot either orbit, then clear the shots. The only difference is that more shots will be lit after making an orbit during this stage (about 6).
-- *Stage 3:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot. 
+- *Stage 3:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot.
 
 **Riddler 2 *(ep. 96 "Ring Around The Riddler")***
 
-- *Stage 1:* The left and right orbits are lit. Make either shot to light a number of main shots on the playfield, depending on the orbit shot that was made (about 7). Complete all lit shots to light the Super Jackpot at the scoop.  
+- *Stage 1:* The left and right orbits are lit. Make either shot to light a number of main shots on the playfield, depending on the orbit shot that was made (about 7). Complete all lit shots to light the Super Jackpot at the scoop.
 - *Stage 2:* This is the final stage - all shots are lit and hitting any five lit shots will light the Super Jackpot. Just like most other final stages of major villains, hitting a lit shot will un-light it and re-light other shots, meaning that you can keep scoring mode shots indefinitely until you score the Super Jackpot.
 
 ### Villain Multiball: {#heading--villainmb}
 
 During any **[major villain mode](#heading--villains)**, shoot the two targets on either side of the turntable to light the three Locks at the right orbit. Subsequent Villain Multiball activations require a target to be made to light each Lock; then, both targets to be made to light each Lock. Using a **[Gadget](#heading--gadgets)** right as a ball exits the left orbit saucer, if Lock is lit, will also lock the ball.
 
-Once all three balls have been locked, they will be released from the turntable (rotating it to the Villain-Vision side in the process) and Villain Multiball will begin. All major shots are lit bright green for jackpots of increasing value (starting at around 300k + 50k per jackpot). After scoring 12 jackpots the turntable will rotate to the Batcave position, and a Super Jackpot can be scored by shooting the Atomic Pile shot behind the Batmobile spinner. 2 more shots are required to light each subsequent Super Jackpot, to a maximum of 20 shots. 
+Once all three balls have been locked, they will be released from the turntable (rotating it to the Villain-Vision side in the process) and Villain Multiball will begin. All major shots are lit bright green for jackpots of increasing value (starting at around 300k + 50k per jackpot). After scoring 12 jackpots the turntable will rotate to the Batcave position, and a Super Jackpot can be scored by shooting the Atomic Pile shot behind the Batmobile spinner. 2 more shots are required to light each subsequent Super Jackpot, to a maximum of 20 shots.
 
 During multiball, **[mystery](#heading--mystery)** will always award Add-A-Ball. The base Villain Multiball ball saver time, and the number of balls during the multiball, can be increased by defeating **[Shame](#heading--minor)**.
 
@@ -165,12 +165,12 @@ Playing or completing all minor villains from a season will make them available 
 *Completion award:* Replay Failed Minor Villain Modes. This carries over between balls. If both Mad Hatter modes have been won, minor villain modes that have already been completed can be replayed as well.
 *Shots needed:* 6 + susceptible to gadgets.
 - *Wave 1:* Two random light blue shots will be lit, with an additional shot added every 10 seconds.
-Clear all lit shots to advance. 
+Clear all lit shots to advance.
 - *Wave 2:* One random shot will be lit, complete it to advance.
 - *Wave 3:* Three random shots will be lit, complete them to capture Mad Hatter.
 
-**King Tut** (The Curse of Tut) 
-*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball. 
+**King Tut** (The Curse of Tut)
+*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball.
 *Shots needed:* 10 + susceptible to gadgets.
 - *Wave 1:* One random light blue shot is lit, complete it to advance.
 - *Wave 2:* All shots will be lit and un-light when shot, make 4 shots to advance.
@@ -187,14 +187,14 @@ Clear all lit shots to advance.
 
 ### Season 2: {#heading--s2}
 
-**King Tut** (The Spell of Tut) 
-*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball. 
+**King Tut** (The Spell of Tut)
+*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball.
 *Shots needed:* 10 + susceptible to gadgets.
 - *Wave 1:* Three random shots are lit light blue, complete them all to advance.
 - *Wave 2:* The three shots that were not lit previously are now lit, complete them all to advance.
 - *Wave 3:* All shots are persistently lit, hit any 4 to capture King Tut.
 
-**Egghead** (An Egg Grows in Gotham) 
+**Egghead** (An Egg Grows in Gotham)
 *Completion award:* Egghead Points Awarded In Bonus. If multiple Egghead modes have been won, these totals are added together.
 *Shots needed:* 1 + gadget is required.
 - *Wave 1:* This is a frenzy mode with big scoring for all switch hits. Every switch hit during the mode is added towards a jackpot that is awarded on completion *and* during the **[end-of-ball bonus](#heading--bonus)**. Use a gadget at the action button to advance whenever you're ready.
@@ -207,13 +207,13 @@ Clear all lit shots to advance.
 - *Wave 2:* The two ramps will be lit, complete them to advance.
 - *Wave 3:* The turntable, right ramp, and scoop will be lit, complete them to capture Mr. Freeze.
 
-**Shame** (Come Back Shame) 
+**Shame** (Come Back Shame)
 *Completion award:* +1 Ball To Multiballs / Extended Multiballs. +10 seconds are added to the base ball save timer for multiball modes.
 *Shots needed:* 9 + susceptible to gadgets.
-- *Wave 1:* Unlike the other minor villain modes, this one starts as 2-ball multiball the first time it is played and then starts as a timed mode until all of the minor villain modes in season 2 have been played. Two gadget stand ups and one TV stand up will be flashing, shoot any combination of them 4 times to advance. The lit targets are toggled with bumper hits. Each switch hit increases the target value. 
-- *Wave 2:* Two major shots will be lit light blue, after hitting either shot it will un-light and move to a random shot. Hit any lit shot 5 times to capture Shame. The mode ends when the player returns to a single ball. 
+- *Wave 1:* Unlike the other minor villain modes, this one starts as 2-ball multiball the first time it is played and then starts as a timed mode until all of the minor villain modes in season 2 have been played. Two gadget stand ups and one TV stand up will be flashing, shoot any combination of them 4 times to advance. The lit targets are toggled with bumper hits. Each switch hit increases the target value.
+- *Wave 2:* Two major shots will be lit light blue, after hitting either shot it will un-light and move to a random shot. Hit any lit shot 5 times to capture Shame. The mode ends when the player returns to a single ball.
 
-**Mad Hatter** (The Contaminated Cowl) 
+**Mad Hatter** (The Contaminated Cowl)
 *Completion award:* Replay Failed Minor Villain Modes. This carries over between balls. If both Mad Hatter modes have been won, minor villain modes that have already been completed can be replayed as well.
 *Shots needed:* 8 + fully immune to gadgets.
 - *Wave 1:* All shots are lit blue with one random shot lit pink. Shoot the pink shot to advance.
@@ -221,7 +221,7 @@ Clear all lit shots to advance.
 - *Wave 3:* All shots are lit pink, make any 4 of them to capture Mad Hatter.
 
 **King Tut** (King Tut’s Coup)
-*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball. 
+*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball.
 *Shots needed:* 10 + susceptible to gadgets.
 - *Wave 1:* Three random shots will be lit light blue, complete them to advance.
 - *Wave 2:* The three shots that were not lit previously are now lit, complete all three of them to advance.
@@ -230,34 +230,34 @@ Clear all lit shots to advance.
 ### Season 3: {#heading--s3}
 
 **King Tut** (The Unkindest Tut of All)
-*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball. 
+*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball.
 *Shots needed:* 10 + susceptible to gadgets.
 - *Wave 1:* Three random shots will be lit light blue, complete them to advance.
 - *Wave 2:* The three shots that were not lit previously are now lit, complete all three of them to advance.
 - *Wave 3:*  All shots are persistently lit, hit any 4 of them to capture King Tut.
 
-**Egghead** (The Ogg and I) 
+**Egghead** (The Ogg and I)
 *Completion award:* Egghead Points Awarded In Bonus. If multiple Egghead modes have been won, these totals are added together.
 *Shots needed:* 4 + fully immune to gadgets.
 - *Wave 1:* This is a frenzy mode with big scoring for all switch hits. Every switch hit during the mode is added towards a jackpot that is awarded on completion *and* during the **[end-of-ball bonus](#heading--bonus)**. Three random shots will be lit yellow, shoot 3 to advance or use a gadget at the action button to add another shot.
 - *Wave 2:* The turntable will be lit, shoot it to score your built up value and to capture Egghead.
 
-**Egghead** (The Ogg Couple) 
+**Egghead** (The Ogg Couple)
 *Completion award:* Egghead Points Awarded In Bonus. If multiple Egghead modes have been won, these totals are added together.
 *Shots needed:* 4 + fully immune to gadgets.
-- *Wave 1:* The mode begins with the left orbit lit yellow, shoot it to advance. 
-- *Wave 2:* Now all shots are lit, lit shots will un-light when hit and re-light others. Shoot the left orbit at any time to advance. 
+- *Wave 1:* The mode begins with the left orbit lit yellow, shoot it to advance.
+- *Wave 2:* Now all shots are lit, lit shots will un-light when hit and re-light others. Shoot the left orbit at any time to advance.
 - *Wave 3:*  Same as Wave 2. Thus, another chance to collect unlimited shots until the left orbit is hit again.
 - *Wave 4:*  The turntable will be lit, shoot it to capture Egghead (Gadgets can be used to light additional shots, but only one can be "cashed in").
 
 **Shame** (The Great Escape)
 *Completion award:* +1 Ball To Multiballs / Extended Multiballs. +10 seconds are added to the base ball save timer for multiball modes.
 *Shots needed:* 15 + susceptible to gadgets.
-- *Wave 1:* Unlike the other minor villain modes, this one starts as 2-ball multiball the first time it is played and then starts as a timed mode until all of the minor villain modes in season 3 have been played. All shots will be lit light blue and un-light when hit, shoot any 4 of them to advance. 
+- *Wave 1:* Unlike the other minor villain modes, this one starts as 2-ball multiball the first time it is played and then starts as a timed mode until all of the minor villain modes in season 3 have been played. All shots will be lit light blue and un-light when hit, shoot any 4 of them to advance.
 - *Wave 2:* Two major shots will be lit, after hitting either shot it will un-light and move to a random shot. Make 11 lit shots to capture Shame. The mode ends when the player returns to a single ball.
 
 **King Tut** (I’ll Be a Mummy's Uncle)
-*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball. 
+*Completion award:* Save Minor Villain Progress / Increase Main Channel Multiplier. Once the first King Tut mode has been won, each subsequent King Tut mode won increases the **[main channel multiplier](#heading--channels)** by +1x for the rest of the ball.
 *Shots needed:* 9 + susceptible to gadgets.
 - *Wave 1:* The turntable is lit light blue, shoot it to advance.
 - *Wave 2:* Now all 6 shots are lit, complete them all to advance.
@@ -280,7 +280,7 @@ The following four features are all subject to the channel rule:
 Complete the GADGET standup target bank on the left side of the playfield to award a Gadget that can be used by pressing *(not holding)* the action button. Gadgets have different actions, depending on the context.
 
 - **Spot a Mode Shot** - During any and all modes (with a few exceptions - see **[minor villain modes](#heading--minor)**), using a Gadget will spot a mode shot for you. Gadgets prioritize shots on the left side of the playfield and also the mode running on the main channel! *(Hold action button down to switch the channel)*
-- **Gadget Lock** - If **[Lock](#heading--villainmb)** is lit and a ball is in the saucer at the apex of the left orbit, press the action button just as the ball ejects from the saucer to enable the diverter and lock the ball. Alternatively, if the ball is in the shooter lane with a lock lit, you can press the action button after the ball has been plunged and hits the switch at the gate near the top of the shooter lane to open the diverter for the ball to go into and lock. Each one of these counts as a Gadget use. 
+- **Gadget Lock** - If **[Lock](#heading--villainmb)** is lit and a ball is in the saucer at the apex of the left orbit, press the action button just as the ball ejects from the saucer to enable the diverter and lock the ball. Alternatively, if the ball is in the shooter lane with a lock lit, you can press the action button after the ball has been plunged and hits the switch at the gate near the top of the shooter lane to open the diverter for the ball to go into and lock. Each one of these counts as a Gadget use.
 - **Light Another Shot/Advance to Collect Phase** - During **[Egghead's minor villain modes](#heading--minor)**, Gadgets' normal function are disabled. See each mode's section for details.
 
 ### Mystery: {#heading--mystery}
@@ -288,7 +288,7 @@ Complete the GADGET standup target bank on the left side of the playfield to awa
 Complete the return lanes, which cycle with flipper operation, to light the left orbit saucer for a mystery award. As per usual, mystery awards are context-sensitive and certain awards will only be given if the current status of the game allows them to be awarded:
 
 - **[+2 Bonus X](#heading--bonus)**
-- **[Hold Bonus Multiplier](#heading--bonus)** 
+- **[Hold Bonus Multiplier](#heading--bonus)**
 - **[Hold Bonus](#heading--bonus)**
 - **[+1 Gadget](#heading--gadgets)**
 - **[Light Shot Multipliers](#heading--sfx)**
@@ -312,7 +312,7 @@ Collecting 20, 50, and 100 Combos in a single game lights the left orbit saucer 
 
 Bat Turn is a 40 second long timed mode, with a base shot value determined by switch hits to the spinning post Batmobile feature prior to starting it. Each spin of the Batmobile spinner adds 25,000 to the value, which starts at 500,000. Spinning the Batmobile 10 times will light Bat Turn at the Atomic Pile shot, indicated by a blue insert at the turntable. Additional starts require +2 hits to the Batmobile spinner, to a maximum of 20 hits.
 
-Once Bat Turn has started, all major shots will light blue and a hurry-up based on your built value will be displayed. Shooting any major shot will award the current hurry-up value, and un-light that shot. Shooting the Batmobile spinner relights all shots and resets the hurry-up value, with successive spins adding more points to the value. The minimum hurry-up value is 250K. 
+Once Bat Turn has started, all major shots will light blue and a hurry-up based on your built value will be displayed. Shooting any major shot will award the current hurry-up value, and un-light that shot. Shooting the Batmobile spinner relights all shots and resets the hurry-up value, with successive spins adding more points to the value. The minimum hurry-up value is 250K.
 
 If Bat Turn is active while the turntable is in the Villain Vision position, the mode has slightly different rules; the hurry-up value freezes, all shots are re-lit if they're not already, and every lit shot will score 2x their normal value. Shots made will un-light, and re-light the previous shot made. The mode will then revert to standard rules once the turntable returns to normal.
 

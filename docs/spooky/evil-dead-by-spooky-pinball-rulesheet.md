@@ -78,7 +78,7 @@ There are four modes per movie with a mini-wizard mode after completing two mode
 - spinner makes Linda dance - other shots increase value (Necklace Targets / Blue Arrow Also Help)
 
 •	hit blue shots (5) (I think it’s 4, but maybe 5)
-•	then cellar 
+•	then cellar
 •	hit deadites
 
 
@@ -97,7 +97,7 @@ There are four modes per movie with a mini-wizard mode after completing two mode
 
 #### Evil Ash: {#heading--evil-ash}
 
-- Phase 1: hit red shots to turn them blue 
+- Phase 1: hit red shots to turn them blue
 - then hit necklace targets (Trap Door Targets light Necklace Targets)
 
 ## Deadites: {#heading--deadites}

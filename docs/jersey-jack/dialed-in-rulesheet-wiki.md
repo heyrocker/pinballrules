@@ -31,9 +31,9 @@ After collecting a skill shot the ball will shoot around to upper flipper.  If y
     Hold Bonus           Bonus X Held	            Increase Bonus +1x                   Increase Bonus +3x
     Hold Spider          Spider Values Held	        Spider value increases +1500 (?)     Spider value increases +(SSV)
 
- 
+
 **B-O-B Targets**
-Each completion of the B-O-B targets lights the kickback.  Stacking of kickbacks is not available by default. 
+Each completion of the B-O-B targets lights the kickback.  Stacking of kickbacks is not available by default.
 
 Every completion of the B-O-B targets will light Crazy Bob’s.  You can stack up the 3 of these and they are remembered from ball to ball.
 
@@ -43,7 +43,7 @@ When lit Crazy Bob will award, in this order:
 - +1x Bonus Multiplier (Yellow BOB arrow/lamp)
 - Quick Multiball (Red BOB arrow/lamp)
 - +1x Bonus Multiplier (Yellow BOB arrow/lamp)
-...and repeat. 
+...and repeat.
 
 In other words, Bonus Multiplier is every even BOB and the odd BOBs cycle between Modes and Multiballs. An Extra Ball (Orange BOB arrow/lamp) will light every 3 BOB collects if the setting is on.
 
@@ -56,7 +56,7 @@ o	Frenzy:  All switch hits score!
 o	Shoot ticket in theater!  Wave at the camera to scratch off! Scratch cards are generally worth 5-10k points.
 
 _Quick Multiballs_
--	Drones Gone Wild Multiball 
+-	Drones Gone Wild Multiball
 o	Hit drone standup to drop items.  3 super jackpots to light SIM card.
 o	Jackpots for each Drone hit.  Super Jackpot is in the theatre (dropped by drone after collecting a jackpot).
 -	High Voltage Multiball
@@ -73,7 +73,7 @@ Cumulative values from combos are applied during the bonus and that value can be
 
 The arrow inserts blink yellow to indicate possible shots for continuing the combo.
 
-Extra Ball will light at the trap door after 35 and 100 combos.  
+Extra Ball will light at the trap door after 35 and 100 combos.
 
 **Inlane Hurry-Ups**
 
@@ -108,7 +108,7 @@ _Drone Mystery Awards_
 -	More tbd
 
 _Drone Combo_
-When going through a lit inner left inlane for “Light Drone” you can collect a Drone Combo if you immediately hit the Drone Target. This insert is always lit unless the Drone Mystery award is lit. Completing the Drone Combo instantly lights the Drone Mystery award at the Theater, without having to complete all the lights. 
+When going through a lit inner left inlane for “Light Drone” you can collect a Drone Combo if you immediately hit the Drone Target. This insert is always lit unless the Drone Mystery award is lit. Completing the Drone Combo instantly lights the Drone Mystery award at the Theater, without having to complete all the lights.
 
 
 
@@ -118,8 +118,8 @@ Big Bang is lit by hitting the Light Big Bang targets enough times.  The first t
 
 The award you get from Big Bang depends upon your game status:
 - 50K for starters (and increments by 10k thereafter)
--	When in a disaster mode it will instantly score all your remaining mode shots required to complete the mode, complete the mode, and thus, also light a SIM card to collect.  
-o	Note:  If you insta-complete a mode using Big Bang, your SIM Card Multiplier Bonus does not apply to the 50K or the Mode Completion bonus of 30K, but rather only the mode shots made prior to hitting Big Bang.  
+-	When in a disaster mode it will instantly score all your remaining mode shots required to complete the mode, complete the mode, and thus, also light a SIM card to collect.
+o	Note:  If you insta-complete a mode using Big Bang, your SIM Card Multiplier Bonus does not apply to the 50K or the Mode Completion bonus of 30K, but rather only the mode shots made prior to hitting Big Bang.
 -	When in a multiball it will also score all lit jackpots.
 
 Pro Tip:  The above can be combined.  For example when you are in both a mode and multiball you complete the mode and get all lit jackpots.  When you are not in a mode but in multiball you get 50K and all lit jackpots.
@@ -136,7 +136,7 @@ During a mode, the first shot to the Phone Scoop made after making a lit shot wi
 
 Collecting a Big Bang during a mode will automatically complete the mode; however, any mode multipliers you have (from prior SIM cards collected) won’t be applied to unmade shots.
 
-If you complete a mode you will score a 30K completion bonus, plus light a SIM card for collection at the SIM Card Scoop.  Collecting SIM Cards is very beneficial (see SIM Card section) to mode scoring, wizard mode progress, and wizard mode scoring. 
+If you complete a mode you will score a 30K completion bonus, plus light a SIM card for collection at the SIM Card Scoop.  Collecting SIM Cards is very beneficial (see SIM Card section) to mode scoring, wizard mode progress, and wizard mode scoring.
 
 Extra ball is lit after 3 disaster modes are played.
 
@@ -147,7 +147,7 @@ Shoot all 5 arrows to complete.
 
 _2. Eruption_
 Shoot theatre, shot value = 6,000 (hurry-up that counts down)
-Shoot right ramp, shot value = 6K + value of initial hurry-up collected.  
+Shoot right ramp, shot value = 6K + value of initial hurry-up collected.
 Shoot theatre for same value
 Shoot right ramp for same value
 Shoot theatre for same value + end of mode.
@@ -195,7 +195,7 @@ Shoot jets, build value = 3,000
 Note that the left ramp is also lit; this can be used to access the pops via the ramp diverter/pop bumper hole. Three shots will progress to the next part of the mode.
 After 6 jet hits, the Collect phase of the mode begins...
 Shoot left ramp (diverter removed), shot value = 3,000 + 3,000 per pop hit (pops still build value!)
-Shoot left ramp twice more for built value and mode completion. 
+Shoot left ramp twice more for built value and mode completion.
 
 _11. Singularity_
 Five shots will be lit individually, one at a time:
@@ -206,10 +206,10 @@ Shoot right ramp, shot value = 15,000
 Random shot picked from the above 4 shots = 16,000 (competition mode will always pick left orbit)
 
 **Under Attack Multiball (UAMB)**
-At any time during play, shoot both ramps to light lock and then lock a ball via the side ramp (or Crazy Bob’s for the first lock of the first multiball only).  
+At any time during play, shoot both ramps to light lock and then lock a ball via the side ramp (or Crazy Bob’s for the first lock of the first multiball only).
 
 UAMB is started by shooting the phone scoop. If UAMB is lit, a Disaster Mode may not be started.
- 
+
 The difficulty of lighting UAMB increases each time you play the Multiball. The number of balls in play is one more than the # of locks required to light it:
 - UAMB #1: Lock is lit as soon as first Disaster ends (completion not required). Lock one ball in either the left loop or side ramp to light UAMB.
 - 2: Shoot both ramps to light the lock at the side ramp. Lock 2 balls to light UAMB.
@@ -218,14 +218,14 @@ The difficulty of lighting UAMB increases each time you play the Multiball. The 
 - 5+: Shoot both ramps *as a combo* to light the lock at the side ramp. Note that each lock has to be collected separately and only one ramp will be lit to start the combo. Lock 3 balls to light UAMB.
 After lighting UAMB, if no Disaster Mode already running, you can defer the lit multiball by quickly hitting both flipper buttons twice as soon as the "Multiball is Lit" animation displays on the Phone. Once a Disaster is started or you drain your ball, UAMB will light again. This can be particularly helpful if you want to start a Disaster before activating UAMB.
 
-UAMB Jackpots lit in red – Left Orbit, Left Ramp, Theatre, Right Ramp.  Side Ramp =2x Jackpot.  After some number of jackpots are collected, Super Jackpot is available at QED (Yellow), Theatre (Blue), or Pop Bumper Target(Red). When a SJP is qualified, Dialed In Electronics will start attacking you from QED, the Theatre, or the Pop Bumper Target.  The attacks are indicated by the lines of light that approach your flippers from those areas. Repel an attack by hitting the origin of the attack line; this will also score a Super Jackpot. The closer the attack is to the flipper the more its worth. If the attack makes it to your flipper, it will stutter that flipper for 1-2 seconds, and be unable to flip during that period of time; you also lose the chance to collect that SJP.  
+UAMB Jackpots lit in red – Left Orbit, Left Ramp, Theatre, Right Ramp.  Side Ramp =2x Jackpot.  After some number of jackpots are collected, Super Jackpot is available at QED (Yellow), Theatre (Blue), or Pop Bumper Target(Red). When a SJP is qualified, Dialed In Electronics will start attacking you from QED, the Theatre, or the Pop Bumper Target.  The attacks are indicated by the lines of light that approach your flippers from those areas. Repel an attack by hitting the origin of the attack line; this will also score a Super Jackpot. The closer the attack is to the flipper the more its worth. If the attack makes it to your flipper, it will stutter that flipper for 1-2 seconds, and be unable to flip during that period of time; you also lose the chance to collect that SJP.
 
 Add-a-Ball: Once during any multiball – Phone scoop 3x = add-a-ball.
 
 Note:  If you use your real cell phone to connect to the game you can change the weather which makes the multiball easier somehow?
 
 **Quantum Theatre Multiball**
-Kilowatts, Spiders, Drones, and Transit points can be collected at the theatre whenever their associated image is displayed.  Lighting the associated image and increasing values of the award occurs by hitting specific shots. 
+Kilowatts, Spiders, Drones, and Transit points can be collected at the theatre whenever their associated image is displayed.  Lighting the associated image and increasing values of the award occurs by hitting specific shots.
 -	Kilowatts are increased by hitting QED.  The associated image is a tank with a lightning bolt on it and the Theater arrow will light up in yellow.
 -	Spiders are increased by hitting the Spider target.  The associated image is a Spider and the Theater arrow will light up in pink.
 -	Drones are increased by hitting the Drone target.  The associated image is a Drone and the Theater arrow will light up in purple.
@@ -254,10 +254,10 @@ _Drone Captive Ball_
 This is a 30 second mode where a Captive Ball is shown in the theatre and hitting it will collect the Drone Bonus.
 
 _Train Bash_
-This is a 30 second mode where a Door is shown in the theatre and hitting it will collect the Transit Bonus.  
+This is a 30 second mode where a Door is shown in the theatre and hitting it will collect the Transit Bonus.
 
 _Quantum Theater Multiball_
-After starting all four features, the next Theater shot will begin Quantum Theater Multiball. This can be activated at any time, even during other Multiball modes. At the start of this Multiball, Jackpots will be lit at the ramps (Transit), Spider target, Drone target, and QED (Kilowatt). Collecting all four types of Jackpot will qualify the Theater for a Super Jackpot, which is determined by how many shots have been made during the other features and the "holds" collected off of Skill Shots or Drone Mystery awards. The process will then reset, allowing the player to collect more Super Jackpots. 
+After starting all four features, the next Theater shot will begin Quantum Theater Multiball. This can be activated at any time, even during other Multiball modes. At the start of this Multiball, Jackpots will be lit at the ramps (Transit), Spider target, Drone target, and QED (Kilowatt). Collecting all four types of Jackpot will qualify the Theater for a Super Jackpot, which is determined by how many shots have been made during the other features and the "holds" collected off of Skill Shots or Drone Mystery awards. The process will then reset, allowing the player to collect more Super Jackpots.
 
 **SIM Cards**
 SIM Cards are lit for collection after:
@@ -283,7 +283,7 @@ Eight SIM Cards are required to spell D-I-A-L-E-D-I-N and qualify the Showdown W
 **Wizard Modes**
 _(I tried to use the "Hide Details" function to hide the info on the wizard modes.  While it shows up correctly in the "Preview" edit window, it doesn't seem to be working below, because it's still displayed.  Anyone: feel free to fix this if you know how.)_
 [details=Summary]_Armageddon_
-Qualified by playing all 11 disaster modes.  
+Qualified by playing all 11 disaster modes.
 Started by shooting the phone scoop.
 Instructions are:
 •	Lit Arrows Award Jackpot
@@ -295,7 +295,7 @@ _Showdown_
 * Qualified by collecting 8 SIM Cards (i.e. spelling D-I-A-L-E-D-I-N)
 * Started by shooting the Theatre.
 * The display changes to show two health meters.  One is “You” the other is “D.I.E.”
-* Then a multiball with unlimited ball saves until one of you is defeated.  
+* Then a multiball with unlimited ball saves until one of you is defeated.
 * During this showdown the Left Orbit, Left Ramp. Theatre, Right Ramp, and Side Ramp are all lit with red colored arrows for jackpot.  Hitting these will cause DIE to lose health.
 * YOU lose heath whenever you lose a ball.
 * Additionally the theater and pop bumper attacks are fast and frequent to help DIE force you to lose balls.

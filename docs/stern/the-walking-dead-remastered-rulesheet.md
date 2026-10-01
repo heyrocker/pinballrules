@@ -41,9 +41,9 @@ opdb_id: "Gj6DE"
 
 - Lead Designer: John Borg
 - Code/Rules: Lyman Sheats (original), Mark Guidarelli (revisions)
-- Mechanical Engineers: 
-- Artwork: 
-- Display and Animations: 
+- Mechanical Engineers:
+- Artwork:
+- Display and Animations:
 - Sound Design: Jerry Thompson
 - Release Date: November 2025
 - Wiki Rulesheet based on Code Rev: 0.93
@@ -104,7 +104,7 @@ During **Clear the Prison Yard**, all shots are lit along with the Prison to cle
 During phase two, the left and right ramps are lit for 500k, and either ramp will award that value and add 50k to the next left or right ramp shot. The value of each ramp shot is also added to a jackpot that is collected by shooting the Prison.
 
 Collect four jackpots of any type during Prison Multiball to start a **[Multi-Kill](#heading--multikill)**. Fully spell PRISON in 2 different Prison Multiballs to light **[Siege](#heading--siege)**.
- 
+
 Well Walker Multiball:
 
 Spell WELL 5 times to summon the Well Walker - 4 times to spell WELL, then a 5th time to engage the magnet and start the Well Walker mode.
@@ -119,9 +119,9 @@ Collect three jackpots during Well Walker Multiball to start a **[Multi-Kill](#h
 
 Blood Bath:
 
-Blood Bath multiball is qualified by collecting a full set of **[supplies](#heading--supplies)** at the drop target bank. The supply inserts light in sequence from bottom to top and back. Whenever any of the drop targets are hit, the currently lit supply will be locked in. Once all drops have been completed, the lit supply will remain solid to indicate that supply has been collected. Once all supplies have been collected, the Blood Bath insert will strobe, and the next drop target bank completion will start Blood Bath. Subsequent Blood Bath multiballs started in the same game require one more full set of supplies to qualify than before. 
+Blood Bath multiball is qualified by collecting a full set of **[supplies](#heading--supplies)** at the drop target bank. The supply inserts light in sequence from bottom to top and back. Whenever any of the drop targets are hit, the currently lit supply will be locked in. Once all drops have been completed, the lit supply will remain solid to indicate that supply has been collected. Once all supplies have been collected, the Blood Bath insert will strobe, and the next drop target bank completion will start Blood Bath. Subsequent Blood Bath multiballs started in the same game require one more full set of supplies to qualify than before.
 
-**Blood Bath** is a two ball multiball with a long ball save where each switch is worth 15K points initially. Any time the drop target bank is cleared, the value of each switch is increased by 2.5K points. Each switch hits' score is added to the blood bath jackpot value, which is collected and resets whenever the drop target bank is cleared. Super jackpots worth the total of all jackpots scored up to this point are awarded when all of the supplies are collected during blood bath. Blood Bath is the only main multiball that has add-a-balls available: two add-a-balls for the first two drop target bank completions, and one add-a-ball every time a super jackpot is scored during the multiball. 
+**Blood Bath** is a two ball multiball with a long ball save where each switch is worth 15K points initially. Any time the drop target bank is cleared, the value of each switch is increased by 2.5K points. Each switch hits' score is added to the blood bath jackpot value, which is collected and resets whenever the drop target bank is cleared. Super jackpots worth the total of all jackpots scored up to this point are awarded when all of the supplies are collected during blood bath. Blood Bath is the only main multiball that has add-a-balls available: two add-a-balls for the first two drop target bank completions, and one add-a-ball every time a super jackpot is scored during the multiball.
 
 Blood Bath can be qualified and started at any time during non-wizard mode play, even during **[Prison](#heading--prison)** or **[Well Walker](#heading--well)** multiballs.
 
@@ -131,7 +131,7 @@ Other Scoring:
 
 Multi-Kills: {#heading--prison}
 
-Multi-Kills are lit by completing or making a minimum number of shots during **[modes](#heading--deadfeatures)**, **[multiballs](#heading--multiballs)** and other game features. Once qualified, a yellow insert will light at one of the five major mode shots. Shooting the shot with a yellow insert lit **[kills 2 Walkers](#heading--walkers)** and 1/20th of the total points scored during Dead Features this game, then moves the shot to another randomly selected shot. Multi-Kill ends only once the ball drains, but can be lit on the next ball in the same way, and the value is not reset between balls. 
+Multi-Kills are lit by completing or making a minimum number of shots during **[modes](#heading--deadfeatures)**, **[multiballs](#heading--multiballs)** and other game features. Once qualified, a yellow insert will light at one of the five major mode shots. Shooting the shot with a yellow insert lit **[kills 2 Walkers](#heading--walkers)** and 1/20th of the total points scored during Dead Features this game, then moves the shot to another randomly selected shot. Multi-Kill ends only once the ball drains, but can be lit on the next ball in the same way, and the value is not reset between balls.
 
 When a Multi-Kill is qualified, one of the Multi-Kill inserts will become lit. Once all 6 inserts are lit, **[Horde](#heading--horde)** mini-wizard mode is qualified and can be started at the Woodbury shot. Multi-Kills are not active during Horde.
 
@@ -166,7 +166,7 @@ Every 10 completions of the drop targets, at any time during play, starts a **[M
 
 ### Bicycle Girl Hurry-Up: {#heading--bicyclegirl}
 
-**[Killing 5 Walkers](#heading--walkers)** (then every subsequent 20 kills) on default settings lights the left ramp to start Bicycle Girl. After shooting the left ramp, the entrance to the ramp will raise to reveal a target. Shoot the under-ramp target for points shown on the DMD which decrease in value to 250k if not made: 1.25M, then 1.5M, then 1.75M, then 2M. Once all 4 hurry-ups are scored, a hurry-up times out, or the ball drains, the mode ends. 
+**[Killing 5 Walkers](#heading--walkers)** (then every subsequent 20 kills) on default settings lights the left ramp to start Bicycle Girl. After shooting the left ramp, the entrance to the ramp will raise to reveal a target. Shoot the under-ramp target for points shown on the DMD which decrease in value to 250k if not made: 1.25M, then 1.5M, then 1.75M, then 2M. Once all 4 hurry-ups are scored, a hurry-up times out, or the ball drains, the mode ends.
 
 Making the first 3 hurry-up shots starts a **[Multi-Kill](#heading--multikill)**.
 
@@ -186,7 +186,7 @@ To score the jackpot, the player must make a full shot that goes all the way thr
 
 Shoot the right ramp to light the heads in the Governor's fish tank. The first tank requires only one head to be lit, but subsequent fish tanks require one more head to be lit than before to a maximum of 3. Completing any fish tank lights **Woodbury** and adds one award to the "list" of Woodbury awards. Completing 3 fish tanks in the same game starts a **[Multi-Kill](#heading--multikill)**, and, if the topper is installed, lights the Woodbury lane to start **Fish Tank Frenzy**. Woodbury can also be lit by shooting the **[drop target](#heading--flamethrower)** in front of the Woodbury lane enough times (2 hits + 1 per Woodbury lit through this method).
 
-**Woodbury** uses the three rollovers and two top lanes that are also part of the **[skill shot](#heading--skillshot)**. Multiple awards are shown on the display including 10k, 100k, 1M and two feature awards. The left flipper changes which rollover will give an award, while the right flipper changes which awards are lit at which rollover. The player must complete the lit rollover or lane within 5 seconds of plunging the ball to collect the award. 
+**Woodbury** uses the three rollovers and two top lanes that are also part of the **[skill shot](#heading--skillshot)**. Multiple awards are shown on the display including 10k, 100k, 1M and two feature awards. The left flipper changes which rollover will give an award, while the right flipper changes which awards are lit at which rollover. The player must complete the lit rollover or lane within 5 seconds of plunging the ball to collect the award.
 
 Every time a fish tank is completed, another feature award is added to the list of options from Woodbury. Successful Woodbury awards increase the multiplier for the next Woodbury score award by +1x.
 
@@ -272,7 +272,7 @@ If the player has reached **[Last Man Standing](#heading--lastmanstanding)**, th
 
 Don't get bit!
 
-After all 6 **[Multi-Kill](#heading--multikill)** inserts have been lit, the Horde insert will strobe as well as the dome flasher above the Woodbury lane. Shooting Woodbury at any time during single-ball play will begin **Horde** and end all currently active modes. 
+After all 6 **[Multi-Kill](#heading--multikill)** inserts have been lit, the Horde insert will strobe as well as the dome flasher above the Woodbury lane. Shooting Woodbury at any time during single-ball play will begin **Horde** and end all currently active modes.
 
 Horde begins as a 2-ball multiball where the five mode shots are lit for jackpots. These shots represent Walkers that are advancing towards the player. Initially the red arrows are lit, and as a Walker advances towards the player, the remaining inserts will light to indicate how close they are. Every Horde shot awards the current **Multi-Kill** value x the number of lit inserts at that shot (to a maximum of 4x with all 4 inserts lit). If the Walker catches up to the player, however, they will be "bit" and the mode will automatically end (also ending the current ball in play in competition mode). Walkers can also be killed by using Horde Bombs awarded from the **[weapons](#heading--supplies)** supply insert.
 
@@ -299,7 +299,7 @@ The scoring per shot in this mode is based on the combined values of the three p
 No other modes or multiballs can be started during Crossbow Frenzy, but **[Dead Features](#heading--deadfeatures)** that were started prior can be brought into the mode.
 ### Escape Terminus: {#heading--terminus}
 
-Escape Terminus is the sixth **[Dead Feature](#heading--deadfeatures)**, which is qualified by playing all five Dead Features, and relighting them afterwards via the drops. Shoot any flashing Dead Feature shot to begin the mode. 
+Escape Terminus is the sixth **[Dead Feature](#heading--deadfeatures)**, which is qualified by playing all five Dead Features, and relighting them afterwards via the drops. Shoot any flashing Dead Feature shot to begin the mode.
 
 All five Dead Feature shots are lit for a hurry-up. Shooting a lit shot collects the hurry-up, unlights the shot, and starts a new one. Collect all five hurry-ups to finish. The initial hurry-up values are dependent on your mode scores:
 
@@ -313,7 +313,7 @@ All Dead Features will reset and can be played again after this mode.
 
 ## Last Man Standing (Wizard Mode): {#heading--lastmanstanding}
 
-**[Kill all 115 Walkers](#heading--walkers)** to light Last Man Standing at the Woodbury shot. The wizard mode cancels out all other currently active modes if they are running. 
+**[Kill all 115 Walkers](#heading--walkers)** to light Last Man Standing at the Woodbury shot. The wizard mode cancels out all other currently active modes if they are running.
 
 Last Man Standing is a 4-ball multiball where you must kill another 115 walkers. This time, though, the walker count lights will count *down* from 115, signifying how many more are remaining. The value per Walker killed starts at 1M and increases by 400k per kill. Any shot with all five of its inserts lit will kill 5 Walkers, and the most recent shot made will be unlit until another shot is made. Add-a-balls are available at every 10 Walkers killed during the mode. If all 4 balls are in play already, this will add 5 seconds of ball save.
 

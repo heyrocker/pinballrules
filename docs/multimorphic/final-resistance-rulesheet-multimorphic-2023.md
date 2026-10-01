@@ -118,7 +118,7 @@ Walls will come up and the ball will be shot at the flippers from the ship (or t
 
 Shooting the open wall advances rounds, moves the wall, and adds a second ball in play (up to a max of 3). If the ball is not shot in to the scoop in a short time (8-10 seconds), balls will be added and the wall will move (balls added can go above 3 balls in play).
 
-At any time, draining any of the balls shot to the lower playfield will “end” the mode: All scoops will turn white and open, and any shots will deposit the balls back into the trough via the scoops. 
+At any time, draining any of the balls shot to the lower playfield will “end” the mode: All scoops will turn white and open, and any shots will deposit the balls back into the trough via the scoops.
 
 ### The Fuse {#heading--thefuse}
 
@@ -136,7 +136,7 @@ Victory Criteria: Move the battle line all the way to the right to defeat the en
 
 Pre-Emptive Strike Advantage: Battle line starts further right
 
-At the start of ground war, the virtual inserts at the top of the screen will all light yellow, green, or red from left to right. The goal is to advance shots so that the green shot gets all the way to the right orbit and beyond to win. 
+At the start of ground war, the virtual inserts at the top of the screen will all light yellow, green, or red from left to right. The goal is to advance shots so that the green shot gets all the way to the right orbit and beyond to win.
 
 Over time, if shots are not hit, the green shot will move to the left and the prior green shot will turn red. Hitting shots will move the green shot to the right, and the prior green shot will become yellow. How much progress to the right is earned will be determined by the color of the hit shot: red advances progress a little, yellow a little more, and hitting a green shot advances it the furthest.
 
@@ -148,11 +148,11 @@ Victory Criteria: Hit each of 4 shots twice. Hitting each shot once will achieve
 
 Pre-Emptive Strike Advantage:
 
-Build shields to protect yourself from a giant laser that will be shot at the end of a timed mode. 4 shots around the playfield will be lit blue, and hitting them will build a shield at that location. They are: Left orbit, Spinner lane, Right ramp, and Right Orbit. Successfully hitting a shot will add a shield light at that shot on the playfield. Using a Simplify powerup will spot one shield at the left two locations. Time slowdown can be used to give extra time to complete all shots. 
+Build shields to protect yourself from a giant laser that will be shot at the end of a timed mode. 4 shots around the playfield will be lit blue, and hitting them will build a shield at that location. They are: Left orbit, Spinner lane, Right ramp, and Right Orbit. Successfully hitting a shot will add a shield light at that shot on the playfield. Using a Simplify powerup will spot one shield at the left two locations. Time slowdown can be used to give extra time to complete all shots.
 
 At the conclusion of the timer (indicated by the ring around the mode icon in the center of the playfield), a laser will be shot, sweeping your shields from right to left. It is possible to keep building shields during this time.
 
-Victory will be achieved by having two shields at each location at the completion of the laser. Survival points will be granted if one shield is in each location. 
+Victory will be achieved by having two shields at each location at the completion of the laser. Survival points will be granted if one shield is in each location.
 
 ### Power Down {#heading--powerdown}
 
@@ -176,7 +176,7 @@ Missile Wave requires three shots to complete the sequence:
 - Hit the left ramp to “arm” the missile to the ship, and
 - Hit the right ramp to shoot the missile at the ship
 
-Shots will light on the right half of the playfield after the second step in either green, yellow or red. Green shots (right ramp) will do full damage to the ship (50% of the enemy health). Yellow shots (those adjacent to the right ramp) will do some partial damage. Red shots will see the enemy destroy the missile before it is launched, causing no damage. 
+Shots will light on the right half of the playfield after the second step in either green, yellow or red. Green shots (right ramp) will do full damage to the ship (50% of the enemy health). Yellow shots (those adjacent to the right ramp) will do some partial damage. Red shots will see the enemy destroy the missile before it is launched, causing no damage.
 
 ### Swarm {#heading--swarm}
 
@@ -184,7 +184,7 @@ Victory Criteria: Hit a jackpot
 
 Pre-Emptive Strike advantage: No perceptible change, though you will lose your pre-emptive strike.
 
-Swarm is always the 5th battle you will face. It is an 8 ball multiball that begins by the walls all coming up and the game queueing all 8 balls above the walls before dropping them to begin. There is no ball save during this multiball. 
+Swarm is always the 5th battle you will face. It is an 8 ball multiball that begins by the walls all coming up and the game queueing all 8 balls above the walls before dropping them to begin. There is no ball save during this multiball.
 
 Jackpot shots are at the shots behind the shield (Tip: use hacks to open the shield!). Shield can be opened by hitting orange-lit shots around the playfield. Jackpots are multiplied by the number of balls in play. After a period of time (~15 seconds) the shield will lower again. Play continues until a single ball remains.
 

@@ -55,7 +55,7 @@ opdb_id: "Gj6PZ"
 
 ## Destroying Tanks: {#heading--tanks}
 
-Shoot the flashing center target bank to demolish Empress Annoya's tank armada. The tanks can either be destroyed via direct shots to the center target bank, or can be destroyed in a single shot by shooting the blue "charge methane" shots then making a dead-on shot to the blue flashing target. The color of the light at each center target correspond to more damage, with the target directly in the middle of the bank often scoring more than targets off to the sides. 
+Shoot the flashing center target bank to demolish Empress Annoya's tank armada. The tanks can either be destroyed via direct shots to the center target bank, or can be destroyed in a single shot by shooting the blue "charge methane" shots then making a dead-on shot to the blue flashing target. The color of the light at each center target correspond to more damage, with the target directly in the middle of the bank often scoring more than targets off to the sides.
 
 - **Tanks 1, 3**: Standard battle. Shoot the red center target to deal the most damage.
 - **Tank 2, 4**: One of Annoya's robots challenges you by making the red target constantly move from left to right. Time your shot for the best chance at victory.
@@ -95,7 +95,7 @@ Shots to the pop bumpers increase the reactors' power, indicated by the blue ins
 
 ### Cow-A-Bongo: {#heading--cows}
 
-Shoot the moving UFO target to rescue the cows from Annoya's clutches. After saving all currently available cows, the next shot to the target will start Cow-A-Bongo multiball as the cows throw a party in your honor for doing your dairy duty. 
+Shoot the moving UFO target to rescue the cows from Annoya's clutches. After saving all currently available cows, the next shot to the target will start Cow-A-Bongo multiball as the cows throw a party in your honor for doing your dairy duty.
 
 ## Other Scoring: {#heading--other}
 

@@ -24,7 +24,7 @@ opdb_id: "GBLzz"
   - [Soundwave Modes](#heading--soundwave)
   - [Outlane Ball Saves / Countdown to Extinction](#heading--extinction)
   - [Extra Balls](#heading--extraballs)
-  - [End-of-Ball Bonus](#heading--bonus)  
+  - [End-of-Ball Bonus](#heading--bonus)
 - [Wizard Modes](#heading--wizard)
   - [One Shall Fall (Mini-Wizard Mode)](#heading--oneshallfall)
   - [Rescue Optimus (Mini-Wizard Mode)](#heading--rescue)
@@ -35,9 +35,9 @@ opdb_id: "GBLzz"
 
 - Lead Designer: Elliot Eismin
 - Code/Rules: Elizabeth Gieske
-- Mechanical Engineers: 
-- Artwork: 
-- Display and Animations: 
+- Mechanical Engineers:
+- Artwork:
+- Display and Animations:
 - Sound Design: Jerry Thompson
 - Release Date: June 2026
 - Wiki Rulesheet based on Code Rev: 0.90
@@ -56,7 +56,7 @@ Short plunge the ball to the upper flipper, then hit any shot from the upper fli
 - Side ramp - scores 5M and +8 second ball save
 - Space bridge - scores 8M and +10 second ball save
 
-There is also a secret skill shot: short plunge to the lower right flipper, hit the left orbit where Grimlock is, then make any of the three shots listed above from the upper flipper. The highest secret skill shot value is 15M for hitting the space bridge this way. 
+There is also a secret skill shot: short plunge to the lower right flipper, hit the left orbit where Grimlock is, then make any of the three shots listed above from the upper flipper. The highest secret skill shot value is 15M for hitting the space bridge this way.
 
 # Main Modes: {#heading--modes}
 
@@ -80,19 +80,19 @@ The five missions are:
 
 - **Autobot Run**: Help the Autobots win a charity race. Make five blue arrow shots to light the final blow - two adjacent shots are lit at a time. Shooting quickly flashing blue shots scores 3x, in the following sequence: center spinner - left ramp - right orbit - left orbit - side ramp.
   - **Energized**: Shoot five blue arrows or targets to light final blow.
-  - **Rusted**: Only one shot is lit to advance at a time, and comboing them will score 4x. 
+  - **Rusted**: Only one shot is lit to advance at a time, and comboing them will score 4x.
 - **Microbots**: Shoot any ramp to light a drop target, missed drop targets unlight. Shooting further ramps increases the drop target multiplier and adds an additional lit drop target. Complete 3 lit drop targets to light final blow.
-  - **Energized**: Shoot any shot to light drop targets, complete 3 lit drop targets to light final blow shot. 
+  - **Energized**: Shoot any shot to light drop targets, complete 3 lit drop targets to light final blow shot.
   - **Rusted**: Shoot left ramp to light a random drop target, missed targets unlight, complete 3 to light final blow shot. Right ramp increases the drop target multiplier, 1 time only.
 - **Solar Needle**: Deactivate the solar needle by hitting 2 lit cyan standup targets to light the captive ball. Additional cyan target hits increase captive ball value, red target hits reduce captive ball value. Hit 3 lit captive balls to light final blow shot.
   - **Energized**: Only requires 1 cyan target hit to light captive ball.
   - **Rusted**: Requires 3 cyan target hits to light captive ball. All major shots count as red and reduce the captive ball value.
 - **Prime Target**: Optimus has been captured by a hunter. Shoot the lit ramps and bash Optimus to increase shot value. Comboing ramps scores 2x the value. Make 6 lit ramps to light the final blow.
-  - **Energized**: 
+  - **Energized**:
   - **Rusted**: Shoot lit ramp, each combo is +1x. Shoot Optimus to build value and relight ramps.
 - **Golden Lagoon**: Lit yellow shots (ramps and VUK) add to spinner value, collect 25M from the spinner to light final blow shot. Spinner value begins at 60K/spin.
   - **Energized**: Collect 10M to light final blow shot.
-  - **Rusted**: Collect 60M to light final blow shot. 
+  - **Rusted**: Collect 60M to light final blow shot.
 
 ## Dinobot Missions: {#heading--dinobot}
 
@@ -129,8 +129,8 @@ Score 2 jackpots in a wave to light the side ramp and space bridge shots for sup
 ## Autobot Hurry-Up: {#heading--autobot}
 
 Light the left inlane after completing the Megatron drop targets, and roll through the lit left inlane a total of 2 times *without* rolling through the lit right inlane to light this hurry-up mode at the left ramp.
- 
-3 shots are lit pink to collect the hurry-up value, which resets with each shot and starts at 15M: the right ramp, center spinner, and side ramp. The second time, these shots are at the left orbit, right orbit, and side ramp, and start at 25M. The mode ends once the value reaches its minimum or all 3 hurry-ups are scored. 
+
+3 shots are lit pink to collect the hurry-up value, which resets with each shot and starts at 15M: the right ramp, center spinner, and side ramp. The second time, these shots are at the left orbit, right orbit, and side ramp, and start at 25M. The mode ends once the value reaches its minimum or all 3 hurry-ups are scored.
 
 ## Starscream Frenzy: {#heading--starscream}
 
@@ -140,7 +140,7 @@ Light the right inlane after completing the Megatron drop targets, and roll thro
 
 ## Tech Specs, Action Button & Tech Spec Mania: {#heading--techspec}
 
-Shoot the standup targets near major shots to light the shots near them for Tech Specs. There are five colors of tech spec, one for each different Combiner. Tech Specs help spot **[combiner parts](#heading--combiner)**, and if a **[mission](#heading--modes)** has been completed, will multiply all scores at the mission-specific shot if a Tech Spec is also scored there. Collect 15 tech specs of any color to light **[extra ball](#heading--extraballs)**. 
+Shoot the standup targets near major shots to light the shots near them for Tech Specs. There are five colors of tech spec, one for each different Combiner. Tech Specs help spot **[combiner parts](#heading--combiner)**, and if a **[mission](#heading--modes)** has been completed, will multiply all scores at the mission-specific shot if a Tech Spec is also scored there. Collect 15 tech specs of any color to light **[extra ball](#heading--extraballs)**.
 
 Making **[cassette combos](#heading--cassette)** will light the action button to temporarily light all shots for tech specs for 15 seconds.
 
@@ -245,7 +245,7 @@ This mini-wizard mode is played in 3 phases, each lasting 70 seconds. 30 seconds
 
 ## Dinobot Desertion (Mini-Wizard Mode): {#heading--desertion}
 
-Light **Dinobot Desertion** at the VUK by scoring 3 dino jackpots across any **[dinobot mission](#heading--dinobot)**. If the player scored 3 dino jackpots in *each* mission, then the VUK will light to start **Super Dinobot Desertion**. 
+Light **Dinobot Desertion** at the VUK by scoring 3 dino jackpots across any **[dinobot mission](#heading--dinobot)**. If the player scored 3 dino jackpots in *each* mission, then the VUK will light to start **Super Dinobot Desertion**.
 
 - *Phase One* (60 seconds): Based on whatever Dinobot missions the player completed prior, and timed for 30 seconds + 15 seconds per Dinobot mission completed. **War** - slingshots will build the jackpot by 250k. **Island** - switches build the jackpot by 75k, spinner increases jackpot by 12k per spin. **S.O.S.** - shots / targets build the jackpot by 100k. Shoot the lit shots described above to build the jackpot. Shooting Megatron before time expires and without draining to triple the jackpot value.
 - *Phase Two*: The left orbit and Grimlock stand-up targets are lit. Stand-up targets score 0.5x the jackpot value. The left orbit scores 1x the jackpot value. Shooting the left orbit lights a combo to the side ramp or Optimus for a 2x jackpot, then right ramp for 2x jackpot, then the sequence repeats. Phase 2 lasts 30 seconds.

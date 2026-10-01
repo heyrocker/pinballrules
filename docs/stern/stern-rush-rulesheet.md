@@ -89,7 +89,7 @@ Skill shots can be scored at any upper flipper shot, though they are disabled if
 
 ## Time Machine Upgrades - Getting to 2112: {#heading--upgrades}
 
-The overarching goal of the game is to advance your Time Machine 100 **years** past 2012 to qualify the **2112** wizard mode. Every time 10 years are collected, the time machine will light *green* to collect an upgrade that affects gameplay either for the rest of the ball or the rest of the game. 
+The overarching goal of the game is to advance your Time Machine 100 **years** past 2012 to qualify the **2112** wizard mode. Every time 10 years are collected, the time machine will light *green* to collect an upgrade that affects gameplay either for the rest of the ball or the rest of the game.
 
 Years can be collected by:
 
@@ -141,10 +141,10 @@ Winning all six modes lights **[Cygnus X-1 Book 2 - Hemispheres](#heading--cygnu
 
 * **Tom Sawyer (Cyan | Moving Pictures)**: Three phases of shots, must clear all shots in current phase to light shots in the next phase. Failing the mode and restarting it will start you back at whatever phase you left off in, but with all shots lit. First phase - both orbits. Second phase - both ramps. Third phase - all shots. Shots start at 2 million + 250,000 per shot.
 * **Working Man (Orange | Rush)**: Shots progress the workday clock, starting at 9am and ending at 5pm. Hitting any orange shot will award 10 minutes and relight all the other orange shots. Left orbit, side loop, or side ramp will award 20 minutes and 3x the shot value. Shots start at 75,000 + 25,000 per shot. Random events worth 1.5M + 500K per event are awarded at 9:15am, 10:00am, 11:00am, 12:00pm, 1:00pm, 2:00pm, 2:45pm, 3:30pm, and 4:15pm; these can't be multiplied. Left orbit ends the mode and clocks out once 5pm has been reached.
-* **The Spirit of Radio (Blue | Permanent Waves)**: All shots are lit to score points and light the radio jackpot at the Dead End shot based on their values. Each spin raises the value of the non-jackpot playfield shots, which start at 1M, by 2000 per spin and maxes at 4M; and the more shots are made, the more radio jackpots can be cashed out - each shot can be made up to 5 times. Cash out 5 jackpots, individually or all at once, to win. 
-* **The Big Money (Pink | Power Windows)**: Three phases, each phase takes one more shot than the last to light Time Machine for Big Money. The first phase takes three shots. When Big Money is lit you can either collect it or keep hitting shots to multiply it; these will be blinking slower than the ones that are otherwise lit and will always be the same as the shots you chose when you were lighting Big Money. Collect the third big money to win mode. Shots start at 1M + 150K per shot or multiplier increase. The multiplier carries throughout the mode, thus with perfect play your last jackpot will be 3 + 4 + 5 + 1x = 13x. 
+* **The Spirit of Radio (Blue | Permanent Waves)**: All shots are lit to score points and light the radio jackpot at the Dead End shot based on their values. Each spin raises the value of the non-jackpot playfield shots, which start at 1M, by 2000 per spin and maxes at 4M; and the more shots are made, the more radio jackpots can be cashed out - each shot can be made up to 5 times. Cash out 5 jackpots, individually or all at once, to win.
+* **The Big Money (Pink | Power Windows)**: Three phases, each phase takes one more shot than the last to light Time Machine for Big Money. The first phase takes three shots. When Big Money is lit you can either collect it or keep hitting shots to multiply it; these will be blinking slower than the ones that are otherwise lit and will always be the same as the shots you chose when you were lighting Big Money. Collect the third big money to win mode. Shots start at 1M + 150K per shot or multiplier increase. The multiplier carries throughout the mode, thus with perfect play your last jackpot will be 3 + 4 + 5 + 1x = 13x.
 * **La Villa Strangiato (Purple | Hemispheres)**: Combo mode. One shot is lit at a time to progress through the twelve movements of the song, combo into the next shot within 5 seconds to **multiply** the next shot by the combo streak length. Finish at shot number 12, the final song movement. Shots start at 2M + 250K per shot. *Shot sequence*: R ramp, R ramp, dead end shot, L orbit / spinner, side ramp / side scoop, spinner, side loop, any upper flipper shot, Time Machine, side ramp, L orbit, side scoop. After the side loop is made, it can be repeatedly shot to spot the next four shots.
-* **Limelight (Green | Moving Pictures)**: Hit any shot to collect points, add 5% fame, and start a 15 second Fame Timer (which resets if a shot is made when less than 5 seconds remain). Hit faster blinking shots (cycling between left - center - right) for 3x value and 10% fame. When 15 seconds runs out, shoot the Time Machine to relight arrows and increase their value. Get to 100% Fame to light Time Machine to Escape The Fame and complete the mode. Shots start at 250K, and the shot increment starts at 150K but shot increment ***also increments*** by 50K. 
+* **Limelight (Green | Moving Pictures)**: Hit any shot to collect points, add 5% fame, and start a 15 second Fame Timer (which resets if a shot is made when less than 5 seconds remain). Hit faster blinking shots (cycling between left - center - right) for 3x value and 10% fame. When 15 seconds runs out, shoot the Time Machine to relight arrows and increase their value. Get to 100% Fame to light Time Machine to Escape The Fame and complete the mode. Shots start at 250K, and the shot increment starts at 150K but shot increment ***also increments*** by 50K.
 
 **Rainbow records**: Completing any mode earns a rainbow record.  To place it, shoot any shot that doesn't already have a rainbow record.  Rainbow records give a 2x shot multiplier for all purposes.  They remain in place until the **[2112](#heading--2112)** wizard mode.  (Old code prior to 1.10 has different behavior.  You earn a rainbow record every time you *light* or complete a song mode.  The shot multiplier escalates per rainbow record up to a max of 4x for all of them.  These rainbow records are lost on draining, so it was really bad if you drained before starting your wizard modes.)
 
@@ -170,7 +170,7 @@ runway lights:
 	 ‒ Fly by night: Lights rove upward toward time machine, marching in sequence
 
 The dead end shot changes which multiball is lit.
- 
+
 Each multiball is played with 2 balls, though upgrading the time machine by collecting **[years](#heading--upgrades)** can add more balls to these modes.
 
 * **Red Barchetta Multiball** (Red | Moving Pictures): All switches and jackpots boost the RPMs of the Red Barchetta. Once the RPMs have redlined, hit enough bumpers to score a super jackpot worth the total of the jackpots collected this gear, +2 **[years](#heading--upgrades)**, and move on to the next gear with increased scoring. Victory laps at gear 6. Jackpots start at 750k + 250k per **decade**.
@@ -188,16 +188,16 @@ Shoot the "LIGHT LOCK" standup targets near the right ramp to light the lock at 
 
 Advance the **[Drum Clock](#heading--drumclock)** to midnight, then shoot the right orbit to start Headlong Flight Multiball. This multiball can be started at any time once it has been lit, and thus can be stacked with other multiballs. Once this multiball starts, however, the usual stacking rules apply. Balls can be added by using the **[Weapon](#heading--combojp)** if the *Clockwork Angels* album has been qualified.
 
-* **During Multiball:** Jackpots can be scored at the side loop and side ramp for 1 million x the current clock hour, which starts at 12 o' clock and counts backward by 1 hour every few seconds. Combo the side loop into the side ramp (whether or not the side loop has been collected) for Super Jackpot worth 3x the jackpot value & +5 **[years](#heading--upgrades)**. The right ramp is also lit as a jackpot and, if collected, will relight both side shots and set the clock back to 12. 
+* **During Multiball:** Jackpots can be scored at the side loop and side ramp for 1 million x the current clock hour, which starts at 12 o' clock and counts backward by 1 hour every few seconds. Combo the side loop into the side ramp (whether or not the side loop has been collected) for Super Jackpot worth 3x the jackpot value & +5 **[years](#heading--upgrades)**. The right ramp is also lit as a jackpot and, if collected, will relight both side shots and set the clock back to 12.
 * **Mega / Ultra Jackpot:** If you hit both side shots, the right ramp will instead light for a Mega Jackpot or Ultra Jackpot based on the sum of the values obtained from the two side shots made. Mega = no Super Jackpot scored; Ultra = Super Jackpot was scored. This also scores the current clock hour x 2 million (x 4 million for Ultra Jackpot).
 
 ### Freewill Multiball: {#heading--freewillmb}
 
 Collect all three **[Instruments](heading--instruments)** by completing the drop target bank, then shoot the instrument lane to start Freewill Multiball (and lock a ball on Prem / LE; jackpots can be increased by hitting the captive ball on this model). Balls can be added by using the **[Weapon](#heading--combojp)** if the *Permanent Waves* album has been qualified.
 
-**During Multiball**: (On Premium / LE models, the mode starts by locking the ball at the instrument lane, and repeatedly shooting the ball increases the base jackpot values. This phase ends and multiball starts after 20 seconds). 
+**During Multiball**: (On Premium / LE models, the mode starts by locking the ball at the instrument lane, and repeatedly shooting the ball increases the base jackpot values. This phase ends and multiball starts after 20 seconds).
 
-You have “freewill” to choose which jackpot shot you want to go for, hitting it turns it into a Super Jackpot. Collect the super jackpot and then all shots become lit again (except the one you just made), at which point you can choose which jackpot to go for next. 
+You have “freewill” to choose which jackpot shot you want to go for, hitting it turns it into a Super Jackpot. Collect the super jackpot and then all shots become lit again (except the one you just made), at which point you can choose which jackpot to go for next.
 
 Every 3 unique super jackpots adds +5 **[years](#heading--upgrades)**. Jackpots start at 750,000 and increment by 750,000 per Freewill Multiball played; each jackpot boosts the value of the next by 250,000.
 
@@ -215,9 +215,9 @@ Complete the instrument drop targets to *collect* instruments and qualify **[Fre
 
 Shooting the instrument dead-end stand-up target will *activate* the current instrument's perk as well as any other instrument that had been *collected* but not yet *activated*. The timer for each *activated* instrument perk starts at 60 seconds and resets if another instrument is *activated* before the timer expires:
 
-- Bass - **Combos** score 2x and can be collected during multiball modes. On default settings, combos do not qualify **[albums](#heading--combojp)** during multiball, just score points that are added into the **Combo Jackpot**. 
+- Bass - **Combos** score 2x and can be collected during multiball modes. On default settings, combos do not qualify **[albums](#heading--combojp)** during multiball, just score points that are added into the **Combo Jackpot**.
 - Guitar - +1x multiplier for spinner shots.
-- Drumsticks - All bumper hits count 2x minutes, score 2x, and advance the clock during ball save of **[multiball modes](#heading--multiballs)**. **[Drum Bonus](#heading--drumclock)** is doubled. 
+- Drumsticks - All bumper hits count 2x minutes, score 2x, and advance the clock during ball save of **[multiball modes](#heading--multiballs)**. **[Drum Bonus](#heading--drumclock)** is doubled.
 
 Each instrument collected also lights all major shots for the **instrument bonus** based on points that had been collected from each instruments' perk, multiplied by +1x each time it has been scored. Scoring a 6x instrument bonus adds +5  **[years](#heading--upgrades)**, one time only.
 
@@ -227,7 +227,7 @@ During single ball play or after the ball save has expired during any **[multiba
 
 Collecting the **[drumsticks](#heading--instruments)** will upgrade a bumper +1 minute and light **Drum Solo** behind the upper flipper, which temporarily doubles all minutes collected; and activating them will double all minutes and allow them to be collected during the ball save during **[multiball modes](#heading--multiballs)**. Shooting under the upper flipper will advance two bumpers +1 minutes. Shooting the right orbit will advance one pop bumper +1 minute. The values of each bumper are maintained across balls until the first Headlong Flight Multiball is played during a game, and once that multiball is played, the bumpers are reset to 1 minute per bumper.
 
-**Drum Bonus** is shown on the UI inside of the drum clock area (on the right side of the screen) and each pop bumper hit adds to the value. Drum Bonus lights at the left orbit for 5 seconds when a ball rolls over either right inlane, or permanently after advancing a full hour. Every hour collected also lights **Clock Bonus** at the right orbit for 1M x the current clock hour. If Clock Bonus is lit, the left inlane will temporarily light the right orbit to score 2x the value. 
+**Drum Bonus** is shown on the UI inside of the drum clock area (on the right side of the screen) and each pop bumper hit adds to the value. Drum Bonus lights at the left orbit for 5 seconds when a ball rolls over either right inlane, or permanently after advancing a full hour. Every hour collected also lights **Clock Bonus** at the right orbit for 1M x the current clock hour. If Clock Bonus is lit, the left inlane will temporarily light the right orbit to score 2x the value.
 
 ### Side Loop & Bonus X: {#heading--loops}
 
@@ -246,7 +246,7 @@ The side loop is also used to increase the bonus multiplier after enough spinner
 
 ### Combo Jackpot & Albums: {#heading--combojp}
 
-Shoot the flashing 1-2-3 shots in order to light the **Combo Jackpot** at the Time Machine. Collecting the Combo Jackpot also collect a unique **Album** for each combo made. Each 1-2-3 combo shot scores the current combo value, multiplied by the shot number (1, 2, or 3) +2x if the combo was scored quickly and +2x if the **[bass](#heading--instruments)** is currently active. Multipliers from **[rainbow records](#heading--planets)** also multiply these values. All combo points are added into the Combo Jackpot, completing combos while the jackpot is lit increases its multiplier by +1x, and draining the ball resets the combo jackpot value (*and disables the combo jackpot / combo super jackpot*). 
+Shoot the flashing 1-2-3 shots in order to light the **Combo Jackpot** at the Time Machine. Collecting the Combo Jackpot also collect a unique **Album** for each combo made. Each 1-2-3 combo shot scores the current combo value, multiplied by the shot number (1, 2, or 3) +2x if the combo was scored quickly and +2x if the **[bass](#heading--instruments)** is currently active. Multipliers from **[rainbow records](#heading--planets)** also multiply these values. All combo points are added into the Combo Jackpot, completing combos while the jackpot is lit increases its multiplier by +1x, and draining the ball resets the combo jackpot value (*and disables the combo jackpot / combo super jackpot*).
 
 The combos, and their corresponding albums & song modes, are:
 
@@ -263,9 +263,9 @@ The combos, and their corresponding albums & song modes, are:
 |Signals | Right Ramp | Spinner Lane | Side Ramp | **[Subdivisions](#heading--timemachinemb)**|
 |Hemispheres | Right Ramp | Right Orbit |  | **[La Villa Strangiato](#heading--planets)**|
 
-Collecting five albums lights the **[extra ball](#heading--extraball)**, and collecting all ten albums adds +1x to all further combo jackpots & allows albums to be collected again. 
+Collecting five albums lights the **[extra ball](#heading--extraball)**, and collecting all ten albums adds +1x to all further combo jackpots & allows albums to be collected again.
 
-After scoring the Combo Jackpot, the side ramp lights for Combo Super Jackpot worth 2x the value of the Combo Jackpot. The number of 1-2-3 shots scored determines how long the Combo Super Jackpot is lit for. 
+After scoring the Combo Jackpot, the side ramp lights for Combo Super Jackpot worth 2x the value of the Combo Jackpot. The number of 1-2-3 shots scored determines how long the Combo Super Jackpot is lit for.
 
 Collecting a Combo Jackpot or Combo Super Jackpot awards **[+1 year](#heading--upgrades)**, up to a maximum of 14 years combined from these methods per game.
 
@@ -300,7 +300,7 @@ Complete the RUSH standup targets, then shoot the right ramp to start Bastille D
 
 Every time Bastille Day is started, more completions of the RUSH targets will be required to light it again, shown in the UI as the **red** number fraction by the RUSH targets.
 
-Two completions of the RUSH targets lights a **ball save** at either outlane, which can be changed using the flippers. 
+Two completions of the RUSH targets lights a **ball save** at either outlane, which can be changed using the flippers.
 
 ### Roll the Bones Mystery: {#heading--mystery}
 
@@ -378,7 +378,7 @@ Bonus is comprised of six categories, each with two parts: a bonus based on what
 Bozo bonus of **21,120** if you somehow had zero bonus otherwise (difficult to do unless you short plunge and don't hit any pops).
 
 #### Bonus X:
-Shooting the spinner will count down to light bonus X at the side loop. Each bonus X takes an increasing number of spins (and the number it increases by, also increases) to light. 
+Shooting the spinner will count down to light bonus X at the side loop. Each bonus X takes an increasing number of spins (and the number it increases by, also increases) to light.
 
 |Multipliers|Spins required|
 |---|---|
@@ -397,13 +397,13 @@ Max bonus X at 25x. If the guitar is active or a shot multiplier is active on th
 
 Start all six multiball modes to light this wizard mode at the time machine.
 
-*The Voyage* illustrates a spaceship taking off, exploring the galaxy and eventually escaping a black hole; the player controls the spaceship in this mode and must guide their ship across three planets before their escape. While the mode starts out with only a single ball, every new planet visited, completing 50% of the shots required for each planet, or collecting add-a-ball from **mystery**, adds a ball into play. 
+*The Voyage* illustrates a spaceship taking off, exploring the galaxy and eventually escaping a black hole; the player controls the spaceship in this mode and must guide their ship across three planets before their escape. While the mode starts out with only a single ball, every new planet visited, completing 50% of the shots required for each planet, or collecting add-a-ball from **mystery**, adds a ball into play.
 
 Jackpot values for the mode are determined by:
 - Base jackpot (used for victory laps) = 1M + 1.5M x total **[Headlong Flight MB](#heading--headlongmb)** Super & Mega Jackpots
 - Yellow Planet jackpots = 1M + 1.5M x total **[Freewill MB](#heading--freewillmb)** Super Jackpots
 - Blue Planet jackpots = 1M + 2M x total **[Far Cry MB](#heading--farcrymb)** Super Jackpots + 3M x total **[One Little Victory Laps](#heading--farcrymb)** Super Jackpots
-- Purple Planet jackpots = 1M + 1M x **[Red Barchetta MB](#heading--timemachinemb)** Super Jackpots + 2M x **Fly by Night MB** Super Jackpots + 3M x **Subdivisions MB** Super Jackpots 
+- Purple Planet jackpots = 1M + 1M x **[Red Barchetta MB](#heading--timemachinemb)** Super Jackpots + 2M x **Fly by Night MB** Super Jackpots + 3M x **Subdivisions MB** Super Jackpots
 
 Each planet is started by shooting an initial shot, can only be played once per wizard mode, and must be completed by making enough shots on the current planet:
 

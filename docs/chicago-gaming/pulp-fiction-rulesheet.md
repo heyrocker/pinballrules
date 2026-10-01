@@ -57,7 +57,7 @@ Holding the left flipper on the plunge will light all the Payoff inserts for a S
 
 ## Main Objectives: {#heading--objectives}
 
-There are five main features listed above the flippers that need to be completed to access the final wizard mode, **[Divine Intervention](#heading--wizard)**. Multiball modes are mutually exclusive and can't be started while another is running, but progress can be made towards starting them during single-ball play at any time. 
+There are five main features listed above the flippers that need to be completed to access the final wizard mode, **[Divine Intervention](#heading--wizard)**. Multiball modes are mutually exclusive and can't be started while another is running, but progress can be made towards starting them during single-ball play at any time.
 
 ### Briefcase Boogie: {#heading--briefcase}
 
@@ -83,9 +83,9 @@ To light this objective solid, score at least one **super payoff**.
 
 ### Roll Scene: {#heading--scene}
 
-Shoot the right drop target to light **[outlane ball save](#heading--save)** and qualify the saucer behind the drop target to start the next Scene. This saucer also collects any qualified **[characters](#heading--cast)**. 
+Shoot the right drop target to light **[outlane ball save](#heading--save)** and qualify the saucer behind the drop target to start the next Scene. This saucer also collects any qualified **[characters](#heading--cast)**.
 
-Scenes are 40-second long timed modes. They cannot be stacked with any multiball mode, but instead will be paused and pick up where it left off after multiball ends. In the final 10 seconds of any Scene, the saucer behind the right drop target can be shot to collect the value that the player built up while playing the Scene, *plus* the base value from any other previous Scene successful collects throughout the game. Playfield Multipliers gained from **[Big Kahuna Bonus](#heading--kahuna)** will be applied to this collect as well as the build phase for each Scene.  
+Scenes are 40-second long timed modes. They cannot be stacked with any multiball mode, but instead will be paused and pick up where it left off after multiball ends. In the final 10 seconds of any Scene, the saucer behind the right drop target can be shot to collect the value that the player built up while playing the Scene, *plus* the base value from any other previous Scene successful collects throughout the game. Playfield Multipliers gained from **[Big Kahuna Bonus](#heading--kahuna)** will be applied to this collect as well as the build phase for each Scene.
 
 The four Scenes are, from top to bottom:
 

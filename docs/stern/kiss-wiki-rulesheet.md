@@ -41,9 +41,9 @@ opdb_id: "G4qX5"
 - Super Bumpers
 - Super Scoring (replaces the “Fast Scoring” in older code)
 - Bonus X
-- Hold Bonus 
+- Hold Bonus
 
-**City Combos:** There are 15 unique City Combos available in KISS by making certain combinations of shots in a row. Completing a City Combo scores a bonus of 1 million times the number of shots involved in the Combo. On default settings, completing 5 City Combos lights the Extra Ball. 
+**City Combos:** There are 15 unique City Combos available in KISS by making certain combinations of shots in a row. Completing a City Combo scores a bonus of 1 million times the number of shots involved in the Combo. On default settings, completing 5 City Combos lights the Extra Ball.
 
 *List of City Combos:*
 
@@ -57,7 +57,7 @@ opdb_id: "G4qX5"
 - Atlanta (3-Way): Center ramp - right ramp - Backstage Pass scoop
 - Orlando (3-Way): Center ramp - right ramp - STAR targets
 - Mexico City (4-Way): Center ramp - right ramp - left orbit - Backstage Pass scoop
-- Tokyo (4-Way): Center ramp - right ramp - left orbit - STAR targets 
+- Tokyo (4-Way): Center ramp - right ramp - left orbit - STAR targets
 - London (4-Way): Center ramp - right ramp - center ramp - right ramp
 - New York (4-Way): Right ramp - center ramp - right ramp - center ramp
 - San Francisco (5-Way): Center ramp - center ramp - center ramp - center ramp - right orbit
@@ -100,15 +100,15 @@ As a note, scoring on each song resets between balls - hence "shots made" is act
 
 - **Black Diamond:** We wouldn't want Ratchet to feel lonely, so let's throw in TF's Devastator mode, too! (though slightly easier than Devastator because it only requires one initial R orbit shot)  Shoot the right orbit to collect a value and enter the pop bumpers, where the pops hits determine which shot is lit next. Then shoot the lit shot -- even repeatedly, so having the good fortune to land on the center ramp is preferred -- to score and make progress on 8 shots in total. Each shot is worth (300k x shots made), up to 2.4m on the final shot.
 
-**Demon Multiball:** Complete the two green lock targets, or spell DEMON by shooting into the Demon when Lock is *not* lit (which also advances the jackpot by 500k) to light Lock at the Demon shot. These locks can be physical or virtual, with the latter ejecting the ball out of a VUK from Gene's mouth. For the first multiball, lit locks can be stacked. Completing 3 locks will begin Demon Multiball. Starting this mode will also light the Demon insert flashing for KISS Army. 
+**Demon Multiball:** Complete the two green lock targets, or spell DEMON by shooting into the Demon when Lock is *not* lit (which also advances the jackpot by 500k) to light Lock at the Demon shot. These locks can be physical or virtual, with the latter ejecting the ball out of a VUK from Gene's mouth. For the first multiball, lit locks can be stacked. Completing 3 locks will begin Demon Multiball. Starting this mode will also light the Demon insert flashing for KISS Army.
 
-This Multiball is similar to Klingon Multiball in Star Trek combined with the Snake playfield multiplier mechanism in Metallica. All major shots are lit to score the Jackpot value, but each shot can only be used twice prior to the Double Jackpot. Collecting five Jackpots makes the next lit shot award a Super Jackpot. Collecting two Super Jackpots lights a strobing shot for the Double Jackpot, and completing this shot lights the Double Super Jackpot at the Demon shot. During the multiball, hitting both lock targets will light the Demon for a 20-second ball hold (or not, depending on settings) and playfield multiplier. Holding one ball awards 2x Playfield, and completing the targets again and locking a second ball awards 3x Playfield. The balls are spit out of the VUK after the Playfield X goes away, so be ready! Collecting the Double Super Jackpot lights the Demon insert solid for Rock City wizard mode progress. 
+This Multiball is similar to Klingon Multiball in Star Trek combined with the Snake playfield multiplier mechanism in Metallica. All major shots are lit to score the Jackpot value, but each shot can only be used twice prior to the Double Jackpot. Collecting five Jackpots makes the next lit shot award a Super Jackpot. Collecting two Super Jackpots lights a strobing shot for the Double Jackpot, and completing this shot lights the Double Super Jackpot at the Demon shot. During the multiball, hitting both lock targets will light the Demon for a 20-second ball hold (or not, depending on settings) and playfield multiplier. Holding one ball awards 2x Playfield, and completing the targets again and locking a second ball awards 3x Playfield. The balls are spit out of the VUK after the Playfield X goes away, so be ready! Collecting the Double Super Jackpot lights the Demon insert solid for Rock City wizard mode progress.
 
 Beware of Gene spitting the ball SDTM, although a *short* ball save is provided in single ball play to compensate (adjustable in settings). **WARNING:** During any multiball, when Gene spits a ball back at you, the ball save insert may flash, but it lies unless the game settings have specifically been adjusted to provide a Gene ball-save during multiball. You will **not** get a ball back during the multiball, unless that setting has been turned on for multiball.
 
 Qualifying the second Demon Multiball does not allow for lock stacking, and the third Demon Multiball requires two completions of the lock targets to light a lock.
 
-**Love Gun Multiball:** Qualify Love Gun by getting enough STAR target hits in the Starchild mini-playfield. Settings can be adjusted on how much progress you get per hit, but subsequent LGMB will always take more hits than the prior one. Once you've filled up the progress bar, LGMB is qualified, the R ramp's purple insert is lit, and it can be started via a R ramp shot or a lucky bounce into the Starchild playfield saucer. 
+**Love Gun Multiball:** Qualify Love Gun by getting enough STAR target hits in the Starchild mini-playfield. Settings can be adjusted on how much progress you get per hit, but subsequent LGMB will always take more hits than the prior one. Once you've filled up the progress bar, LGMB is qualified, the R ramp's purple insert is lit, and it can be started via a R ramp shot or a lucky bounce into the Starchild playfield saucer.
 
 Now LGMB starts as a 2-ball multiball with different behaviors between the Pro and Prem/LE versions:
 Prem/LE: one ball held captive in the Starchild area behind the drop target. Shoot the Starchild drop target to collect a Love Gun Hurryup award, set your LGMB jackpot value, and add a third ball into play. If you don't hit the drop target/captive ball by the time the Hurry-Up decreases to its minimum value, then your LGMB will remain a 2-ball affair.

@@ -35,7 +35,7 @@ A tour of the playfield, starting from the left flipper and working our way arou
 
 * _Last Call_ standup: Directly above the left inlane/outlane area. Can give you a ball save if you drain down the left outlane.
 
-* _?_ standup: Just above the left drain area rubber, near the OKTOBER standup bank at the bottom of a crescent-shaped array. Can be made as a skill shot. During normal play, yellow light = spot a duck, and green light = spot OKTOBERFEST letter 
+* _?_ standup: Just above the left drain area rubber, near the OKTOBER standup bank at the bottom of a crescent-shaped array. Can be made as a skill shot. During normal play, yellow light = spot a duck, and green light = spot OKTOBERFEST letter
 
 * OKTOBER standups: Targets in a crescent-shaped array. This area has a beer stein in the artwork with a hidden magnet, which may grab or fling balls (usually from the Beer Barrel lock above the standup area). Complete OKTOBERFEST to light Corkscrew locks.
 
@@ -127,7 +127,7 @@ List of Steins (from top to bottom, left to right):
 - Not’n Roht’n (Easier to Collect Tent Letters & Juggling Boost)
 - Buschbrau (Gives More MagNabs & Füd Frenzy Boost)
 
-Collecting all Steins starts Stein Slinging wizard mode! 
+Collecting all Steins starts Stein Slinging wizard mode!
 
 **Tent Modes**
 
@@ -145,9 +145,9 @@ Every Tent Mode is associated with a beer stein. If you play a mode with its ass
 
 * _Chugging_: Make sequences of lit shots to beat your opponents. A two-shot sequence beats Inga, a three shot sequence beats Otto, and a more difficult sequence in the re-match (need more specifics?). Beating Otto wins the mode.
 
-* _Looper_: Keep shooting the left ramp over and over. 5 shots to complete. If hit without missing, value is much larger. 
+* _Looper_: Keep shooting the left ramp over and over. 5 shots to complete. If hit without missing, value is much larger.
 
-* _Juggler_: A two-ball multiball. Completing sequences of lit shots adds up to two more balls into play. Completes after 4 shots (?) 
+* _Juggler_: A two-ball multiball. Completing sequences of lit shots adds up to two more balls into play. Completes after 4 shots (?)
 
 * _Target Shooting_: The PROST targets begin roving; hitting any lit target scores points. Make three lit target shots to win the mode.
 
@@ -172,20 +172,20 @@ Complete all 13 Tent Modes for the "Flipper Miestro" wizard mode.
 Center drop target hits and spinner spins qualify Food Stand Modes at the center scoop. There are five Food Stand Modes. Each has a timer that can be reset by shooting back into the center scoop.
 
 These modes give you calories which increase multiball scoring. The order you play them in is as follows:
-- Pretzels (orbits) — 5k base + 2.5k each orbit 
-- Cake (slings and pops) — 500 base + 250 each hit (?) 
+- Pretzels (orbits) — 5k base + 2.5k each orbit
+- Cake (slings and pops) — 500 base + 250 each hit (?)
 - Ice Cream (ramps) — 7.5k base (?)
 - Sausage (combination of the 3 previous modes)
-- 5th: Food Coma. Flippers go weak and you have to shoot the spinner to work off the calories and make the flippers stronger. 
+- 5th: Food Coma. Flippers go weak and you have to shoot the spinner to work off the calories and make the flippers stronger.
 
 You can stack food modes into tents and multiball (must start in single ball play)
 
-Note that the number of calories you start the multiball with is locked in for that multiball, so bringing in a food mode into a multiball may give you lots of calories for a future multiball, but will not increase your current multiball. 
+Note that the number of calories you start the multiball with is locked in for that multiball, so bringing in a food mode into a multiball may give you lots of calories for a future multiball, but will not increase your current multiball.
 
 
 **Beer Barrel Multiball**
 
-Complete the PROST standup bank to light locks on the side ramp. Locking three balls starts Beer Barrel Multiball. (Locks _are_ shared between players. Be careful!) Locks can also hold over between games. 
+Complete the PROST standup bank to light locks on the side ramp. Locking three balls starts Beer Barrel Multiball. (Locks _are_ shared between players. Be careful!) Locks can also hold over between games.
 
 During multiball, lit shots score jackpots. Locking a ball in the Beer Barrel holds it there for 20 seconds (configurable). While a ball is locked in the Beer Barrel, the next jackpot is scored at 2X, the next at 3X, and so on.  Each lock shot and PROST bank completion resets the timer. PROST bank also relights all jackpots. Locking a second ball scores the Super Jackpot.  Locking a third ball scores a Double Super Jackpot.
 
@@ -207,7 +207,7 @@ Ducks collected throughout the game increase mode values and end-of-ball bonus. 
 
 Every 50 ducks lights Duck Derby at the Tent scoop; Tent Modes are unavailable until Duck Derby has ended.
 
-Duck Derby is a two-ball multiball. Green shots score points based on your duck count, and advance your duck in the race. Hitting a duck standup target will "select" the corresponding duck, causing any lit shot to advance that duck. When your duck is selected, all shots are green; when an opponent duck is selected, all shots are red (and you should promptly shoot your duck's green standup target to re-select your duck).  Every few seconds, the furthest back opponent duck will advance, even if you didn't make a red shot. 
+Duck Derby is a two-ball multiball. Green shots score points based on your duck count, and advance your duck in the race. Hitting a duck standup target will "select" the corresponding duck, causing any lit shot to advance that duck. When your duck is selected, all shots are green; when an opponent duck is selected, all shots are red (and you should promptly shoot your duck's green standup target to re-select your duck).  Every few seconds, the furthest back opponent duck will advance, even if you didn't make a red shot.
 
 Win the race, and you start a Victory Lap phase that lasts until the end of the multiball. All duck targets and lit shots score. You can make the same shot multiple times.  Lose the race, and the Derby ends: flippers will be disabled until at least one ball drains.  A ball saver is provided until single ball play is re-established.
 
@@ -220,7 +220,7 @@ Hit all four ducks and shoot the Tent scoop to collect a Mystery award. Some awa
 * Visit Tent
 * Hold Bonus Multipliers
 * Advance Bonus Multipliers
-* Collect Stein 
+* Collect Stein
 * Reset Tilt Warnings (!)
 
 **Combos**
@@ -239,8 +239,8 @@ After enough pop bumper hits, hit the High Striker captive ball when the ball ex
 **End of Ball Bonus**
 
 The bonus awarded at the end of each ball is held between balls and is comprised of:
-- Steins Collected x 4,000 
-- Tents Visited x 4,000 
+- Steins Collected x 4,000
+- Tents Visited x 4,000
 - Ducks Collected x 200
 
 Everything is then multiplied by the Bonus X.

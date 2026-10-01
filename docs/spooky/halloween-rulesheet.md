@@ -60,10 +60,10 @@ At the end of every Jack-O-Lantern mode, one of the three hedge shots (randomly 
 - **III - Counting Bodies (Medium)**: Shoot the lit green shots, while avoiding the red shots. The green shots alternate between the left ramp + targets and center ramp + targets. If too many red shots are made, the mode ends in failure.
 - **IV - Escape the Kitchen (Medium)**: Make all the lit standup target shots, in any order. The mode ends in success after six standup target shots.
 - **V - Let Me In (Hard)**: Alternate between shooting a specific drop target and resetting the drop targets via a shot to either orbit. For the shot to count, only the green drop target must be knocked down, as knocking down any of the other drop targets will reset them all.
-- **VI - Laurie Slashes Back (Hard)**: Shoot the roaming pink shot before it reaches the red arrow. At the start of the mode, the shot goes from left to right; then, right to left. Repeat this five times to complete the mode. 
+- **VI - Laurie Slashes Back (Hard)**: Shoot the roaming pink shot before it reaches the red arrow. At the start of the mode, the shot goes from left to right; then, right to left. Repeat this five times to complete the mode.
 - **VII - Stalker (Expert)**: The main goal of this mode is to avoiding Michael Myers. The playfield is divided into four color coded areas, representing different locations. Michael will move around these locations and if the player is ever in the same location a hurry-up will be lit to escape. Survive the entire night to complete the mode.
 - **VIII - First Kill (Expert)**: White shots start a hurry-up combo sequence that must be completed in a short period of time. Complete three hurry-up combos to complete the mode.
-- **Jack-O-Lantern Multiball**: After three modes have been successfully won, the next Jack-O-Lantern mode will be Jack-O-Lantern Multiball. This is a simple 4-ball multiball where the drop targets light 250k jackpots that can be increased with standup target hits, and collected at any major shot. 
+- **Jack-O-Lantern Multiball**: After three modes have been successfully won, the next Jack-O-Lantern mode will be Jack-O-Lantern Multiball. This is a simple 4-ball multiball where the drop targets light 250k jackpots that can be increased with standup target hits, and collected at any major shot.
 
 ## Multiball Modes: {#heading--multiball}
 
@@ -101,7 +101,7 @@ After lighting or successfully winning a **[Jack-O-Lantern mode](#heading--jack)
 
 ### Combos: {#heading--combos}
 
-Shots to the left orbit, left ramp, center ramp, or right orbit count as combo shots and score increasing amounts of points. To keep the combo going, the player must alternate shots - they can't shoot the same one over and over. 
+Shots to the left orbit, left ramp, center ramp, or right orbit count as combo shots and score increasing amounts of points. To keep the combo going, the player must alternate shots - they can't shoot the same one over and over.
 
 ### Extra Ball: {#heading--extraball}
 

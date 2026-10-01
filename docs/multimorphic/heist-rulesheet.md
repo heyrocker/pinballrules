@@ -83,7 +83,7 @@ Your main objective is to recruit all 5 crew members pull off the Big Final Heis
 
 **Mastermind** - Maggie Machado is a special crew member that is not available until you have collected at least 2 crew members. Once you have 2 or more crew members, you can qualify mastermind via the left horseshoe. The level of the heist depends on the number of crew members
 
-* 2 Amethyst 
+* 2 Amethyst
 
 * 3 Sapphire
 
@@ -135,7 +135,7 @@ There is one phase for each character. The first 3 phases (Wheelman, Hacker and 
 
 **Wheelman.** You are required to make 3 turns through the street. For each turn, 3 shots will be marked indicated. One is the shot you are required to turn make and the other 2 are police. If you have the MacGuffin, it will reveal which is the turn and which is the police. Shooting the police will start a 10 second timer to make the turn or you will fail the mode and be arrested. Shooting the turn will advance to the next turn.
 
-**Hacker.** Phase 1 you have 15 seconds to hit the crane. You have 60 seconds to complete 8 shots (or 4 if you have the MacGuffin). 
+**Hacker.** Phase 1 you have 15 seconds to hit the crane. You have 60 seconds to complete 8 shots (or 4 if you have the MacGuffin).
 
 **Demolition.** In the first phase, you need to active 3 switches. The crane will come out and position itself over the switch. You have 10 seconds to hit the crane. Once all 3 switches are activated, 30 seconds to detonate the explosives. You must shoot either orbit to detonate the explosives. If you have the MacGuffin it is one shot, otherwise it takes 3 shots.
 

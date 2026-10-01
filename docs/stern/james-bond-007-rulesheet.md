@@ -46,12 +46,12 @@ Designed by George Gomez in his first pinball machine since *Deadpool*, ***James
 ## Rules Overview: {#heading--overview}
 
 - Skill shot is at the top lanes for +1x bonus. Holding the left flipper activates super skill shots, hit any of them to add +1 smart missile if they haven't been made yet this game.
-- Start **villain** and **henchmen** modes by shooting the right ramp or side ramp respectively. The bumpers and Goldfinger (yellow) target change the lit mode. 
+- Start **villain** and **henchmen** modes by shooting the right ramp or side ramp respectively. The bumpers and Goldfinger (yellow) target change the lit mode.
   - Some of the modes have ways to score more points than usual by hitting the flashing shots instead of solidly lit ones.
-- Spell SPECTRE by shooting the targets behind the rocket to increase Bird 1 Multiball jackpots and light the Goldfinger target near the right orbit for **SPECTRE weapon hurry-up**. Completed hurry-ups award valuable perks for the remainder of the game. 
+- Spell SPECTRE by shooting the targets behind the rocket to increase Bird 1 Multiball jackpots and light the Goldfinger target near the right orbit for **SPECTRE weapon hurry-up**. Completed hurry-ups award valuable perks for the remainder of the game.
   - The right half of the hurry-ups require one shot to complete, and the left half require multiple shots.
 - Repeatedly shoot various shots/mechs around the game (ie. hit bumpers, spinners, etc. enough times) to light DB5 for **Q Branch**.
-  - Two of the Q Branch modes (Radioactive Reconnaissance, Q's Ring) are single-ball modes. The other four start as single-ball and transition into 2-ball multiball if completed before time runs out. 
+  - Two of the Q Branch modes (Radioactive Reconnaissance, Q's Ring) are single-ball modes. The other four start as single-ball and transition into 2-ball multiball if completed before time runs out.
 - Complete modes to collect **smart missiles**, and use the action button to collect lit shots. Use the flippers to change the action button behavior from activating a missile (blue) to activating 007 scoring (pink).
 - **Bond Women** are lit at the upper loop in the same ways as the Q Branch modes described above. Collect as many as you can at the upper loop, then press the action button while flashing pink for multiplied **007 scoring**.
 - **Bird 1 Multiball** - shoot the Osato Corp. drop targets, then the center loop to lock 3 balls and start it. Make three shots from the upper flipper at the start to extend multiball; when two balls drain, it will automatically restart!
@@ -119,7 +119,7 @@ Shoot the side ramp to start Henchmen Modes. Shooting the bumpers or Goldfinger 
 
 The values for all modes start at 2.5M + 250k per shot, with modifiers applicable during certain modes.
 
-- **Sinister Summit** (*Professor Dent* | Yellow): As Dent tells "Dr. No" about Bond, one yellow shot is lit at a time, which moves from the left to right side of the playfield. Shooting the Dragon Tank locks in the shot and starts another shot moving; shooting the rocket moves all locked in shots' position. Collect 10 yellow shots to win. 
+- **Sinister Summit** (*Professor Dent* | Yellow): As Dent tells "Dr. No" about Bond, one yellow shot is lit at a time, which moves from the left to right side of the playfield. Shooting the Dragon Tank locks in the shot and starts another shot moving; shooting the rocket moves all locked in shots' position. Collect 10 yellow shots to win.
   - 40 seconds.
   - Locked in, flashing shots score 2x, and if you have multiple locked-in shots, only one will flash at a time, in the order that you locked them in.
 
@@ -136,7 +136,7 @@ The values for all modes start at 2.5M + 250k per shot, with modifiers applicabl
 - **Arrange Usual Reception Please** (*Mr. Osato* | Green): Flee from Osato's clutches by making shots to the three ramps and the upper loop. Make 6 shots to light the left eject or DB5 eject to win the mode.
   - 70 seconds.
 
-- **Mr. Wint & Mr. Kidd** (*Mr. Wint & Mr. Kidd* | Blue): Witness the two henchmen's plans by shooting the left ramp, followed by the center lane to light the side and right ramps. Repeat this process 2 more times to win, with the third repeat requiring a shot to the right orbit in place of the center orbit. 
+- **Mr. Wint & Mr. Kidd** (*Mr. Wint & Mr. Kidd* | Blue): Witness the two henchmen's plans by shooting the left ramp, followed by the center lane to light the side and right ramps. Repeat this process 2 more times to win, with the third repeat requiring a shot to the right orbit in place of the center orbit.
   - 70 seconds.
   - Shots to the lit side ramp score 2x.
 
@@ -161,26 +161,26 @@ Play all six countdowns for a **[wizard mode](#heading--miniwizard2)**.
 
 ## Q Branch: {#heading--gadgets}
 
-Q Branch can be qualified at the DB5 eject by making certain shots enough times. There are six gadget modes, two single-ball modes and four that transition into multiballs, and a **[wizard mode](#heading--miniwizard2)** for playing them all. 
+Q Branch can be qualified at the DB5 eject by making certain shots enough times. There are six gadget modes, two single-ball modes and four that transition into multiballs, and a **[wizard mode](#heading--miniwizard2)** for playing them all.
 
 Progress towards lighting Q Branch can be made during the game's various modes, but not during either multiball.
 
 (*Q Branch modes that transition into 2-ball multiball are mutually exclusive and cannot be stacked with any other modes or multiball.*)
 
-- **Radioactive Reconnaissance** (*Dr. No* | Yellow): 
+- **Radioactive Reconnaissance** (*Dr. No* | Yellow):
   - Qualified by scoring enough **[bumper hits](#heading--random)**.
   - 40 seconds.
   - Take control of the Geiger Counter. All shots excluding the upper flipper shots are lit yellow during the mode for 3M, and a random shot scores 35M if made as the first shot (scores less the more shots you make before shooting it).
   - After you shoot a shot, the Geiger counter will react via a reading on the display and an audio cue to let you know how close you are to the main award shot.
 
-- **Attache Case** (*From Russia With Love* | Red): 
+- **Attache Case** (*From Russia With Love* | Red):
   - Qualified after six shots to the **[right orbit](#heading--random)**. The three circle inserts at the right orbit will show qualifying progression.
   - 70 seconds.
   - Make five shots to reveal the components of Q's attache case. The first and third shots are at the right orbit, which will always divert to the bumpers during this mode, and the second and fourth shots are randomly determined by the bumpers. The fifth shot will always be at the right ramp. 2M - 3M - 4M - 5M - 6M for the fifth and final shot.
   - Making the fifth shot starts **Hunted by Helicopter** 2-ball multiball. Bond must evade the clutches of a SPECTRE helicopter and take it down using the sniper rifle from the briefcase. Shoot all lit shots two times each for jackpot / double jackpot; one shot is lit white for a triple jackpot and can be toggled by the bumpers. Making all lit shots lights the side ramp for the super jackpot worth the jackpot total, ends the multiball, and returns to single-ball play. Jackpot value is a set 1M.
 
 - **DB5** (*Goldfinger* | Amber):
-  - Qualified after three shots to the **[DB5 eject](#heading--random)**. Progress is carried across balls. 
+  - Qualified after three shots to the **[DB5 eject](#heading--random)**. Progress is carried across balls.
   - 60 seconds.
   - Every shot to the lit left orbit and the DB5 eject reveals one of the amenities Q has provided for Bond in his signature vehicle. If the left orbit isn't lit, it can be relit with a shot to the DB5 eject. 6 total shots must be made to complete the mode. Spinner hits increase the next immediate shot value & the jackpot values scored during the subsequent multiball by 3k per spin.
   - On the sixth shot, **DB5** 2-ball multiball will start, as Bond takes his first "cool car" out for a spin. All shots are lit to score jackpots and light the DB5 eject for a double jackpot; making the lit shots from left to right will score double jackpots as well. Score all possible jackpots to light two more triple jackpots at the two upper flipper shots, then score the super jackpot at the DB5 eject worth the jackpot total to end the multiball. Jackpot value is 3M + any increases from the spinner prior.
@@ -191,16 +191,16 @@ Progress towards lighting Q Branch can be made during the game's various modes, 
   - Learn about the underwater jetpack from Q by shooting the left eject six times. Shooting the white arrow shots will increase the jackpot values scored during the following multiball by 1M + 250k per white shot made until the left scoop is shot again.
   - On the sixth shot, **Power Pack** 2-ball multiball will start. Using Q's underwater propulsion gadget, Bond single-handedly takes down SPECTRE's underwater forces. All shots are lit to score either a jackpot or double jackpot, and will light the left eject to score a triple jackpot (this can be collected up to three times). Score all possible jackpots to light two more triple jackpots at the two upper flipper shots, then score the super jackpot at the left eject worth the jackpot total to end the multiball. Jackpot value is 3M + any increases from the lit shots prior.
 
-- **Little Nellie** (*You Only Live Twice* | Green): 
+- **Little Nellie** (*You Only Live Twice* | Green):
   - Qualified after 20 shots to the **[rocket](#heading--random)**. Strong shots to the rocket register as multiple hits, and progress is carried across balls.
   - 70 seconds.
   - Learn about the assault helicopter's capabilities from Q. First, shoot the drop targets to increase the jackpot value by 40k per drop target, and then shoot the right ramp to advance and score the value. Repeat this sequence five times, shooting the right ramp five times in the process.
   - Making all five right ramp shots starts **Little Nellie** 2-ball multiball. SPECTRE makes another aerial attack, but this time Bond is more than prepared. Two lit jackpot shots move around the playfield from left to right - score 7 of these to light the drop targets for 3 more jackpots, followed by a double jackpot at the rocket, at which point the drop targets will reset for 3 more jackpots. After scoring three double jackpots this way, the side ramp is lit to score the super jackpot worth the jackpot total and end the multiball. Jackpot value is 3M + any increases from the drop targets prior.
 
-- **Q's Ring** (*Diamonds Are Forever* | Blue): 
+- **Q's Ring** (*Diamonds Are Forever* | Blue):
   - Qualified after 400 **[spinner spins](#heading--random)**.
   - 60 seconds.
-  - Test the electromagnet ring on slot machines by shooting the flashing blue shots. All nine shots must be made to win the mode for 1M a shot, with 2M awarded for the final shot. 
+  - Test the electromagnet ring on slot machines by shooting the flashing blue shots. All nine shots must be made to win the mode for 1M a shot, with 2M awarded for the final shot.
 
 ## Bird One Multiball: {#heading--birdone}
 
@@ -210,7 +210,7 @@ Shoot the drop targets to light lock at the lane to the right of the drop target
 
 At the very start of Bird One Multiball, the two upper flipper shots are briefly lit to score double jackpots. Collecting 3 double jackpots this way qualifies a "multiball extension" that automatically relaunches 2 balls back into play once the player returns to single-ball play.
 
-During Bird One Multiball, all shots are lit green to score jackpots worth 1M + 25k for each time the **[SPECTRE targets](#heading--spectre)** have been hit, with a larger increase for completing them. Once three jackpots (+1 per super jackpot) have been collected, shoot the rocket to score a super jackpot worth the jackpots' *base* sum total. While the super jackpot is subject to whatever **[007 Scoring playfield X](#heading--pfx)** you have running, the sum of the jackpots that derive its base value is *NOT* subject to 007 Scoring.  
+During Bird One Multiball, all shots are lit green to score jackpots worth 1M + 25k for each time the **[SPECTRE targets](#heading--spectre)** have been hit, with a larger increase for completing them. Once three jackpots (+1 per super jackpot) have been collected, shoot the rocket to score a super jackpot worth the jackpots' *base* sum total. While the super jackpot is subject to whatever **[007 Scoring playfield X](#heading--pfx)** you have running, the sum of the jackpots that derive its base value is *NOT* subject to 007 Scoring.
 
 Once you collect all the single jackpots, all of them relight for double jackpots; then triple jackpots after clearing all the double jackpots out.  After collecting all the triple jackpots, you must collect the super jackpot, which will relight all the jackpots back at single value. The maximum super jackpot value is 300M.
 
@@ -272,7 +272,7 @@ Completing the **[SPECTRE Weapon countdown](#heading--spectre)** *"Death by Derb
 
 ### Bond Women & 007 Scoring: {#heading--pfx}
 
-Bond Women are *qualified* at the upper loop (flashing inserts) through the many **[playfield awards](#heading--random)**. Each shot to the upper loop will *collect* one lit Bond Woman, turning one insert solid -- if you have multiple Women inserts flashing, it will prioritize the insert closest to the upper flipper. Bond Woman progression is maintained separately from that of the other awards, such that each hit will also advance towards lighting a Bond Woman. 
+Bond Women are *qualified* at the upper loop (flashing inserts) through the many **[playfield awards](#heading--random)**. Each shot to the upper loop will *collect* one lit Bond Woman, turning one insert solid -- if you have multiple Women inserts flashing, it will prioritize the insert closest to the upper flipper. Bond Woman progression is maintained separately from that of the other awards, such that each hit will also advance towards lighting a Bond Woman.
 
 The method of qualifying a woman will reset once she has been used for 007 Scoring or when the ball drains while a woman has been *collected* -- they will have to be lit again on the next ball, while *qualified* Women will carry between balls. If the player has *played* all four modes (ie. **[villain](#heading--villain)**, **[henchmen](#heading--henchmen)**, **[SPECTRE weapon](#heading--spectre)**, **[Q Branch](#heading--gadgets)**) for a particular film, that film's Bond Woman will persist across balls, even after she's collected (flashing), until 007 Scoring is activated.
 
@@ -295,7 +295,7 @@ If the player has **[smart missiles](#heading--missiles)** ready or can use **[s
 
 Smart missiles can be used by pressing (not holding) the flashing blue action button during any mode and will collect any lit shot, prioritizing the hardest possible shot. Up to 4 smart missiles can be stacked.
 
-If a super jackpot is lit during *any* mode (primarily the two multiball modes and **[Bond... James Bond](#heading--miniwizard1)**, but also the **[Q Branch multiballs](#heading--gadgets)** and **[mini-wizard modes](#heading--miniwizard2)**), the smart missile will be outright disabled. 
+If a super jackpot is lit during *any* mode (primarily the two multiball modes and **[Bond... James Bond](#heading--miniwizard1)**, but also the **[Q Branch multiballs](#heading--gadgets)** and **[mini-wizard modes](#heading--miniwizard2)**), the smart missile will be outright disabled.
 
 The player is granted one smart missile at the start of the game and can also earn them through the following:
 
@@ -309,7 +309,7 @@ If the player has **[007 Scoring](#heading--pfx)** lit at the action button, pre
 
 ### Combos: {#heading--combos}
 
-Making certain shots in quick succession scores combo points. The combo award starts at 100k + 25k x each shot in the combo sequence. 
+Making certain shots in quick succession scores combo points. The combo award starts at 100k + 25k x each shot in the combo sequence.
 
 There are 20 unique combos corresponding to different 007 films, villains, henchmen, and Bond women, worth 2M + 125k per unique combo scored this ball:
 
@@ -355,7 +355,7 @@ Left eject lights for extra ball after:
 - Percentage-based **[mystery award](#heading--mystery)**
 - Completing **[Bond... James Bond multiball](#heading--miniwizard1)** by scoring the super jackpot
 
-If extra ball is disabled, 25M is awarded. The compensation award can be multiplied by **[007 scoring](#heading--pfx)**. 
+If extra ball is disabled, 25M is awarded. The compensation award can be multiplied by **[007 scoring](#heading--pfx)**.
 
 ### End-of-Ball Bonus: {#heading--bonus}
 
@@ -383,7 +383,7 @@ The left eject and right ramp light to start "Bond... James Bond" Multiball afte
 
 "Bond... James Bond" multiball can only be played once per game.
 
-Whether by his admirers or his worst enemies, word spreads quickly about James Bond. The goal of this 2-ball mini-wizard mode is to collect jackpots and build the value of the super jackpot by shooting all lit shots once each, with each shot playing audio from one of the six films of someone saying the character's name. 
+Whether by his admirers or his worst enemies, word spreads quickly about James Bond. The goal of this 2-ball mini-wizard mode is to collect jackpots and build the value of the super jackpot by shooting all lit shots once each, with each shot playing audio from one of the six films of someone saying the character's name.
 
 With 70 seconds of unlimited ball save, and all switches scoring 100k, the player must shoot 10 lit shots (each worth 2.5M or 5M for side loop shots) to light the side ramp for the super jackpot, worth the sum total of all jackpots & an **[extra ball](#heading--extraballs)**, and capping at 100M.  Once the super jackpot is scored, or time runs out, the mini-wizard mode ends and the player returns to single-ball play with another chance at a **[skill shot](#heading--skillshots)**.
 

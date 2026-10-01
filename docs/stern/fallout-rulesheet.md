@@ -106,7 +106,7 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
     * Making a blue shots will light a yellow shots.
     * Yellow shots will progress towards super jackpot.
     * *To be discovered and documented*
-  * **Add-a-Ball**: Available on all models. Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball. 
+  * **Add-a-Ball**: Available on all models. Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball.
 * **Radscorpion Attack:** Ramp Jump mode with a build up mechanic. The final shot **differs between the Pro model and the Premium/LE model**
   * Shoot any lit shots to light the center jump ramp for 2x the value.
     * The base shot value is 500k + 250k per shot
@@ -123,7 +123,7 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
     * Hit the max multiplier [Needs to be documented what the max multiplier]
     * Start 3 killing sprees. A killing spree is a comboed shot.
   * The base value of jackpots is: 500k + 50k per shot.
-  * **Add-a-Ball:** Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball. 
+  * **Add-a-Ball:** Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball.
 * **Mind Control:** Multi-level Ramp+Spinner mode.
   * Hit the lit ramp shots to drop the spinner for a certain amount of time.
   * Rip the spinner. With enough spins, advance to the next test (level) of the mode. Each level requires a different amount of spins and have a different base reward value:
@@ -164,7 +164,7 @@ For **Pro Models**, shoot the ball and bash the vault door again to start Find t
   * Once you've collected all 6 components, hit the loop to collect a lunchbox!
 * **Vault 32** - Raiders! (Defend the Vault!)
   * Each stand up target and the loop represent a raider. Each raider starts out with 30 HP.
-  * Hit the stand up target and loop to deal damage. Each hit reduces the raiders HP by 10. 
+  * Hit the stand up target and loop to deal damage. Each hit reduces the raiders HP by 10.
     * Hit each stand-up and the loop 3 times. Total of 12 shots.
   * Once all raiders are defeated, hit the loop and collect a lunchbox!
 * **Vault 33** - Populate the Vault (Gather supplies and attract vault dwellers)
@@ -219,7 +219,7 @@ For **Premium/LE Models**: Hitting a limb of the deathclaw that is already cripp
     * The first super jackpot can be collected after 4 jackpots.
     * The number of jackpots that need to be collected for super jackpots carries over between collect phases.
   * Add-A-Ball: Hit all radroach targets to add-a-ball.
-* **Deathclaw Multiball 2:** 
+* **Deathclaw Multiball 2:**
   * Charge your weapon by hitting red shots and switches.
     * Shots will charge the weapon by 20%
   * Jackpots become lit once the weapon is charged and ready. Hit the Deathclaw bash toy to collect a jackpot. Each jackpot collection will require you to recharge your weapon for the next jackpot.
@@ -256,7 +256,7 @@ Build the radio signal by shooting the radio tower target located next to the nu
 As of version 0.80, there are a total of 6 songs that can be played during Radio Mode. Below is the list of songs and includes the duration of the radio mode, the number of shots needed to activate the jackpot, and the corresponding color to hit to start the song.
 
 * Uranium Fever
-  * Color - 
+  * Color -
   * Duration - 2:17
   * Shots needed: 6
 * In the Mood
@@ -268,7 +268,7 @@ As of version 0.80, there are a total of 6 songs that can be played during Radio
   * Duration - 3:00
   * Shots needed: 5
 * Some Enchanted Evening
-  * Color - 
+  * Color -
   * Duration - 2:32
   * Shots needed: 7
 * Big Iron
@@ -313,7 +313,7 @@ The classic Fallout stat mechanism is present. Each stat provides a perk for the
 The shooting gallery mechanic varies between the Pro model and Premium/LE model.
 
 For **Premium/LE Models:** The shooting gallery consists of the Fat Man ball launcher and an upper playfield populated by a spinner and two targets. The target in the middle will flip to the other side with each successful hit.
-For **Pro Models:** The left flipper acts as the Fat Man ball launcher, with the 3-bank stand-up targets acting as the targets of the upper playfield in the Premium/LE model. 
+For **Pro Models:** The left flipper acts as the Fat Man ball launcher, with the 3-bank stand-up targets acting as the targets of the upper playfield in the Premium/LE model.
 
 #### Fat Man {#heading--fat-man}
 
@@ -328,7 +328,7 @@ The Vault-Tec Assisted Targeting System will make it easier to progress the shoo
 
 * For **Premium/LE Models:** VATS will completely guide the ball launcher when using the Fat Man, acting as a spot mechanic. Use flipper buttons to select a target.
 * For **Pro Models:** VATS will spot a target for you at the 3-bank stand-up targets. Use the flipper buttons to select a target.
-* *Writer's Note: The amount of AP value gained from switches is unknown. Additionally, there is other ways 
+* *Writer's Note: The amount of AP value gained from switches is unknown. Additionally, there is other ways
 
 ### Radroaches & Radaway {#heading--radroaches-radaway}
 
@@ -384,7 +384,7 @@ Upgrading your weapon requires a certain amount of [Junk](#heading--junk) items 
 * Level 4:
   * Common Junk: x13
   * Rare Junk: x5
-* *To be Discovered and Documented* 
+* *To be Discovered and Documented*
 
 The backboard screen displays your current bonux +X and playfield +X, along with the amount of junk needed to upgrade it at the bottom left.
 
@@ -436,32 +436,32 @@ List of Items at Sundries:
 | New Fusion Core | Max Power Armor | 250 Caps |
 | Fusion Core (33%) | Adds Power Armor | 75 Caps |
 | Fusion Core (66%) | Adds Power Armor |120 Caps |
-| Fusion Core (83%) | Adds Power Armor | 150 Caps | 
-| Sugar Bombs | Max HP | 80 Caps | 
-| Mentats (3) | Advanced Hacking | 80 Caps | 
-| Rad X (2) | Longer Timer | 80 Caps | 
-| Nuka Cola (4) | Award Inlanes | 70 Caps | 
-| Radaway (3) | Resets Rads | 80 Caps | 
-| Stimpak (2) | Outlane Ball Save | 80 Caps | 
-| Buffout (2) | Extend Multiball | 150 Caps | 
-| Flask | Common Junk | 30 Caps | 
-| Bowling Ball | Common Junk | 30 Caps | 
-| Plate | Common Junk | 30 Caps | 
-| Shot Glass | Rare Junk | 100 Caps | 
-| Magnifying Glass | Rare Junk | 100 Caps | 
-| Ballistic Fiber | Rare Junk | 100 Caps | 
-| Flash Camera | Rare Junk | 50 Caps | 
-| Duct Tape | Rare Junk | 100 Caps | 
-| Antiseptic | Rare Junk | 100 Caps | 
-| Gold Pinball | Extra Ball | Legendary Junk | 
-| Bobblehead | Strength Perk | Legendary Junk | 
-| Bobblehead | Perception Perk | Legendary Junk | 
-| Bobblehead | Endurance Perk | Legendary Junk | 
-| Bobblehead | Charisma Perk | Legendary Junk | 
-| Bobblehead | Intelligence Perk | Legendary Junk | 
-| Bobblehead | Agility Perk | Legendary Junk | 
-| Bobblehead | Luck Perk | Legendary Junk | 
-| Nuka Quantum | Lights 2x XP | Legendary Junk | 
+| Fusion Core (83%) | Adds Power Armor | 150 Caps |
+| Sugar Bombs | Max HP | 80 Caps |
+| Mentats (3) | Advanced Hacking | 80 Caps |
+| Rad X (2) | Longer Timer | 80 Caps |
+| Nuka Cola (4) | Award Inlanes | 70 Caps |
+| Radaway (3) | Resets Rads | 80 Caps |
+| Stimpak (2) | Outlane Ball Save | 80 Caps |
+| Buffout (2) | Extend Multiball | 150 Caps |
+| Flask | Common Junk | 30 Caps |
+| Bowling Ball | Common Junk | 30 Caps |
+| Plate | Common Junk | 30 Caps |
+| Shot Glass | Rare Junk | 100 Caps |
+| Magnifying Glass | Rare Junk | 100 Caps |
+| Ballistic Fiber | Rare Junk | 100 Caps |
+| Flash Camera | Rare Junk | 50 Caps |
+| Duct Tape | Rare Junk | 100 Caps |
+| Antiseptic | Rare Junk | 100 Caps |
+| Gold Pinball | Extra Ball | Legendary Junk |
+| Bobblehead | Strength Perk | Legendary Junk |
+| Bobblehead | Perception Perk | Legendary Junk |
+| Bobblehead | Endurance Perk | Legendary Junk |
+| Bobblehead | Charisma Perk | Legendary Junk |
+| Bobblehead | Intelligence Perk | Legendary Junk |
+| Bobblehead | Agility Perk | Legendary Junk |
+| Bobblehead | Luck Perk | Legendary Junk |
+| Nuka Quantum | Lights 2x XP | Legendary Junk |
 
 ### Trusty Companions {#heading--trusty-companions}
 

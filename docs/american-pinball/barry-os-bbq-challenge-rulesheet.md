@@ -54,7 +54,7 @@ Cook-off wins can award you up to 5 stars, which you earn by doing the following
 * **[Side Dish](#heading--sidedishes)** 1 -- 1st drop target set
 * **Side Dish** 2 -- 2nd drop target set
 
-Each star upgrades your trophy and gives a +1x multiplier toward your cash-out award. Earn your trophy and cash out award by hitting any of the open saucers. 
+Each star upgrades your trophy and gives a +1x multiplier toward your cash-out award. Earn your trophy and cash out award by hitting any of the open saucers.
 
 Complete 3 cook-offs to start **[Meat Coma Multiball](#heading--meatcoma)**.
 
@@ -69,7 +69,7 @@ BOSS Assistant can be given from **[right orbit skill shots](#heading--skillshot
 
 ### FIRE Hurry-Up {#heading--fire}
 
-The FIRE lanes start a short hurry-up feature. A score will roll up quickly (200k - 1M base value), resetting after hitting its maximum and cycling until the mode is completed. 
+The FIRE lanes start a short hurry-up feature. A score will roll up quickly (200k - 1M base value), resetting after hitting its maximum and cycling until the mode is completed.
 
 Making either blue orbit shot will finish the mode, and add the base value to your score and the recipe value. Failing to complete the feature before the time runs out will *half* your recipe value, so watch out!
 
@@ -97,7 +97,7 @@ Collect all three of the flashing inserts at the drop targets to start **[Side D
 
 ## Hot Rod Challenges {#heading--challenges}
 
-Hitting the orbits with flashing "Qualify Challenge" inserts will qualify a Challenge at the open saucers. Once qualified, the challenge you will play is lit in the inserts at the bottom of the screen. The flippers change the lit Challenge insert, as well as bumpers and targets. 
+Hitting the orbits with flashing "Qualify Challenge" inserts will qualify a Challenge at the open saucers. Once qualified, the challenge you will play is lit in the inserts at the bottom of the screen. The flippers change the lit Challenge insert, as well as bumpers and targets.
 
 Hitting an open saucer with a lit "Start Challenge" circular insert will start the next challenge. The player can raise the value of the next Challenge's shots before starting it by hitting purple arrow shots around the playfield first, or completing the **[drop targets](#heading--sidedishes)** when "increase challenge value" is lit. However, if they drain before starting the Challenge, those value increases will be lost.
 
@@ -108,7 +108,7 @@ The timed challenges all involve the lit purple shots across the playfield. On c
 - **Cruise Night**: Shoot the bumpers to get the car bouncing (build jackpot), then shoot the PIT target bank to close the hood and speed away (collect jackpot). Awards **Cruisin' All Night** upon completion (bumpers score more).
 - **Bike Night**: Shoot the orbits - orbit shots may loop around and feed the flippers during this mode. Awards **Live to Ride** upon completion (orbits score millions).
 - **Custom Upgrades**: Shoot the middle "B" target, the middle "I" target, or the Mild / Spicy targets (the former two targets are worth more). Awards **Scoville Scoring** upon completion (mild / spicy targets score more).
-- **Hot Sauce Station**: Shoot the saucers (Bash Locks with balls already locked there also work). Awards **Super Saucers** upon completion (saucers worth millions). 
+- **Hot Sauce Station**: Shoot the saucers (Bash Locks with balls already locked there also work). Awards **Super Saucers** upon completion (saucers worth millions).
 - **Drag Race**: Roll over the BOSS / CHEF lanes. Awards one **[BOSS Assistant](#heading--boss)** upon completion (easier to complete BOSS or CHEF for the next completion of either lane set.)
 - **Lift Off**: Shoot one of two flashing shots (they move after each made shot and light in a specific order on tournament mode). Awards **[FIRE Boosted](#heading--fire)** upon completion (Fire hurry-ups boosted by 1M).
 - **Speedy Delivery**: Shoot 5 shots in sequence while avoiding the unlit shots (in a specific order on tournament mode).  Awards **Super Equipment Repairs** upon completion (equipment repairs are worth 2x).
@@ -119,7 +119,7 @@ Every shot made during a challenge also increases **[end-of-ball bonus](#heading
 
 ### Pitmaster Multiball {#heading--pitmaster}
 
-Pitmaster Multiball is started by locking at least one ball in either of the side saucers, and then hitting the saucer further back on the right side of the playfield. 
+Pitmaster Multiball is started by locking at least one ball in either of the side saucers, and then hitting the saucer further back on the right side of the playfield.
 
 Pitmaster Multiball starts by briefly displaying the progressive jackpot... and then showing all of the progress you'll have to make to get there, scrolling down to the base multiball jackpot. The progressive jackpot normally carries over across players and games, but is standardized at 500M on tournament mode. Regardless of settings, the progressive jackpot will increase by the multiball jackpot value you brought in.
 
@@ -135,7 +135,7 @@ The multiball jackpot resets after you play Pitmaster Multiball.
 
 ### Side Dish Multiball {#heading--sidedishmb}
 
-Collecting all the flashing inserts at the **[side dish drop targets](#heading--sidedishes)** (ie. completing the drop targets three times) will start Side Dish Multiball. Red shots score jackpots, worth the base multiball jackpot value (increased by hitting orange shots during **[cook-offs](#heading--cookoffs)**. The jackpot value will increment after several switch hits, shown via a countdown on the playfield LCD screen. 
+Collecting all the flashing inserts at the **[side dish drop targets](#heading--sidedishes)** (ie. completing the drop targets three times) will start Side Dish Multiball. Red shots score jackpots, worth the base multiball jackpot value (increased by hitting orange shots during **[cook-offs](#heading--cookoffs)**. The jackpot value will increment after several switch hits, shown via a countdown on the playfield LCD screen.
 
 Relight all jackpots by completing the drop targets. Even if you collect all the flashing jackpot shots, there will always be at least one jackpot ready that will move after you shoot it.
 
@@ -149,7 +149,7 @@ If the player has already locked balls for **[Pitmaster Multiball](#heading--pit
 
 Instead of using the base jackpot value, jackpots during firework frenzy start at 5M and can be increased at the left ramp or by collecting jackpots at saucers. Once a saucer is made, a countdown begins. If the countdown reaches zero, any locked balls will be ejected. Any fireworks scored by locking balls, or hitting a ball already in a saucer, will reset the timer.
 
-Locking balls in other saucers continues to award jackpots - locking all remaining balls in saucers before the timer runs out adds a ball and awards a super jackpot. 
+Locking balls in other saucers continues to award jackpots - locking all remaining balls in saucers before the timer runs out adds a ball and awards a super jackpot.
 
 ## Other Scoring {#heading--other}
 
@@ -179,10 +179,10 @@ Bonus points at the end of the ball are determined by:
 - 500k x **[Stars of BBQ](#heading--cookoffs)** defeated
 - 350k x **[FIRE](#heading--fire)** completions
 - 200k x **[Side Dishes](#heading--sidedishes)** cooked
-- 350k x lit shots made during **[challenges](#heading--challenges)**	
+- 350k x lit shots made during **[challenges](#heading--challenges)**
 - Challenge Bonus (based on the number of challenges started and completed)
 - Pitmaster Bonus (based on the number of jackpots scored in **[Pitmaster Multiball](#heading--pitmaster)**)
-- 1M per **[BBQ PIT](#heading--bbqpit)** award				
+- 1M per **[BBQ PIT](#heading--bbqpit)** award
 - Bonus Tip (switch bonus)
 
 All multiplied by the **[Bonus X](#heading--bonusx)**.
@@ -191,7 +191,7 @@ All multiplied by the **[Bonus X](#heading--bonusx)**.
 
 ### Meat Coma Multiball {#heading--meatcoma}
 
-Win three **[cook-offs](#heading--cookoffs)** to start the mini-wizard multiball mode, Meat Coma, immediately afterward. 
+Win three **[cook-offs](#heading--cookoffs)** to start the mini-wizard multiball mode, Meat Coma, immediately afterward.
 
 Six "areas" are lit in red for jackpots: Both ramps, both orbits, and the 2 stand-up banks. Hitting one removes the red from the area. Hitting any target in a bank removes the red lights from the whole bank.
 

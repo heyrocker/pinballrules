@@ -47,7 +47,7 @@ First, the physical features of the game:
 
 ## Layout {#heading--layout}
 
-Left to right, along with the associated feature names. (see feature description for more info). 
+Left to right, along with the associated feature names. (see feature description for more info).
 There are 6 major shots each marked with a Red Arrow and the features listed:
 * Left Orbit - Chip Trick, Main Pot Spinner
 * Left Ramp - Flop, Turn, River, Chip Trick
@@ -72,7 +72,7 @@ The skill shot light cycles before plunging the ball, new balls are plunged for 
 
 The three skill shot awards are:
 
-* Advance Hold Em - Progresses your hold 'em hand. 
+* Advance Hold Em - Progresses your hold 'em hand.
 * Mystery - Awards a mystery award (see Cut the Cards)
 * Skill Flip - Shoot the left-most shot on the Mini-PF quickly and without hitting any other switch for 1M (+1M per up to 5M)
 
@@ -85,7 +85,7 @@ Bonus is comprised of:
 * An end of ball bonus (may be based on switch hits?). Instant Info says "Pop Targets add Bonus X" - the standup targets below the backbox add +1 bonus x per completion.
 
 ## Hold 'em Hands {#heading--holdemhands}
-Shown in the large DMD in the center of the playfield. Progress through hold 'em hands (Flop>Turn>River) by hitting ramp shots, the Advance Hold 'Em skill shot or by getting All-In Multiball (see description below). 
+Shown in the large DMD in the center of the playfield. Progress through hold 'em hands (Flop>Turn>River) by hitting ramp shots, the Advance Hold 'Em skill shot or by getting All-In Multiball (see description below).
 
 Completing hands lights Poker Corner (see below) and progresses tournaments (see below). The award for completing a hold 'em hand is the value of the main pot (see description for All-In MB) multiplied by the strength of the hand:
 
@@ -142,7 +142,7 @@ With two balls initially on the mini-playfield, quickly locking a ball back in t
 
 The jail and the ramps are worth jackpots starting at 200k, but eventually increase to 400K and 500K. After 3 jackpots, the jail reopens to lock a ball and add another into play (which also briefly lights the ball save). The captive ball can be hit 4 times before it is released, after which another 4 jail bar hits are required to open them again.
 
-After 10 jackpots (?) and a ball is locked back in the jail, each captive ball hit is a super jackpot worth 1.5M each. There may be a timer in this phase (?). If you have a ball in the jail when you drain to one ball, the jail will open and release the ball to allow you to continue multiball. 
+After 10 jackpots (?) and a ball is locked back in the jail, each captive ball hit is a super jackpot worth 1.5M each. There may be a timer in this phase (?). If you have a ball in the jail when you drain to one ball, the jail will open and release the ball to allow you to continue multiball.
 
 A good strategy with Ace in the Hole is to get it to "1 hit to start multiball", start a Poker Corner mode, then get the ball back to the upper PF and start multiball. If the jail is open during any multiball, try to lock a ball in it as it will briefly light ball save and replace the locked ball with a fresh ball.
 
@@ -164,14 +164,14 @@ Tip: The lock insert will flash when you have the third lock lit. If you have tw
 
 ### Poker Hands Multiball {#heading--pokerhandsmb}
 
-A mini (micro?) wizard mode. Light all the poker hands shown on the playfield (see Drop Target Poker) to start a four ball multi ball. This can be started during other multiballs. Jackpots start at 1M, spinners raise jackpot, after 9 jackpots Super Jackpot is lit for 5M. 
+A mini (micro?) wizard mode. Light all the poker hands shown on the playfield (see Drop Target Poker) to start a four ball multi ball. This can be started during other multiballs. Jackpots start at 1M, spinners raise jackpot, after 9 jackpots Super Jackpot is lit for 5M.
 
 ## Drop Target Poker {#heading--droptargetpoker}
 
 Poker Hands are shown on the inserts in the playfield below the center drop target bank. Light an insert by hitting the drop targets to make that hand (hit two Qs to light One Pair, etc). Each drop is worth 10k to begin, gaining an additional 1K . You are awarded 100k multiplied by the position of the insert (100k for one pair, 200k for two pair, etc except Royal Flush which scores 1M base) plus 100k per unlit insert below it. So, completing Straight first will award 400k+300k. You can also complete higher hands that may include a lower hand by hitting the drop targets before the award is shown, i.e. you can complete Three of a Kind before completing One Pair if you hit the second and third targets in quick succession. Completing all hand types will start poker hands multiball which is a mini-wizard mode. Spotted cards are indicated by lit inserts, and persist from ball to ball (though the target will reset to the up position). Flashing card inserts indicate cards that will complete an available hand. These poker hands cannot be progressed during Know Your Outs or Chip and a Chair (because those modes use the drops).
 
 ## Triple Scoring {#heading--triplescoring}
-After completing a drop target poker hand, triple scoring will be lit on an inlane. You can switch which inlane is lit with the flipper button. This is essentially triple playfield scoring for 3 seconds --if the action awards points, they will be tripled-- and counts as triple progress towards super jackpots (in applicable multiballs). 
+After completing a drop target poker hand, triple scoring will be lit on an inlane. You can switch which inlane is lit with the flipper button. This is essentially triple playfield scoring for 3 seconds --if the action awards points, they will be tripled-- and counts as triple progress towards super jackpots (in applicable multiballs).
 
 ## Chip Tricks {#heading--chiptricks}
 These are the shot combos in the game. Chip tricks are available on all the major shots except the VUK. Left side chip tricks will flash when you do left orbit or right inlane, right side CTs flash on right orbit and left inlane. Hitting a flashing shot will spot that insert and award points around 15-50k'. Subsequent chip tricks award higher points  for the rest of ball and comboing them will award 2X, 3X etc the value. Upon spotting your fifth Chip trick you start Super Trick: you have 10 seconds to hit a flashing Chip Trick. Hitting that shot unlights it, awards around 200k and the timer resets to 10 seconds to hit another flashing Chip Trick for 300k, then 400k etc. This is actually calculated as 2/3/4/5/6 times a base value of 100k, which can be increased somehow, but I'm not sure how. Extra Ball is lit for hitting all flashing Chip Trick shots during Super Trick, but must be collected before draining as it does not carry to the next ball. After completing super trick, chip tricks have a higher starting value.
@@ -187,7 +187,7 @@ Hitting any of the white stand up targets on the mini-playfield three times will
 
 **Spin a Card** - The scoop will spot a random drop target to add to your drop target poker hand. Relight by going through the left inlane.
 
-**Red stand up targets** - These are there in place of the usual rollover lanes, above the pops, light all four targets by hitting them (cycle them with the flipper buttons) to increase bumper value and add bonus X multiplier. 
+**Red stand up targets** - These are there in place of the usual rollover lanes, above the pops, light all four targets by hitting them (cycle them with the flipper buttons) to increase bumper value and add bonus X multiplier.
 
 **Pop Bumpers** - Base value of 1K points, can be increased with the stand up targets, or through mystery awards. Hitting the pops also increases Side Pot Value. 3x and 5x bumpers occur sometimes but not sure why.
 

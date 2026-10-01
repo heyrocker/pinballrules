@@ -82,7 +82,7 @@ If EDDIE is *not yet* fully spelled, then shooting the left spinner will change 
 Winning any Eddie Battle lights the bullseye target to score a **[Soul Shard](#heading--soulshards)**. Playing all five Eddie Battles qualifies the sixth Eddie Battle, **[2 Minutes to Midnight](#heading--2mtm)**.
 
 * **Aces High**: 2-ball Multiball. Every blue shot defeats a fighter - defeat four fighters at any eight major shots to move onto stage 2. Defeat the two bombers by shooting either ramp, then the bullseye target - repeat this for both ramps. Then defeat the ace by shooting the strobing shot, followed by the bullseye target within 5 seconds; this final jackpot is multiplied by the bullseye target position, and qualifies the **Soul Shard**. One add-a-ball is available from the first **[Mystery Award](#heading--orbaward)** collected during the multiball. If the player is doing *very* poorly by their 3rd ball, this will always be the first battle played and cannot be changed like it normally can.
-* **Fear of the Dark**: Four shots are lit with purple arrows, shoot any one of them to light the two spinners for a ton of points for one spinner rip (the REVIVE spinner scores 2x the value displayed, and the right ramp adds an additional +2x to spinners if shot before making either spinner). The more difficult the shot, the higher the base spinner value. When you rip a lit spinner, it will unlight after it stops spinning and is no longer available for the lit spinner points. You may get BOTH spinners going during one "rip", and this awards 4x scoring for the left spinner -- but it's very difficult to execute. Repeat the process three times to win the mode and light the **Soul Shard**. 
+* **Fear of the Dark**: Four shots are lit with purple arrows, shoot any one of them to light the two spinners for a ton of points for one spinner rip (the REVIVE spinner scores 2x the value displayed, and the right ramp adds an additional +2x to spinners if shot before making either spinner). The more difficult the shot, the higher the base spinner value. When you rip a lit spinner, it will unlight after it stops spinning and is no longer available for the lit spinner points. You may get BOTH spinners going during one "rip", and this awards 4x scoring for the left spinner -- but it's very difficult to execute. Repeat the process three times to win the mode and light the **Soul Shard**.
 * **Rime of the Ancient Mariner**: Center shot is lit to shoot down the albatross and collect a hurry-up counting down from 1M. Shoot center shot to lock in this value as the shot value and start a 2-ball multiball. Shoot either of the two shots on the left side of the playfield (for the shot value + 500k increment) to move them by one shot towards the center for 20 seconds, and shoot the bullseye (or scoop under center ramp) once the shots are centered to score the jackpot worth the total shot values. Then repeat this process for the right side of the playfield, including the drop targets, to qualify the **Soul Shard**. One add-a-ball is available from the first **[Mystery Award](#heading--orbaward)** collected during the multiball.
 * **Hallowed Be Thy Name**: Complete the lit shots, in order, as quickly as possible. Four orange arrow shots are lit at the start - both ramps and both orbits. Shooting any orange arrow unlights it for the remainder of the mode. The sequence is as follows: orange arrow (3M), captive ball (5M), orange arrow (3M), all three drop targets (10M), orange arrow (3M), bullseye target for 10M + 1M per time remaining + lights the **Soul Shard**.
 * **Flight of Icarus**: Shoot alternating lit ramps for 2M (+150K increment for each ramp shot, lit or unlit). Combo ramps on a 5 second timer for incremental multiplied scoring (ex: 1st combo at 2x, 2nd at 3x, etc). The multiplied value is factored in after the 150K increment is added, and shooting the same ramp within the 5-second combo timer will reset that timer. Once you've earned the 20M points required to qualify the **Soul Shard**, you can shoot the bullseye target to end the mode early and light the Soul Shard, or you can "risk it" and play it out like normal.
@@ -90,12 +90,12 @@ Winning any Eddie Battle lights the bullseye target to score a **[Soul Shard](#h
 ### Soul Shards: {#heading--soulshards}
 
 Completing any **[Eddie battle mode](#heading--eddiebattles)** will light the bullseye target for 10 seconds to collect a Soul Shard, worth a hurry-up starting at 20% of the points earned during the battle x2 or x3 depending on the position of the bullseye target hit. Shoot the bulls-eye target within 10 seconds (regardless of starting hurry-up value) to collect the Soul Shard. If you drain or if the Hurry-Up expires, then you do not get credit for the Soul Shard.
- 
+
 In addition to the hurry-up points, Soul Shards:
 - Increase **[end-of-ball bonus](#heading--bonus)**
 - Light **[Tomb Treasures](#heading--tombtreasures)**
 - Are added to "mode scores" during **[2 Minutes to Midnight](#heading--2mtm)**
-- Increase the bonus awarded for winning **[Number of the Beast](#heading--notb)** 
+- Increase the bonus awarded for winning **[Number of the Beast](#heading--notb)**
 
 After playing **2 Minutes to Midnight**, the next **[level 3 Mystery award](#heading--orbaward)** collected will spot a Soul Shard that hasn't been collected yet if any remain.
 
@@ -161,15 +161,15 @@ During Mummy Multiball, qualify jackpots at the captive ball by scoring 10 switc
 
 Add-a-Balls are available by completing all yellow shots at a given level, and this process also carries over between Mummy Multiball attempts (though is limited to 3 add-a-balls per multiball):
 
-- 1: Both ramps. 
-- 2: Both ramps and both orbits. 
+- 1: Both ramps.
+- 2: Both ramps and both orbits.
 - 3+: Both ramps, both orbits, both loops, center ramp, and Super Jackpot target.
 
 Score the first Super Jackpot during Mummy Multiball to collect the **[Mummy Eddie card](#heading--eddiecards)** at level 1, and score a second Super Jackpot (doesn't have to be during the same multiball) to collect the card at level 2.
 
 ## Eddie Cards: {#heading--eddiecards}
 
-Collect the 4 Eddie Cards to qualify **[Number of the Beast](#heading--notb)**. Level 1 Eddie Cards add +5M to **[Power Jackpot](#heading--powerjackpot)** and vanish at the end of a failed **Number of the Beast** attempt, while Level 2 Eddie Cards are tougher to obtain but are retained across **Number of the Beast** attempts, add +15M to **Power Jackpot** value each, and light a **[Tomb Treasure](#heading--tombtreasures)** if all four have been collected at level 2. 
+Collect the 4 Eddie Cards to qualify **[Number of the Beast](#heading--notb)**. Level 1 Eddie Cards add +5M to **[Power Jackpot](#heading--powerjackpot)** and vanish at the end of a failed **Number of the Beast** attempt, while Level 2 Eddie Cards are tougher to obtain but are retained across **Number of the Beast** attempts, add +15M to **Power Jackpot** value each, and light a **[Tomb Treasure](#heading--tombtreasures)** if all four have been collected at level 2.
 
 **Eddie Card requirements are:**
 
@@ -182,7 +182,7 @@ Collect the 4 Eddie Cards to qualify **[Number of the Beast](#heading--notb)**. 
 
 ### Number of the Beast (Wizard Mode): {#heading--notb}
 
-Collect all 4 **[Eddie Cards](#heading--eddiecards)** at either level 1 or 2 to qualify **Number of the Beast** wizard mode. 
+Collect all 4 **[Eddie Cards](#heading--eddiecards)** at either level 1 or 2 to qualify **Number of the Beast** wizard mode.
 
 This is an untimed single-ball mode with a 30-second initial ball save. Three shots are lit with red arrows - shoot any one of them to light the bullseye target shot to enable counter-attacks, though this target has to be made within 5 seconds and the shots relight when time runs out. After a lit bullseye target hit, all shots are lit yellow for 10 seconds to score counter-attacks against the Beast. You cannot shoot the same shot consecutively, and 15 counter-attack shots are required to defeat the Beast. You can re-qualify and repeat the counter-attack phase as needed.
 
@@ -204,7 +204,7 @@ Completing various objectives throughout the game lights the Tomb (Pro: right lo
 9) 50M + spots a random **[level 2 Eddie card](#heading--eddiecards)**
 10) **[Run to the Hills](#heading--rtth)**
 
-There are exactly 11 different objectives, including the five **[Soul Shards](#heading--soulshards)**, that will light a **Tomb Treasure** the first time they have been achieved - meaning that repeating the same objective twice will *not* light another treasure (so you'll need to complete 10 goals to start **Run to the Hills**). 
+There are exactly 11 different objectives, including the five **[Soul Shards](#heading--soulshards)**, that will light a **Tomb Treasure** the first time they have been achieved - meaning that repeating the same objective twice will *not* light another treasure (so you'll need to complete 10 goals to start **Run to the Hills**).
 
 1) Collect a **[Soul Shard](#heading--soulshards)** after winning any **[Eddie battle mode](#heading--eddiebattles)** (one treasure per unique shard)
 2) Score a **[loop jackpot](#heading--loopjackpot)**
@@ -251,7 +251,7 @@ Shoot the flashing X targets around the playfield to light a return lane for 2x 
 
 Once qualified, **activate** the PFx by rolling over the lit return lane. Once activated, the associated 2X or 3X insert begins flashing. The base timer for the playfield multiplier is 20 seconds. Hitting a flashing X target while the multiplier is active will add 5 seconds to the timer. While there's no timer displayed on-screen, the 2X/3X insert will flash faster as you get close to the timer expiring.
 
-If you aren't in a mode, alley passing from the right flipper through the left inlane into the **[Gravestone target](#heading--gravestone)** will spot a flashing X target. Playfield X can be instantly qualified by completing a **[Super Skill Shot](#heading--skillshots)**, and is always available to qualify *except* during **[Cyborg MB](#heading--cyborgmb)** and **[2 Minutes to Midnight](#heading--2mtm)**. 
+If you aren't in a mode, alley passing from the right flipper through the left inlane into the **[Gravestone target](#heading--gravestone)** will spot a flashing X target. Playfield X can be instantly qualified by completing a **[Super Skill Shot](#heading--skillshots)**, and is always available to qualify *except* during **[Cyborg MB](#heading--cyborgmb)** and **[2 Minutes to Midnight](#heading--2mtm)**.
 
 <h3 id="heading--revive">Revive:</h2>
 
@@ -270,7 +270,7 @@ Shatzing (alley passing) the left inlane to send the ball into the gravestone st
 <h3 id="heading--combos">Combos & Deathblows:</h2>
 
 A "combo" is performed by hitting distinct shots on the playfield in succession. Each different shot you hit will advance the active combo by 1. Unlike most games, an active combo does not "time out" if you take too long between shots. A combo ends when one of the following occurs:
-- A Deathblow has been scored 
+- A Deathblow has been scored
 - A shot that was already used as part of the active combo has been made
 - Any standup, drop target, or 2 pop bumpers have been hit
 
