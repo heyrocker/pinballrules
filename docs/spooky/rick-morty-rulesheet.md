@@ -65,7 +65,7 @@ Hitting the Flooble Crank once will qualify either side of the Danesi Lock 2.0 f
 
 Stacking an Adventure start on the Multiball start, along with making it quite a bit easier to make progress in the Adventure, will actually combine the two ball saver times. You are also able to hit the left and right ramps to qualify your next mode if you aren’t in one during multiball or if you complete a mode during multiball. You cannot start the next mode but you can at least qualify it to be ready when you exit multiball.
 
-After the first multiball, lit locks will slowly fade and timeout.  With each sucessive multiball, the fade time gets faster until the 6th multiball, where it hits the lowest timer and stays constant.
+After the first multiball, lit locks will slowly fade and timeout.  With each successive multiball, the fade time gets faster until the 6th multiball, where it hits the lowest timer and stays constant.
 
 **Add-A-Ball:** Make the Flooble Crank three times to add a ball to the Multiball. The first two hits will light a solid green light below the Flooble Crank, and the third will add a ball into play and give a 10 second additional ball saver. You can only collect 1 add-a-ball per continuous multiball -- for example: if you start GMB and collect the add-a-ball and then bring in Meeseeks Mania, you can not add another ball.  Once you have earned the add-a-ball in any multiball, following multiballs will require 4 shots for the add-a-ball.
 
@@ -196,7 +196,7 @@ Some (many?) adventures have custom awards that you will get the first mystery y
 
 ## Slam Save: {#heading--slam}
 
-Qualify the Slam Save by completing SLAM at the return lanes. Additionaly, completing the SLAM lanes will light the SLAM RING for a 'bonus' hit worth more points.  If you complete the lanes again, the value goes up.  There are FIVE levels of bonus value.  They are exponential and indicated by color. With the Slam Save lit, the next time a ball drains off of a pop bumper hit, it will be sent back into play and a bonus will be scored dependent on how many times SLAM was completed before using it. The Slam Save has a very short timer, so if the ball isn’t launched directly into the drain, it is unlikely to award the save (if it rolls up the apron for example before coming back to the drain). Slam Save is disabled during multiballs.  Points are awarded based on the highest SLAM RING bonus value for the slam save, and can be collected while the immortality field is on (Slam-mortality)
+Qualify the Slam Save by completing SLAM at the return lanes. Additionally, completing the SLAM lanes will light the SLAM RING for a 'bonus' hit worth more points.  If you complete the lanes again, the value goes up.  There are FIVE levels of bonus value.  They are exponential and indicated by color. With the Slam Save lit, the next time a ball drains off of a pop bumper hit, it will be sent back into play and a bonus will be scored dependent on how many times SLAM was completed before using it. The Slam Save has a very short timer, so if the ball isn’t launched directly into the drain, it is unlikely to award the save (if it rolls up the apron for example before coming back to the drain). Slam Save is disabled during multiballs.  Points are awarded based on the highest SLAM RING bonus value for the slam save, and can be collected while the immortality field is on (Slam-mortality)
 
 ## End of Ball Bonus: {#heading--eobbonus}
 

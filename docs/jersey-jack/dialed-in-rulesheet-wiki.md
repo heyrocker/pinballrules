@@ -136,7 +136,7 @@ During a mode, the first shot to the Phone Scoop made after making a lit shot wi
 
 Collecting a Big Bang during a mode will automatically complete the mode; however, any mode multipliers you have (from prior SIM cards collected) won’t be applied to unmade shots.
 
-If you complete a mode you will score a 30K completion bouns, plus light a SIM card for collection at the SIM Card Scoop.  Collecting SIM Cards is very beneficial (see SIM Card section) to mode scoring, wizard mode progress, and wizard mode scoring. 
+If you complete a mode you will score a 30K completion bonus, plus light a SIM card for collection at the SIM Card Scoop.  Collecting SIM Cards is very beneficial (see SIM Card section) to mode scoring, wizard mode progress, and wizard mode scoring. 
 
 Extra ball is lit after 3 disaster modes are played.
 

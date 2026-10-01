@@ -297,7 +297,7 @@ Can be multiplied up to 4x by FUEL and snake during MB.
 </tr>
 
 <tr>
-<td>Pirates of the Carribean (Stern)</td>
+<td>Pirates of the Caribbean (Stern)</td>
 <td><details>
 <summary>500K</summary>
 </details></td>

@@ -26,7 +26,7 @@ opdb_id: "Gryw4"
 - [Multiball Add-A-Ball](#heading--mbaddaball)
 - [Klingon Multiball](#heading--klingonmb)
 - [Vengeance Modes](#heading--vengeancemodes)
-  - [Torpedos](#heading--torpedos)
+  - [Torpedoes](#heading--torpedoes)
   - [Vengeance Multiball](#heading--vengeancemb)
   - [Vengeance Scoring](#heading--vengeancescoring)
   - [Vengeance Battle](#heading--vengeancebattle)
@@ -296,7 +296,7 @@ Other multiballs include *Vengeance Multiball*, *Kobayashi Maru*, *Enterprise Am
 
 Hit Vengeance X number of times (or use torpedoes) to light Vengeance Mode
 
-### Torpedos {#heading--torpedos}
+### Torpedoes {#heading--torpedoes}
 
 Torpedo standups when completed add 3 torpedoes. Torpedoes accumulated are shown by the line of yellow triangles on the playfield and can be used by pressing the fire button to score Vengeance hits. Torpedoes will not award mode shots.
 

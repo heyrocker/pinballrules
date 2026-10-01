@@ -250,7 +250,7 @@ Shoot all 4 Turtle Shots to light "Turtle Power" flashing for an Add-A-Ball at t
 
 Shoot the Ninja Pizza Parlor three times during single-ball play to lock balls and start Ninja Pizza Multiball. At the start of multiball, a list of perks is seen based on the *toppings* the player collected while locking balls (read more below), and the three balls are released from the pizza parlor onto the spinning disc to start multiball.
 
-Shoot lit shots to defeat Foot Soliders, each shot defeats a different number of Foot Soldiers:
+Shoot lit shots to defeat Foot Soldiers, each shot defeats a different number of Foot Soldiers:
 - Left Ramp: 3 Foot
 - Pizza Parlor: 1 Foot
 - Krang Loop: 2 Foot
@@ -426,7 +426,7 @@ Ball save is active for 20 seconds (by default). 6 shots will be lit to defeat "
     - By timing out your Rescue Hurry-Ups and continuing to defeat Bad Guys, you can start scoring pretty good points, as long as you keep the multiball going. A full set of Bad Guys is worth 1.975m the first time, 2nd time: 3.275m, 3rd: 4.575m, 4th: 5.325m, 5th and on: around 5.5m+.
 
 - **Weapons (spot Bad Guy shots)**
-Shooting either orbit or the Center Ramp, whether lit for a Bad Guy or not, will light the weapon insert on that shot on a timer. Lit weapon shots will spot one of the Bad Guy shots, it can spot the Bebop and Rocksteady shots or Foot Soliders, and it appears that it may choose whichever shot is a lower value.
+Shooting either orbit or the Center Ramp, whether lit for a Bad Guy or not, will light the weapon insert on that shot on a timer. Lit weapon shots will spot one of the Bad Guy shots, it can spot the Bebop and Rocksteady shots or Foot Soldiers, and it appears that it may choose whichever shot is a lower value.
 
 Completing all 3 Rescue Hurry-Ups will start *Pizza Party* (Victory Laps) and, if needed, award one of 6 requirements for the final **[Cowabunga](#heading--cowabunga)** wizard mode (in the order listed in the section, from top to bottom, and not including Final Battle).
 

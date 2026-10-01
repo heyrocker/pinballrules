@@ -272,7 +272,7 @@ The Arena Battle has the same basic rules as the **[Rival Battles](#heading--bat
 
 - **Ursaring** (Normal) - Every time Ursaring attacks, the player's currently active Pokemon will be switched. They cannot use the town scoop to switch the currently active Pokemon.
 - **Sandslash** (Ground) - Damage is dealt to the currently active Pokemon over time, even when Sandslash isn't in the middle of an attack. Switching or healing Pokemon will circumvent this.
-- **Talonflame** (Fire / Flying) - Talonflame uses its Fly attack and becomes temporarily invincible to damage. The player can deal damage after Talonflame is recovering from their atack.
+- **Talonflame** (Fire / Flying) - Talonflame uses its Fly attack and becomes temporarily invincible to damage. The player can deal damage after Talonflame is recovering from their attack.
 - **Gengar** (Ghost / Poison) - All lights are turned off.
 - **Metagross** (Steel / Psychic) - Flippers are reversed and no Pokemon can be healed while Metagross is present.
 - **Salamence** (Dragon / Flying) - Attacks hard and attacks often. The only chance of defeating Salamence is if players keep hitting shots quickly to prevent their attacks from occurring.

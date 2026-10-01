@@ -83,7 +83,7 @@ Use the flipper buttons to choose a character before you launch your first ball.
 One Skill shot is available:
 
 * **Cap Stash Skill Shot**
-  * Time your plunge to the flashing Nuka Cola insert on the right inline to lower the Nuka Cola spinner for a few seconds. Immedately rip the spinner from the right flipper. Rewards a base of 3M point + 75,000 points per spin and 3 seconds of ball save. Additional successful cap stash skill shots add 1M points to the base and 50,000 points for each rip of the spinner.
+  * Time your plunge to the flashing Nuka Cola insert on the right inline to lower the Nuka Cola spinner for a few seconds. Immediately rip the spinner from the right flipper. Rewards a base of 3M point + 75,000 points per spin and 3 seconds of ball save. Additional successful cap stash skill shots add 1M points to the base and 50,000 points for each rip of the spinner.
 
 ## Quests {#heading--quests}
 
@@ -106,7 +106,7 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
     * Making a blue shots will light a yellow shots.
     * Yellow shots will progress towards super jackpot.
     * *To be discovered and documented*
-  * **Add-a-Ball**: Available on all models. Hit the Deathclaw to add-a-ball. The red inserts indiciate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball. 
+  * **Add-a-Ball**: Available on all models. Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball. 
 * **Radscorpion Attack:** Ramp Jump mode with a build up mechanic. The final shot **differs between the Pro model and the Premium/LE model**
   * Shoot any lit shots to light the center jump ramp for 2x the value.
     * The base shot value is 500k + 250k per shot
@@ -118,12 +118,12 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
     * For **Pro Model:**
       * *To be discovered and documented*
 * **The Kings:** A *2-ball multiball* mode.
-  * All lit shots score jackpots with a multipler starting at 1x. Combo-ing the lit shots together advances the multiplier by 1 and rewards a multiplied jackpot.
+  * All lit shots score jackpots with a multiplier starting at 1x. Combo-ing the lit shots together advances the multiplier by 1 and rewards a multiplied jackpot.
   * To qualify for a super jackpot, you have two options:
-    * Hit the max multiplier [Needs to be documented what the max multipler]
+    * Hit the max multiplier [Needs to be documented what the max multiplier]
     * Start 3 killing sprees. A killing spree is a comboed shot.
   * The base value of jackpots is: 500k + 50k per shot.
-  * **Add-a-Ball:** Hit the Deathclaw to add-a-ball. The red inserts indiciate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball. 
+  * **Add-a-Ball:** Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball. 
 * **Mind Control:** Multi-level Ramp+Spinner mode.
   * Hit the lit ramp shots to drop the spinner for a certain amount of time.
   * Rip the spinner. With enough spins, advance to the next test (level) of the mode. Each level requires a different amount of spins and have a different base reward value:
@@ -147,7 +147,7 @@ Spell VAULT by shooting the lit "VAULT Letter" shots around the playfield. This 
 
 For **Premium/LE Models**, shoot the ball to the center ramp to hit the vault door behind it. The ball will be held while the vault door physically opens up. Shoot the ball past the vault door to start a [Vault Mode](#heading--vault-mode-list). The lower playfield activates and becomes the focus point for the duration. The pip-boy will display how much time you have left.
 
-During the opening vault door animation, the number of the valut is displayed. This hints at what specific vault mode you will be playing.
+During the opening vault door animation, the number of the vault is displayed. This hints at what specific vault mode you will be playing.
 
 For **Pro Models**, shoot the ball and bash the vault door again to start Find the Lunchbox!
 * Multiple shots will be lit blue. Hit one of these shots to find a lunchbox.
@@ -167,7 +167,7 @@ For **Pro Models**, shoot the ball and bash the vault door again to start Find t
   * Hit the stand up target and loop to deal damage. Each hit reduces the raiders HP by 10. 
     * Hit each stand-up and the loop 3 times. Total of 12 shots.
   * Once all raiders are defeated, hit the loop and collect a lunchbox!
-* **Vault 33** - Populate the Vault (Gather supplies and attract valut dwellers)
+* **Vault 33** - Populate the Vault (Gather supplies and attract vault dwellers)
   * Hit each stand up target 3 times to collect the resources. Total of 9 shots all together.
   * Hitting the loop will spot one of the stand-up targets
   * Once the resources have been collected, shoot the loop to collect a vault deweller. Then shoot the loop again to complete the vault mode and collect a lunchbox!
@@ -342,7 +342,7 @@ If your collect [Dogmeat as your Companion](#heading--trusty-companions), you wi
 
 **Radaway:** Upon being inflicted with RAD, a green shot becomes lit at the ramps to indicate that radaway is available. Hitting the green shot rewards:
 * Points! - This is a hurry-up style shot. The quicker you hit the shot, the more points you collect.
-* Radaway - Reduces the amount of RAD the player has incured, which increases their maximum HP.
+* Radaway - Reduces the amount of RAD the player has incurred, which increases their maximum HP.
 * Increased Jackpot Value for Radaway Hurry-Up Jackpot
 * Progresses the player towards Radaway Hurry-Up.
   * The first Radaway Hurry-Up Jackpot starts after collecting 3 Radaway Hurry-Ups
@@ -362,10 +362,10 @@ For **Premium/LE Model:** Load the fatman to kill the radroach. The fatman mecha
 For **Pro Model:** *To be discovered and documented*
 
 ### Playfield X {#heading--playfield-x}
-A Playfield multiplier can be applied by two means: The Power Armor and your weapon. The Power Armor acts as active-based, time-limited playfield multipler while the weapon acts as a passive playfield multipler with no timer.
+A Playfield multiplier can be applied by two means: The Power Armor and your weapon. The Power Armor acts as active-based, time-limited playfield multiplier while the weapon acts as a passive playfield multiplier with no timer.
 
 #### Power Armor {#heading--power-armor}
-Equip your Power Armor by holding the action button for a short amount of time, activating a **+100% (2x) multiplier** that's addictive with your weapon multiplier. To be able to equip your Power Armor, the fusion core must be charged with the minimum amount of power needed. The charge of the fusion core is displayed with the row of inserts to the right of the pop bumper. Fusion Cores act as the multiplier timer. **You can toggle the power suit playfield multipler on and off**, saving the time.
+Equip your Power Armor by holding the action button for a short amount of time, activating a **+100% (2x) multiplier** that's addictive with your weapon multiplier. To be able to equip your Power Armor, the fusion core must be charged with the minimum amount of power needed. The charge of the fusion core is displayed with the row of inserts to the right of the pop bumper. Fusion Cores act as the multiplier timer. **You can toggle the power suit playfield multiplier on and off**, saving the time.
 * You can charge the fusion core by two methods:
   * Purchasing fusion cores from the [Sundries](#heading--caps--sundries)
   * Hitting the Pop Bumper
@@ -373,7 +373,7 @@ Equip your Power Armor by holding the action button for a short amount of time, 
 #### Weapons {#heading--weapon}
 You'll need production when roaming the wasteland! The game starts you off with a simple weapon that can be upgraded. Your weapon can award:
 * A playfield X multiplier of +20% (0.2x) for each upgrade
-* +1x multipler at the [End-Of-Ball Bonus](#heading--end-of-ball-bonus) for each upgrade.
+* +1x multiplier at the [End-Of-Ball Bonus](#heading--end-of-ball-bonus) for each upgrade.
 
 Upgrading your weapon requires a certain amount of [Junk](#heading--junk) items of certain quality, becoming more demanding as you continue to upgrade. Once you have the material, shoot the scoop to upgrade your weapon. The junk material requirement for upgrading your weapon is as listed:
 * Level 2:
@@ -427,7 +427,7 @@ You have the option to **steal** items. The success rate will be displayed.
 
 Upon **failing to steal** an item, the player has 10 seconds to escape by shooting the right orbit.
 * **On Failing to escape:** The player is robbed by Mr Handy and loses all caps and the item they attempted to steal.
-* **On Successing an escape:** The player is rewarded the item they attemped to, but their reputation was tarnished and all items in the next visit to Sundries will be doubled.
+* **On Succeeding an escape:** The player is rewarded the item they attempted to, but their reputation was tarnished and all items in the next visit to Sundries will be doubled.
 
 List of Items at Sundries:
 

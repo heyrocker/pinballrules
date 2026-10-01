@@ -57,7 +57,7 @@ _Last updated for code revision: 2026.08.20_
 
 [**Playfield Multipliers**](#heading--multipliers)
 - [Filling the Spirit Meter](#p-99988-filling-the-spirit-meter-10)
-- [Start the Muiltiplier](#p-99988-start-the-multiplier-11)
+- [Start the Multiplier](#p-99988-start-the-multiplier-11)
 - [Collect Points](#p-99988-collect-points-12)
 
 [**Mini-Modes**](#heading--mini)
@@ -227,7 +227,7 @@ The South Conservatory has beautiful windows and skylights, which don't make for
 
 This is a mode with "good" and "bad" shots. Good shots, indicated by cyan arrows, will let Elias progress through the room without your noticing him. Elias is indicated by Orange shots, which move with his progress through the room. Hitting targets will take away some of the good shots, but hitting a good shot will put them back in play.
 
-Hitting enought targets, or a shot where Elias is, will start a countdown. You'll hear Elias coming and he'll count down as the right ramp flashes. You must hit the right ramp before the timer ends or the mode will fail!
+Hitting enough targets, or a shot where Elias is, will start a countdown. You'll hear Elias coming and he'll count down as the right ramp flashes. You must hit the right ramp before the timer ends or the mode will fail!
 
 Hit enough good shots to escape the room.
 
@@ -266,7 +266,7 @@ You will be attacked in an untimed battle against 3 spirits. As the ball is retu
 
 Ambush ends after expelling the 3 spirits or draining out of the ambush. Successfully completing the ambush awards a [**Wildcard Memento**](#heading--mementos).
 
-In multiplayer games, all players will enounter Ambush at the same number of travels on the map, unless the Ambush cannot start (for example, while playing a 13ths mode). A reckoning will also cancel out the next time a player would be ambushed.
+In multiplayer games, all players will encounter Ambush at the same number of travels on the map, unless the Ambush cannot start (for example, while playing a 13ths mode). A reckoning will also cancel out the next time a player would be ambushed.
 
 You can [**Run**](#heading--running) from a Spirit Ambush, which will remove you from being trapped, but will be unable to earn points or collect the [**Wildcard Memento**](#heading--mementos) from completing the Ambush.
 

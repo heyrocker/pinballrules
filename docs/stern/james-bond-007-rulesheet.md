@@ -51,7 +51,7 @@ Designed by George Gomez in his first pinball machine since *Deadpool*, ***James
 - Spell SPECTRE by shooting the targets behind the rocket to increase Bird 1 Multiball jackpots and light the Goldfinger target near the right orbit for **SPECTRE weapon hurry-up**. Completed hurry-ups award valuable perks for the remainder of the game. 
   - The right half of the hurry-ups require one shot to complete, and the left half require multiple shots.
 - Repeatedly shoot various shots/mechs around the game (ie. hit bumpers, spinners, etc. enough times) to light DB5 for **Q Branch**.
-  - Two of the Q Branch modes (Radioactive Reconaissance, Q's Ring) are single-ball modes. The other four start as single-ball and transition into 2-ball multiball if completed before time runs out. 
+  - Two of the Q Branch modes (Radioactive Reconnaissance, Q's Ring) are single-ball modes. The other four start as single-ball and transition into 2-ball multiball if completed before time runs out. 
 - Complete modes to collect **smart missiles**, and use the action button to collect lit shots. Use the flippers to change the action button behavior from activating a missile (blue) to activating 007 scoring (pink).
 - **Bond Women** are lit at the upper loop in the same ways as the Q Branch modes described above. Collect as many as you can at the upper loop, then press the action button while flashing pink for multiplied **007 scoring**.
 - **Bird 1 Multiball** - shoot the Osato Corp. drop targets, then the center loop to lock 3 balls and start it. Make three shots from the upper flipper at the start to extend multiball; when two balls drain, it will automatically restart!

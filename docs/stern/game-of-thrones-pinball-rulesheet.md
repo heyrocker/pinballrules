@@ -229,7 +229,7 @@ The houses that you take into HOTK wizard mode can be important. Each house brin
 * **Martell**: All shots must be completed twice
 * **Targaryen**: +500,000 per shot award
 
-_Bear in mind that even though Stark, Baratheon and Martell sound undesriable to bring in, they do offer more opportunities for shots that can mitigate what would be an otherwise poor HOTK._
+_Bear in mind that even though Stark, Baratheon and Martell sound undesirable to bring in, they do offer more opportunities for shots that can mitigate what would be an otherwise poor HOTK._
 
 **HOTK** is a mini wizard mode that is completed in "sets".
 

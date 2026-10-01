@@ -101,7 +101,7 @@ Shoot the Grimlock targets gating the left orbit to light the left orbit to star
 Scoring 3 Dino Jackpots during any mission lights the VUK to start **[Dinobot Desertion](#heading--desertion)**. If the player scored 3 Dino Jackpots in *all* 3 missions, the VUK will instead start **Super Dinobot Desertion**.
 
 - **War**: Hit lit slingshots or bumpers to light jackpot. Only one slingshot or bumper is lit at a time. Jackpot can be increased with further lit slingshot / bumper hits.
-- **Island**: *2-ball multiball*. Shoot 50 switches to light jackpot at the left orbit. Clear all major shots for add-a-ball (left ramp / center spinner, then right ramp gets added, then rigth orbit gets added, etc.)
+- **Island**: *2-ball multiball*. Shoot 50 switches to light jackpot at the left orbit. Clear all major shots for add-a-ball (left ramp / center spinner, then right ramp gets added, then right orbit gets added, etc.)
 - **S.O.S.**: *Objective-based mode*. Hitting a drop target, standup target, orbit, pop bumper, or ramp will lock in that shot as the next one that needs to be hit repeatedly to light jackpot.
 
 # Multiballs: {#heading--multiballs}

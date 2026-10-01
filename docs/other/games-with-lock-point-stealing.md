@@ -179,7 +179,7 @@ title: "Games With Lock & Point Stealing"
 
 **Games That Can Swap Player Scores**
 
-* Bugs Bunny Birthday Bash (gifts at the end of the game) (setting to trun off)
+* Bugs Bunny Birthday Bash (gifts at the end of the game) (setting to turn off)
 
 **Games That You Can Lose Bonus Multipliers**
 

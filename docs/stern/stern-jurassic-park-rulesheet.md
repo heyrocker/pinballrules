@@ -467,7 +467,7 @@ Possible Supply Drop awards:
 
 Qualified at the Supply Drop target after 3 (+10) **[Loops](#heading--loopawards)** have been collected, or via the **[Smart Missile](#heading--smartmissile)** award. Collected via same target as a normal **[Supply Drop](#heading--supplydrop)**, but flashing instead of solidly lit, and takes precedence over normal Supply Drops. 
 
-(note: Only 1 super supply drop can be qualified at once, so make sure to collect it before reaching the next treshold)
+(note: Only 1 super supply drop can be qualified at once, so make sure to collect it before reaching the next threshold)
 
 |#|Award|Loops|Min. Loops w/ **[Triceratops](#heading--paddocks)** Perk|
 |--|---|---|---|

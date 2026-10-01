@@ -85,8 +85,8 @@ Conservatory, Pit Creature & Alice: Shears
 Conservatory, Wolf: Wolfsbane
 Kitchen, PitCreature: Salt
 Kitchen, Vampire: Garlic
-Labratory, Ethyl: Formaldehyde
-Labratory, Zombie: Dynamite
+Laboratory, Ethyl: Formaldehyde
+Laboratory, Zombie: Dynamite
 Library, Ethyl: Cross
 Library, Igor & Insect: Book
 

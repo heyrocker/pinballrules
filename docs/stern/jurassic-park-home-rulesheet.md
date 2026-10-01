@@ -64,11 +64,11 @@ Spinosaurus: Shooting the captive ball (causing a hit to the pop bumper behind) 
 
 Overall points from dinosaur evacuations can be massively increased with smart missiles. Light a smart missile with 5 hits to the target and then launch it with a 6th shot. Ricochets off the pop bumper count. If no paddock is entered/lit, smart missile will light one.
 
-If 1 or more shots are lit for evac - every time a smart missle is launched 25,000 points is added to each remaining shot for all currently lit paddocks. There is no limit.
+If 1 or more shots are lit for evac - every time a smart missile is launched 25,000 points is added to each remaining shot for all currently lit paddocks. There is no limit.
 
-Big scores can come from entering multiple paddocks, lauching smart missiles, and then going for evacuations. There are 30 total shots needed to evacuate all 5 dinosaurs, so each smart missile could be worth up to 750,000 points.
+Big scores can come from entering multiple paddocks, launching smart missiles, and then going for evacuations. There are 30 total shots needed to evacuate all 5 dinosaurs, so each smart missile could be worth up to 750,000 points.
 
-A stack of all paddocks lits, 10+ missiles launched, multiball started, and double scoring will result in millions of points!
+A stack of all paddocks lit, 10+ missiles launched, multiball started, and double scoring will result in millions of points!
 
 Smart missile bonuses carry over even if you drain.
 
@@ -91,7 +91,7 @@ A 3-ball multiball, qualified by shooting the Raptor Pen in the lower right port
 
 ### Dilophosaurus Spinners:
 
-Both spinners on the game start out scoring 500 points per spin. After 20 spins (n) a 25,000 bonus is awarded and spin scoring increases by 150 - 650. Every n+5 (25, 30, 35 etc) spins thereafter 25,000 more points are awared and spin scoring is further increased by 150.
+Both spinners on the game start out scoring 500 points per spin. After 20 spins (n) a 25,000 bonus is awarded and spin scoring increases by 150 - 650. Every n+5 (25, 30, 35 etc) spins thereafter 25,000 more points are awarded and spin scoring is further increased by 150.
 
 Pop Scoring:
 
@@ -130,7 +130,7 @@ Then multiply by Bonus X, if applicable, earned from completing inlane/outlanes.
 
 ### Escape Nublar (Wizard Mode): {#heading--escapenublar}
 
-After 5 dinos are evactuated at the 5 major shots, Ecape Nublar lights at the T-rex. Enter the T-rex to start. The volcano is erupting, its time to rescue the last few workers and get off Nublar! This mini wizard mode starts as a 4 ball multiball. Shoot XX number of arrows to light escape at the T-rex. Flashing shots indicated the correct way and increase scoring. Solidly lit shots are the wrong way and end your streak. Rescuing workers does not end the streak.  
+After 5 dinos are evactuated at the 5 major shots, Escape Nublar lights at the T-rex. Enter the T-rex to start. The volcano is erupting, its time to rescue the last few workers and get off Nublar! This mini wizard mode starts as a 4 ball multiball. Shoot XX number of arrows to light escape at the T-rex. Flashing shots indicated the correct way and increase scoring. Solidly lit shots are the wrong way and end your streak. Rescuing workers does not end the streak.  
 
 All scoring in the wizard mode is multiplied by the number of balls in play after the final shot to the T-rex.
 

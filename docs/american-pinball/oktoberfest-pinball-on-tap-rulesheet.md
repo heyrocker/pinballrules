@@ -203,7 +203,7 @@ Ducks collected throughout the game increase mode values and end-of-ball bonus. 
 
 * Hitting the four duck standups on the playfield.
 * Mystery awards.
-* Completing Tent Modes. You get 5 ducks for the first mode you win on a ball, then 10 for the next, then 15, ect.
+* Completing Tent Modes. You get 5 ducks for the first mode you win on a ball, then 10 for the next, then 15, etc.
 
 Every 50 ducks lights Duck Derby at the Tent scoop; Tent Modes are unavailable until Duck Derby has ended.
 

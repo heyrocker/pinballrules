@@ -30,7 +30,7 @@ A tour of the playfield, starting from the left flipper and working our way arou
 
 * Pit Stop standup: Located in a similar position above the left outlane to the Last Call standup on *Oktoberfest*. Lights the Pit Stop ball save when hit enough times
 
-* BATTLE stand-up tagets: Six targets in a slight outward-facing curve. Complete all lights to qualify a Battle mode start.
+* BATTLE stand-up targets: Six targets in a slight outward-facing curve. Complete all lights to qualify a Battle mode start.
 
 * Left orbit/ramp: Has a spinner at the entrance. Hard shots feed the ball to the right flipper via a plastic ramp; weak shots go into the pop bumpers or the skill shot lane (which subsequently feeds to the right inlane. Can be lit for 12th place, 6th place or the checkered flag.
 

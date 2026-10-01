@@ -372,7 +372,7 @@ Bonus Hold can be awarded from the **[Mystery Award](#heading--mystery)**, which
 ## Strategies: {#heading--strategies}
 
 Stacking strategies:
-- General modern pinball strat of stacking Telekinesis Multiball onto a running mode applies.  Chapter modes must be started either prior to MB, or with the same shot to start MB.  An even better stack is to bring Demodog mode to the party, in which case you **must** use the following sequence: Start Chapter mode -> Start Demodog -> Start Telekinesis MB.
+- General modern pinball strategy of stacking Telekinesis Multiball onto a running mode applies.  Chapter modes must be started either prior to MB, or with the same shot to start MB.  An even better stack is to bring Demodog mode to the party, in which case you **must** use the following sequence: Start Chapter mode -> Start Demodog -> Start Telekinesis MB.
 - I wouldn't recommend stacking Telekinesis onto a non-MB Demogorgan mode, unless you know you're able to consistently kill the Demogorgan with a mouth shot.  Otherwise, the big ramp flap gets in the way of your Mystery (Add-a-ball) and the Burn It Back shot.
 - Some Chapter modes are better for stacking a MB onto than others.  Figure out which ones work best for you, depending on your play style. 
 

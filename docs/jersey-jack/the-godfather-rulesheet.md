@@ -166,7 +166,7 @@ Playing through two **[jobs](#heading--jobs)** adjacent to the blue inserts on t
 
 The number of collects in each mode are determined by the number of jobs you successfully cashed out prior to starting the award mode (minimum of 1, max of 3). Collecting enough rings awards perks for the next job:
 
-- 1 Ring - The next **job** has an infinite amount of **soliders**, therefore no timer restrictions.
+- 1 Ring - The next **job** has an infinite amount of **soldiers**, therefore no timer restrictions.
 - 3 Rings - The cash out for the next **job** is doubled.
 - 6 Rings - Unlimited **[influence](#heading--influence)** timer for rest of ball, therefore combos have no time limit.
 - 12 Rings - Reset all **[Super Skill Shots](#heading--skillshots)**.

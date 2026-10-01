@@ -92,7 +92,7 @@ Notably, Spider Sense can award an Add-A-Ball during multi-ball modes, once per 
 
 This means you need to complete the Spider Sense targets at least once during a multi-ball to earn Add-A-Ball from Spider Sense, and sometimes multiple times. For example, if you start Green Goblin, and then Doc Ock multi-ball, completing the Spider Sense targets once will light it for a Green Goblin award, and completing a second time before collecting will light it for a Doc Ock Award + Add-A-Ball.
 
-It’s possible to earn two separate Add-A-Balls if you’ve stacked Doc Ock and Black Suit mutli-balls.
+It’s possible to earn two separate Add-A-Balls if you’ve stacked Doc Ock and Black Suit multi-balls.
 
 Collecting the Spider Sense award for a timed mode will add more time to the mode. For most modes, earning points in a mode while Spider Sense is lit for that award will add value to the award.
 
