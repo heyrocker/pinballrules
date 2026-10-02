@@ -68,11 +68,11 @@ opdb_id: "GK1Ej"
 # Layout: {#heading--layout}
 ## Pro
 
-![DungeonProTopPlayfield-adfkjehfa3-scaled|257x500, 100%](upload://wthIwrbOa9zAjrpaoYAb9dF0Hj2.jpeg)
+![Dungeons & Dragons: The Tyrant's Eye Pro Playfield](https://site-assets.plasmic.app/3ebc13a09db5b4c952ef2e7b6073624b.webp)
 
 ## Premium/LE
-
- ![DungeonPremiumTopPlayfield-adfkjehfa3-scaled|257x500, 100%](upload://cQrWzAvF7AtpEtZy2FHETIf6lWd.jpeg)
+ 
+ ![Dungeons & Dragons: The Tyrant's Eye Premium/LE Playfield](https://site-assets.plasmic.app/c6b961c357120192321682a8df51c87e.webp) 
 
 Playfield features exclusive to the Premium/LE models include:
 * Rath dragon head has two axis movement instead of up/down.
