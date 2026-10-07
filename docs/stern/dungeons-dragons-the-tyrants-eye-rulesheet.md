@@ -99,16 +99,16 @@ Character | Class | Perks | Base Stats | Str/Dex/Con/Int/Wis/Cha
 Ardor |Dragonborn Paladin|Bonus damage to dragons|11 HP, 16 AC, 15% Luck, 120 Gold| 18/13/13/11/17/13 |
 Anya|Halfling Rogue|More Luck / Treasure|9 HP, 16 AC, 40% Luck, 130 Gold| 14/18/13/11/15/12 |
 Frey Curlyfoot|Dwarf Cleric|Bonus damage to undead enemies|11 HP, 18 AC, -15% Luck, 110 Gold| 16/14/16/12/19/9 |
-Helenir Weavhart|High Elf Wizard|Longer Shield Timer|7 HP, 13 AC, 15% Luck, 140 Gold |13/16/12/16/13/12 |
+Helenir Weavhart|High Elf Wizard|Longer Shield Timer|7 HP, 13 AC, 15% Luck, 140 Gold | 13/16/12/16/13/12 |
 
 Unlock additional characters by completing the campaign. These unlocked characters are not available in competitive play to prevent unfair advantages between players.
 
 Character| Class | Perks | Base Stats | Str/Dex/Con/Int/Wis/Cha | Unlock Mode |
 --- | --- | --- | --- | --- | --- |
-Rhyme|Tiefling Ranger | Good with Ranged Weapons (2 blue arrows at once) | 11 HP, 12 AC, 15% Luck, 140 Gold|18/13/12/10/11/13 | **[The Undermountain](#heading--wizardundermountain)** |
-Juniper Amari| Wood Elf Bard | Increased 2x Scoring Timer | 9 HP, 15 AC, 60% Luck, 160 Gold |11/15/13/13/13/18| **[Ritual of the Chosen](#heading--wizardritualchosen)** |
-Goregath | Goliath Barbarian | Rage (replaces ranged weapons, collects all lit shots once per ball) - can be repurchased from Fizmo's for 300 gold). Extra damage to Abashi & Yugoloths | TBD | TBD | **[Rescue the King](#heading--wizardrescue)** |
-Rowan Freewander | Human Fighter | Add-a-ball during any multiball, once per ball | TBD | TBD | Unlocked with topper connected |
+Rhyme|Tiefling Ranger | Good with Ranged Weapons (2 blue arrows at once) | 11 HP, 12 AC, 15% Luck, 140 Gold| 18/13/12/10/11/13 | **[The Undermountain](#heading--wizardundermountain)** |
+Juniper Amari| Wood Elf Bard | Increased 2x Scoring Timer | 9 HP, 15 AC, 60% Luck, 160 Gold | 11/15/13/13/13/18 | **[Ritual of the Chosen](#heading--wizardritualchosen)** |
+Goregath | Goliath Barbarian | Rage (replaces ranged weapons, collects all lit shots once per ball) - can be repurchased from Fizmo's for 300 gold; Extra damage to Abashi & Yugoloths | 14 HP, 13 AC, 20% Luck, 20 Gold | 19/13/15/10/12/13 | **[Rescue the King](#heading--wizardrescue)** |
+Rowan Freewander | Human Fighter | Add-a-ball during any multiball, once per ball | 13 HP, 18 AC, 0% Luck, 150 Gold | 17/15/16/14/14/11 | Unlocked with [official topper](https://shop.sternpinball.com/collections/accessories/products/dungeons-dragons-the-tyrant-s-eye-topper) connected |
 
 The stats are described in the status report as follows:
 
@@ -136,9 +136,7 @@ For the cooperative game mode, each player's party members are level and item ma
 
 The skill shot value is 2M x a multiplier equal to the ball it was collected on (extra balls add +1x to the multiplier). The super and MXV skill shots start at 6M.
 
-# The Campaign Map:
-
-![MAP|690x498, 75%](upload://lqAvdRYMoi5ojXd3xUmpaXPZ0Od.png)
+# The Campaign
 
 The overall campaign progress and the party's location are represented by the map of Mid-West Faerûn from the Forgotten Realms setting and the inserts on the playfield located between the slings. The player selects a starting location for their party at the beginning of a new campaign by pressing the left flipper button to cycle through the location options while selecting their **[character/class](#heading--class)**. Players can choose to start in Greenest, Westgate, Arabel, or Kobold Town, with the corresponding city insert flashing yellow on the map.
 
@@ -146,11 +144,11 @@ When resuming a saved campaign, a location can't be selected; the party automati
 
 Plunging the ball will start or resume the campaign with the currently selected character and the selected/last location.
 
-Town Quests/Modes
+#### Town Quests/Modes
 
 The quests/modes at each location are depicted using "1", "2", and "3" inserts with an Orange, White, Blue, or Purple border. The player must **[travel](#heading--travel)** between cities to complete the color matched level 1 and 2 modes in either order to unlock the same color level 3 mode in Dragonspear Castle or Gauntlgrym.
 
-Town Dungeons
+#### Town Dungeons
 
 Once all of the leveled quests at a location are completed, the player can start the location's Town Dungeon. Town Dungeons are multiple phase modes, and lock the player out of any multiballs or other features that they could otherwise start during the prior quests.
 
@@ -160,15 +158,15 @@ A **[treasure chest](#heading--mimic)** is lit at the left kickout after each To
 
 Completing any Town Dungeon qualifies **[Darkhold](#heading--darkhold)** for a bonus round.
 
-Quest completion
+#### Quest completion
 
 Completed modes and cities are lit solid red if the mode/dungeon was failed or green if it was cleared successfully.  There are no penalties for failing most campaign modes, but if the player loses a level 3 mode, they will miss out on their associated **[artifact](#heading--artifacts)**. **[Fizmo](#heading--fizmo)** can give 2nd chances on any artifact that the player failed to obtain.
 
 **Note: Completed modes cannot otherwise be repeated whether completed or failed!**
 
-Location Quests / Modes:
+#### Location Quests / Modes:
 
-Greenest:
+##### Greenest:
 
 The Orange and White town quests/modes in Greenest have two options.  Players can choose to do either the White 1A or 1B, and Orange 2A or 2B options, but not both A and B options for the same color in the same campaign.  There is no main advantage or drawback with either option.
 
@@ -191,7 +189,7 @@ The Orange and White town quests/modes in Greenest have two options.  Players ca
 
 Travel Destination Options: Dragonspear Castle, Darkhold, Westgate
 
-Westgate:
+##### Westgate:
 
 * (Blue 1) Zombie Sailors - *Stop the zombies from attacking Westgate*
   * Single phase battle with zombies
@@ -203,7 +201,7 @@ Westgate:
 
 Travel Destination Options: Greenest, Darkhold, Arabel
 
-Arabel:
+##### Arabel:
 
 * (Purple 1) Retrieve a Potion for Nighdaar - *Help Nighdaar with the war of dragons*
   * Series of 3 hurry up shots. Starts at the middle spinner shot, then left orbit, then side ramp. If you wait long enough the shots will "spread out" in each phase.
@@ -215,7 +213,7 @@ Arabel:
 
 Travel Destination Options: Westgate, Darkhold, Kobold Town
 
-Kobold Town:
+##### Kobold Town:
 
 * (Orange 1) Rescue Missing Miners - *Investigate why there are missing Kobold miners*
   * Battle with single Bulette.  Hitting orange roaming shots rescues Kobolds and awards 5M + 500k points per Kobold.  Defeating the Bulette or rescuing four Kobolds ends the mode.
@@ -232,7 +230,7 @@ Kobold Town:
 
 Travel Destination Options: Darkhold, Arabel, Gauntlgrym
 
-Darkhold:
+##### Darkhold:
 
 Travel to Darkhold must first be enabled by completing any **town dungeon** mode.
 
@@ -240,7 +238,7 @@ Travel to Darkhold must first be enabled by completing any **town dungeon** mode
 
 Travel Destination Options: Dragonspear Castle, Gauntlgrym, Greenest, Kobold Town, Westgate, Arabel
 
-Dragonspear Castle:
+##### Dragonspear Castle:
 
 * (Orange 3) - Prison Break
   * Phase 1 - Battle with undead dragonborn
@@ -261,7 +259,7 @@ Finishing the Sammaster fight or getting the Scepter completes the mode, returns
 
 Travel Destination Options: Gauntlgrym, Greenest, Darkhold
 
-Gauntlgrym:
+##### Gauntlgrym:
 
 * (Purple 3) - Slaad Assassin
    * Phase 1 - Battle with Red Slaad
@@ -281,13 +279,13 @@ Finishing off the Minotaurs with Nighdaar or defeating Balinor completes the mod
 
 Travel Destination Options: Dragonspear Castle, Darkhold, Kobold Town
 
-Traveling Between Locations:
+#### Traveling Between Locations
 
 The player starts the game in travel mode, with the party moving to the location that they pressed with the left flipper at the start of the game. During travel mode, some shots are lit with blue arrows. Shots will randomly spawn **[enemies](#heading--battles)**, with more difficult ones spawning in the Underdark if the player is headed to **[Dragonspear Castle](#heading--dragonspear)** or **[Gauntlgrym](#heading--gauntlgrym)**. The enemy difficulty increases for players who are past level 7. Hitting three blue shots, killing all enemies in the battle, entering the Dungeon Crawl, or draining will exit travel mode and put the party in the new location.
 
 Once the player reaches the city, they can re-enter travel mode by a shooting yellow "choose action" shot (the same way they would start a **[location mode](#heading--map)**), and selecting the city they want to travel to.
 
-Battles:
+#### Battles
 
 Battles are the meat of the game and the main way of **[leveling up](#heading--class)** your characters. Many of the **[location modes](#heading--quests)** revolve around battles for their duration, and the player can also encounter random enemies if they are **[traveling](#heading--travel)** or **[exploring a dungeon](#heading--dungeons)**.
 
@@ -308,7 +306,7 @@ To deal long-ranged damage, hold the **action button**. A blue arrow shot will b
 
 *Note: as the **[Wizard](#heading--class)**, no ranged weapons can be purchased or upgraded from Fizmo. As the **Barbarian**, ranged weapons are disabled and the game will make an effort to never give any ranged weapons.*
 
-Stealth Missions:
+#### Stealth Missions
 
 Stealth missions are a special type of mode that requires performing certain actions with a stealth meter. Stealth mechanics are used in the following quests: **[Spy on Puck](#heading--koboldtown)** (Purple 2), phase 1 of **Mystery at the Bottom of the Mine** (Kobold Town Dungeon), and phase 1 of **[Rescue the King](#heading--wizardrescue)**.
 
@@ -316,7 +314,7 @@ The meter starts at 100% stealth and decreases each time the ball hits a sling. 
 
 If the stealth meter reaches 0%, a battle starts which pauses the main objectives until the battle is completed.  Battles are only triggered once per stealth mode, so successfully completing the battle will allow unhindered main objective completion.
 
-Dungeon Crawls: {#heading--map}
+# Dungeon Crawls {#heading--map}
 
 Light dungeon crawl by hitting the Dungeon standup targets near the right orbit and side ramp, or spot targets by hitting the center spinner. Once lit, start the dungeon crawl mode based on the table model:
 
@@ -340,9 +338,9 @@ If the player drains during dungeon crawl, their progress will be saved. The pla
 
 On competition mode, the player can only start one dungeon crawl per ball in play.
 
-# Multiballs: {#heading--multiballs}
+## Multiballs {#heading--multiballs}
 
-## Dragon Multiball / Town Celebration Multiball: {#heading--dragon}
+# Dragon Multiball / Town Celebration Multiball {#heading--dragon}
 
 Hit the 3-bank standup targets under Rath to spell DRAGON to light this multiball at the right orbit and side ramp (the latter shot is only lit when no other modes are running). The first time it is started in a game, letters will be spotted for every 2 3-bank targets completed. Afterwards, all three must be hit to spot a letter. The current Dragon Multiball level per party member is saved via Insider Connected, and maxes out at level 10.
 
@@ -358,7 +356,7 @@ If the player defeats Rath, the game immediately begins Town Celebration Multiba
 
 Draining down to one ball ends the Town Celebration Multiball.  After completing Town Celebration Multiball, the next purchase from **[Fizmo](#heading--fizmo)** will be 50% off its normal price for that town.
 
-## Gelatinous Cube Multiball: {#heading--cube}
+# Gelatinous Cube Multiball {#heading--cube}
 
 Shoot the left orbit to lower the ramp at its entrance, then shoot the left ramp. This must be repeated 1-4 times, with the same ball, before it will be held at the gelatinous cube magnet.
 The amount of shots required can be set by the operator and defaults to medium:
@@ -373,9 +371,9 @@ During gelatinous cube multiball, four shots are lit at a time for jackpots: the
 
 After playting gelatinous cube multiball, it must be requalified by completing any **[map mode](#heading--quests)**.
 
-# Other Scoring:
+## Other Scoring
 
-Critical Hits:
+#### Critical Hits
 
 Hitting the captive ball target will start it flashing for 15 seconds. Hitting it again will award a critical hit and give various perks to the player:
 
@@ -384,7 +382,7 @@ Hitting the captive ball target will start it flashing for 15 seconds. Hitting i
 - It will advance one shot towards **[gelatinous cube multiball](#heading--cube)** if the left orbit ramp isn't lowered, and gelatinous cube multiball can be advanced.
 - It will advance towards starting **[2x scoring](#heading--temple)**, but will never start it.
 
-Healing Potions:
+#### Healing Potions
 
 Party members will take damage in battle modes as monsters attack.  The party is automatically healed when they reach a city or after a mode is completed.
 
@@ -399,17 +397,17 @@ A green potion icon on the UI indicates the number of available healing potions 
 * You can buy 3 Potions from **[Fizmo](#heading--fizmo)** if offered.
 * Some **[treasure chests](#heading--mimic)** give 3 potions.
 
-Belongings:
+#### Belongings
 
 Every shot on the playfield corresponds to a different belonging. Each belonging adds 10k to **[end-of-ball bonus](#heading--bonus)**, and collecting full sets of belongings adds 100k to end-of-ball bonus. Full sets of belongings can also be purchased from **[Fizmo](#heading--fizmo)**.
 
 Shooting the upper loop repeatedly will spot one belonging towards completing the current set.
 
-Gems:
+#### Gems
 
 During single-ball play, if the player can currently advance towards starting **[Dragon Multiball](#heading--dragon)**, every dragon target hit will award 1, 2, or 3 gems. 10 gems can also be bought from **[Fizmo](#heading--fizmo)**. Gems score 10k each in end-of-ball bonus, and collecting 50 gems over the course of the game will light the **[extra ball](#heading--extraballs)** at the right ramp.
 
-Fizmo (Shopkeeper):
+#### Fizmo (Shopkeeper)
 
 Earn gold by winning **[battles](#heading--battles)**, shooting the yellow triangle shots left behind by defeated enemies, and opening up treasure chests found in town dungeons or **[Dungeon Crawls](#heading--dungeons)**.
 
@@ -450,7 +448,7 @@ The prices are halved for the next visit if a player completes **[dragon multiba
 
 Each town has a different fixed set of items that are updated every Sunday.
 
-Treasure Chests / Mimic Hurry-Up:
+#### Treasure Chests / Mimic Hurry-Up
 
 Treasure chests can be lit at the left eject in various ways throughout the game:
 - Completing a battle phase during any **[town dungeon](#heading--quests)** mode
@@ -461,7 +459,7 @@ Every treasure chest awards small points and typically, a variety of items. Thes
 
 Rarely, the treasure chest will turn out to be a Mimic, which starts the Mimic Hurry-Up mode. Slay the Mimic and reap the chest's awards by shooting the left eject once more before time runs out. The hurry-up score starts at 50M.
 
-Equipment:
+#### Equipment
 
 Earn equipment by finding it in **[treasure chests](#heading--mimic)**, or by selecting them from **[Fizmo's](#heading--fizmo)** if he has magical weapons, magical armor, or trinkets for sale.
 
@@ -475,7 +473,7 @@ There are various different modifiers for equipment based on their "flavor". For
 - **Accuracy**: Reduces the speed that the **[ranged weapon](#heading--battles)** blue arrows move at.
 - **Power**: Increases the time the **[shield](#heading--shield)** stays up for.
 
-Legendary Equipment:
+#### Legendary Equipment
 
 Legendary equipment can be earned by reaching levels 2, 3, 4, or 5 of **[dungeon crawl](#heading--dungeons)**, then finding the treasure room hidden within any of those levels. The order that these four pieces of equipment are given in resets along with the dungeon crawl maps every Sunday.
 
@@ -486,7 +484,7 @@ All legendary equipment gives the player 10 uses by default, and up to 20 can be
 - **Glass Armor of Immortality**: The next damage dealt by an enemy is negated.
 - **Glass Shield of Endurance**: The **[shield](#heading--shield)** stays up for twice as long.
 
-Artifacts:
+#### Artifacts
 
 Players can collect artifacts by completing **level 3 missions** in **[Dragonspear Castle](#heading--dragonspear)** and **[Gauntlgrym](#heading--gauntlgrym)**.
 
@@ -497,13 +495,13 @@ Players can collect artifacts by completing **level 3 missions** in **[Dragonspe
 
 If the player failed in collecting any artifact, **[Fizmo](#heading--fizmo)** can offer 2nd chances to obtain them.
 
-Hidden Temple (2x Scoring):
+#### Hidden Temple (2x Scoring)
 
 Light the hidden temple by shooting the "secret door" bar target in front of it, or by hitting the hidden temple itself, two times; once to start the target flashing, then again in 20 seconds. When lit, shoot the hidden temple to start timed 2x scoring for 20 seconds.
 
 Shoot the secret door or hidden temple again while 2x scoring is running to extend the timer by +5 seconds.
 
-Shield (Ball Saver):
+#### Shield (Ball Saver)
 
 The shield is a unique metal bar located between the flippers that saves balls headed straight down the middle. It is activated by pressing the action button when flashing.
 
@@ -513,7 +511,7 @@ Relight the action button/shield insert by lighting the set of 4 return lane ins
 
 Normally the player can only save up to two shield uses at a time, but if the **[Dragon Heart Shield](#heading--artifacts)** is in their possession up to five can be saved. The **[Glass Shield of Endurance](#heading--legendary)** also extends the time that the shield is raised to 2x its normal length.
 
-Extra Balls:
+#### Extra Balls
 
 Light extra ball at the right ramp by:
 - Starting two **[map modes](#heading--quests)**
@@ -522,7 +520,7 @@ Light extra ball at the right ramp by:
 - Buying one from **[Fizmo](#heading--fizmo)**
 - Collecting 50 **[gems](#heading--gems)**
 
-End-of-Ball Bonuses:
+#### End-of-Ball Bonuses
 
 * 100k points per town mode completed
 * ?k per dungeon crawl
@@ -530,9 +528,9 @@ End-of-Ball Bonuses:
 * 10k per **[gems](#heading--gems)**
 * 10k points per **[belongings](#headed--belongings)** collected, 100k per set
 
-Wizard Modes: {#heading--other}
+# Wizard Modes {#heading--other}
 
-## Tiny's Dice Game (Mini-Wizard Mode): {#heading--tinys}
+## Tiny's Dice Game (Mini-Wizard Mode) {#heading--tinys}
 
 Qualified by buying from **[Fizmo](#heading--fizmo)** in a town shop, or by starting three **[modes](#heading--quests)** (either numbered modes or town dungeons). Once lit, shooting the center spinner starts the timed mode.
 
@@ -540,7 +538,7 @@ Hitting the center spinner collects the spinner value (25k per spin). All other 
 
 *Prem/LE Only* - The dungeon entrance will pop up and down during the mode.  Hitting the entrance will increase the spinner value.
 
-## Tavern Brawl (Mini-Wizard Mode): {#heading--tavern}
+## Tavern Brawl (Mini-Wizard Mode) {#heading--tavern}
 
 Tavern Brawl is a two ball multiball mode qualified after completing all of the following:
 
@@ -558,7 +556,7 @@ Hit the bank of three gold standup targets to spell DRAGON.  Completing DRAGON w
 
 *Prem/LE Only* - DRAGON isn't required to light the super jackpot, just the add-a-ball. Instead, after hitting any dragon shot, the dungeon shot will raise for a short time. Hitting the dungeon shot lights the super jackpot.
 
-## Ritual of the Chosen (Bard Unlock): {#heading--wizardritualchosen}
+## Ritual of the Chosen (Bard Unlock) {#heading--wizardritualchosen}
 
 Ritual of the Chosen is a wizard mode located in **[Dragonspear Castle](#heading--dragonspear)** that is available after clearing the Town Dungeon mode, **The Lich of Dragonspear Castle**. After finishing the Town Dungeon, the side ramp, center shot, and right ramp are lit blue to start this mode.
 
@@ -576,7 +574,7 @@ The table will drain all of the balls in play before starting the next level tim
 
 Completing this mode resets the campaign map and unlocks the Bard as a selectable **[character](#heading--class)** in future game starts.
 
-## Rescue the King (Barbarian Unlock): {#heading--wizardrescue}
+## Rescue the King (Barbarian Unlock) {#heading--wizardrescue}
 
 Rescue the King is a wizard mode located in **[Gauntlgrym](#heading--gauntlgrym)** that is available after clearing the Town Dungeon mode, **The Battle of Gauntlgrym**. After finishing the Town Dungeon, the side ramp, center shot, and right ramp are lit blue to start this mode.
 
@@ -592,7 +590,7 @@ This mode is a 7-phase fight that incorporates elements of all of the prior **[m
 
 Completing this mode resets the campaign map and unlocks the Barbarian as a selectable **[character](#heading--class)** in future game starts.
 
-## The Undermountain (Ranger Unlock): {#heading--wizardundermountain}
+## The Undermountain (Ranger Unlock) {#heading--wizardundermountain}
 
 The Undermountain is a wizard mode that can only be accessed by going certain paths in the **[The Lich of Dragonspear Castle](#heading--dragonspear)** or **[The Battle of Gauntlgrym](#heading--gauntlgrym)** town dungeons:
 
