@@ -60,9 +60,9 @@ opdb_id: "GELVv"
 
 ## Layout {#heading--layout}
 
-| Premium/LE | Pro |
+| Pro | Premium/LE |
 | :---: | :---: |
-| <img src="https://site-assets.plasmic.app/b02e9d381f44442a354e0c130f8bcec8.webp" alt="Fallout Premium/LE Playfield Layout" width="450" /> | <img src="https://site-assets.plasmic.app/236d53196d99e93b53f6f6eda534d707.webp" alt="Fallout Pro Playfield Layout" width="450" /> |
+| <img src="https://site-assets.plasmic.app/236d53196d99e93b53f6f6eda534d707.webp" alt="Fallout Pro Playfield Layout" width="450" /> | <img src="https://site-assets.plasmic.app/b02e9d381f44442a354e0c130f8bcec8.webp" alt="Fallout Premium/LE Playfield Layout" width="450" /> |
 
 ## Character Select {#heading--character-select}
 

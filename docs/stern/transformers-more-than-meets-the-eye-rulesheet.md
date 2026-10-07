@@ -48,6 +48,10 @@ opdb_id: "GBLzz"
 
 # Layout: {#heading--layout}
 
+| Pro | Premium/LE |
+| :---: | :---: |
+| <img src="https://site-assets.plasmic.app/25e96f6cf9927622dcca604ff26459f2.webp" alt="Transformers Pro Layout" width="450" /> | <img src="https://site-assets.plasmic.app/c7904db56df497aa2a27c2a69efdadd7.webp" alt="Transformers Premium/LE Playfield Layout" width="450" /> |
+
 # Skill Shots: {#heading--skillshots}
 
 Short plunge the ball to the upper flipper, then hit any shot from the upper flipper to score a skill shot and extend the ball save timer.

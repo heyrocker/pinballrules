@@ -66,13 +66,10 @@ opdb_id: "GK1Ej"
 ***Dungeons & Dragons: The Tyrant's Eye*** is the fourth Brian Eddy-designed pinball machine following his return to Stern in 2019. Tiamat, a once-banished five-headed dragon, plans to spread darkness across Faerun. Players choose their class and embark on a journey to stop the threat. This machine features the PinSave feature, allowing players to resume playing from where they left off last game if they are using Insider Connected.
 
 # Layout: {#heading--layout}
-## Pro
 
-![Dungeons & Dragons: The Tyrant's Eye Pro Playfield](https://site-assets.plasmic.app/3ebc13a09db5b4c952ef2e7b6073624b.webp)
-
-## Premium/LE
- 
- ![Dungeons & Dragons: The Tyrant's Eye Premium/LE Playfield](https://site-assets.plasmic.app/c6b961c357120192321682a8df51c87e.webp) 
+| Pro | Premium/LE |
+| :---: | :---: |
+| <img src="https://site-assets.plasmic.app/3ebc13a09db5b4c952ef2e7b6073624b.webp" alt="D&D Pro Playfield Layout" width="450" /> | <img src="https://site-assets.plasmic.app/474bbbececba4e4b62ae30889d93c0b2.webp" alt="D&D Premium/LE Playfield Layout" width="450" /> |
 
 Playfield features exclusive to the Premium/LE models include:
 * Rath dragon head has two axis movement instead of up/down.

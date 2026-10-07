@@ -50,6 +50,10 @@ opdb_id: "GV8wB"
 
 # Layout: {#heading--layout}
 
+| Pro | Premium/LE |
+| :---: | :---: |
+| <img src="https://site-assets.plasmic.app/2003d33a41aea5d0effd3a9fd3eecf1c.webp" alt="Pokemon Pro Playfield Layout" width="450" /> | <img src="https://site-assets.plasmic.app/7afc6decf6e36a36062a35c8f67dc356.webp" alt="Pokemon Premium/LE Playfield Layout" width="450" /> |
+
 # Skill Shots: {#heading--skillshots}
 
 Three skill shots are available:
