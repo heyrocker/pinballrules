@@ -11,6 +11,10 @@ opdb_id: "GvBPJ-M1rjr"
 - [Skill Shots](#heading--skillshots)
 - [Zones & Boss Battles](#heading--zones)
 - [Feature Modes](#heading--feature)
+  - [Master Emerald Mission](#heading--master)
+  - [Casino Night](#heading--casino)
+  - [Boss Rush](#heading--boss)
+  - [Super Sonic](#heading--supersonic)
 - [Multiballs & Bash Dash](#heading--multiballs)
   - [Chaos Emerald Multiball](#heading--emerald)
   - [Sonic Heroes Multiball](#heading--heroes)
@@ -157,22 +161,61 @@ Once the player has reached the Goal Ring in any zone, the player's score for th
 
 Eggman will then present himself and Boss Battle will activate. Shoot the center ramp or left ramp to enter the upper playfield, and hit Eggman with the ball enough times to attack the boss and score a hurry-up award that decreases over time. Every battle increases in difficulty, and the player will eventually need to hit shots on the lab playfield to lower Eggman for chances to deal damage. Once the Boss Battle is completed, the player will be given an award that changes with each boss defeated. The awards are:
 
-- Boss 1 - Start boosted **[Tails hurry-up](#heading--tails)**
-- Boss 2 - Qualify **Casino Night [feature mode](#heading--feature)** at lockup
+- Boss 1 - Start boosted **[Tails hurry-up](#heading--tails)** (+25% of the value from the defeated boss)
+- Boss 2 - Qualify **[Casino Night feature mode](#heading--casino)**
 - Boss 3 - Light **[extra ball](#heading--extraballs)**
-- Boss 4 (hit lab shots to lower, center drop target active) - Qualify **Boss Rush feature mode** at lockup
+- Boss 4 (hit lab shots to lower, center drop target active) - Qualify **Boss Rush feature mode**
 - Boss 5 (hit lab orbits to lower) - **[+5x bonus X](#heading--bonus)**
+- Boss 6 - Big Points (50M)
+- Boss 7 - Qualify Casino Night feature mode
+- Boss 8 - Big Points (75M)
+- Boss 9 - Qualify Boss Rush feature mode
+- Boss 10 - Qualify Casino Night feature mode
+- Boss 11 - +5x bonus X
+- Boss 12 - Qualify Boss Rush feature mode
+- Boss 13 - Light extra ball
+- Boss 14 - Big Points (100M)
 
 <h2 id="heading--feature">Feature Modes:</h2>
 
-**NOTE: All feature modes excluding Master Emerald Mission are not implemented on 0.94 code.**
+**NOTE: Boss Rush and Super Sonic feature modes are not implemented on 0.95 code.**
 
 Feature Modes take priority over all other modes and multiballs once started, and serve as mini-wizard modes of the game.
 
-- **Casino Night**: Lights at the lockup after completing 2 **[boss battles](#heading--zones)**. Scores 25M as this mode is not implemented.
-- **Boss Rush**: Lights at the lockup after completing 4 **boss battles**. Scores 50M as this mode is not implemented.
-- **Master Emerald Mission**: Lights at the center ramp after making enough upper playfield shots (5 each of orbits, targets, ramps, and spinner). While attempting to protect the Master Emerald from Eggman, Knuckles accidentally shatters the emerald and has to recover the shards. 15 seconds of ball save are given at the start of this mode. Within 70 seconds, shoot the lit green shots to collect 3 of the 30 Master Emerald shards, and shoot red shots to score smaller jackpot awards and increase the value for each shard. After finding 21 shards, all shots will turn red and the player must hold the action button to reveal where the next shards are. If the player fails the mode, they can requalify it with more upper playfield shots and start where they left off. Collecting all 30 shards recovers the Master Emerald and boosts all **[bash dash](#heading--multiballs)** scoring so that it starts at 3x and increases by 2x per shot while the ball is held.
-- **Super Sonic**: Lights at the lockup after collecting all 7 **[Chaos Emeralds](#heading--emerald)**. Scores 100M as this mode is not implemented, and removes all Emeralds in the player's possession.
+<h3 id="heading--master">Master Emerald Mission:</h3>
+
+Collect enough shots on the upper playfield to light this mode at the center ramp. On default settings, the required shots are 5 orbits, 5 targets, 5 of either ramp, and 25 spinner spins. The required shots can be scored at any time during play outside of boss battles or other feature modes. Shoot the center ramp when lit green during single-ball play, with no other modes active, to start Master Emerald Mission.
+
+While attempting to protect the Master Emerald from Eggman, Knuckles accidentally shatters the emerald and has to recover the shards. 30 seconds of ball save are given at the start of this mode. Within 70 seconds, shoot the lit green shots to collect 2 or 3 of the 30 Master Emerald shards. Once a green shot is hit, it will turn red; red shots score smaller jackpot awards and increase the value for each individual shard. After finding 20 shards, all shots will turn red and the player must hold the action button to reveal where the next shards are. The last shot of the mode will always be at a shot that holds the ball: either the center ramp, lab jump ramp, or lockup. If the player fails the mode, they can requalify it with more upper playfield shots and start where they left off. 
+
+Collecting all 30 shards recovers the Master Emerald and boosts all **[bash dash](#heading--multiballs)** scoring so that it starts at 3x and increases by 2x per shot while the ball is held. If the player obtained the **[green Chaos Emerald](#heading--emerald)**, victory laps will be enabled for the rest of the game after the mode is won. Every further upper playfield shot lit green will add to a jackpot value scored at the bash dash target.
+
+<h3 id="heading--casino">Casino Night:</h3>
+
+The lockup lights to start Casino Night during single-ball play after winning 2, 7, and 10 **[boss battles](#heading--zones)**. While this mode is available, drop targets cannot be scored towards lighting **[Chaos Emerald multiball](#heading--emerald)**.
+
+Press your luck on the giant slot machine! This mode starts with 60 seconds of ball save, and a tutorial on how the mode's mechanics work. This mode is split into three stages, where the player must complete tasks to earn tokens for use at the slot machine that activates once the center ramp or lab jump ramp are made. As the player progresses through the stages, more tokens are required to spin the slots and the tasks increase in difficulty. The slot machine has three rows, and the player can add awards from all 3 rows to their prize bank if they have enough tokens before spinning the slots. Points are scored with every lit shot during the mode, but the player only scores their prize bank if they choose to cash out during the mode; it disappears if they fail to cash it out by draining before the mode ends.
+
+Some possible tasks for each stage are:
+- Stage 1: Chao target then Froggy target; Bash target *or* left orbit; Left orbit *or* left ramp; 1 lockup drop target; 2 ramp shots; 2 orbit shots; 1 Badnik target
+- Stage 2: 4 ramp shots; 4 upper playfield orbits; 4 upper playfield targets; 10 Badnik targets
+- Stage 3: Left shots in order; Right shots in order; Upper playfield shots in order (left to right); 5 left orbits; 5 right orbits
+
+Possible awards from the slots that can be added to the prize bank include: points (10M or 50M), 1 additional token, spotting a hero towards **[Sonic Heroes multiball](#heading--heroes)**, **[rings](#heading--rings)** (10 or 50), 1 **[Chao egg](#heading--chao)**, or 1 **[kickback charge](#heading--kickback)**. Past the first stage of Casino Night, scoring 3 Eggman icons on the slots will remove the top award from the prize bank.
+
+If the player makes it through all 3 stages, their next slot spin will score a final jackpot worth 100M and end the mode automatically cashing out the prize bank.
+
+<h3 id="heading--boss">Boss Rush:</h3>
+
+The lockup lights to start Boss Rush during single-ball play after winning 4, 9, and 12 **[boss battles](#heading--zones)**. While this mode is available, drop targets cannot be scored towards lighting **[Chaos Emerald multiball](#heading--emerald)**.
+
+This mode is currently not implemented and instead scores 50M.
+
+<h3 id="heading--supersonic">Super Sonic:</h3>
+
+The lockup lights to start Super Sonic during single-ball play after collecting all 7 **[Chaos Emeralds](#heading--emerald)**.
+
+This mode is currently not implemented and instead scores 100M while also removing all 7 Emeralds and their perks from the player's possession. The player can still start Chaos Emerald multiball but can only score jackpots / super jackpots during it. Emeralds are still scored in end-of-ball bonus.
 
 <h2 id="heading--multiballs">Multiballs & Bash Dash:</h2>
 
@@ -218,15 +261,13 @@ Shoot jackpots to increase the value per jackpot by 100k and light the super jac
 
 <h3 id="heading--rings">Ring Combos:</h3>
 
-Rings can be scored at any time during the game and are mainly used to determine the player's score during **[zones](#heading--zones)**, increase the **[end-of-ball bonus](#heading--bonus)**, and to determine shot values during **[spin dash](#heading--spindash)** and **[feature modes](#heading--feature)**. Light rings by rolling through inlanes or repeatedly shooting the orbits, and collect them by shooting yellow shots near them as combos, with lit zone shots increasing the ring counter regardless of if rings are currently available. Collect 20 rings to light the left outlane **[kickback](#heading--kickback)** or add a charge to the kickback if already lit. Collect 100 rings to light the **[extra ball](#heading--extraballs)** at the center ramp.
+Rings can be scored at any time during the game and are mainly used to determine the player's score during **[zones](#heading--zones)**, increase the **[end-of-ball bonus](#heading--bonus)**, and to determine shot values during **[spin dash](#heading--spindash)** and **[feature modes](#heading--feature)**. Light rings by rolling through inlanes or repeatedly shooting the orbits, and collect them by shooting yellow shots near them as combos, with lit zone shots increasing the ring counter regardless of if rings are currently available. Collect 50 rings + 25 per activation to light the left outlane **[kickback](#heading--kickback)** or add a charge to the kickback if already lit. Collect 100 rings to light the **[extra ball](#heading--extraballs)** at the center ramp.
 
 *The yellow **[Chaos Emerald](#heading--emerald)** multiplies all rings by 1.5x.*
 
-Tilting a ball means losing your rings! When the player tilts, half of the player's ring count this ball will be removed.
+Tilting a ball means losing your rings! When the player tilts, half of the player's ring count this ball will be removed. Draining down the right outlane also removes a few rings.
 
 <h3 id="heading--chao">Advance Chao:</h3>
-
-**NOTE: Not complete on 0.94 code.**
 
 Hitting the Chao target on the very left of the playfield spawns a Chao egg and lights Advance Chao at the left and right orbits. Advance the Chao by shooting repeated orbit shots to score increasing values per shot.
 
@@ -240,7 +281,7 @@ The battle zone targets surrounding the center ramp represent Eggman's army of m
 
 <h3 id="heading--spindash">Spin Dash:</h3>
 
-Shoot the right ramp 5 times to qualify a Spin Dash at that same ramp. Once the ramp is hit, the player will temporarily get control of the magnet used to send balls through the loop. Use the flippers to build up Sonic's spin speed, and press the action button with the right timing (while within the green window) to score the most points and release the ball. The Spin Dash points award is determined by how many **[rings](#heading--rings)** the player has. Subsequent Spin Dashes require 2 more ramps to light than the last, and starting with the 3rd Spin Dash, the green window will start moving.
+Shoot the right ramp 5 times to qualify a Spin Dash at that same ramp. Once the ramp is hit, the player will temporarily get control of the magnet used to send balls through the loop. Use the flippers to build up Sonic's spin speed, and press the action button with the right timing (while within the green window) to score the most points and release the ball. The Spin Dash points award is determined by how many **[rings](#heading--rings)** the player has. Subsequent Spin Dashes require 5 more ramps to light than the last, and starting with the 2nd Spin Dash, the green window will start moving.
 
 If the ball drains straight down the middle after shooting the right ramp, default settings allow these balls to be saved.
 
@@ -274,7 +315,7 @@ Light the left outlane kickback by collecting enough **[rings](#heading--rings)*
 
 Light extra ball at the center ramp by:
 
-- Completing 3 **[boss battles](#heading--zones)**
+- Completing 3, then 13 **[boss battles](#heading--zones)**
 - Collecting 100 **[rings](#heading--rings)**
 - Successfully **[finding Froggy](#heading--froggy)**
 
