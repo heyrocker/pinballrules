@@ -186,6 +186,7 @@ title: "Rulesheet Master List"
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
+|[Bon Jovi](/barrels-of-fun/bon-jovi-rulesheet) | July 2026 | David Van Es, Luke Underwood | Phil Grimaldi, Jess Denardo / Eric Priepke|
 |[Winchester Mystery House](/barrels-of-fun/winchester-mystery-house-rulesheet) | January 2026 | Karl DeAngelo | Karl DeAngelo / Eric Priepke|
 |[Dune](/barrels-of-fun/dune-rulesheet) | April 2025 | David Van Es, Travis Moseman | Phil Grimaldi, Bowen Kerins|
 |[Labyrinth](/barrels-of-fun/labyrinth-rulesheet) | October 2023 | David Van Es | Phil Grimaldi, Bowen Kerins|
