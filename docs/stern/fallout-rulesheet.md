@@ -34,6 +34,7 @@ opdb_id: "GELVv"
      - [Weapon](#heading--weapon)
    - [Loot](#heading--loot)
    - [Junk](#heading--junk)
+   - [Wasteland Items](#heading--loops)
    - [Caps & Sundries](#heading--caps-sundries)
    - [Trusty Companions](#heading--trusty-companions)
    - [Hacking](#heading--hacking)
@@ -54,7 +55,7 @@ opdb_id: "GELVv"
 * **Art:** Sam Gilbey, Jeremy Parker (Zombie Yeti)
 * **Displays/Animation:** David Liskovec, Olivia Jensen, Phillip Gullett, Zac Stark
 * **Sound/Music:** Jerry Thompson
-* **Callouts:** Jerry Thompson and Johnny Pemberton
+* **Callouts:** Jerry Thompson,\q Johnny Pemberton
 * **Release Date:** September 2026
 * **Game Code Version:** v0.81
 
@@ -84,13 +85,15 @@ Time your plunge to the flashing Nuka Cola insert on the right inline to lower t
 
 ## Quests {#heading--quests}
 
-Quests are the main modes in the game. The timer for these modes is based on your HP (1 HP = 1 second, with a maximum of 100 HP / 100 seconds). Attacking [Radroaches (stand-up targets on the playfield) inflicts you with RAD (radiation), which lowers your maximum HP until you collect radaway]((#heading--radroaches-radaway-hurry-up)).
+Quests are the main modes in the game. The timer for these modes is based on your HP (1 HP = 1 second, with a maximum of 100 HP / 100 seconds). Attacking Radroaches (stand-up targets on the playfield) inflicts you with [RAD (radiation), which lowers your maximum HP until you collect radaway]((#heading--radroaches-radaway)).
 
-To Qualify for a quest, you must have a **minimum of 50 HP**.
-* Shoot the lit yellow shot under the pip-boy or the right ramp (for the first 2 quests only) to collect **food**, increasing the player's HP.
+To qualify for a quest, you must have a **minimum of 50 HP**.
+* Shoot the lit yellow shot under the pip-boy or the right ramp (for the first 2 quests only) to collect **food**, increasing the player's HP. Repeatedly shoot the former shot to add more HP with each successive shot.
 * Once you have a minimum of 50 HP, shoot the right scoop to begin the quest mode.
 * The blinking yellow insert under "Quests" is the quest you'll start when entering the scoop.
 * Hitting the "Junk" stand-up target will rotate to the next available quest if one is currently lit.
+
+Each quest completed awards a **[Legendary Weapon](#heading--legendary-weapons)**. For the 2-ball multiball modes, this constitutes scoring a super jackpot. Otherwise, making the final shot of any mode will award it.
 
 ### Quest List {#heading--quest-list}
 * **Wedding Day:** A *2-ball multiball* mode. This mode **differs between the Pro model and the Premium/LE model**!
@@ -100,7 +103,7 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
     * Hit each shot in the main playfield to light the super jackpot. Once qualified, the vault door mechanism will open. Shoot the ball into the vault to collect the super jackpot.
   * For **Pro Model:**
     * Four of the shots are blue, and four of the shots are yellow.
-    * Making a blue shots will light a yellow shots.
+    * Making a blue shot will light a yellow shot.
     * Yellow shots will progress towards super jackpot.
     * *To be discovered and documented*
   * **Add-a-Ball**: Available on all models. Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball.
@@ -115,11 +118,11 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
     * For **Pro Model:**
       * *To be discovered and documented*
 * **The Kings:** A *2-ball multiball* mode.
-  * All lit shots score jackpots with a multiplier starting at 1x. Comboing the lit shots together advances the multiplier by 1 and rewards a multiplied jackpot.
+  * All lit shots score jackpots with a multiplier starting at 1x. Comboing the lit shots together starts a killing spree, advances the multiplier by 1 and rewards a multiplied jackpot.
   * To qualify for a super jackpot, you have two options:
-    * Hit the max multiplier [Needs to be documented what the max multiplier]
-    * Start 3 killing sprees. A killing spree is a comboed shot.
-  * The base value of jackpots is: 500k + 50k per shot.
+    * Hit the max multiplier [Needs to be documented what the max multiplier is]
+    * Start 3 killing sprees.
+  * The base value of jackpots is 500k + 50k per shot.
   * **Add-a-Ball:** Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball.
 * **Mind Control:** Multi-level ramp + spinner mode.
   * Hit the lit ramp shots to drop the spinner for a certain amount of time.
@@ -129,9 +132,9 @@ To Qualify for a quest, you must have a **minimum of 50 HP**.
     * Level 3: *To be discovered and documented*
   * Complete all three tests (levels) to complete the mode.
 * **NOVAC:** Shoot the ramps.
-  * Hit the lit ramps. Base score: 2m + 250k per shot
-  * The upper loop shots increase the multiplier for the next ramp shot
-  * Hit 6+ shots to light the finish shot at the pipboy, scoring 2x the current value of the back panel shot
+  * Hit the lit ramps. Base score: 2M + 250k per shot.
+  * The upper loop shots increase the multiplier for the next ramp shot.
+  * Hit 6+ shots to light the final shot at the pipboy, scoring 2x the current value of the back panel shot.
 * **Find the Target:** A three-phase mode.
   * Phase 1: Find the target by hitting 4 of the yellow shots. You cannot hit the same shot again.
   * Phase 2: Hit the target. Alternatively, you can hit other shots to increase its value.
@@ -180,13 +183,13 @@ For **Pro Models**, shoot the ball and bash the vault door again to start Find t
 ### Lunchbox Awards {#heading--lunchbox-awards}
 Lunchboxes provide the following awards in order:
 
-* Lunchbox 1 - [Vault Multiball](#heading--vault-multiball)
-* All subsequent lunchboxes - [Legendary Weapon](#heading--legendary-weapons)
+* Odd-numbered Lunchboxes - [Vault Multiball](#heading--vault-multiball)
+* Even-numbered Lunchboxes - [Legendary Weapon](#heading--legendary-weapons)
 
 ## Multiball Modes {#heading--multiball-modes}
 
 ### Deathclaw Multiball {#heading--deathclaw-multiball}
-Shoot the Deathclaw bash toy to advance towards the Deathclaw Multiball. Each successful hit will cripple a limb of the deathclaw. Four insert lights just below the bash toy consistently rotate. These insert lights indicate which limb will be hit. When all four insert lights and "Fire!" is flashing, the multiball is ready and will start the next time you hit the bash toy. There are three levels to this multiball.
+Shoot the Deathclaw bash toy to advance towards the Deathclaw Multiball. Each successful hit will cripple a limb of the deathclaw. Four insert lights just below the bash toy consistently rotate from left to right and back. These insert lights indicate which limb will be hit. When all four insert lights and "Fire!" are flashing, the multiball is ready and will start the next time you hit the bash toy. There are three different Deathclaw multiballs played in the same order each game.
 
 Once a Deathclaw multiball has been played, upgrade your **[weapon](#heading--weapon)** to enable the next one.
 
@@ -197,7 +200,7 @@ For **Premium/LE Models**: Hitting a limb of the deathclaw that is already cripp
     * Jackpot Base Value: 2M
     * Each shot increase the jackpot by 500k + 250k per shot.
     * Re-entering the build phase resets the jackpot value back to its base value.
-  * Collect Phase: For 12 seconds, hit the Deathclaw bash toy to collect the jackpots. Comboing the bash toy applies a stacking multiplier. After enough jackpots have been collected, super jacketpots will be rewarded. Re-enters build phase once time has passed.
+  * Collect Phase: For 12 seconds, hit the Deathclaw bash toy to collect the jackpots. Comboing the bash toy applies a stacking multiplier. After enough jackpots have been collected, super jackpots will be rewarded. Re-enters build phase once time has passed.
     * The first super jackpot can be collected after 4 jackpots.
     * The number of jackpots that need to be collected for super jackpots carries over between collect phases.
   * Add-A-Ball: Hit all radroach targets to add-a-ball.
@@ -244,8 +247,10 @@ A 3-ball multiball that starts when awarded from the 1st **[[lunchbox award]](#h
 ## Side Quests & Side Modes {#heading--side-quests--side-modes}
 
 ### Side Quests {#heading--side-quests}
+
+Side Quests are single-ball modes that take priority over all other game features besides **[radio modes](#heading--radio-modes)**. To light side quests, collect enough **[wasteland items](#heading--loops)** and make sure that your *[HP is above 50](#heading--quests)*. Once available, the scoop will start the next side quest. During side quests, completing each phase will light the scoop to either cash out the current value or continue the mode with time added.
 * **Filly** — *To be discovered and documented*
-* **Gulper** — *To be discovered and documented*
+* **Gulper** — 4-phase mode. First shot in each phase becomes multiplier shot. Each phase increases max multiplier. Multiplier shot is removed from future phases. 
 * **Super Duper Mart** — *To be discovered and documented*
 
 ### Radio Modes {#heading--radio-modes}
@@ -256,7 +261,7 @@ Build the radio signal by shooting the radio tower target located next to the nu
 As of version 0.81, there are a total of 6 songs that can be played during Radio Mode. Below is the list of songs and includes the duration of the radio mode, the number of shots needed to activate the jackpot, and the corresponding color to hit to start the song.
 
 * Uranium Fever
-  * Color -
+  * Color - Yellow
   * Duration - 2:17
   * Shots needed: 6
 * In the Mood
@@ -268,7 +273,7 @@ As of version 0.81, there are a total of 6 songs that can be played during Radio
   * Duration - 3:00
   * Shots needed: 5
 * Some Enchanted Evening
-  * Color -
+  * Color - Cyan
   * Duration - 2:32
   * Shots needed: 7
 * Big Iron
@@ -313,7 +318,7 @@ The classic Fallout stat mechanism is present. Each stat provides a perk for the
 The shooting gallery mechanic varies between the Pro model and Premium/LE model.
 
 For **Premium/LE Models:** The shooting gallery consists of the Fat Man ball launcher and an upper playfield populated by a spinner and two targets. The target in the middle will flip to the other side with each successful hit.
-For **Pro Models:** The left flipper acts as the Fat Man ball launcher, with the 3-bank stand-up targets acting as the targets of the upper playfield in the Premium/LE model.
+For **Pro Models:** The left flipper acts as the Fat Man ball launcher, with the 3-bank stand-up targets acting as the targets of the upper playfield in the Premium/LE model. 
 
 #### Fat Man {#heading--fat-man}
 
@@ -341,17 +346,16 @@ Killing all four radroaches will spawn a [Glowing Radroach](#heading--glowing-ra
 If your collect [Dogmeat as your Companion](#heading--trusty-companions), you will have more than one radroach stand up target active.
 
 **Radaway:** Upon being inflicted with RAD, a green shot becomes lit at the ramps to indicate that radaway is available. Hitting the green shot rewards:
-* Points - This is a hurry-up style shot. The quicker you hit the shot, the more points you collect.
+* Points - Hurry-up style. The quicker you hit the shot, the more points you collect.
 * Radaway - Reduces the amount of RAD the player has incurred, which increases their maximum HP.
-* Increased Jackpot Value for Radaway Hurry-Up Jackpot
 * Progresses the player towards Radaway Hurry-Up.
-  * The first Radaway Hurry-Up Jackpot starts after collecting 3 Radaway Hurry-Ups
+  * The first Radaway Hurry-Up Jackpot lights at the shot under the Pip-Boy after collecting 3 Radaway
 
 ### Radaway Hurry-Up {#heading--radaway-hurry-up}
 
-Once enough Radaway has been collected, the player is qualified for the Radaway Hurry-Up. Shot any of the flashing green shots to start it.
+Once enough Radaway has been collected, the player is qualified for the Radaway Hurry-Up. Shot the flashing green shot under the Pip-Boy to start it.
 
-To light the jackpot, shoot all 3 ramps. Once lit (as indicated by the red insert light labeled "Radaway Jackpot"), collect the hurry-up jackpot by hitting the outer loop from the mutant flipper.
+To light the Radaway Jackpot, shoot all 3 ramps. Once lit, collect the jackpot by hitting the outer loop from the mutant flipper. The player has 10 seconds to repeat this outer loop shot as many times as they can.
 
 ### Glowing Radroach {#heading--glowing-radroach}
 
@@ -362,7 +366,7 @@ For **Premium/LE Model:** Load the fatman to kill the radroach. The fatman mecha
 For **Pro Model:** *To be discovered and documented*
 
 ### Playfield X {#heading--playfield-x}
-A Playfield multiplier can be applied by two means: The Power Armor and your weapon. The Power Armor acts as active-based, time-limited playfield multiplier while the weapon acts as a passive playfield multiplier with no timer.
+A playfield multiplier can be applied by two means: The Power Armor and your weapon. The Power Armor acts as active-based, time-limited playfield multiplier while the weapon acts as a passive playfield multiplier with no timer.
 
 #### Power Armor {#heading--power-armor}
 Equip your Power Armor by holding the action button for a short amount of time, activating a **+100% (2x) multiplier** that's addictive with your weapon multiplier. To be able to equip your Power Armor, the fusion core must be charged with the minimum amount of power needed. The charge of the fusion core is displayed with the row of inserts to the right of the pop bumper. Fusion Cores act as the multiplier timer. **You can toggle the power suit playfield multiplier on and off**, saving the time.
@@ -413,7 +417,7 @@ Junk Stand-Up Target: *To be discovered and documented.*
 
 ### Wasteland Items {heading--loops}
 
-Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations and score items. This is the main method of lighting Nuka-Cola Quantum (which doubles XP gain for a short time), and collecting enough wasteland items will enable **[side quests](#heading--side-quests)**.
+Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations and score items. This is the main method of lighting Nuka-Cola Quantum at the shot behind the mutant flipper (which doubles XP gain for a short time), and collecting enough wasteland items will enable **[side quests](#heading--side-quests)**.
 
 ### Caps & Sundries {#heading--caps-sundries}
 
@@ -452,7 +456,6 @@ List of Items at Sundries:
 | Buffout (2) | Extend Multiball | 150 Caps |
 | Jet (3) | Next steal is guaranteed |
 | Psycho | Add tilt warning |
-| Holotape | Red Menace video mode |
 | Flask | Common Junk | 30 Caps |
 | Bowling Ball | Common Junk | 30 Caps |
 | Plate | Common Junk | 30 Caps |
@@ -470,6 +473,7 @@ List of Items at Sundries:
 | Bobblehead | Intelligence Perk | Legendary Junk |
 | Bobblehead | Agility Perk | Legendary Junk |
 | Bobblehead | Luck Perk | Legendary Junk |
+| Holotape | Red Menace video mode | Legendary Junk |
 | Nuka Quantum | Lights 2x XP | Legendary Junk |
 
 ### Trusty Companions {#heading--trusty-companions}
@@ -498,6 +502,8 @@ Your four trusty companions are:
 Hacking is your classic pinball mystery award mechanic. Hit the stand-up target to the side of the left ramp when the white insert is lit to collect your mystery award! Possible awards are:
 
 * Failure - No Reward
+* 10M
+* +25 XP
 * *To be discovered and documented*
 
 ## Outlane Ball Save (Stimpak) {#heading--outlane-ball-save-stimpak}
@@ -505,21 +511,26 @@ Hacking is your classic pinball mystery award mechanic. Hit the stand-up target 
 Shoot the left ramp, center loop, and right orbit when *white* inserts are flashing to light ball save at the outlanes
 
 ## Legendary Weapons {#heading--legendary-weapons}
-There are seven legendary weapons to collect within the wasteland. These award perks for the rest of the game:
+There are various legendary weapons to collect within the wasteland. These award perks for the rest of the game. Collect legendary weapons by completing **[quests](#heading--quests)** or finding them in **[lunchboxes](#heading--vault-modes)**.
 
-* Alien Blaster - Wasteland Loops are now worth 2x
-* Cryolator - Nuka Quantum Timer is now 2x.
-* *Weapon 3 - To be discovered and documented.*
-* *Weapon 4 - To be discovered and documented.*
-* *Weapon 5 - To be discovered and documented.*
-* *Weapon 6 - To be discovered and documented.*
-* *Weapon 7 - To be discovered and documented.*
+In standard play, the perks are psuedo-random (first 4 are weak, then subsequent ones are chosen from the others). In competition mode, they are chosen in the same order every game. After finding all 11 legendary weapons, subsequent ones will give point awards.
+
+* Alien Blaster - 2x Wasteland Loops value
+* Cryolator - 2x Nuka Quantum Timer
+* 2x Wasteland Loops progress
+* 2x Radaway awards
+* 2x quest scoring
+* 2x Companion ability uses
+* 2x Deathclaw Multiball scoring
+* 2x Action Points (easier VATS)
+* 2x Radio Jackpots
+* 2x Vault Multiball scoring
+* 2x Wasteland Multiball scoring
 
 ## Extra Balls {#heading--extra-balls}
 Extra balls can be collected at the stand-up target that is located on the side area of the left ramp. Extra balls can be lit by:
 
-* Shooting 4 Radroach targets, accumuatively.
-* Shooting 25 Radroach targets, accumuatively.
+* Shooting 4, then 25 lit Radroach targets
 * *Please stand by (not implemented yet)*
 
 ## End-of-Ball Bonus {#heading--end-of-ball-bonus}
