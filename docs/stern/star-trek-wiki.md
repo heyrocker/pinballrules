@@ -269,12 +269,13 @@ Completing the Level 3 Mode of any of the 6 Modes will award a 2X Shot Multiplie
 
 |Warp Level|# of Shots|Award|
 |---|---|---|
-|Warp 4|7|Extra Ball|
+|Warp 4|4|Extra Ball|
 |Warp 9.1|10|2X Scoring for 60 Seconds|
 |Warp 9.9|18|2X Scoring for 60 Seconds AND Adds a 2nd Ball into Single Ball Play|
 
+After Warp 9.9, the warp level resets. Though additional extra balls cannot be earned, double scoring and ball into play can be earned again.
 
-*Note:* Though additional extra balls cannot be earned, double scoring and ball into play can be earned again.
+*Note:* On default settings, the extra ball is percentage-based, but the requirement will not drop below Warp 3.
 
 ## Multiball Add-A-Ball {#heading--mbaddaball}
 
