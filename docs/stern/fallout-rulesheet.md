@@ -18,25 +18,26 @@ opdb_id: "GELVv"
    - [Deathclaw Multiball](#heading--deathclaw-multiball)
    - [Wasteland Multiball](#heading--wasteland-multiball)
    - [Vault Multiball](#heading--vault-multiball)
-* [Side Quests & Side Modes](#heading--side-quests--side-modes)
-   - [Side Quests](#heading--side-quests)
-   - [Radio Modes](#heading--radio-modes)
 * [S.P.E.C.I.A.L.](#heading--special)
 * [Other Scoring and Mechanics](#heading--other-scoring)
+   - [Radio Modes](#heading--radio-modes)
    - [Shooting Gallery](#heading--shooting-gallery)
       - [Fat Man](#heading--fat-man)
       - [VATS](#heading--vats)
+   - [Wasteland Items](#heading--items)
+     - [Outlane Ball Save (Stimpak)](#heading--outlane-ball-save-stimpak)
+     - [Trusty Companions](#heading--trusty-companions)
+     - [Side Quests](#heading--side-quests)
    - [Radroaches & Radaway](#heading--radroaches-radaway)
-   - [Radaway Hurry-Up](#heading--radaway-hurry-up)
-   - [Glowing Radroach](#heading--glowing-radroach)
+     - [Glowing Radroach](#heading--glowing-radroach)
+     - [Radaway Hurry-Up](#heading--radaway-hurry-up)
    - [Playfield X](#heading--playfield-x)
      - [Power Armor](#heading--power-armor)
-     - [Weapon](#heading--weapon)
+     - [Weapons](#heading--weapon)
    - [Loot](#heading--loot)
    - [Junk](#heading--junk)
    - [Wasteland Items](#heading--loops)
    - [Caps & Sundries](#heading--caps-sundries)
-   - [Trusty Companions](#heading--trusty-companions)
    - [Hacking](#heading--hacking)
 * [Outlane Ball Save (Stimpak)](#heading--outlane-ball-save-stimpak)
 * [Legendary Weapons](#heading--legendary-weapons)
@@ -55,7 +56,7 @@ opdb_id: "GELVv"
 * **Art:** Sam Gilbey, Jeremy Parker (Zombie Yeti)
 * **Displays/Animation:** David Liskovec, Olivia Jensen, Phillip Gullett, Zac Stark
 * **Sound/Music:** Jerry Thompson
-* **Callouts:** Jerry Thompson,\q Johnny Pemberton
+* **Callouts:** Jerry Thompson, Johnny Pemberton
 * **Release Date:** September 2026
 * **Game Code Version:** v0.81
 
@@ -106,7 +107,7 @@ Each quest completed awards a **[Legendary Weapon](#heading--legendary-weapons)*
     * Making a blue shot will light a yellow shot.
     * Yellow shots will progress towards super jackpot.
     * *To be discovered and documented*
-  * **Add-a-Ball**: Available on all models. Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball.
+  * **Add-a-Ball**: Hit the Deathclaw 5 times to add-a-ball.
 * **Radscorpion Attack:** Ramp Jump mode with a build up mechanic. The final shot **differs between the Pro model and the Premium/LE model**
   * Shoot any lit shots to light the center jump ramp for 2x the value.
     * The base shot value is 500k + 250k per shot
@@ -116,14 +117,14 @@ Each quest completed awards a **[Legendary Weapon](#heading--legendary-weapons)*
     * For **Premium/LE Model:**
       * Load the ball into the fat man launcher. Aim and hit the lit shot to perform the final blow and complete the mode.
     * For **Pro Model:**
-      * *To be discovered and documented*
+      * Hit the flashing right standup target to complete the mode.
 * **The Kings:** A *2-ball multiball* mode.
   * All lit shots score jackpots with a multiplier starting at 1x. Comboing the lit shots together starts a killing spree, advances the multiplier by 1 and rewards a multiplied jackpot.
   * To qualify for a super jackpot, you have two options:
-    * Hit the max multiplier [Needs to be documented what the max multiplier is]
+    * Hit the max multiplier (8x)
     * Start 3 killing sprees.
   * The base value of jackpots is 500k + 50k per shot.
-  * **Add-a-Ball:** Hit the Deathclaw to add-a-ball. The red inserts indicate how many shots you need to make. When the insert "Fire!" is lit, the next time you hit the Deathclaw will add-a-ball.
+  * **Add-a-Ball:** Hit the Deathclaw 5 times to add-a-ball.
 * **Mind Control:** Multi-level ramp + spinner mode.
   * Hit the lit ramp shots to drop the spinner for a certain amount of time.
   * Rip the spinner. With enough spins, advance to the next test (level) of the mode. Each level requires a different amount of spins and have a different base reward value:
@@ -131,12 +132,12 @@ Each quest completed awards a **[Legendary Weapon](#heading--legendary-weapons)*
     * Level 2: 50 spins, base value of 35k per spin.
     * Level 3: *To be discovered and documented*
   * Complete all three tests (levels) to complete the mode.
-* **NOVAC:** Shoot the ramps.
+* **NOVAC:** Shoot the left and right ramps.
   * Hit the lit ramps. Base score: 2M + 250k per shot.
   * The upper loop shots increase the multiplier for the next ramp shot.
   * Hit 6+ shots to light the final shot at the pipboy, scoring 2x the current value of the back panel shot.
 * **Find the Target:** A three-phase mode.
-  * Phase 1: Find the target by hitting 4 of the yellow shots. You cannot hit the same shot again.
+  * Phase 1: Find the target by hitting 4 of the yellow shots. You cannot hit the same shot again. Then hit the scoop to move to phase 2/
   * Phase 2: Hit the target. Alternatively, you can hit other shots to increase its value.
     * The shot with the faster blinking insert is the target.
   * Phase 3: *To be discovered and documented*
@@ -148,7 +149,7 @@ For **Premium/LE Models**, shoot the ball to the center ramp to hit the vault do
 
 During the opening vault door animation, the number of the vault is displayed. This hints at what specific vault mode you will be playing.
 
-For **Pro Models**, shoot the ball and bash the vault door again to start Find the Lunchbox!
+For **Pro Models**, shoot the ball and bash the vault door again to start Find the Lunchbox! This mode is timed for 15 seconds (unless playing as Lucy who has longer timers).
 * Multiple shots will be lit blue. Hit one of these shots to find a lunchbox.
   * The shot you hit will be removed for sequential rounds of Find the Lunchbox!
 * After finding the lunchbox, shoot the scoop to open it and collect your reward!
@@ -200,18 +201,18 @@ For **Premium/LE Models**: Hitting a limb of the deathclaw that is already cripp
     * Jackpot Base Value: 2M
     * Each shot increase the jackpot by 500k + 250k per shot.
     * Re-entering the build phase resets the jackpot value back to its base value.
-  * Collect Phase: For 12 seconds, hit the Deathclaw bash toy to collect the jackpots. Comboing the bash toy applies a stacking multiplier. After enough jackpots have been collected, super jackpots will be rewarded. Re-enters build phase once time has passed.
+  * Collect Phase: For 12 seconds, hit the Deathclaw bash toy to collect the jackpots. Comboing the bash toy applies a stacking multiplier. After enough jackpots have been collected, the next shot before time runs out will score a super jackpot. Re-enters build phase once time has passed.
     * The first super jackpot can be collected after 4 jackpots.
     * The number of jackpots that need to be collected for super jackpots carries over between collect phases.
-  * Add-A-Ball: Hit all radroach targets to add-a-ball.
 * **Deathclaw Multiball 2:**
   * Charge your weapon by hitting red shots and switches.
     * Shots will charge the weapon by 20%
   * Jackpots become lit once the weapon is charged and ready. Hit the Deathclaw bash toy to collect a jackpot. Each jackpot collection will require you to recharge your weapon for the next jackpot.
-  * Collect 5 jackpots to qualify for super jackpot.
-  * *To be discovered and documented*
+  * Collect 5 jackpots to qualify the super jackpot worth the total of the previous jackpots
 * **Deathclaw Multiball 3:**
   * *To be discovered and documented*
+ 
+During any Deathclaw multiball, complete all 4 Radroach targets to add-a-ball and briefly extend the ball save timer.
 
 ### Wasteland Multiball {#heading--wasteland-multiball}
 Once the player **[hits all shots in the shooting gallery](#heading--shooting-gallery)**, wasteland multiball will begin. Enemies come out in waves and must be eliminated. Shoot the lit shots to eliminate enemies.
@@ -227,91 +228,74 @@ Once the player **[hits all shots in the shooting gallery](#heading--shooting-ga
   * For **Pro Models:** *To be discovered and documented*
 
 ### Vault Multiball {#heading--vault-multiball}
-A 3-ball multiball that starts when awarded from the 1st **[[lunchbox award]](#heading--vault-modes)**. Multiple shots are lit blue, with one shot blinking faster then the others and having its corresponding "Spell VAULT" insert lit. These will be referred to as "Build Shot" and "Jackpot Shot" respectively.
-* Build shots will build jackpot value and awards 500k + 25k per shot.
-* Jackpots will award a value of 2M + 500k per jackpot.
-* Every time you hit the jackpot shot, it will move to the next insert.
-* The location ordering of the Jackpot starts at the left ramp, going from left to right with each hit, and ending at the right ramp. One additional jackpot shot is lit after the right ramp shot.
-* Once you've hit all Jackpot shots, the Super Jackpot is lit. Hit the center ramp to bash the vault door (Pro) / go past the vault door (Premium/LE).
-* In summary, the jackpot shot order to qualify super jackpot is as listed:
-  * Left Ramp
-  * Pip-Boy (The shot located just under the pip-boy)
-  * Left Orbit (the ramp shot located just to the right of the pip-boy)
-  * Left Loop (the shot located just to the left of the center ramp)
-  * Center Ramp
-  * Right Orbit
-  * Last Shot
-    * For **Premium/LE Models**: The lower playfield activates. Hit the three stand up targets. Then hit the loop.
-    * For **Pro Models:** *To be discovered and documented*
 
-## Side Quests & Side Modes {#heading--side-quests--side-modes}
-
-### Side Quests {#heading--side-quests}
-
-Side Quests are single-ball modes that take priority over all other game features besides **[radio modes](#heading--radio-modes)**. To light side quests, collect enough **[wasteland items](#heading--loops)** and make sure that your *[HP is above 50](#heading--quests)*. Once available, the scoop will start the next side quest. During side quests, completing each phase will light the scoop to either cash out the current value or continue the mode with time added.
-* **Filly** — *To be discovered and documented*
-* **Gulper** — 4-phase mode. First shot in each phase becomes multiplier shot. Each phase increases max multiplier. Multiplier shot is removed from future phases. 
-* **Super Duper Mart** — *To be discovered and documented*
-
-### Radio Modes {#heading--radio-modes}
-
-Build the radio signal by shooting the radio tower target located next to the nuka cola spinner. The current strength of the radio signal is displayed at the backboard screen on the top left area. Once the signal is at full strength, each music note insert will light up with different colors. The colors signal which song will be played. The duration of the song determines the timer of the mode. **You cannot pause the timer for Radio mode by trapping/cradling the ball**.
-
-**Songs:**
-As of version 0.81, there are a total of 6 songs that can be played during Radio Mode. Below is the list of songs and includes the duration of the radio mode, the number of shots needed to activate the jackpot, and the corresponding color to hit to start the song.
-
-* Uranium Fever
-  * Color - Yellow
-  * Duration - 2:17
-  * Shots needed: 6
-* In the Mood
-  * Color - Purple
-  * Duration - 2:05
-  * Shots needed: 7
-* The Yellow Rose of Texas
-  * Color - Blue
-  * Duration - 3:00
-  * Shots needed: 5
-* Some Enchanted Evening
-  * Color - Cyan
-  * Duration - 2:32
-  * Shots needed: 7
-* Big Iron
-  * Color - Red
-  * Duration - 3:55
-  * Shots needed: 7
-* Anything Goes
-  * Color - White
-  * Duration - 3:07
-  * Shots needed: 7
+A 3-ball multiball that starts when awarded from odd-numbered **[[lunchbox awards]](#heading--vault-modes)**. Multiple shots are lit blue to score awards, with one shot blinking faster then the others (and having its corresponding "Spell VAULT" insert lit) to score a jackpot worth 2M + previous award values + 500k per jackpot. The jackpot shot moves from left to right with each shot. Once the jackpot is made at the right ramp, either shoot the upper loop (Pro) or complete all four lower playfield shots (Prem / LE) to light the center ramp for super jackpot worth the total of all prior jackpots.
 
 ## S.P.E.C.I.A.L. {#heading--special}
 
-The classic Fallout stat mechanism is present. Each stat provides a perk for the duration of the game and have a maximum level of 2. The screen on the pipboy informs you what the perk at said level will provide.
+The classic Fallout stat mechanism is present. Earn XP during **[quest modes](#heading--quests)**, by **[looting / killing enemies](#heading--shooting-gallery)**, and by traveling to **[wasteland locations](#heading--loops)**. When you have collected enough XP to level up, shooting either pipboy ramp while outside of a mode will allow the player to select a SPECIAL perk. Each stat provides a perk for the duration of the game and has a maximum level of 2. The screen on the pipboy informs you what the perk at said level will provide.
 
 * **S**rength
-  * Level 1 - Discover and carry more loot. Easier to light junk target.
-  * Level 2 - *To be discovered and documented*
+  * Level 1 - Discover and carry more loot. Easier to light junk target
+  * Level 2 - Carry 2 stimpaks at once
 * **P**erception
   * Level 1 - *To be discovered and documented*
-  * Level 2 - Right Flipper will move the the stimpak between the outer lanes
+  * Level 2 - Right flipper will move the stimpak between the outer lanes
 * **E**ndurance
   * Level 1 - Longer Ball Save Timer
-  * Level 2 - Easier Wasteland Items (Stimpak, Companions, and others advances twice as fast)
+  * Level 2 - Easier Wasteland Items (next shot to a flashing lane scores all 3 currently lit wasteland items)
 * **C**harisma
-  * Level 1 - Sundries Shop is now 20% off. You also earn more EXP from junk.
-  * Level 2 - Flipper buttons can now be used to select quest.
+  * Level 1 - Sundries Shop is now 20% off. You also earn more EXP from junk
+  * Level 2 - Flipper buttons can now be used to select quest
 * **I**ntelligence
-  * Level 1 - Easier to light fat man. Easier radio jackpot.
+  * Level 1 - Easier to light fat man (lane behind upper flipper lights all right standup targets to enable fat man). Easier radio jackpot.
   * Level 2 - *To be discovered and documented*
 * **A**gility
   * Level 1 - *To be discovered and documented*
   * Level 2 - Even easier to light VATS as you need even less AP, easier to upgrade weapons
 * **L**uck
-  * Level 1 - Earn more caps, better stealing odds, and better junk items.
-  * Level 2 - Earn even more caps from the spinner & better junk items.
+  * Level 1 - Earn more caps, better stealing odds, and better junk items
+  * Level 2 - Earn even more caps from the spinner & better junk items
 
 ## Other Scoring {#heading--other-scoring}
+
+### Radio Modes {#heading--radio-modes}
+
+Build the radio signal by shooting the radio tower target located next to the nuka cola spinner; every time a radio mode is started, one additional radio tower hit is needed. The current strength of the radio signal is displayed at the backboard screen on the top left area. Once the signal is at full strength, each music note insert will light up with different colors. The colors signal which song will be played. The duration of the song determines the timer of the mode. **You cannot pause the timer for Radio modes by trapping/cradling the ball**.
+
+**Songs:**
+As of version 0.81, there are a total of 6 songs that can be played during Radio Mode. Below is the list of songs and includes the duration of the radio mode, the number of shots needed to activate the jackpot, and the corresponding color to hit to start the song.
+
+* In the Mood
+  * Shot to start - fusion core bumper
+  * Color - Purple
+  * Duration - 2:05
+  * Shots needed: 7
+* Anything Goes
+  * Shot to start - lower pip-boy ramp
+  * Color - White
+  * Duration - 3:07
+  * Shots needed: 7
+* The Yellow Rose of Texas
+  * Shot to start - junk target
+  * Color - Blue
+  * Duration - 3:00
+  * Shots needed: 5
+* Uranium Fever
+  * Shot to start - left ramp
+  * Color - Yellow
+  * Duration - 2:17
+  * Shots needed: 6
+* Some Enchanted Evening
+  * Shot to start - upper loop
+  * Color - Cyan
+  * Duration - 2:32
+  * Shots needed: 7
+* Big Iron
+  * Shot to start - right ramp
+  * Color - Red
+  * Duration - 3:55
+  * Shots needed: 7
 
 ### Shooting Gallery {#heading--shooting-gallery}
 
@@ -322,7 +306,7 @@ For **Pro Models:** The left flipper acts as the Fat Man ball launcher, with the
 
 #### Fat Man {#heading--fat-man}
 
-An iconic weapon of the wasteland. The player qualifies for the Fat Man by shooting the the 3-bank of stand up targets on the right, collecting a mini nuke. Once collected, shoot the left loop to load the launcher. Once all three targets have been hit, [Wasteland Multiball](#heading--wasteland-multiball) begins.
+An iconic weapon of the wasteland. The player qualifies for the Fat Man by shooting the the 3-bank of stand up targets on the right, collecting a mini nuke. Once collected, shoot the left loop to load the launcher. Once all three targets have been hit, **[Wasteland Multiball](#heading--wasteland-multiball)** begins.
 
 * For **Premium/LE Models:** The ball feeds into the Fat Man launcher mechanism. Shoot any of the lit targets/spinner on the upper playfield.
 * For **Pro Models:** The ball feeds to the left flipper. Shoot the lit shots at the 3-bank of standup targets.
@@ -335,49 +319,89 @@ The Vault-Tec Assisted Targeting System will make it easier to progress the shoo
 * For **Pro Models:** VATS will spot a target for you at the 3-bank stand-up targets. Use the flipper buttons to select a target.
 * *Writer's Note: The amount of AP value gained from switches is unknown*
 
+### Wasteland Items {heading--items}
+
+The left ramp, U-turn, and right ramp all have rows of three inserts in front of them. Completing all three inserts of the same color gives a wasteland item, and filling out all three rows will light the scoop to start a **[side quest](#heading--side-quests)**. After the first side quest, the inserts must be completed by making the shots from left to right.
+
+The awards for each set of inserts are listed below. The inserts are lit in the following order: white, yellow, then blue. 
+
+
+#### Outlane Ball Save (Stimpak) {#heading--outlane-ball-save-stimpak}
+
+Completing the three white inserts will light the right outlane for stimpak. Stimpaks save the ball when the ball drains down a lit outlane. The location of the lit stimpak changes with hits to the fusion core pop bumper or right slingshot. Stimpaks can also be earned from **[sundries](#heading--caps-sundries)**.
+
+The following SPECIAL perks help with stimpaks:
+
+- *Strength* level 2 - player can have stimpaks at both outlanes at once.
+- *Perception* level 2 - stimpaks can be lane-changed with the flippers.
+
+#### Trusty Companions {#heading--trusty-companions}
+
+Completing the three yellow inserts will enable a trusty companion. While the third yellow insert is flashing, using the left or right flipper will change the qualified companion clockwise (right flipper) or counterclockwise (left flipper). 
+
+Each companion has a passive and active ability. **Press the action button to use the companions' active ability.**
+
+Your four trusty companions are:
+* Victor
+  * Active Ability: Instant Cap Stash (action button drops the spinner)
+  * Passive Ability: Great Deals
+  * *Smooth Talker*
+* Protectron
+  * Active Ability: Spots all lit Radaway Awards
+  * Passive Ability: Max Quest Timers
+  * *Not A Doctor*
+* Dogmeat
+  * Active Ability: Collects all lit junk
+  * Passive Ability: Lights more radroaches to kill
+  * *Your Best Friend*
+* Mr. Handy
+  * Active Ability: Spots a Deathclaw shot
+  * Passive Ability: Easier Fusion Core
+  * *Very Handy*
+
+#### Side Quests {#heading--side-quests}
+
+Side Quests are single-ball modes that take priority over all other game features besides **[radio modes](#heading--radio-modes)**. To light side quests, complete all three of the blue inserts, and make sure that your *[HP is above 50](#heading--quests)*. Once available, the scoop will start the next side quest. During side quests, completing each phase will light the scoop to either cash out the current value or continue the mode with time added. Every time the cashout is lit, a bonus award is added: **[junk](#heading--junk)**, then **[legendary weapon](#heading--legendary-weapons)**, then ?, then ?.
+
+* **Filly** — *TBD*
+* **Gulper** — 4-phase mode. Clear out 7 shots, with the first shot in each phase becoming a multiplier shot and being able to hit as many times as the multiplier number. Each phase increases the max multiplier, but the multiplier shot is removed from future phases. 
+* **Super Duper Mart** — *TBD*
+
 ### Radroaches & Radaway {#heading--radroaches-radaway}
 
-**Radroachs:** One of the four radroach stand up target will be lit in a slow blinking fashion. Hitting the this stand up target kills the radroach and awards points. Another radroach will spawn at the remaining  stand-up targets.
+**Radroaches:** One of the four radroach stand up targets is always flashing. Hitting this stand up target kills the radroach and awards points. Another radroach will then spawn at one of the remaining stand-up targets.
 
-Killing a radroach causes the insert to remain lit in a solid fashion, indicating that its death leaves a pool of radition at said stand-up target. **If you hit the stand-up target again, you will be inflicted with RAD (Radiation)**, resulting in your maximum HP being lowered.
+Killing a radroach causes the insert to remain lit in a solid fashion. *If you hit the lit stand-up target again, you will be inflicted with RAD (Radiation)*, resulting in your maximum HP being lowered.
 
-Killing all four radroaches will spawn a [Glowing Radroach](#heading--glowing-radroach)!
+Killing all four radroaches will spawn a **[Glowing Radroach](#heading--glowing-radroach)** that can be killed with the fat man.
 
-If your collect [Dogmeat as your Companion](#heading--trusty-companions), you will have more than one radroach stand up target active.
+If your collect *[Dogmeat as your Companion](#heading--trusty-companions)*, you will have more than one radroach stand up target active.
 
-**Radaway:** Upon being inflicted with RAD, a green shot becomes lit at the ramps to indicate that radaway is available. Hitting the green shot rewards:
-* Points - Hurry-up style. The quicker you hit the shot, the more points you collect.
-* Radaway - Reduces the amount of RAD the player has incurred, which increases their maximum HP.
-* Progresses the player towards Radaway Hurry-Up.
-  * The first Radaway Hurry-Up Jackpot lights at the shot under the Pip-Boy after collecting 3 Radaway
+**Radaway:** Upon being inflicted with RAD, a green shot becomes lit at the ramps to indicate that radaway is available. Hitting the green shot rewards hurry-up points and reduces the amount of RAD the player has incurred, which increases their maximum HP. Collecting 3 Radaway shots enables the upper pipboy ramp to start **[Radaway Hurry-Up](#heading--radaway-hurry-up)**
 
 ### Radaway Hurry-Up {#heading--radaway-hurry-up}
 
-Once enough Radaway has been collected, the player is qualified for the Radaway Hurry-Up. Shot the flashing green shot under the Pip-Boy to start it.
+Once 3 Radaway shots have been been collected, the player is qualified for the Radaway Hurry-Up. Shot the upper pipboy ramp to start it.
 
-To light the Radaway Jackpot, shoot all 3 ramps. Once lit, collect the jackpot by hitting the outer loop from the mutant flipper. The player has 10 seconds to repeat this outer loop shot as many times as they can.
+To light the Radaway Jackpot, shoot all 3 ramps. Once lit, collect the jackpot, worth the total of all 3 hurry-up values by hitting the outer loop from the mutant flipper. The player has 10 seconds to repeat this outer loop shot as many times as they can.
 
 ### Glowing Radroach {#heading--glowing-radroach}
 
 Once the radroaches at each stand-up target have been killed, a glowing radroach will spawn.
 
-For **Premium/LE Model:** Load the fatman to kill the radroach. The fatman mechanism will point towards the general area of the bottom right radroach stand-up and slowly rotate. Hit the stand-up target for 20M points + 10M per Glowing Radroach.
-
-For **Pro Model:** *To be discovered and documented*
+Load the fatman to kill the radroach. Then hit the lower rght stand-up target for 20M points + 10M per Glowing Radroach.
 
 ### Playfield X {#heading--playfield-x}
-A playfield multiplier can be applied by two means: The Power Armor and your weapon. The Power Armor acts as active-based, time-limited playfield multiplier while the weapon acts as a passive playfield multiplier with no timer.
+There are two types of playfield multipliers. The Power Armor is a timed 2x playfield multiplier while the weapon acts as a passive playfield multiplier with no timer.
 
 #### Power Armor {#heading--power-armor}
-Equip your Power Armor by holding the action button for a short amount of time, activating a **+100% (2x) multiplier** that's addictive with your weapon multiplier. To be able to equip your Power Armor, the fusion core must be charged with the minimum amount of power needed. The charge of the fusion core is displayed with the row of inserts to the right of the pop bumper. Fusion Cores act as the multiplier timer. **You can toggle the power suit playfield multiplier on and off**, saving the time.
-* You can charge the fusion core by two methods:
-  * Purchasing fusion cores from the [Sundries](#heading--caps--sundries)
-  * Hitting the Pop Bumper
+
+Charge the Power Armor by hitting the fusion core pop bumper enough times or earning fusion cores from **[Sundries](#heading--caps--sundries)**. Once the fusion core power is at least 50% (shown via the meter near the pop bumper), the Power Armor can be equipped by holding the action button for two seconds. While Power Armor is equipped, all scoring is **+100% (2x) multiplied**, and this scoring is additive with your weapon multiplier. You can toggle the playfield multiplier on and off by holding the action button while the timer is running.
 
 #### Weapons {#heading--weapon}
-You'll need production when roaming the wasteland! The game starts you off with a simple weapon that can be upgraded. Your weapon can award:
+You'll need production when roaming the wasteland! The game starts you off with a simple weapon that can be upgraded. Upgrading the weapon awards:
 * A playfield X multiplier of +20% (0.2x) for each upgrade
-* +1x multiplier at the [End-Of-Ball Bonus](#heading--end-of-ball-bonus) for each upgrade.
+* +1x **[bonus](#heading--end-of-ball-bonus) multiplier** for each upgrade
 
 Upgrading your weapon requires a certain amount of [Junk](#heading--junk) items of certain quality, becoming more demanding as you continue to upgrade. Once you have the material, shoot the scoop to upgrade your weapon. The junk material requirement for upgrading your weapon is as listed:
 * Level 2:
@@ -388,7 +412,7 @@ Upgrading your weapon requires a certain amount of [Junk](#heading--junk) items 
 * Level 4:
   * Common Junk: x13
   * Rare Junk: x5
-* *To be Discovered and Documented*
+* *TBD*
 
 Each upgrade also enables the next level of **[Deathclaw multiball](#heading--deathclaw-multiball)** to be played.
 
@@ -398,6 +422,7 @@ The backboard screen displays your current bonus X and playfield X, along with t
 After each radroach and enemy in the shooting gallery that you kill, shoot the scoop to loot their corpse and collect 2 to 3 rewards from the list below. The rewards are random:
 * Caps
 * Nuka Cola
+* Jet
 * Common Junk
 * Rare Junk
 * [Legendary Weapon](#heading--legendary-weapons)
@@ -409,15 +434,15 @@ Collect junk items around the wasteland to upgrade your weapon. Each junk item c
 * Legendary
 
 You can collect junk by:
-* Hitting the Junk Stand-up target when qualified.
+* Hitting the Junk standup target when qualified.
 * [Looting](#heading--loot) corpses.
 * Buying them from [Sundries](#heading--caps-sundries)
 
-Junk Stand-Up Target: *To be discovered and documented.*
+The junk standup target lights once 10 slingshot / bumper hits are made. Hitting the target will award a random piece of common or rare junk. Rolling through the right inlane and then hitting the junk target awards 2 pieces of junk.
 
-### Wasteland Items {heading--loops}
+### Wasteland Locations {heading--loops}
 
-Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations and score items. This is the main method of lighting Nuka-Cola Quantum at the shot behind the mutant flipper (which doubles XP gain for a short time), and collecting enough wasteland items will enable **[side quests](#heading--side-quests)**.
+Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations and score items. This is the main method of lighting Nuka-Cola Quantum at the shot behind the mutant flipper (which doubles XP gain for a short time).
 
 ### Caps & Sundries {#heading--caps-sundries}
 
@@ -426,9 +451,9 @@ Caps are the currency of the wasteland. The amount of caps the player has is dis
 
 * Lighting both Nuka Cola inlanes to qualify Cap Stash
   * Once qualified, one of the Nuka Cola inserts will be flashing. This can be moved left or right by the corresponding flipper buttons.
-  * Roll over the flashing inline to drop the Nuka Cola spinner. Rip the spinner to collect caps.
-  * The spinner will go up after a certain amount of time of inactive spins. Continuously rip the spinner for more caps while its down!
-* Various achievement also award caps
+  * Roll over the flashing inlane to drop the Nuka Cola spinner. Rip the spinner to collect caps.
+  * The spinner will go up after a certain amount of time of inactive spins. Continuously rip the spinner for more caps while it's down. The more times Cap Stash is started, the higher base points per spin.
+* Various achievements also award caps.
 
 **Sundries (The Shop):**
 The player can spend their caps at Sundries. Hit the right scoop when qualified to enter the shop. The shop will sell 4 items at most with each visit. Certain items have a quantity listed. This indicates how many times you can buy the item in a single game.
@@ -474,44 +499,20 @@ List of Items at Sundries:
 | Bobblehead | Agility Perk | Legendary Junk |
 | Bobblehead | Luck Perk | Legendary Junk |
 | Holotape | Red Menace video mode | Legendary Junk |
-| Nuka Quantum | Lights 2x XP | Legendary Junk |
-
-### Trusty Companions {#heading--trusty-companions}
-
-Shoot the left ramp, center loop, and right orbit when *yellow* inserts are flashing to collect a Trusty Companion. Each companion has a passive and active ability. **Press the action button to use the companions' active ability.**
-
-Your four trusty companions are:
-* Victor
-  * Active Ability: Instant Cap Stash (Action button drops the spinner)
-  * Passive Ability: Great Deals
-  * *Smooth Talker*
-* Protectron
-  * Active Ability: Spots all lit Radaway Awards
-  * Passive Ability: Max Quest Timers
-  * *Not A Doctor*
-* Dogmeat
-  * Active Ability: Collects all lit junk.
-  * Passive Ability: Lights more radroaches to kill.
-  * *Your Best Friend*
-* Mr. Handy
-  * Active Ability: Spots a Deathclaw shot
-  * Passive Ability: Easier Fusion Core
-  * *Very Handy*
+| Nuka Quantum | Lights 2x XP | Legendary Junk | 150 Caps
 
 ### Hacking {#heading--hacking}
-Hacking is your classic pinball mystery award mechanic. Hit the stand-up target to the side of the left ramp when the white insert is lit to collect your mystery award! Possible awards are:
+Hacking is the game's mystery award. Shoot either pipboy ramp to light the lower left stand-up target for the award. Without **[mentats](#heading--caps-sundries)**, though, hacking has an approx. 50% chance of failure and scoring nothing. Possible awards are:
 
-* Failure - No Reward
 * 10M
 * +25 XP
+* Light fat man
+* Common junk
+* Rare junk
 * *To be discovered and documented*
 
-## Outlane Ball Save (Stimpak) {#heading--outlane-ball-save-stimpak}
-
-Shoot the left ramp, center loop, and right orbit when *white* inserts are flashing to light ball save at the outlanes
-
 ## Legendary Weapons {#heading--legendary-weapons}
-There are various legendary weapons to collect within the wasteland. These award perks for the rest of the game. Collect legendary weapons by completing **[quests](#heading--quests)** or finding them in **[lunchboxes](#heading--vault-modes)**.
+There are various legendary weapons to collect within the wasteland. These award perks for the rest of the game. Collect legendary weapons by completing **[quests](#heading--quests)**, making enough progress in **[side quests](#heading--side-quests)**, or finding them in **[lunchboxes](#heading--vault-modes)**.
 
 In standard play, the perks are psuedo-random (first 4 are weak, then subsequent ones are chosen from the others). In competition mode, they are chosen in the same order every game. After finding all 11 legendary weapons, subsequent ones will give point awards.
 
@@ -530,11 +531,13 @@ In standard play, the perks are psuedo-random (first 4 are weak, then subsequent
 ## Extra Balls {#heading--extra-balls}
 Extra balls can be collected at the stand-up target that is located on the side area of the left ramp. Extra balls can be lit by:
 
-* Shooting 4, then 25 lit Radroach targets
-* *Please stand by (not implemented yet)*
+* Playing 3 **[quests](#heading--quests)**
+* Shooting 4, then 25 lit **[Radroach targets](#heading--radroaches-radaway)**
+
+On competition mode, extra balls are worth 15M and subject to multipliers from power armor and weapons.
 
 ## End-of-Ball Bonus {#heading--end-of-ball-bonus}
-When the player drains, a bonus will be award based on the following.
+When the player drains, a bonus will be awarded based on the following.
 
 Base Bonus:
 * 1M per Character Level
@@ -551,16 +554,14 @@ Bonus Multiplier (Bonus X):
 
 ### What Makes YOU Special (Mini-Wizard Mode) {#heading--what-makes-you-special-mini-wizard-mode}
 
-*Please stand by (not implemented yet)*
+*TBD*
 
 ### Observatory (Mini-Wizard Mode) {#heading--observatory-mini-wizard-mode}
 
-*Please stand by (not implemented yet)*
+*TBD*
 
 ### Cold Fusion (Wizard Mode) {#heading--cold-fusion-wizard-mode}
 
-*Please stand by (not implemented yet)*
-
-___
-* Sections marked with "*To be discovered and documented*" are implemented in the game, but have yet to be found and/or their functionality documented.
+*TBD*
+documented.
 * Sections marked with "*Please stand by*" are features that are not yet implemented.
