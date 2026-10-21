@@ -36,10 +36,9 @@ opdb_id: "GELVv"
      - [Weapons](#heading--weapon)
    - [Loot](#heading--loot)
    - [Junk](#heading--junk)
-   - [Wasteland Items](#heading--loops)
+   - [Wasteland Locations](#heading--loops)
    - [Caps & Sundries](#heading--caps-sundries)
    - [Hacking](#heading--hacking)
-* [Outlane Ball Save (Stimpak)](#heading--outlane-ball-save-stimpak)
 * [Legendary Weapons](#heading--legendary-weapons)
 * [Extra Balls](#heading--extra-balls)
 * [End-of-Ball Bonus](#heading--end-of-ball-bonus)
@@ -325,7 +324,6 @@ The left ramp, U-turn, and right ramp all have rows of three inserts in front of
 
 The awards for each set of inserts are listed below. The inserts are lit in the following order: white, yellow, then blue. 
 
-
 #### Outlane Ball Save (Stimpak) {#heading--outlane-ball-save-stimpak}
 
 Completing the three white inserts will light the right outlane for stimpak. Stimpaks save the ball when the ball drains down a lit outlane. The location of the lit stimpak changes with hits to the fusion core pop bumper or right slingshot. Stimpaks can also be earned from **[sundries](#heading--caps-sundries)**.
@@ -379,13 +377,13 @@ If your collect *[Dogmeat as your Companion](#heading--trusty-companions)*, you 
 
 **Radaway:** Upon being inflicted with RAD, a green shot becomes lit at the ramps to indicate that radaway is available. Hitting the green shot rewards hurry-up points and reduces the amount of RAD the player has incurred, which increases their maximum HP. Collecting 3 Radaway shots enables the upper pipboy ramp to start **[Radaway Hurry-Up](#heading--radaway-hurry-up)**
 
-### Radaway Hurry-Up {#heading--radaway-hurry-up}
+#### Radaway Hurry-Up {#heading--radaway-hurry-up}
 
 Once 3 Radaway shots have been been collected, the player is qualified for the Radaway Hurry-Up. Shot the upper pipboy ramp to start it.
 
 To light the Radaway Jackpot, shoot all 3 ramps. Once lit, collect the jackpot, worth the total of all 3 hurry-up values by hitting the outer loop from the mutant flipper. The player has 10 seconds to repeat this outer loop shot as many times as they can.
 
-### Glowing Radroach {#heading--glowing-radroach}
+#### Glowing Radroach {#heading--glowing-radroach}
 
 Once the radroaches at each stand-up target have been killed, a glowing radroach will spawn.
 
