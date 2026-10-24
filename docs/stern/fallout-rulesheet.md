@@ -6,6 +6,7 @@ opdb_id: "GELVv"
 
 ## Table of Contents {#heading--table-of-contents}
 * [Game Overview](#heading--game-overview)
+* [Rules Overview](#heading--rules-overview)
 * [Layout](#heading--layout)
 * [Character Select](#heading--character-select)
 * [Skill Shot](#heading--skill-shot)
@@ -55,6 +56,24 @@ opdb_id: "GELVv"
 * **Callouts:** Jerry Thompson, Johnny Pemberton
 * **Release Date:** September 2026
 * **Game Code Version:** v0.81
+
+## Rules Overview: {#heading--overview}
+
+- Skill shot: time the full plunge so the ball rolls over the flashing Nuka-Cola insert. Then rip the spinner to score as many caps as possible. Caps are used to purchase items from sundries.
+- Light **quests** at the scoop by shooting the left orbit or right ramp to increase HP. Quest timers are based on the player's current HP. Four of the quests are single-ball, while Wedding Day and The Kings quests are 2-ball multiballs. Complete modes to earn legendary weapons that double certain playfield features.
+- Shoot Deathclaw to start **Deathclaw multiballs**. Time your shots to the bash toy when the FIRE insert is flashing to guarantee progress. Complete radroach targets during multiball for add-a-ball.
+- Complete the right nuke standup targets to light the pipboy ramps to load the Fat Man nuke launcher. Complete the lit right standup targets (**Pro model**) or use the nuke launcher to fire the ball at lit upper playfield targets (**Premium/LE model**) to start **Wasteland Multiball**.
+- Spell VAULT at the lit VAULT shots to light the center ramp to either start **Find the Lunchbox!** (**Pro model** - shoot any lit shot followed by the scoop) or **one of seven vault experiments** (**Premium/LE model** - follow the display instructions for each experiment).
+  - **Vault Multiball** is awarded from odd-numbered vault completions. Shoot the jackpot that starts on the left side of the playfield and moves to the right with each shot. Then score a double jackpot at the upper loop (**Pro model**) or lower playfield (**Prem / LE model**), followed by a super jackpot at the center ramp.
+- Earn XP by completing playfield objectives. Once the player has leveled up, shoot either pipboy ramp to add 1 skill point and advance a **SPECIAL perk**. Read the pipboy display to learn what each perk does.
+- Start **radio modes** by hitting the radio tower target then any music note shot. Keep hitting music notes to enable radio jackpots and increase the multiplier with each one earned.
+- Earn **wasteland items** by shooting white, yellow, and blue inserts at the left ramp, U-turn, and right ramp shots. Given in the following order: stimpak (outlane ball save), trusty companion (use the flippers to rotate while the final yellow shot is lit), light side quest (at the scoop as the next quest started).
+  - **Side quests** are long risk / reward modes that take priority over all other game modes.
+- Hit flashing **radroach targets** to light extra ball, and light green shots for radaway. 
+  - After scoring 3 radaway shots, the upper pipboy ramp will start **radaway hurry-up**. Make all 3 ramp shots to enable the lucrative radaway jackpot award at the upper loop.
+- Hit the left pop bumper to advance the **fusion core** percentage. Once the percentage is more than 50%, hold the action button to boost all playfield scores by 2x for the duration of the power armor. Hold the action button again to end the multiplier.
+- Collect junk with slingshot or left standup target hits to **upgrade weapons**. Weapons re-enable Deathclaw multiball and boost playfield scoring.
+- Shoot either pipboy ramp to light the ? target for **mystery award**.
 
 ## Layout {#heading--layout}
 
@@ -433,7 +452,7 @@ In standard play, the perks are psuedo-random (first 4 are weak, then subsequent
 * 2x Wasteland Multiball scoring
 
 ## Extra Balls {#heading--extra-balls}
-Extra balls can be collected at the stand-up target that is located on the side area of the left ramp. Extra balls can be lit by:
+Extra balls can be collected at the stand-up target that is located on the side area of the lower pipboy ramp. Extra balls can be lit by:
 
 * Playing 3 **[quests](#heading--quests)**
 * Shooting 4, then 25 lit **[Radroach targets](#heading--radroaches-radaway)**
