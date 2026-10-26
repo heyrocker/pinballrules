@@ -13,61 +13,90 @@ title: "Games With Lock & Point Stealing"
 * Andromeda
 * Big Valley
 * Black Knight 2000
+* Dungeons & Dragons (Bally)
 * Fire!
 * Fireball
 * Fireball Classic
 * Grand Lizard
-* Jokerz
+* Harley-Davidson (Bally)
+* Heavy Metal Meltdown
+* Jokerz!
+* Monday Night Football
 * Night Moves
 * Nip-It
-* PIN-BOT
+* Nine Ball
+* Pin*Bot
+* Playboy 35th Anniversary
+* Radical! (fixed in updated ROM)
+* Rescue 911
+* Robo-War
+* Silver Slugger
 * Sorcerer
 * Space Shuttle
+* Special Force
+* Strange Science
 * Swords of Fury
 * Taxi
 * Torpedo Alley
-* RADICAL (fixed in the update rom)
 
-**Soft Lock Stealing** - If another player takes the locked ball, the current player's progress to activate a lock is remembered but they will have to physically re-lock a ball to earn progress
-* Aerosmith (Players can do Very Soft Lock Stealing and play MB with more balls than they locked they do not get the added scoring from locking more balls other players do not need to physically re-lock taken balls (for competition best to set this game to virtual locks)
+**Soft Lock Stealing** - If another player takes the locked ball, the current player's progress to activate a lock is remembered but they will have to physically re-lock a ball to earn progress.
+* Aerosmith (Players can play toybox multiball with more balls than they locked. They do not get the added scoring from locking more balls and other players do not need to physically re-lock taken balls. For competition, best to set this game to virtual locks)
 * The Addams Family - Can soft plunge to the swamp to re-lock safely
+* Back to the Future
 * Big Guns
 * Black Hole - Lower PF lock only
-* Corvette
+* Corvette (for both normal LT-5 multiball and puzzle challenge)
 * Cosmic Gunfight
-* Earthshaker
+* Earthshaker!
 * F-14 Tomcat - Re-locks balls on plunge for players as compensation, and scores 25k per lock (unwarranted). Fixed in tournament romset, locks score 10 points instead.
 * Fireball II
 * Firepower
-* Funhouse - Rudy clock will reset back to 11:30 after drain forcing you to relock-balls (when in tournament mode)
-* JACK-BOT
-* Stern Jurassic Park (Pre/Le) - Raptor lock
+* FunHouse - Rudy clock will reset back to 11:30 after drain, forcing you to relock balls
+* Jack*Bot
+* Jurassic Park (Stern) (Premium/LE) - Raptor lock
+* Maverick (recommended single player only, as lock stealing means the jackpot value can be unfairly increased in multiplayer)
 * Monte Carlo (Gottlieb)
 * Mousin’ Around
 * Nine Ball
-* Oktoberfest (Beer Barrel)
+* Oktoberfest (Beer barrel lock)
+* Red & Ted's Road Show
 * Road Kings
+* Robocop
 * Rollergames (modded / tournament rom gives you plunge to easy re lock)
 * Scorpion
+* Secret Service (can plunge the side ramp)
 * Solar Fire
+* Tales of the Arabian Nights
+* Theatre of Magic
+* Time Machine (Data East)
 * Total Nuclear Annihilation (do not need to fully relight)
-* Whitewater
 * Whirlwind has soft lock stealing and has virtual locks for the players behind (ramp raises and a “lock” is scored for shooting the saucer under it).
-
+* White Water
+  
 **Lock Blocking** - The first player to lock the ball gets a physical lock.  Subsequent locks for other players are virtual locks based on different conditions
 * Aerosmith - First player per lock level get a safe action while others get a hard fire into the closed box that can go slamming down SDTM
+* Back to the Future
 * Doctor Who
+* Elton John - Signature Stage MB (piano lock)
+* Foo Fighters - Overlord MB, game can be set to kick out locked balls between turns
+* Godzilla (Stern) (Premium/LE) - Godzilla MB, virtual locks feed to left flipper
+* Guardians of the Galaxy - Groot MB, bashing Groot awards virtual lock\*
+* Harry Potter - Golden Trio MB, virtual locks release from scoop\*
+* James Bond 007 (Premium/LE) - Bird 1 MB, virtual locks feed to upper flipper\*
+* John Wick (Premium/LE) - Deconsecrated MB, virtual locks feed to left flipper
+* Jurassic Park (Stern) (Premium/LE) - Raptor lock
+* King Kong: Myth of Terror Island (Premium/LE) - King Kong MB, virtual locks feed to left flipper\*
+* Maverick (hit the orbits or get lock ball skill shot to relock)
 * Mousin’ Around (need to hit the side others players do not have an ball in for 1st lock)
-* Foo Fighters - Overlord Lock - Game can be set to kick out locked balls between turns.
-* Stern Godzilla (Pre/LE) - Godzilla MB, virtual locks feed to left flipper
-* Guardians of the Galaxy - Groot MB, bashing groot awards virtual lock\*
-* James Bond 007 (Pre/LE) - Bird 1 MB, virtual locks feed to upper flipper\*
-* John Wick (Pre/LE) - Deconsecrated MB, virtual locks feed to left flipper\*
-* Stern Jurassic Park (Pre/LE) - Raptor lock
-* King Kong: Myth of Terror Island (Pre/LE) - King Kong MB, virtual locks feed to left flipper\*
 * Road Kings - Prevents building eject bonus at locked ball
+* Scared Stiff - Stiff in the Coffin MB, if balls are already locked there
+* The Shadow - Shadow MB, if balls are locked in the sanctum
+* Sonic the Hedgehog - later rounds of Chaos Emerald MB hold and release balls from the lock
 * Star Wars: Fall of the Empire - Death Star MB, bashing death star awards virtual lock\*
-* Transformers: More than Meets the Eye (Pre/LE) - Transformers MB, virtual locks feed to right flipper
+* Theatre of Magic - if 2 balls are already locked\*
+* Transformers: More Than Meets the Eye (Premium/LE) - Transformers MB, virtual locks feed to right flipper
+* Twilight Zone - if 2 balls are locked already
+* Twister - if the canister is full
 
 \*This game can be set to always award virtual locks
 
@@ -83,13 +112,14 @@ title: "Games With Lock & Point Stealing"
 * Oktoberfest (Beer Barrel)
 * Orbiter 1
 * Rollergames (modded rom fixes it)
-* Wonka (Elevator Multiball) (setting to turn off)
+* Wonka (Wonkavator Multiball) (setting to turn off)
 
 **Locked Balls Kind Of Hold Across Games** - Locked balls stay in place between games but they kick from lock on locking balls and you lose chance of skill shots (subject to software settings)
 
 * The Addams Family (Non gold and non modded roms)
 * The Simpsons Pinball Party (setting)
-* Funhouse
+* Special Force (setting)
+* FunHouse
 
 ***Balls***
 
@@ -104,52 +134,89 @@ title: "Games With Lock & Point Stealing"
 * some add an ball em's on tilt take ball in play + 1 more.
 
 **Loss of Ball In Play Not from Tilt or Drain** - Your ball in play ends (not games with outline last chance shots / timed bonus balls)
+* Caveman (died in video mode)
+* Kingpin (timed play)
 * Operation Thunder (out of fuel)
-* Capcom Kingpin (when in timed play)
-* Caveman (die in video mode)
-* Walking dead when with competition install / Feature setting Horde Lost Advances B.I.P on
-* Sonic the Hedgehog Spinball (water modes)
+* The Walking Dead / Remastered (horde failed on competition install)
 
 ***Features***
 
-**Games With Progressive Jackpots** - Jackpots that retains there values across Players / Games
-* Bad Cats
-* Bally Atlantis (modded / tournament rom fixes that)
+**Games With Progressive Jackpots** - Jackpots that retain their values across players / games
+* Atlantis (Bally)
+* Bad Cats (fixed on Cat's Meow rom)
+* Bad Girls
+* Beetlejuice (Inferno Room progressive jackpot)
+* Big Guns
+* Black Rose
+* Bone Busters Inc.
 * Cyclone
-* High Speed (has an tournament rom)
-* Mousin' Around (has an tournament rom)
-* Music Man (bonus saucers)
-* Taxi (Can set range to be very small)
+* Deadly Weapon
+* Diamond Lady
+* Elton John (SUPERSTAR! jackpot, default settings)
 * Elvira and the Party Monsters
-* Elton John (default settings)
+* Excalibur
+* High Speed (has an tournament rom)
+* Hot Shots
+* Hurricane
+* Jurassic Park (Data East) (T-REX bounty, default settings)
+* Last Action Hero (Second Cousin Frank's and RIPPER bounties, default settings)
+* Lights... Camera... Action!
+* The Machine: Bride of Pin*Bot (has a tournament rom)
+* Mousin' Around! (has an tournament rom)
+* Music Man (bonus saucers)
+* Phantom of the Opera
+* Police Force (has a tournament rom)
+* Pool Sharks
+* Riverboat Gambler
+* Secret Service
+* Silver Slugger
+* Special Force
+* Taxi (Can set range to be very small)
+* Title Fight (on certain settings. Default = 5M)
+* Transporter the Rescue
+* Truck Stop
+* Vegas (normal and super jackpots)
+* WWF Royal Rumble (Get Back in the Ring and RIP jackpots)
 
 **Feature Hold Across Games** - A feature that retains progress across individual games
 * Apollo 13 - BLASTOFF Letters (tournament mode does fix this)
+* Barb Wire - BARB WIRE Letters (completely absent from tournament mode)
 * Black Knight 2000 - RANSOM Letters
+* Cactus Jack's - EXTRABALL Letters
 * Cue Ball Wizard - WIZARD & DOUBLE Letters  (has tournament mode)
-* Dr. Dude And His Excellent Ray - Dude-O-Meter (has an tournament rom) and (tournament mode setting)
+* Deadly Weapon - WEAPON Letters
+* Diamond Lady - JACKPOT Letters
+* Dr. Dude and his Excellent Ray - Dude-O-Meter (has an tournament rom) and (tournament mode setting)
 * Elvira and the Party Monsters - ELVIRA Letters
-* pokémon (TOPPER MODE)
-* Mustang - MUSTANG Letters (tournament mode fixed start for each player?)
-* Rollergames - WILLIAMS letters (has an tournament rom)
-* Super Mario Bros - Completed Castles (has tournament mode)
-* Teed Off - SKINS! & GOPHER Letters (has tournament mode)
+* Hurricane - PALACE Letters
+* Operation: Thunder - SPECIAL Letters
+* Pokémon - MAGIKARP Letters (topper mode, tournament mode fixes start for each player)
+* Mustang - MUSTANG Letters (tournament mode fixes start for each player)
+* Rescue 911 - HOOK & LADDER Letters (tournament mode fixes start at HOOK & L for each player)
+* Rollergames - WILLIAMS Letters (has an tournament rom)
+* Shaq Attaq - Features Completed grid (has tournament mode)
+* The Simpsons - MILLIONS Letters (not on default settings)
+* Super Mario Bros. - Completed Castles (has tournament mode)
+* Tee'd Off - SKINS! & GOPHER Letters (has tournament mode)
+* Wipe Out - SKIERS Letters (has tournament mode that fixes players to 3 letters each ball)
+* World Challenge Soccer - Completed Challenges (has tournament mode that fixes players to 3 challenges each ball) 
 
 **Features Than Can End Game** - A feature / mode that can End Game Before Player Plays All Balls.
-* Operation Thunder (last mission) (setting)
-* Total Nuclear Annihilation (Destroy Last Reactor - will end game for all players)
-* Stern Jurassic Park (Play Wizard Mode)
-* Stern GODZILLA (Play Wizard Mode)
-* Stern Bond (Play Wizard Mode)
-* Elvira HOH (Play Wizard Mode)
+* Elvira's House of Horrors (Play Wild Market Value)
+* Godzilla (Stern) (Play King of the Monsters / Monster Island Mayhem)
+* James Bond 007 (Play Her Majesty's Secret Service / MI6 Multiball)
+* Jaws (Play Super Celebration Multiball)
+* John Wick (Play Special Assignment)
+* Jurassic Park (Stern) (Play Escape Nublar / When Dinosaurs Ruled the Earth)
+* Operation: Thunder (last mission) (setting)
+* Total Nuclear Annihilation (Destroy last reactor - will end game for all players)
 
 ***Points***
 
 **Loss of Points** - Player can lose points
 
 * Champion Pub (cash fights)
-* Road Show (buying souvenirs)
-* Sonic the Hedgehog Spinball (fire modes)
+* Red & Ted's Road Show (buying souvenirs)
 * Teed Off (double or nothing)
 * The Sopranos (poker video mode)
 * Who Dunnit? (roulette)
@@ -158,13 +225,13 @@ title: "Games With Lock & Point Stealing"
 
 **Copied Points** - Player can add points of another player while not affecting the other player's score (subject to software settings)
 
-* Cactus Jacks (Catch-Up)
+* Cactus Jack's (Catch-Up)
 * Class of 1812 (Catch-Up)
-* Operation Thunder (Catch-Up)
+* Operation: Thunder (Catch-Up)
 * Back to the Future (Take Highest Score) (NO WAY TO TURN OFF)
-* Police Force (Take Highest Score)
-* The Simpsons (Catch up)
-* Lights…Camera…Action! (Catch-Up)
+* Police Force (Take Highest Score) (Tournament ROM removes this)
+* The Simpsons (Catch-Up)
+* Lights… Camera… Action! (Catch-Up)
 * Super Mario Bros (Catch up)
 
 **Stolen Points** - Player can lose points and those points are given to another player
@@ -173,13 +240,13 @@ title: "Games With Lock & Point Stealing"
 
 **Gained Points While Not Playing** - Player can be given points when it's not their turn.
 
-* Gilligan's Island (Gift of the God's)
-* Monopoly (Chance card) ?
-* Alice Cooper's Nightmare Castle (+1m points when another player steals your locked ball)
+* Gilligan's Island (Gift of the Gods)
+* Monopoly (Chance card)
+* Alice Cooper's Nightmare Castle (+1M points when another player steals your locked ball)
 
 **Games That Can Swap Player Scores**
 
-* Bugs Bunny Birthday Bash (gifts at the end of the game) (setting to turn off)
+* Bugs Bunny's Birthday Ball (gifts at the end of the game) (setting to turn off)
 
 **Games That You Can Lose Bonus Multipliers**
 
@@ -191,13 +258,14 @@ title: "Games With Lock & Point Stealing"
 * Gottlieb System 3 games with shopping
 * Medusa (Unused Center Post Kickers score bonus)
 * Riverboat Gambler (betting)
-* Road Show (souvenirs)
+* Red & Ted's Road Show (souvenirs)
 
 **Tilting can affect other players / other balls**
 * Addams Family - Tilting will award 1 greed letter on the next ball
-* RADICAL unlock balls and all progress lost for next player (fixed in the update rom)
-* The shadow if you tilt while balls are held in main MB then the game mostly loses track of them and block the holes for other players / games (till reset or next MB JP scored)
+* Radical! - unlock balls and all progress lost for next player (fixed in the update rom)
+* The Shadow - if you tilt while balls are held in main MB then the game mostly loses track of them and block the holes for other players / games (till reset or next MB JP scored)
 * Torpedo alley (tilt clears locks and progress)
 * Sopranos all your progress is wiped away too and you have to start over in building rank toward boss (per player)
 * DUNGEONS & DRAGONS: The Tyrant's Eye with software 0.87 and before
  tilt in Dragon MB and then next ball you will be in an 1 ball Dragon MB
+
