@@ -16,12 +16,17 @@ This lists how many points an extra ball is worth in tournament mode. Click a sc
 | **Avengers: Infinity Quest** | **25M** | | No |
 | **Batman: The Dark Knight** | **0** | | |
 | **Big Buck Hunter** | **2.5M** | **5M** | Yes |
-| **CSI** | **0** | | |
+| **Black Knight 2000** | **100k**<br>• Collected by making enough Skyway Loops in a row, then shooting the left ramp quickly. Lit at the left ramp during The King's Ransom. Instantly awarded from percentage-based lightning wheel award. | **100k**<br>• Instantly awarded from percentage-based lightning wheel award. | |
+| **Bone Busters Inc.** | **500k**<br>• Collected as the 4th loop award. Lit at the loop by completing drop targets lit for "Light Extra Ball". | **500k**<br>• 3 are earned at the same time by maxing out the Bony Bonus at 300. Collected as the 5th loop award (on a timer). Lit at the loop by completing drop targets lit for "Light Special". | No |
+| **Class of 1812** | **1M**<br>• Lit at the spinner as the 3rd Bat-O-Meter award in a single ball. Lit at alternating top lanes upon reaching 6x bonus. Lit at alternating outlanes from a Door Prize award. | **1M**<br>• Lit at the spinner as the 4th Bat-O-Meter award in a single ball. Lit at the center top lane upon reaching 7x bonus. Instantly awarded by maxing out the base bonus, completing 6 grids in a single ball. | |
+| **CSI: Crime Scene Investigation** | **0** | | |
 | **Deadpool** | **10M** | | |
 | **Dungeons & Dragons: The Tyrant's Eye** | **25M**<br>• Lit by playing 2 modes, starting dragon multiball 3 times, collecting 50 gems, finding one at Fizmo's, or finding one in the treasure room of a level 1 Dungeon Crawl.<br>•Collect at right ramp. | | Yes<br>• Double scoring multiplies extra ball to 50M. |
+| **FunHouse** | | **1M**<br>• Lit at the outlanes after reaching 1130 on the clock twice in the same game. | |
 | **Future Spa** | **25K** | **50K** | |
 | **Harlem Globetrotters** | **25K**<br>• Lit by completing the five spot targets on the left side of the playfield.<br>• Collect at the Slam Dunk standup target. | **50K** | |
 | **Game of Thrones** | **15M**<br>• Lit by completing 3 houses or from a pop bumper award.<br>• Collect at the Dragon/Castle Black shot. | | |
+| **Genesis** | **500k**<br>•After completing two non-duplicate body parts on the same ball, the next body part completed awards an extra ball. | **500k**<br>• Lit at alternating kicker targets after activating the life-force generator. Settings allow this special to be lit after completing all four body parts instead. | No |
 | **Ghostbusters** | **15M**<br>• Lit by collecting ~49 ghosts, by completing 3 scenes, or from a pop bumper award.<br>• Collect at the left scoop. | | Yes<br>• Can be multiplied up to 6x. |
 | **Godzilla (Stern)** | **50M**<br>• Instantly earned after 2 battles are won, 10 jet fighters are defeated, 3 saucers are destroyed, 5 city combos are made, or 12 lit shots are made during Monster Rampage. | | Yes<br>• (All except for 2 battles extra ball can be doubled to 100M using Rodan ally) |
 | **Guardians of the Galaxy** | **15M**<br>• Lit by starting 3 modes (Groot and Orb MB count as modes).<br>• Collect at the right scoop. | | Yes |
@@ -29,35 +34,38 @@ This lists how many points an extra ball is worth in tournament mode. Click a sc
 | **Iron Maiden: Legacy of the Beast** | **10M** | | No |
 | **Iron Man** | **3M**<br>• Lit on the left ramp by 2 completions of Iron Man targets, or S.H.I.E.L.D. mystery award (4th award in Competition Mode). | **9M**<br>• Lit on right ramp by S.H.I.E.L.D. mystery award (5th award in Competition Mode). | Yes<br>• 2nd completion of Iron Man targets starts Double Scoring.<br>• Completing Do or Die Hurry-Up increases playfield multiplier for rest of ball. |
 | **James Bond 007** | **25M** | | Yes |
-| **Jaws** | **15M** | | Yes<br>• Machete multiplier is applied to extra balls earned from 8 beachgoers or video mode. |
-| **John Wick** | **10M**• Lit by defeating ~10 enemies, starting 3 jobs, or by collecting 10 gold coins.<br>• Instantly awarded from the first Be Seeing You bonus of a game or after completing Red Circle Reckoning mini-wizard mode.<br>• Collect at the left scoop. | | Yes<br>• Lights Out doubles the extra ball award to 20M if active. |
+| **Jaws** | **15M**<br>• Instantly awarded at 8 beachgoers rescued, after 3 successful quickshots, by shooting the extra ball symbol in video mode, or after 8 lookout tower ramp shots. | | Yes<br>• Machete multiplier is applied to extra balls earned from 8 beachgoers or video mode. |
+| **John Wick** | **10M**<br>• Lit by defeating ~10 enemies, starting 3 jobs, or by collecting 10 gold coins.<br>• Instantly awarded from the first Be Seeing You bonus of a game or after completing Red Circle Reckoning mini-wizard mode.<br>• Collect at the left scoop. | | Yes<br>• Lights Out doubles the extra ball award to 20M if active. |
 | **Jurassic Park (Stern)** | **25M** | | Yes |
 | **King Kong: Myth of Terror Island** | **15M** | | -- |
-| **Last Action Hero** | **25M** | | |
+| **Last Action Hero** | **25M**<br>• Lit from a Dynamite Feature. Instantly awarded as the 3rd award from chicken scoop based on percentaging. Collect at right scoop. | **3M**<br>• Lit at the outlanes as the 4th award from chicken scoop based on percentaging. | |
 | **Led Zeppelin** | **10M** | | Yes |
 | **Lord of the Rings** | **2.5M** | **7.5M** | |
+| **Maverick** | **50M**<br>• Lit at the VUK after making 2 captive ball shots during Bank Heist, or from the Stage Coach Mystery / Lauren Belle award pool. Instantly awarded at the #3 skill shot hole with low ball time, or from the aforementioned award pool. | | | 
 | **Metallica** | **2.5M**<br>• Lit by ~15 Coffin captive ball hits, or by 10 Piston lane hits.<br>• Collect at right scoop.<br>• Can be multiplied up to 4x by FUEL and snake during MB. | | Yes |
 | **Paragon** | **25K** | **50K** | |
 | **Pirates of the Caribbean (Stern)** | **500K** | **50K** | |
 | **Pokemon** | **2.5M**<br>• Lit by completing 3 story modes, collecting 50 Poke Balls, hitting the captive ball 25 times, or as a rare mystery award.<br>•Collect at town scoop. | | Can be doubled to 5M with double scoring active. |
-| **Princess Bride** | **Variable**<br>• Based on performance. "Magic Pill" value is current score divided by active ball # (collected upon drain).<br>• Lit by: (1) Completing one selectable mode per group, (2) Earning 1st 5-way combo (or three 4-way combos), (3) Completing Miracle Max mini-wizard mode, or (4) Earning 2nd Pit of Despair when one is already unused. | | No |
+| **The Princess Bride** | **Variable**<br>• Based on performance. "Magic Pill" value is current score divided by active ball # (collected upon drain).<br>• Lit by: (1) Completing one selectable mode per group, (2) Earning 1st 5-way combo (or three 4-way combos), (3) Completing Miracle Max mini-wizard mode, or (4) Earning 2nd Pit of Despair when one is already unused. | | No |
 | **Ripley's Believe It or Not!** | **1M** | | |
 | **Robocop** | **1M**<br>• Lit on ramp by hitting 4 standups after collecting jackpot in multiball (adjustable), by starting "Everything Lit" (ramp jump record), or as a Robocop saucer award. | | Yes<br>• Shoot ramp twice in a row to start double scoring. |
 | **Rush** | **10M**<br>• Lit by making ~4 ramp shots, collecting 5 albums, upgrading the time machine to year 2062, or as a topper mystery award.<br>•Can either be lit at the side scoop or shot behind the upper flipper. Slingshots alternate which shot is lit to collect. | | No |
 | **The Simpsons Pinball Party** | **2M** | | |
 | **Sonic the Hedgehog** | **10M**<br>• Lit by collecting 100 rings, defeating 3 bosses, or finding Froggy.<br>• Collect at center ramp. | | No |
 | **The Sopranos** | **10M**<br>• Advance rank to Acting Capo with safes/envelopes.<br>• Collect at spinner. | **25M**<br>• Complete 3 episodes (cannot time out).<br>• Collect at spinner. | |
-| **Spider-Man (Stern)** | **5M**<br>• Lit by completing the first "wave" of each villain. | | No |
+| **Spider-Man (Stern)** | **5M**<br>• Lit at the left orbit by completing the first "wave" of each villain. | | No |
 | **Star Wars: Fall of the Empire** | **25M**<br>• Lit after 2 & 6 Rebel Missions are completed, completing the first Jabba Event of a game, making 5 shots during Dark Side Scoring, collecting 10, 30, and 60 TIE Fighters from the right ramp, as a rare mystery award, or after hitting the lowered center ramp 10 times during Mynock Multiball (Premium / LE only).<br>•Can either be lit at the Luke VUK or right ramp. Slingshots alternate which shot is lit to collect. | | Yes<br>• Can be doubled or tripled with ion cannon shot multipliers on the same shot that collects the extra ball. |
 | **Tales from the Crypt** | **25M** | | |
 | **Tee'd Off** | **20M** | | |
-| **Terminator 3** | **10M**<br>• Collected after 5th Command Center (left orbit) and 12 center ramps. | **10M**<br>• Lit at RED target after 30 center ramps. | No |
+| **Terminator 2: Judgement Day** | | **1M**<br>•Lit at the outlanes or instantly collected from very rare database mystery award. | |
+| **Terminator 3: Rise of the Machines** | **10M**<br>• Collected as 5th Command Center award (left orbit) and after 12 center ramps. | **10M**<br>• Lit at RED target after 30 center ramps. | No |
+| **Title Fight** | **1M**<br>•Instantly awarded once per game from completing the Ring mini-playfield w/ Extra Round lit, or from a mystery award. Lit at the standup target near the mystery saucer by maxing out the uppercut loop. | **1M**<br>•Instantly awarded by maxing out the captive balls to score the TKO special. |
 | **Tommy (The Who's Pinball Wizard)** | **25M** | | |
 | **Transformers** | **3M**<br>• Lit after starting all team modes or from 9th Allspark mystery award in Competition Mode.<br>• Collect at right orbit. | **5M**<br>• Lit from 10th Allspark in Competition Mode.<br>• Collect at right orbit. | Yes<br>• Can be doubled by Bumblebee playfield X (cannot be multiplied by Shot X). |
-| **Transformers: More Than Meets the Eye** | **15M**<br>• Lit after collecting 15 tech specs (of any color) or once all 5 missions are completed (cannot time out).<br>• Collect at Space Bridge. | | Yes<br>• Can be doubled from captive ball playfield X (30M), or tripled from combining it with add-a-ball playfield X (45M). |
+| **Transformers: More Than Meets the Eye** | **15M**<br>• Lit after collecting 15 tech specs (of any color) or once all 5 missions are completed (cannot time out). Collect at Space Bridge. | | Yes<br>• Can be doubled from captive ball playfield X (30M), or tripled from combining it with add-a-ball playfield X (45M). |
 | **TRON** | **3M**<br>• Lit from specified number of ramps (12 default); collect at scoop. | | Yes<br>• Complete T-R-O-N targets with double scoring flashing to light double scoring. Change flashing award at pops. |
-| **The Uncanny X-Men (Stern)** | **0**<br>• As of v0.86 | | |
+| **The Uncanny X-Men** | **0**<br>• As of v0.86 | | |
 | **The Walking Dead** | **2.5M** | | Yes |
 | **Wheel of Fortune** | **5M** | | |
 | **World Poker Tour** | **5M**<br>• Cannot be multiplied. | | No |
-| **X-Men (Stern 2012)** | **3M**<br>• Lit by completing Nightcrawler or collecting 10 Unique Combos.<br>• Collect at Blackbird scoop. | | |
+| **X-Men** | **3M**<br>• Lit by completing Nightcrawler or collecting 10 Unique Combos.<br>• Collect at Blackbird scoop. | | |
