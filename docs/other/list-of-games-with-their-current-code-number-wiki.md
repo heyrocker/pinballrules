@@ -44,19 +44,18 @@ This is a one stop reference list for games with their current code number. Any 
 | Stranger Things                       | 1.13           | Jul 1, 2026  |
 | Godzilla                              | 1.16           | Aug 26, 2026 |
 | James Bond 007                        | 1.06           | Jul 1, 2026  |
-| Fallout                               | 0.80           | Sep 18, 2026 |
 | Venom                                 | 1.07           | Jul 1, 2026  |
 | Jaws                                  | 1.02           | Jul 1, 2026  |
-| John Wick                             | 1.02           | Jul 1, 2026  |
 | The Uncanny X-Men                     | 0.98           | Jul 1, 2026  |
 | Metallica Remastered                  | 1.04           | Jul 1, 2026  |
 | Dungeons & Dragons: The Tyrant's Eye  | 1.10           | Sep 22, 2026 |
 | King Kong: Myth of Terror Island      | 0.97           | Jul 1, 2026  |
 | Star Wars: Fall of the Empire         | 0.97           | Jul 1, 2026  |
-| The Walking Dead Remastered           | 0.93           | Jul 1, 2026  |
+| The Walking Dead Remastered           | 0.94           | Oct 22, 2026 |
 | Pokémon                               | 0.86           | Sep 15, 2026 |
 | Pokémon (Home Edition)                | 1.03           | Sep 16, 2026 |
-| Transformers: More Than Meets the Eye | 0.92           | Sep 16, 2026 |
+| Transformers: More Than Meets the Eye | 0.96           | Oct 27, 2026 |
+| Fallout                               | 0.81           | Oct 12, 2026 |
 
 ## <a name="heading--jjp"></a>Jersey Jack Pinball
 [Download code for all JJP pinball machines here.](https://www.jerseyjackpinball.com/support/downloads/)
@@ -70,8 +69,8 @@ Beta updates not listed (any one can opt in to installing them)
 | The Godfather | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/di/di_changelog.txt) |
 | Elton John | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/ej/eltonjohn_changelog.txt) |
 | Avatar: The Battle for Pandora | 1.02           | Jul 8, 2025    | [Log](https://marketing.jerseyjackpinball.com/av/avatar_changelog.txt) |
-| Harry Potter | 1.26           | Apr 14th, 2025 | [Log](https://marketing.jerseyjackpinball.com/hp/hp_changelog.txt) |
-| Sonic The Hedgehog | 00.940          | Sep 22, 2026   | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
+| Harry Potter | 1.26           | Apr 14, 2026 | [Log](https://marketing.jerseyjackpinball.com/hp/hp_changelog.txt) |
+| Sonic the Hedgehog | 0.951          | Oct 9, 2026   | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
 
 ## <a name="heading--multi"></a>Multimorphic Pinball
 [Download code and release notes for all Multimorphic pinball machines here](https://www.multimorphic.com/account/software/), or directly from the P3 connected to the internet.
@@ -118,8 +117,8 @@ Beta updates not listed (any one can opt in to installing them)
 
 | Game Title | Latest Version | Release Date | Change Log |
 | --- | --- | --- | --- |
-| Evil Dead | [v2026.04.01](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.04.01.ed/2026.04.01.ed) | Apr 1, 2026 | [Log](https://www.spookypinball.com/EvilDead) |
-| Beetlejuice | [v2025.11.26](https://spookypinball.s3.us-east-2.amazonaws.com/beetlejuice/software_versions/release/v2026.04.10.17.beetlejuice) | Apr 10, 2026 | [Log](https://www.spookypinball.com/beetlejuice/) |
+| Evil Dead | [v2026.07.15](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.07.15.ed/2026.07.15.ed) | Jul 15, 2026 | [Log](https://www.spookypinball.com/EvilDead) |
+| Beetlejuice | [v2026.10.23](https://spookypinball.s3.us-east-2.amazonaws.com/beetlejuice/software_versions/release/v2026.10.23.16.beetlejuice) | Oct 23, 2026 | [Log](https://www.spookypinball.com/beetlejuice/) |
 
 ## <a name="heading--turner"></a>Turner Pinball
 [Turner Pinball code can be viewed by clicking on updates.](https://turnerpinball.com/updates/)
@@ -170,13 +169,13 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Elvira's House of Horrors | 1.13           | Jul 7, 2026  |
 | Teenage Mutant Ninja Turtles | 1.59           | Jul 1, 2026  |
 | Avengers: Infinity Quest | 1.10           | Jul 1, 2026  |
-| Heavy Metal | 1.02           | Mar 25, 2021 |
 | Led Zeppelin | 1.21           | Jul 1, 2026  |
 | The Mandalorian | 1.45           | Jul 1, 2026  |
 | Jurassic Park (Home Edition) | 1.05           | Jul 1, 2026  |
 | Rush | 1.19           | Jul 1, 2026  |
 | James Bond 007 (60th Anniversary) | 1.11           | Jul 1, 2026  |
 | Foo Fighters | 1.04           | Jul 1, 2026  |
+| John Wick | 1.02            | Jul 1, 2026   |
 
 ### <a name="heading--jjpvault"></a>JJP Vault
 [Download code for all JJP pinball machines here.](https://www.jerseyjackpinball.com/support/downloads/)
@@ -220,11 +219,11 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Total Nuclear Annihilation | [v1.6.0](https://drive.google.com/file/d/1ztzI0yvbhe0Pbp5zaDPgozeOvyk4AJcm/view?usp=sharing) | Dec 13, 2025 | [Log](https://tnapinball.com/code-updates.php) |
 | Alice Cooper's Nightmare Castle | [1.1.0.5](https://spookypinball.s3.us-east-2.amazonaws.com/alice_cooper/ac-gamecode.pkg) | Mar 23, 2021 | |
 | Rick and Morty | [2023.03.22](https://soldmy.org/pin/rm/) | Mar 22, 2023 | |
-| Ultraman Kaiju Rumble! | [v1.18.1](https://spookypinball.s3.us-east-2.amazonaws.com/ultraman/software_versions/v1.17/code_UM.pkg) | | [Log](https://www.spookypinball.com/game-support/ultraman/) |
-| Halloween | [v1.18.1](https://spookypinball.s3.us-east-2.amazonaws.com/halloween/software_versions/v1.17/code_H78.pkg) | | [Log](https://www.spookypinball.com/game-support/halloween/) |
-| Scooby-Doo, Where Are You! | [v2025.12.01](https://spookypinball.s3.us-east-2.amazonaws.com/scooby/software_versions/v2025.12.01.09/v2025.12.01.09.scooby) | Dec 1, 2025 | [Log](https://www.spookypinball.com/2419-2/) |
-| Texas Chainsaw Massacre | [v1.00](https://spookypinball.s3.us-east-2.amazonaws.com/texaschainsaw/software_versions/v1.00/tcm-1_00.pkg) | | [Log](https://www.spookypinball.com/2486-2/) |
-| Looney Tunes | [v2025.10.08](https://spookypinball.s3.us-east-2.amazonaws.com/looneytoons/software_versions/v25.10.08.looney/2025.10.08.looney) | Mar 1, 2025 | [Log](https://www.spookypinball.com/2405-2/) |
+| Ultraman Kaiju Rumble! | [v1.19](https://spookypinball.s3.us-east-2.amazonaws.com/ultraman/software_versions/v1.19/code_UM.pkg) | | [Log](https://www.spookypinball.com/game-support/ultraman/) |
+| Halloween | [v1.19](https://spookypinball.s3.us-east-2.amazonaws.com/halloween/software_versions/v1.19/code_H78.pkg) | | [Log](https://www.spookypinball.com/game-support/halloween/) |
+| Scooby-Doo, Where Are You! | [v2026.09.30](https://spookypinball.s3.us-east-2.amazonaws.com/scooby/software_versions/v2026.09.30.14/v2026.09.30.14.scooby) | Sep 30, 2026 | [Log](https://www.spookypinball.com/2419-2/) |
+| Texas Chainsaw Massacre | [v1.21](https://spookypinball.s3.us-east-2.amazonaws.com/texaschainsaw/software_versions/v1.21/tcm-1_21.pkg) | | [Log](https://www.spookypinball.com/2486-2/) |
+| Looney Tunes | [v2026.10.16](https://spookypinball.s3.us-east-2.amazonaws.com/looneytoons/software_versions/v2026.10.16/2026.10.16.looney) | Oct 16, 2026 | [Log](https://www.spookypinball.com/2405-2/) |
 
 ### <a name="heading--pbvault"></a>Pinball Brothers Vault
 [Scroll down and the code updates for Pinball Brothers releases can be viewed under Game Updates.](https://www.pinballbrothers.com/support/)
@@ -232,7 +231,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Game Title | Latest Version | Release Date | Change Log |
 | --- | --- | --- | --- |
 | Alien | 4.12 | May 16, 2024 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001140693-alien-delta-game-update-4-1-2) |
-| Queen | 2.1G | Jan 27, 2025 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001164090-queen-delta-game-update-2-1g-hotfix-) |
+| Queen | 2.1G | Jan 27, 2025 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001164090-queen-delta-game-update-2-1g-hotfix-) 
 | ABBA | 1.45 | Apr 21, 2025 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001174176-abba-game-update-1-4-5) |
 
 ### <a name="heading--dutchvault"></a>Dutch Vault
@@ -343,7 +342,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Stargate | rev 5 | |
 | Rescue 911 | rev 2 | |
 | Waterworld | rev 6 | |
-| Cue ball wizard | rev 4 | |
+| Cue Ball Wizard | rev 4 | |
 | Street Fighter II | rev 2? | |
 | Super Mario Bros | rev 3? | |
 | Tee'd Off | rev 3? | |
@@ -509,7 +508,7 @@ Please note, Most of these are only available as patch files, not as ROMs.
 | Star Wars | 1.07 | Dec 2016 | pinballcode.com |
 | Tales from the Crypt | 4.00 | Oct 2015 | pinballcode.com |
 | Tommy | 5.00 | May 2016 | pinballcode.com |
-| TEENAGE MUTANT NINJA TURTLES | 2.00 | Nov 2025 | pinballcode.com |
+| Teenage Mutant Ninja Turtles (Data East) | 2.00 | Nov 2025 | pinballcode.com |
 | X-Files | 3.04 | Sep 2023 | pinballcode.com |
 | Police Force | LX-5 | Dec 2025 | [Pinball Therapy](https://pinballtherapy.com/rom-downloads/) |
 | Transporter the Rescue | LX-4.1 | Dec 2025 | [Pinball Therapy](https://pinballtherapy.com/rom-downloads/) |
