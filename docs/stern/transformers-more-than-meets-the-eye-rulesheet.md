@@ -42,7 +42,7 @@ opdb_id: "GBLzz"
 - Display and Animations:
 - Sound Design: Jerry Thompson
 - Release Date: June 2026
-- Wiki Rulesheet based on Code Rev: 0.90
+- Wiki Rulesheet based on Code Rev: 0.96
   - *Edit the Code revision, if applicable, when you make changes*
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/transformers-more-than-meets-the-eye-rulesheet)
 
