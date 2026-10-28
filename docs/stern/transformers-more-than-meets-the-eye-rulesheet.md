@@ -19,6 +19,8 @@ opdb_id: "GBLzz"
   - [Starscream Frenzy](#heading--starscream)
   - [Tech Specs / Tech Spec Mania](#heading--techspec)
   - [Bumblebee Double Scoring](#heading--bumblebee)
+  - [Combiner Super Features](#heading--super)
+  - [Stunt Loops](#heading--stunt)
   - [Mystery Award](#heading--mystery)
   - [Cannon Jackpot (Prem / LE)](#heading--cannon)
   - [Soundwave Modes](#heading--soundwave)
@@ -60,7 +62,7 @@ Short plunge the ball to the upper flipper, then hit any shot from the upper fli
 - Side ramp - scores 5M and +8 second ball save
 - Space bridge - scores 8M and +10 second ball save
 
-There is also a secret skill shot: short plunge to the lower right flipper, hit the left orbit where Grimlock is, then make any of the three shots listed above from the upper flipper. The highest secret skill shot value is 15M for hitting the space bridge this way.
+There is also a secret skill shot: short plunge to the lower right flipper, hit the left orbit where Grimlock is, then make any of the three shots listed above from the upper flipper. The highest secret skill shot value is 15M for hitting the side ramp or the space bridge this way.
 
 # Main Modes: {#heading--modes}
 
@@ -70,21 +72,23 @@ In the search for Energon, the Autobots and Decepticons have crash landed on Ear
 
 ## Missions, Energon & Cosmic Rust: {#heading--missions}
 
-Knock down the drop targets in front of Megatron, then shoot the scoop behind them to start the currently flashing mission. The first two missions of a game require one shot to Megatron's scoop to start, but the remaining missions require two shots. Clearing all three of the drop targets in front of Megatron will always count as one shot towards the next mission, but won't start it. Mission selection, shown on the lower playfield inserts, can be cycled using the flippers. The drop targets in front of Megatron only reset if the player hits all three before shooting Megatron's scoop.
+Knock down the drop targets in front of Megatron, then shoot the scoop behind them to start the currently flashing mission. The first two missions of a game require one shot to Megatron's scoop to start, but the remaining missions require three shots. Clearing all three of the drop targets in front of Megatron will count as one shot towards the next mission, but won't start it. Mission selection, shown on the lower playfield inserts, can be cycled using the flippers. The drop targets in front of Megatron only reset if the player hits all three before shooting Megatron's scoop. Hitting Megatron while only the center drop target is lowered, or all drop targets are raised, scores a 5M Megatron Trickshot award.
 
 There are five different missions to play through, timed for 60 seconds, that light different shots on the playfield for progress, with a final blow available at Megatron if the player makes enough lit shots. Increase the final blow by 1M by hitting Megatron's scoop at any time in the mission (so long as it isn't currently lit). The player doesn't need to make the final blow to "complete" the mission, only make the required shots before time runs out. Once the timer is below 15 seconds, shooting Optimus will reset the timer to 20 seconds, once per mode, and only if final blow isn't already lit. Lighting final blow will automatically add time to the current mode as compensation.
+
+The final blow is worth 35% of the score from the completed mission by default. Energized missions score 20%, while rusted missions score 50% of the total. Shooting Megatron during a mission adds +5% to the final blow value, and an additional 10% of the value is added if the mission is completed on the first try.
 
 Scoring the final blow of any mission will apply a **2x shot multiplier** to a random shot on the playfield, that only activates when a **[tech spec](#heading--techspec)** is lit to collect at that shot. *Playing* (not necessarily completing) two missions lights the right ramp to start **[One Shall Fall](#heading--oneshallfall)**, while *completing* all five missions lights the VUK for **[Rescue Optimus](#heading--rescue)** mini-wizard mode.
 
 If the player fails a mission by draining before time runs out, or failing to complete the required shots in time, their progress will be saved the next time the mission starts.
 
-Shooting the **spinner** fills up the Energon cube on the display and the insert lights under the spinner. Once the cube is full, on the next mission start, using the flippers will make a choice on whether the next mission will be easier to complete but score less. Completing a mission without using the Energon cube will allow you to apply cosmic rust to the next mission, which makes it more difficult to complete but scores more per shot. The mission goals change based on the use of Energon and Rust.
+Shooting the **spinner** fills up the Energon cube on the display and the insert lights under the spinner. Once the cube is full, on the next mission start, using the flippers will make a choice on whether the next mission will be easier to complete but score less. Completing a mission without using the Energon cube will allow you to apply cosmic rust to the next mission, which makes it more difficult to complete but scores more per shot. The mission goals change based on the use of Energon and Rust. Collecting 3, then 6 Energon cubes will also qualify the spinner to start **[Stunt Loops](#heading--stunt)**.
 
 The five missions are:
 
 - **Autobot Run**: Help the Autobots win a charity race. Make five blue arrow shots to light the final blow - two adjacent shots are lit at a time. Shooting quickly flashing blue shots scores 3x, in the following sequence: center spinner - left ramp - right orbit - left orbit - side ramp.
   - **Energized**: Shoot five blue arrows or targets to light final blow.
-  - **Rusted**: Only one shot is lit to advance at a time, and comboing them will score 4x.
+  - **Rusted**: Only one shot is lit to advance at a time (as listed above), and comboing them will score 4x.
 - **Microbots**: Shoot any ramp to light a drop target, missed drop targets unlight. Shooting further ramps increases the drop target multiplier and adds an additional lit drop target. Complete 3 lit drop targets to light final blow.
   - **Energized**: Shoot any shot to light drop targets, complete 3 lit drop targets to light final blow shot.
   - **Rusted**: Shoot left ramp to light a random drop target, missed targets unlight, complete 3 to light final blow shot. Right ramp increases the drop target multiplier, 1 time only.
@@ -94,7 +98,7 @@ The five missions are:
 - **Prime Target**: Optimus has been captured by a hunter. Shoot the lit ramps and bash Optimus to increase shot value. Comboing ramps scores 2x the value. Make 6 lit ramps to light the final blow.
   - **Energized**:
   - **Rusted**: Shoot lit ramp, each combo is +1x. Shoot Optimus to build value and relight ramps.
-- **Golden Lagoon**: Lit yellow shots (ramps and VUK) add to spinner value, collect 25M from the spinner to light final blow shot. Spinner value begins at 60K/spin.
+- **Golden Lagoon**: Lit yellow shots (ramps and VUK) add to spinner value, collect 25M from the spinner to light final blow shot. Spinner value begins at 60K/spin. Right orbit scores 2x the spinner value per spin.
   - **Energized**: Collect 10M to light final blow shot.
   - **Rusted**: Collect 60M to light final blow shot.
 
@@ -104,7 +108,7 @@ Shoot the Grimlock targets gating the left orbit to light the left orbit to star
 
 Scoring 3 Dino Jackpots during any mission lights the VUK to start **[Dinobot Desertion](#heading--desertion)**. If the player scored 3 Dino Jackpots in *all* 3 missions, the VUK will instead start **Super Dinobot Desertion**.
 
-- **War**: Hit lit slingshots or bumpers to light jackpot. Only one slingshot or bumper is lit at a time. Jackpot can be increased with further lit slingshot / bumper hits.
+- **War**: *Hit the slingshots*. Hit lit slingshots or bumpers to light jackpot. Only one slingshot or bumper is lit at a time. Jackpot can be increased with further lit slingshot / bumper hits.
 - **Island**: *2-ball multiball*. Shoot 50 switches to light jackpot at the left orbit. Clear all major shots for add-a-ball (left ramp / center spinner, then right ramp gets added, then right orbit gets added, etc.)
 - **S.O.S.**: *Objective-based mode*. Hitting a drop target, standup target, orbit, pop bumper, or ramp will lock in that shot as the next one that needs to be hit repeatedly to light jackpot.
 
@@ -120,25 +124,25 @@ During multiball, the shots all start purple for Decepticon awards, then turn re
 
 ## Combiner Multiball: {#heading--combiner}
 
-Earn Combiner parts by shooting the side ramp. Each Combiner has five parts to collect; the color of qualified parts changes based on the most recent **[tech spec](#heading--techspec)** part scored. Combiner parts are also awarded after scoring 3 **tech specs** of the same color. Complete 3 Combiners to light the space bridge shot for Combiner Multiball, once no other modes are running.
+Earn Combiner parts by shooting the side ramp. Each Combiner has five parts to collect; the color of qualified parts changes based on the most recent **[tech spec](#heading--techspec)** part scored. Combiner parts are also awarded after scoring 3 **tech specs** of the same color. Complete 3 Combiners to light the space bridge shot for Combiner Multiball, once no other modes are running. Completing Combiners also activates a *[[40-second timed super feature](#heading--super)* that differs with each Combiner.
 
 Combiner Multiball starts by showing the player the Combiners they have completed. If they wish to delay the multiball, pressing the action button will skip the multiball and requalify it at the next Combiner completed.
 
 During Combiner Multiball, shooting the spinner or holding the action button will cycle the grid of Combiners shown above the mission grid. If the player lands on a Combiner they completed, jackpots will light at the upper flipper shots, center spinner, Megatron, and right ramp. The base jackpot value starts at 6M (for 3 Combiners) and caps out at 10M (for 5 Combiners), but if the player lands on a Combiner they don't have, the jackpot will reset to base value. The player can also increase the jackpot value by shooting white "build" shots while the spinner is active or the action button is held.
 
-Score 2 jackpots in a wave to light the side ramp and space bridge shots for super jackpot worth  15M + 3M x jackpots scored, add-a-ball (based on the number of collected Combiners prior), and reset the process so another Combiner can be selected using the spinner or action button.
+Score 2 jackpots in a wave to light the side ramp and space bridge shots for super jackpot worth 15M + 3M x jackpots scored, add-a-ball (based on the number of collected Combiners prior), and reset the process so another Combiner can be selected using the spinner or action button.
 
 # Other Scoring: {#heading--other}
 
 ## Autobot Hurry-Up: {#heading--autobot}
 
-Light the left inlane after completing the Megatron drop targets, and roll through the lit left inlane a total of 2 times *without* rolling through the lit right inlane to light this hurry-up mode at the left ramp.
+Light the left inlane after completing the Megatron drop targets, and roll through the lit left inlane a total of 2 times *without* rolling through the lit right inlane to light this mode at the left ramp. Third+ hurry-ups require 4 lit left inlanes to be made.
 
 3 shots are lit pink to collect the hurry-up value, which resets with each shot and starts at 15M: the right ramp, center spinner, and side ramp. The second time, these shots are at the left orbit, right orbit, and side ramp, and start at 25M. The mode ends once the value reaches its minimum or all 3 hurry-ups are scored.
 
 ## Starscream Frenzy: {#heading--starscream}
 
-Light the right inlane after completing the Megatron drop targets, and roll through the lit right inlane a total of 2 times *without* rolling through the lit left inlane to light this hurry-up mode at the right orbit.
+Light the right inlane after completing the Megatron drop targets, and roll through the lit right inlane a total of 2 times *without* rolling through the lit left inlane to light this mode at the right orbit. Third+ frenzies require 4 lit right inlanes to be made.
 
 30 seconds of fast scoring are given while Starscream brags about being the new Decepticon leader. Every switch is worth 100k, and slingshots / bumpers are worth 500k, until time runs out. The scoring multiplier increases every time Starscream Frenzy is started.
 
@@ -158,6 +162,28 @@ Shoot the lit captive ball to add letters to BUMBLEBEE. Three letters are added 
 
 If this form of double scoring is brought into any **[multiball](#heading--multiballs)** where add-a-ball can be used, shooting the captive ball at the space bridge will start 3x scoring and reset the 30-second timer.
 
+## Combiner Super Features: {#heading--super}
+
+Once all five parts of a **[Combiner](#heading--combiner)** are collected, a 40-second timed super feature will instantly start. Multiple super features can run at the same time, and every new one started will reset the timer to its maximum of 40 seconds. The 5th Combiner completed in a game will always activate all 5 super features for 60 seconds in place of its normal super feature.
+
+Super features can be activated at all times during play with one exception: if the player starts any **[mini-wizard mode](#heading--wizard)**, the super features will automatically end and cannot be progressed during the mode. Super features can be brought into, but not started during, **Combiner Multiball**.
+
+The five super features and the Combiners they correspond to are:
+
+- **Superion**: Left, side, and right ramps score 10M.
+- **Menasor**: Spinner is worth 170k per spin.
+- **Bruticus**: All tech spec standup targets score 5M.
+- **Defensor**: Grimlock shot and right orbit score 15M.
+- **Devastator**: Drop targets and Megatron score 10M.
+
+## Stunt Loops: {heading--stunt}
+
+Once the player has earned 3, then 6 **[Energon cubes](#heading--missions)** by spinning the spinner enough times, the next shot to the spinner will start a 15-second timed Stunt Loops round.
+
+The crash out jackpot starts at 5M, and every spin of the spinner adds 200k to the jackpot - which maxes out at 30M - and resets the timer. Shooting the side ramp increases the jackpot multiplier by +1x to a maximum of 4x. The jackpot can be scored at either the captive ball for its base value, or at the space bridge with an additional +2x jackpot multiplier. Therefore, the maximum value of the crash out jackpot is 180M. Collecting the jackpot or running out of time ends the mode. For the second round of Stunt Loops in a game, the jackpot caps out at 90M instead of 30M, meaning the maximum value becomes 540M.
+
+Stunt Loops can be started at any time during play outside of when **[mini-wizard modes](#heading--wizard)** are running.
+
 ## Mystery Award: {#heading--mystery}
 
 Repeatedly hit the bumper to light the mystery award at the space bridge shot, which can be hit with a late flip from the upper flipper. Mystery awards are dependent on game state.
@@ -168,9 +194,9 @@ Mystery awards include:
 - Spot **[combiner part](#heading--combiner)**
 - Award 3 or 5 **[tech specs](#heading--techspec)**
 - Light bumper to advance **[playfield X](#heading--bumblebee)** (if playfield X has been activated already)
-- Light **[left outlane ball save](#heading--extinction)** (if it has already been used)
 - +4x bonus
 - +2x bonus (permanent)
+- Cyber Coin (IC exclusive; every 5th single-player game on standard play, the player can start a challenge mode following the end of normal play)
 
 ## Cannon Jackpot (Prem / LE): {#heading--cannon}
 
@@ -194,7 +220,7 @@ Scoring a cassette combo qualifies the **action button** to light all **[tech sp
 
 ## Outlane Ball Saves / Countdown to Extinction: {#heading--extinction}
 
-- Left outlane: The left outlane ball save is lit at the start of the game. If the player uses it up, it can be relit from a random **[mystery award](#heading--mystery)**.
+- Left outlane: The left outlane ball save is lit at the start of the game. Once used, shoot the Soundwave target to relight it. The ball save can be relit twice per ball.
 - Right outlane: **Countdown to Extinction** is lit at the right outlane on the last ball of the game. If the player drains down the right outlane, they will have 18 seconds to shoot the right ramp to save their ball. The ball is held at the ramp diverter and releases to the upper flipper (fires to left flipper on Prem / LE).
 
 ## Extra Balls: {#heading--extraballs}
@@ -202,6 +228,8 @@ Scoring a cassette combo qualifies the **action button** to light all **[tech sp
 Extra balls can be lit at the space bridge by:
 - Playing all 5 **[missions](#heading--missions)**
 - Collecting 15 **[tech specs](#heading--techspec)** of any color
+
+15M is scored in place of the extra ball if they are disabled or have been maxed out.
 
 ## End-of-Ball Bonus: {#heading--bonus}
 
@@ -219,7 +247,7 @@ Bonus X only affects base bonus.
 
 Light this mode at the right ramp after playing two **[missions](#heading--missions)**. The player doesn't have to start it; if they want, they can keep playing missions to make the mode more valuable / easier to win.
 
-A duel between Optimus Prime and Megatron ensues. Shooting purple shots inflicts damage on Megatron. Avoid red shots, which inflict damage on Optimus Prime.
+A duel between Optimus Prime and Megatron ensues. Shooting purple shots inflicts damage on Megatron and score 10% of the base value per shot. Avoid red shots, which inflict damage to Optimus Prime.
 
 The base value for this mode is determined by:
 - 600k x Stored **Energon Cubes**
@@ -233,7 +261,7 @@ Based on the modes the players started, perks are given that change the rules of
 - **Prime Target**: Drained balls no longer penalize
 - **Golden Lagoon**: Red slingshot is no longer lit
 
-Final hurry-up lights at the Megatron scoop after enough purple shots, blocked by the drop targets. Get through the targets to the scoop to defeat Megatron before the hurry-up expires. Watch out! Clearing all the drop targets brings them back up after a few seconds, but with more time.
+The final hurry-up lights at the Megatron scoop after enough purple shots, blocked by the drop targets. Get through the targets to the scoop to defeat Megatron before the hurry-up expires. Hitting white shots will increase the hurry-up by 10% of the maximum value, but watch out! Every "build" shot also resets the drop targets.
 
 Win or lose, after the mode finishes, the flippers are disabled and all pinballs drain. A new ball will appear in the shooter lane with the skill shot disabled.
 
@@ -251,9 +279,9 @@ This mini-wizard mode is played in 3 phases, each lasting 70 seconds. 30 seconds
 
 Light **Dinobot Desertion** at the VUK by scoring 3 dino jackpots across any **[dinobot mission](#heading--dinobot)**. If the player scored 3 dino jackpots in *each* mission, then the VUK will light to start **Super Dinobot Desertion**.
 
-- *Phase One* (60 seconds): Based on whatever Dinobot missions the player completed prior, and timed for 30 seconds + 15 seconds per Dinobot mission completed. **War** - slingshots will build the jackpot by 250k. **Island** - switches build the jackpot by 75k, spinner increases jackpot by 12k per spin. **S.O.S.** - shots / targets build the jackpot by 100k. Shoot the lit shots described above to build the jackpot. Shooting Megatron before time expires and without draining to triple the jackpot value.
+- *Phase One* (60 seconds): Based on whatever Dinobot missions the player completed prior, and timed for 30 seconds + 15 seconds per Dinobot mission completed. **War** - slingshots will build the jackpot by 250k. **Island** - switches build the jackpot by 75k, spinner increases jackpot by 12k per spin. **S.O.S.** - shots / targets build the jackpot by 100k. Shoot the lit shots described above to build the jackpot. Shoot Megatron before time expires and without draining to triple the jackpot value.
 - *Phase Two*: The left orbit and Grimlock stand-up targets are lit. Stand-up targets score 0.5x the jackpot value. The left orbit scores 1x the jackpot value. Shooting the left orbit lights a combo to the side ramp or Optimus for a 2x jackpot, then right ramp for 2x jackpot, then the sequence repeats. Phase 2 lasts 30 seconds.
 
 ## The Ultimate Doom (Wizard Mode): {#heading--ultimate-doom}
 
-- Still assembling as of 0.89 code
+- Still assembling...
