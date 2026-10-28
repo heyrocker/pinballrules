@@ -176,7 +176,7 @@ The five super features and the Combiners they correspond to are:
 - **Defensor**: Grimlock shot and right orbit score 15M.
 - **Devastator**: Drop targets and Megatron score 10M.
 
-## Stunt Loops: {heading--stunt}
+## Stunt Loops: {#heading--stunt}
 
 Once the player has earned 3, then 6 **[Energon cubes](#heading--missions)** by spinning the spinner enough times, the next shot to the spinner will start a 15-second timed Stunt Loops round.
 
