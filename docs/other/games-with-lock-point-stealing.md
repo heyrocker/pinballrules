@@ -180,6 +180,7 @@ title: "Games With Lock & Point Stealing"
 
 **Feature Hold Across Games** - A feature that retains progress across individual games
 * Apollo 13 - BLASTOFF Letters (tournament mode does fix this)
+* Avengers: Infinity Quest - Gem Mania progress (disabled on tournament mode)
 * Barb Wire - BARB WIRE Letters (completely absent from tournament mode)
 * Black Knight 2000 - RANSOM Letters
 * Cactus Jack's - EXTRABALL Letters
@@ -187,10 +188,16 @@ title: "Games With Lock & Point Stealing"
 * Deadly Weapon - WEAPON Letters
 * Diamond Lady - JACKPOT Letters
 * Dr. Dude and his Excellent Ray - Dude-O-Meter (has an tournament rom) and (tournament mode setting)
+* Dungeons & Dragons: The Tyrant's Eye - TREASURE CHEST Letters (topper mode, tournament mode fixes start for each player)
 * Elvira and the Party Monsters - ELVIRA Letters
+* Foo Fighters - Band member combos for Toy Time Multiball (topper mode, tournament mode fixes start for each player)
 * Hurricane - PALACE Letters
+* Jurassic Park (Stern) - Goat Mania progress (disabled on tournament mode)
+* King Kong: Myth of Terror Island - Golden Gary clues (topper mode, tournament mode fixes start for each player)
 * Operation: Thunder - SPECIAL Letters
 * Pokémon - MAGIKARP Letters (topper mode, tournament mode fixes start for each player)
+* The Mandalorian - Beskar Bonanza (topper mode, disabled on tournament mode)
+* Metallica Remastered - METALLICA Letters (topper mode, tournament mode fixes start for each player)
 * Mustang - MUSTANG Letters (tournament mode fixes start for each player)
 * Rescue 911 - HOOK & LADDER Letters (tournament mode fixes start at HOOK & L for each player)
 * Rollergames - WILLIAMS Letters (has an tournament rom)
@@ -198,6 +205,8 @@ title: "Games With Lock & Point Stealing"
 * The Simpsons - MILLIONS Letters (not on default settings)
 * Super Mario Bros. - Completed Castles (has tournament mode)
 * Tee'd Off - SKINS! & GOPHER Letters (has tournament mode)
+* Venom - Symbiote Mania progress (topper mode, tournament mode fixes start for each player
+* The Walking Dead Remastered - Fish Tank Frenzy (topper mode, tournament mode fixes start for each player)
 * Wipe Out - SKIERS Letters (has tournament mode that fixes players to 3 letters each ball)
 * World Challenge Soccer - Completed Challenges (has tournament mode that fixes players to 3 challenges each ball) 
 
@@ -217,7 +226,7 @@ title: "Games With Lock & Point Stealing"
 
 * Champion Pub (cash fights)
 * Red & Ted's Road Show (buying souvenirs)
-* Teed Off (double or nothing)
+* Tee'd Off (double or nothing)
 * The Sopranos (poker video mode)
 * Who Dunnit? (roulette)
 * Vegas (double or nothing)
@@ -225,14 +234,16 @@ title: "Games With Lock & Point Stealing"
 
 **Copied Points** - Player can add points of another player while not affecting the other player's score (subject to software settings)
 
+* Back to the Future (Take Highest Score) (no way to turn off)
 * Cactus Jack's (Catch-Up)
+* Car Hop (Ketchup) (Tournament ROM removes this)
+* Checkpoint (Take Highest Score) (no way to turn off)
 * Class of 1812 (Catch-Up)
+* Lights… Camera… Action! (Catch-Up)
 * Operation: Thunder (Catch-Up)
-* Back to the Future (Take Highest Score) (NO WAY TO TURN OFF)
 * Police Force (Take Highest Score) (Tournament ROM removes this)
 * The Simpsons (Catch-Up)
-* Lights… Camera… Action! (Catch-Up)
-* Super Mario Bros (Catch up)
+* Vegas (Catch-Up)
 
 **Stolen Points** - Player can lose points and those points are given to another player
 
@@ -251,21 +262,27 @@ title: "Games With Lock & Point Stealing"
 **Games That You Can Lose Bonus Multipliers**
 
 * Counterforce
+* Fallout (tilt warnings reduce bonus multiplier)
 
 **Loss of Bonus Units That Are End Of Ball/Game Points** - Player can kind-of lose points
 
-* Alien (weapons)
-* Gottlieb System 3 games with shopping
-* Medusa (Unused Center Post Kickers score bonus)
-* Riverboat Gambler (betting)
-* Red & Ted's Road Show (souvenirs)
+* Alien (weapons are added to end-of ball bonus unless used)
+* Fallout (unused tilt warnings add to bonus)
+* Frank Thomas' Big Hurt (trading cards can be traded and are lost on ball 3 tilt)
+* Freddy: A Nightmare on Elm Street (kruegerands can be traded)
+* High Roller Casino (chips are detracted when certain casino games are played)
+* Mario Andretti (fuel can be traded and is lost on ball 3 tilt)
+* Medusa (unused center post kickers add to bonus)
+* Rescue 911 (lives end-of-game bonus is lost on ball 3 tilt)
+* Riverboat Gambler (chips are detracted when certain casino games are played)
+* Red & Ted's Road Show (souvenirs can be traded)
+* Shaq Attaq (end-of-game bonus, including basket points, game balls, and hidden features found are lost on ball 3 tilt)
+* Stargate (quartz can be traded and end-of-ball bonus points are lost. Portal segment bonus can be lost on ball 3 tilt)
+* Waterworld (kilos of pure dirt can be traded and are lost on ball 3 tilt)
 
 **Tilting can affect other players / other balls**
-* Addams Family - Tilting will award 1 greed letter on the next ball
-* Radical! - unlock balls and all progress lost for next player (fixed in the update rom)
-* The Shadow - if you tilt while balls are held in main MB then the game mostly loses track of them and block the holes for other players / games (till reset or next MB JP scored)
-* Torpedo alley (tilt clears locks and progress)
-* Sopranos all your progress is wiped away too and you have to start over in building rank toward boss (per player)
-* DUNGEONS & DRAGONS: The Tyrant's Eye with software 0.87 and before
- tilt in Dragon MB and then next ball you will be in an 1 ball Dragon MB
+* The Addams Family - Tilting will award 1 greed letter on the next ball
+* Radical! - unlock balls and all progress lost for next player (fixed on new code)
+* The Shadow - if you tilt while balls are held in Shadow MB, the game mostly loses track of them and blocks the holes for other players / games (until reset or next jackpot scored)
+* Torpedo Alley - tilt clears locks and progress
 
