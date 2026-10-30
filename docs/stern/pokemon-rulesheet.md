@@ -42,9 +42,9 @@ opdb_id: "GV8wB"
 - Display and Animations:
 - Sound Design: Jerry Thompson
 - Release Date: March 2026
-- Wiki Rulesheet based on Code Rev: 0.86
+- Wiki Rulesheet based on Code Rev: 0.87
   - *Edit the Code revision, if applicable, when you make changes*
-- Original Wiki Rulesheet hosted on [Tilt Forums](/stern/pokemon-rulesheet)
+- Original Wiki Rulesheet hosted on [Pinball Rulesheets](/stern/pokemon-rulesheet)
 
 ***Pokémon*** marks Nintendo's first foray into physical pinball in over 30 years and is Stern's first pinball machine of 2026. Using assets from the anime as a base, players will be able to help Pikachu and the three Kanto region starters on their quest, while catching Pokémon of their own across four different biomes.
 
@@ -67,13 +67,15 @@ Three skill shots are available:
 
 # Main Modes: {#heading--modes}
 
-Welcome to the world of Pokémon! Pokémon are creatures of many different shapes and sizes that wage battles either with other wild Pokémon, or against those of other Trainers once they have been caught and have the trust of the Trainer responsible. The player enters this new world with Pikachu and the three starters from the Kanto region, but can catch other Pokémon by **[finding them in the wild](#heading--find)**. Help the four Pokémon uncover their true potential and fight against rivals for a chance to win an arena battle!
+Welcome to the world of Pokémon! Pokémon are creatures of many different shapes and sizes that wage battles either with other wild Pokémon, or against those of other Trainers once they have been caught and have the trust of the Trainer responsible. The player enters this new world with Pikachu and the three starters from the Kanto region, but can catch other Pokémon by **[finding them in the wild](#heading--find)**. Help the four Pokémon uncover their true potential and fight against rivals for a chance to win an arena battle! 
 
-The three main mode types on ***Pokémon*** are **[story modes](#heading--missions)**, **[battle modes](#heading--discover)**, and **[TEAM features](#heading--team)**. Story modes can be played at any time in single-ball play. Battle modes must be qualified beforehand and can only start by hitting the right scoop. TEAM features activate as soon as TEAM is spelled and can be activated at any time during play, even during multiball.
+The three main mode types on ***Pokémon*** are **[story modes](#heading--missions)**, **[rival battle modes](#heading--discover)**, and **[TEAM features](#heading--team)**. Story modes can be played at any time in single-ball play. Rival battle modes must be qualified beforehand and can only start by hitting the right scoop. TEAM features activate as soon as TEAM is spelled and can be activated at any time during play, even during multiball.
 
 ## Story Modes: {#heading--missions}
 
 The ramps and orbits correspond to, from left to right, Bulbasaur, Squirtle, Pikachu, and Charmander. Hitting any of those shots three times during single-ball play will start a level 1 story mode based on that character; making 5 more shots to the same shot will then begin the level 2 story mode for that character. Boost story modes by completing the **[training targets](#heading--training)** - each color boosts a different Pokémon's mode. Completing the training targets during a story mode will extend the timer by 20 seconds.
+
+Increase the multiplier for the *next* story mode played by **[catching a Pokémon](#heading--discover)**. The multiplier increases by +1x with each catch to a maximum of 3x, then resets once the mode ends.
 
 Completing a story mode will qualify a **[shot multiplier](#heading--shotx)**.
 
@@ -99,9 +101,9 @@ Playing four story modes of the same level will light the right ramp to choose a
 
 The player starts the game in the forest biome by default, and on competition mode. If the player is signed into Insider Connected, has already played Forest Battle, and are playing on normal settings, they will get the choice of which biome to start before plunging the first ball.
 
-After completing the **[travel](#heading--travel)** process described later in the guide, the player can head to the other three biomes and gets a choice of which biome to visit next. Hitting switches while a mode or multiball isn't running (primarily the top lanes and bumpers) will fill up the gauge and eventually discover a Pokémon that can be scanned by shooting the captive ball.
+After completing the **[travel](#heading--travel)** process described later in the guide, the player can head to the other three biomes and gets a choice of which biome to visit next. Hitting switches while a mode or multiball isn't running (primarily the top lanes and bumpers) will fill up the gauge and eventually discover a Pokémon that can be scanned by shooting the captive ball. The action button will light *purple* when a scan is available; holding it will cause the Pokémon to escape if the player wants to catch a different one.
 
-Scanning the Pokémon activates the ball save for a short time, and starts a hurry-up that starts at 2M. Shoot purple targets to spell CATCH! and light the Poké Ball shot at the left ramp to catch it for a value starting at the combined value of the prior shots. Catching Pokémon lights the right scoop to start a **[rival battle](#heading--battle)**; one successful capture is required to light the first one, and each subsequent battle requires one more capture than before, to a maximum of 3 captures to light battle. This means that forest battle requires 1, 2nd biome battle requires 2 more after that, 3rd biome battle requires another 3 captures, etc.
+Scanning the Pokémon activates the ball save for a short time, and starts a hurry-up that starts at 2M. Shoot purple targets to spell CATCH! and light the Poké Ball shot at the left ramp to catch it for a value starting at the combined value of the prior shots. Catching Pokémon increases the multiplier for the next **[story mode](#heading--missions)** by +1x, and lights the right scoop to start a **[rival battle](#heading--battle)**; one successful capture is required to light the first battle, and each subsequent battle requires 2 captures to light.
 
 The capture sequence has different purple targets lit depending on how many Pokemon the player has caught in the game. The player must always hit the left ramp after hitting the listed purple targets. Using a **[Pokedex Assist](#heading--assists)** will spot the currently lit shot and award its value, but will not spot the final left ramp shot.
 
@@ -109,7 +111,10 @@ The capture sequence has different purple targets lit depending on how many Poke
 - Capture 2: Left ramp, right ramp
 - Capture 3: Training targets, right ramp, left orbit
 - Capture 4: Right orbit, right Battlefield targets, training targets, right ramp
-- Captures 5+: Left ramp, town scoop, right ramp, left Battlefield targets, left orbit
+- Captures 5+: 
+  - Left ramp, town scoop, right ramp, left Battlefield targets, left orbit
+  - ?
+  - ?
 
 ### Rival Battles: {#heading--battle}
 
@@ -119,7 +124,7 @@ Shoot the town scoop when flashing after having dealt 3 shots worth of damage to
 
 Using **[Pokedex Assists](#heading--assists)** while in a rival battle will prioritize the most valuable currently lit shot, or if all shots are worth the same value, the one that deals the most damage.
 
-After defeating all the rivals' Pokémon and winning the battle, shoot the left ramp to score the victory bonus. The victory bonus is based on how quickly the player was able to complete the battle and is only lit for 10 seconds at the end of the mode.
+After defeating all the rivals' Pokémon and winning the battle, shoot the left ramp to score the victory bonus. The victory bonus is based on how quickly the player was able to complete the battle and is only lit for 10 seconds at the end of the mode. Winning a battle increases the multiplier for all **[Team Rocket Multiball](#heading--rocket)** scoring by +1x for the rest of the game, to a maximum of 3x. If the multiplier is maxed out, won battles will increase the base victory bonus by 10M, then 15M, then 20M, etc.
 
 **Possible Rival Pokémon per Battle**
 
@@ -139,21 +144,23 @@ After all four tasks are completed, the player can shoot the scoop to progress t
 
 After completing the travel process for all four biomes, the player can start the **[Arena Battle](#heading--arena)** by shooting the scoop.
 
-## TEAM Features:
+## TEAM Features: {#heading--team}
 
 Complete TEAM bottom lanes to light a TEAM feature. TEAM features are short timed modes that start the next time a shot is made, and boost the value of the shot for the rest of the ball once they are either completed or time out. Boosted shots award more points while lit in any mode, and award +1 **[Poke Ball](#heading--pokeballcombos)** than they did before. TEAM features can start at any time during play, even during multiball.
 
 TEAM features are lit in the following order:
-- **Pikachu Hurry-Up**: Lit at the right ramp for about 10 seconds. While the ball is being held, mash the action button to lock in the hurry-up value, which starts at 6M. Only the value displayed when the ball releases is scored.
-- **Squirtle Prize Pool**: Lit at the left ramp for about 10 seconds. Shoot the left ramp, then while the ball is being spun in the whirlpool, press the action button to score the selected prize pool award x2. Each whirlpool spin changes the award. (*On the Pro, a set value is scored instead.*)
+- **Pikachu Hurry-Up**: Lit at the right ramp for about 10 seconds. While the ball is being held, mash the action button to lock in the hurry-up value, which starts at about 6M. Only the value displayed when the ball releases is scored.
+- **Squirtle Prize Pool**: Lit at the left ramp for about 10 seconds. Shoot the left ramp, then while the ball is being spun in the whirlpool, press the action button to score the selected prize pool award x2. Each whirlpool spin changes the award. (*On the Pro, a set value is scored instead: 5M + 1.25M per collect.*)
 - **Charmander Super Spinner**: Shoot the right orbit to light the spinner for 100k per spin for the duration of the mode. Reach the cap of 15M (+2.5M every time this mode is completed) to complete.
 - **Bulbasaur Loops**: Shoot the left orbit repeatedly to score increasing points per loop. Make 5 left orbit shots before time runs out to complete.
 
-## Team Rocket Multiball: {#heading--team}
+## Team Rocket Multiball: {#heading--rocket}
 
 Shoot the BATTLE targets to lower the Meowth balloon, with the center lane spotting targets that haven't been hit. Making a **[super skill shot](#heading--skillshots)** to the center lane also instantly lowers the balloon.
 
-Once the balloon is lowered, shoot the balloon 3 times (+2 per multiball) to light Team Rocket multiball at the lane below it. Hitting the lane underneath the balloon as a "sneak-in" will light the multiball instantly.
+Once the balloon is lowered, shoot the balloon 4 times to start the first Team Rocket multiball at the lane below it. Hitting the lane underneath the balloon as a "sneak-in" will light the multiball instantly. The second Team Rocket multiball takes 5 shots to the balloon to light, and then must be started by hitting the lane underneath it.
+
+Completing any **[rival battle](#heading--battle)** will increase the scoring multiplier for Team Rocket multiballs by +1x to a maximum of 3x, in addition to any other applicable multipliers.
 
 - **Team Rocket Multiball 1**: The ramps and balloon are lit to score jackpots. Score 6 jackpots at any shot to light the lane under the balloon for super jackpot. Once the super jackpot is scored, a **[shot multiplier](#heading--shotx)** will be qualified, and the outer ramps and orbits will light for 15 seconds to score unlimited super jackpots before the multiball process resets. For the second+ jackpot cycles, 8 jackpots are required to light super jackpot.
 - **Team Rocket Multiball 2**: Battle the mecha-Meowth being powered by Vanillite and their evolutions. Hitting red shots will "freeze" them (turning them blue) and increase the jackpot multiplier. Hitting a "frozen" shot will decrease the jackpot multiplier, but increase the base jackpot value. The jackpot can be scored at the Meowth balloon after freezing a shot (+1 frozen shot per subsequent multiball). Scoring 2 jackpots (+1 jackpot per round) will light the center lane for super jackpot, which qualifies a **shot multiplier** once scored.
@@ -221,7 +228,7 @@ Complete TEAM bottom lanes to light mystery at the town scoop. The first mystery
 
 Possible mystery awards:
 * 2.5M
-* Advance **[Discover](#heading--find)**
+* Advance **[Discover](#heading--discover)** (increases the gauge by about 1/4)
 * **[Poke Balls](#heading--pokeballcombos)** (2 - 10)
 * Advance **[outlane ball save](#heading--ballsave)** (by one target set)
 * Light **[extra ball](#heading--extraballs)** (one per game, percentage based)
@@ -265,7 +272,7 @@ Pikachu vs. Gyarados is a 6-ball multiball where all shots are lit to score jack
 
 Light the right ramp to start either mini-wizard mode by playing all four level 1 or level 2 **[story modes](#heading--missions)**. The mode will only start if no other modes are currently running. The player gets a choice between which mode they want to start; once the level 2 modes are played, the mode they didn't choose the first time will start.
 
-- **Pikachu vs. Lucario**: This mode is separated into two phases, a single-ball build phase and a multiball phase, with 15 seconds of ball save given at the start of the build phase. During the build phase, the orbit shots and left ramp are lit to increase the jackpot by 250k per shot, and light the right ramp to virtually lock a ball for the multiball phase after 3 build shots are made. Once the player drains, or locks the maximum number of balls (6-ball multiball), the multiball phase will start. During multiball, two shots are lit at a time to score the jackpot value x balls in play, and move to another shot that hasn't been hit yet. Making a total of 15 jackpots will light the right ramp to complete the mode for a super jackpot worth 15x the base jackpot value.
+- **Pikachu vs. Lucario**: This mode is separated into two phases, a single-ball build phase and a multiball phase, with 15 seconds of ball save given at the start of the build phase. During the build phase, the orbit shots and left ramp are lit to increase the jackpot by 250k per shot, and light the right ramp to virtually lock a ball for the multiball phase after 3 build shots are made. Once the player drains, or locks the maximum number of balls (6-ball multiball), the multiball phase will start. During multiball, two shots are lit at a time to score the jackpot value x balls in play, and move to another shot that hasn't been hit yet. Making a total of 10 jackpots will light the right ramp. Shoot the right ramp to light the left ramp to complete the mode for a super jackpot worth the value of all the jackpots combined, or keep shooting blue jackpots to increase the value.
 - **Pikachu vs. Charizard**: 4-ball multiball mode with scoring determined by the number of **story modes** that have been successfully completed. The four orbits and ramps are each lit to start a phase. Each phase uses 10% of the total score from that shot's respective story mode (ie. shooting the left orbit will start a phase using the values from Bulbasaur 1) as the base shot value. Shooting two lit shots while in the phase will light the Pokedex captive ball to score the total value of the shots x balls in play, though the value can be increased by hitting further lit shots before the captive ball. Repeating this process, once for all four major shots, will light the center lane to win the battle and score a super jackpot hurry-up starting at the total of all shots made up until the center lane was shot. The maximum value of this hurry-up is 100M (200M with **[2x playfield](#heading--berries)** active). If the player drains down to a single ball during Pikachu vs. Charizard, they will have 15 seconds to either hit a lit shot or hit the captive ball to add a ball & continue the multiball. The mode ends once the player either scores the super jackpot or times out of the last chance.
 
 ## Arena Battle (Mini-Wizard Mode): {#heading--arena}
@@ -279,4 +286,4 @@ The Arena Battle has the same basic rules as the **[Rival Battles](#heading--bat
 - **Talonflame** (Fire / Flying) - Talonflame uses its Fly attack and becomes temporarily invincible to damage. The player can deal damage after Talonflame is recovering from their attack.
 - **Gengar** (Ghost / Poison) - All lights are turned off.
 - **Metagross** (Steel / Psychic) - Flippers are reversed and no Pokemon can be healed while Metagross is present.
-- **Salamence** (Dragon / Flying) - Attacks hard and attacks often. The only chance of defeating Salamence is if players keep hitting shots quickly to prevent their attacks from occurring.
+- **Salamence** (Dragon / Flying) - Attacks hard and attacks often...
