@@ -59,7 +59,7 @@ opdb_id: "GK1Ej"
 - Display and Animations: Paul Chamnankit
 - Sound Design: Jerry Thompson
 - Release Date: February 2025
-- Wiki Rulesheet based on Code Rev: 1.10
+- Wiki Rulesheet based on Code Rev: 1.11
   - *Edit the Code revision, if applicable, when you make changes*
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/dungeons-dragons-the-tyrants-eye-rulesheet)
 
@@ -107,7 +107,7 @@ Character| Class | Perks | Base Stats | Str/Dex/Con/Int/Wis/Cha | Unlock Mode |
 --- | --- | --- | --- | --- | --- |
 Rhyme|Tiefling Ranger | Good with Ranged Weapons (2 blue arrows at once) | 11 HP, 12 AC, 15% Luck, 140 Gold| 18/13/12/10/11/13 | **[The Undermountain](#heading--wizardundermountain)** |
 Juniper Amari| Wood Elf Bard | Increased 2x Scoring Timer | 9 HP, 15 AC, 60% Luck, 160 Gold | 11/15/13/13/13/18 | **[Ritual of the Chosen](#heading--wizardritualchosen)** |
-Goregath | Goliath Barbarian | Rage (replaces ranged weapons, collects all lit shots once per ball) - can be repurchased from Fizmo's for 300 gold; Extra damage to Abashi & Yugoloths | 14 HP, 13 AC, 20% Luck, 20 Gold | 19/13/15/10/12/13 | **[Rescue the King](#heading--wizardrescue)** |
+Goregath | Goliath Barbarian | Rage (replaces ranged weapons, collects all lit shots once per ball, recharges at 5 enemies defeated); Extra damage to Abashi & Yugoloths | 14 HP, 13 AC, 20% Luck, 20 Gold | 19/13/15/10/12/13 | **[Rescue the King](#heading--wizardrescue)** |
 Rowan Freewander | Human Fighter | Add-a-ball during any multiball, once per ball | 13 HP, 18 AC, 0% Luck, 150 Gold | 17/15/16/14/14/11 | Unlocked with [official topper](https://shop.sternpinball.com/collections/accessories/products/dungeons-dragons-the-tyrant-s-eye-topper) connected |
 
 The stats are described in the status report as follows:
