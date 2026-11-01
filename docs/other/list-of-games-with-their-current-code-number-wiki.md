@@ -48,12 +48,12 @@ This is a one stop reference list for games with their current code number. Any 
 | Jaws                                  | 1.02           | Jul 1, 2026  |
 | The Uncanny X-Men                     | 0.98           | Jul 1, 2026  |
 | Metallica Remastered                  | 1.04           | Jul 1, 2026  |
-| Dungeons & Dragons: The Tyrant's Eye  | 1.10           | Sep 22, 2026 |
+| Dungeons & Dragons: The Tyrant's Eye  | 1.11           | Oct 29, 2026 |
 | King Kong: Myth of Terror Island      | 0.97           | Jul 1, 2026  |
 | Star Wars: Fall of the Empire         | 0.97           | Jul 1, 2026  |
 | The Walking Dead Remastered           | 0.94           | Oct 22, 2026 |
-| Pokémon                               | 0.86           | Sep 15, 2026 |
-| Pokémon (Home Edition)                | 1.03           | Sep 16, 2026 |
+| Pokémon                               | 0.87           | Oct 29, 2026 |
+| Pokémon (Home Edition)                | 1.04           | Oct 29, 2026 |
 | Transformers: More Than Meets the Eye | 0.96           | Oct 27, 2026 |
 | Fallout                               | 0.81           | Oct 12, 2026 |
 
@@ -70,7 +70,7 @@ Beta updates not listed (any one can opt in to installing them)
 | Elton John | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/ej/eltonjohn_changelog.txt) |
 | Avatar: The Battle for Pandora | 1.02           | Jul 8, 2025    | [Log](https://marketing.jerseyjackpinball.com/av/avatar_changelog.txt) |
 | Harry Potter | 1.26           | Apr 14, 2026 | [Log](https://marketing.jerseyjackpinball.com/hp/hp_changelog.txt) |
-| Sonic the Hedgehog | 0.951          | Oct 9, 2026   | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
+| Sonic the Hedgehog | 0.96          | Oct 29, 2026   | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
 
 ## <a name="heading--multi"></a>Multimorphic Pinball
 [Download code and release notes for all Multimorphic pinball machines here](https://www.multimorphic.com/account/software/), or directly from the P3 connected to the internet.
