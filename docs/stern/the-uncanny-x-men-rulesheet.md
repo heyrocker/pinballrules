@@ -93,7 +93,7 @@ There are four skill shots available at the start of each ball:
 - Hit the X-Jet shot to feed the X-Mansion ramp for +3 bonus X. If the ball enters the ramp, the danger room exit ramp can then be hit for a super skill shot.
 - Hit the downtown shot repeatedly for up to a 5-way time loop combo. If all 5 shots were made, the left ramp can be hit for the final shot in the sequence, which adds +15 seconds to the initial ball save timer.
 - Hit the left ramp for a Cerebro skill shot. This spots one shot's worth of progress towards **[To Me, My X-Men](#heading--xavier)** multiball.
-- After shooting the Cerebro skill shot. Shoot the Highway ramp - X-Jet - Danger Room ramp for the MXV super skill shot. This awards 15M and advances Danger Room to Level 3.
+- After shooting the Cerebro skill shot. Shoot the Highway ramp - X-Jet - Danger Room ramp for the MXV super skill shot. This awards 15M and advances the Danger Room to Level 3.
 
 ## Missions: {#heading--missions}
 
