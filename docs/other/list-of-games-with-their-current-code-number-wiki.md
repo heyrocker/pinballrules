@@ -44,7 +44,6 @@ This is a one stop reference list for games with their current code number. Any 
 | Stranger Things                       | 1.13           | Jul 1, 2026  |
 | Godzilla                              | 1.16           | Aug 26, 2026 |
 | James Bond 007                        | 1.06           | Jul 1, 2026  |
-| Venom                                 | 1.07           | Jul 1, 2026  |
 | Jaws                                  | 1.02           | Jul 1, 2026  |
 | The Uncanny X-Men                     | 0.98           | Jul 1, 2026  |
 | Metallica Remastered                  | 1.04           | Jul 1, 2026  |
@@ -175,6 +174,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Rush | 1.19           | Jul 1, 2026  |
 | James Bond 007 (60th Anniversary) | 1.11           | Jul 1, 2026  |
 | Foo Fighters | 1.04           | Jul 1, 2026  |
+| Venom   | 1.07           | Jul 1, 2026  |
 | John Wick | 1.02            | Jul 1, 2026   |
 
 ### <a name="heading--jjpvault"></a>JJP Vault
