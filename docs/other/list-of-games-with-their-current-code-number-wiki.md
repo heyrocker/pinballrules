@@ -22,6 +22,7 @@ This is a one stop reference list for games with their current code number. Any 
   - [Spooky Vault](#heading--spookyvault)
   - [Pinball Brothers Vault](#heading--pbvault)
   - [Dutch Vault](#heading--dutchvault)
+  - [Turner Vault](#heading--turnervault)
 - [Legacy Tables](#heading--legacy)
   - [Williams / Bally Alphanumerics](#heading--wba)
   - [Williams / Bally DMDs](#heading--wbdmd)
@@ -65,9 +66,9 @@ Beta updates not listed (any one can opt in to installing them)
 | --- |----------------|----------------| --- |
 | Guns N' Roses | 3.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/gnr/gnr_changelog.txt) |
 | Toy Story 4 | 2.04           | Mar 31, 2025   | [Log](https://marketing.jerseyjackpinball.com/ts/ts4_changelog.txt) |
-| The Godfather | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/di/di_changelog.txt) |
-| Elton John | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/ej/eltonjohn_changelog.txt) |
-| Avatar: The Battle for Pandora | 1.02           | Jul 8, 2025    | [Log](https://marketing.jerseyjackpinball.com/av/avatar_changelog.txt) |
+| The Godfather | 2.03           | Mar 25, 2025   | [Log](https://marketing.jerseyjackpinball.com/gf/godfather_changelog.txt) |
+| Elton John | 2.04           | Oct 29, 2026   | [Log](https://marketing.jerseyjackpinball.com/ej/eltonjohn_changelog.txt) |
+| Avatar: The Battle for Pandora | 1.03           | Oct 29, 2026    | [Log](https://marketing.jerseyjackpinball.com/av/avatar_changelog.txt) |
 | Harry Potter | 1.26           | Apr 14, 2026 | [Log](https://marketing.jerseyjackpinball.com/hp/hp_changelog.txt) |
 | Sonic the Hedgehog | 0.96          | Oct 29, 2026   | [Log](https://marketing.jerseyjackpinball.com/sonic/sonic_changelog.txt) |
 
@@ -108,8 +109,7 @@ Beta updates not listed (any one can opt in to installing them)
 
 | Game Title | Latest Version | Release Date | Links | Change Log |
 | --- | --- | --- | --- | --- |
-| Dune | 2026.05.13 | May 13, 2026 | [Code](https://www.dropbox.com/scl/fi/exdy5btmxr1r93n0zhofz/BOF_DUNE_20260513.zip?rlkey=da1jgtmwc590b97sc8gbn3it6&st=wwhyv0un&dl=0) | [Change Log](https://shop.kollectfun.com/dune-update-history/) |
-| Winchester Mystery House | 2026.07.16 | Jul 16 2026 | [Code](https://www.dropbox.com/scl/fi/wh1ky3lbg9w5lp8xh7x0m/BOF_WMH_20260716.zip?rlkey=oqiw1jfr4f2sutkuxzvpaae4i&st=pl7dxydl&dl=0) | [Change Log](https://shop.kollectfun.com/winchester-code-update/) |
+| Bon Jovi | 2026.10.14 | [Code](https://www.dropbox.com/scl/fi/u21vl5kkhv032ntmkqfy9/BOF_JOVI_20261014.zip?rlkey=34rqwggqjyurgr970ktiv0eib&st=pz4upstc&dl=0) | [Change Log](https://shop.kollectfun.com/bon-jovi-code-update/) |
 
 ## <a name="heading--spooky"></a>Spooky Pinball
 [Download code for all Spooky pinball machines here.](https://www.spookypinball.com/game-support/)
@@ -118,14 +118,6 @@ Beta updates not listed (any one can opt in to installing them)
 | --- | --- | --- | --- |
 | Evil Dead | [v2026.07.15](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.07.15.ed/2026.07.15.ed) | Jul 15, 2026 | [Log](https://www.spookypinball.com/EvilDead) |
 | Beetlejuice | [v2026.10.23](https://spookypinball.s3.us-east-2.amazonaws.com/beetlejuice/software_versions/release/v2026.10.23.16.beetlejuice) | Oct 23, 2026 | [Log](https://www.spookypinball.com/beetlejuice/) |
-
-## <a name="heading--turner"></a>Turner Pinball
-[Turner Pinball code can be viewed by clicking on updates.](https://turnerpinball.com/updates/)
-
-| Game Title | Latest Version | Release Date | Links |
-| --- | --- | --- | --- |
-| Ninja Eclipse - The Shadows Awaken | 0.9.5 | Aug 19 2025 | [Notes](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.md), [Enc File](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.enc), [Sig File](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.sig) |
-| Merlin's Arcade | 0.8.7 | Mar 26 2026 | [Notes](https://turnerpinball.com/software-releases/ninjaeclipse_v0.8.7/update.md), [Enc File](https://turnerpinball.com/software-releases/merlinsarcade_v0.8.7/update.enc), [Sig File](https://turnerpinball.com/software-releases/merlinsarcade_v0.8.7/update.sig) |
 
 ## <a name="heading--pb"></a>Pinball Brothers
 [Scroll down and the code updates for Pinball Brothers releases can be viewed under Game Updates.](https://www.pinballbrothers.com/support/)
@@ -146,6 +138,14 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Game Title | Latest Version | Release Date | Link |
 | --- | --- | --- | --- |
 | Alice's Adventures in Wonderland | 0.99-5 | Soon | [Code](https://www.dutchpinball.com/alices_adventures_in_wonderland_software) |
+
+## <a name="heading--turner"></a>Turner Pinball
+[Turner Pinball code can be viewed by clicking on updates.](https://turnerpinball.com/updates/)
+
+| Game Title | Latest Version | Release Date | Links |
+| --- | --- | --- | --- |
+| Merlin's Arcade | 0.9.5 | Oct 29, 2026 | [Notes](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.5/merlinsarcade_v0.9.5.md), [Enc File](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.5/merlinsarcade_v0.9.5.enc), [Sig File](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.5/merlinsarcade_v0.9.5.sig) |
+| Yukon Yeti | 0.9.1 | Oct 9, 2026 | [Notes](https://turnerpinball.com/software-releases/yukonyeti_v0.9.1/yukonyeti_v0.9.1.md), [Enc File](https://turnerpinball.com/software-releases/yukonyeti_v0.9.1/yukonyeti_v0.9.1.enc), [Sig File](https://turnerpinball.com/software-releases/yukonyeti_v0.9.1/yukonyeti_v0.9.1.sig) |
 
 ## <a name="heading--vaults"></a>Vaults
 **Vaults** are reserved for companies who are still around, but whose games in this category aren't currently being produced.
@@ -193,7 +193,9 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 
 | Game Title | Latest Version | Release Date | Links | Change Log |
 | --- | --- | --- | --- | --- |
-| Labyrinth | 2026.30.05 | Jan 30, 2026 | [Code](https://www.dropbox.com/scl/fi/l244a26uii8ax203bp2f6/BOF_LAB_20260130.zip?rlkey=yutiufegzx5gjgvwy45tlv9hs&st=k73uxdkx&dl=0) | [Change Log](https://shop.kollectfun.com/labyrinth-update-history/) |
+| Labyrinth | 2026.01.30 | Jan 30, 2026 | [Code](https://www.dropbox.com/scl/fi/l244a26uii8ax203bp2f6/BOF_LAB_20260130.zip?rlkey=yutiufegzx5gjgvwy45tlv9hs&st=k73uxdkx&dl=0) | [Change Log](https://shop.kollectfun.com/labyrinth-update-history/) |
+| Dune | 2026.05.13 | May 13, 2026 | [Code](https://www.dropbox.com/scl/fi/exdy5btmxr1r93n0zhofz/BOF_DUNE_20260513.zip?rlkey=da1jgtmwc590b97sc8gbn3it6&st=wwhyv0un&dl=0) | [Change Log](https://shop.kollectfun.com/dune-update-history/) |
+| Winchester Mystery House | 2026.10.01 | Oct 1, 2026 | [Code](https://www.dropbox.com/scl/fi/ql75j6evoue7qjieqwb62/BOF_WMH_20261001.zip?rlkey=nom51tgrjn010ezshciz1tgvr&st=v2jn7stk&dl=0) | [Change Log](https://shop.kollectfun.com/winchester-code-update/) |
 
 ### <a name="heading--apvault"></a>American Vault
 [Download code for all American Pinball releases here.](https://www.american-pinball.com/support/updates/)
@@ -241,6 +243,13 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | --- | --- | --- | --- |
 | Bride of Pinbot 2.0 | 1.21 | Dec 2021 | [Code](http://www.dutchpinball.com/bop2/software/1.21/nyHNel7i/BOP2-v1.21.zip) |
 | The Big Lebowski | 1.15 | Nov 2024 | [Code](https://www.dutchpinball.com/tbl/software/1.15/QJESxt9k/TBL-v1.15.zip) |
+
+### <a name="heading--turnervault"></a>Turner Vault
+[Download code for all Turner pinball machines here.](https://turnerpinball.com/updates/)
+
+| Game Title | Latest Version | Release Date | Links |
+| --- | --- | --- | --- |
+| Ninja Eclipse | 1.0.1 | Oct 29, 2026 | [Notes](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.md), [Enc File](https://turnerpinball.com/software-releases/ninjaeclipse_v1.0.1/ninjaeclipse_v1.0.1.enc), [Sig File](https://turnerpinball.com/software-releases/ninjaeclipse_v1.0.1/ninjaeclipse_v1.0.1.sig) |
 
 ## <a name="heading--legacy"></a>Legacy Tables
 **Legacy tables** are pinball machines released by companies that have since left the pinball industry, or have since moved on from DMD releases to LCDs. The code releases are presented here for safekeeping.
