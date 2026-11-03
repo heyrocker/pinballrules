@@ -5,7 +5,7 @@ opdb_id: "Gxv81"
 ---
 
 # Star Wars: Fall of the Empire
-[Official Rulesheet for 0.96 code](https://stern-wagtail-1.s3.amazonaws.com/media/documents/Star-Wars-Fall-of-the-Empire-Rulesheet-v8-compressed.pdf)
+[Official Rulesheet for 0.98 code](https://wp.sternpinball.com/wp-content/uploads/2026/11/Star-Wars-FOTE-Rules-Sheet-0.98_110226.pdf)
 
 - [Game Information](#heading--gameinfo)
 - [Layout](#heading--layout)
