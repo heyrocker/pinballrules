@@ -315,10 +315,10 @@ The final attack on the Death Star II begins as with the help of the Ewoks, the 
 
 This mini-wizard mode is split into four phases. The scoring for the mode is based on 0.1% of total scores gained from the prior Rebel Missions.
 
-- *Phase 1* - Leia Meets Wicket:
-- *Phase 2* - Battle Multiball:
-- *Phase 3* - Battle Hurry-Ups:
-- *Phase 4* - Shield Generator Hurry-Ups:
+- *Phase 1: Leia Meets Wicket* - A second ball is launched into play and you have a limited time to hit lit shots. Each shot awards 500k and boosts jackpot value by 500k (fast blinking shots award and boost by 1 million instead). During the entire time, ball saver is active, however every drain will result in 5 seconds being lost in the timer. Once the timer hits zero, Phase 2 starts.
+- *Phase 2: Battle Multiball* - All six balls are launched into play and every shot is lit for jackpots based on the value you started with from missions plus the amount boosted during Phase 1. Death Star and Leia ramp score 2x jackpots. Make 15 jackpots to light the Luke shot to “get back to the bunker” and advance to the next phase (or continue hitting jackpots). Once you’re down to 1 ball in play, all other jackpots turn off and only Luke is lit to advance (unless you still need more jackpots to reach 15, at which point you can continue to hit jackpots until you get there). Each jackpot award feeds into the Phase 3 jackpot value, at 10% of their value.
+- *Phase 3: Battle Hurry-Ups* - Upon hitting the Luke shot and starting Phase 3, a sequence of hurry-up shots is lit, one at a time, corresponding to the events of the scene. The final shot will be either Han or Leia at 2x the value.
+- *Phase 4: Shield Generator Hurry-Up* - All balls are collected upon making the final shot of Phase 3 and one new ball is served. Hit the Luke shot to award a hurry up based on the points scored in Phase 3, then the Stormtrooper target quickly to score 2X the value collected at the Luke shot. Once the final Stormtrooper target is made, the mode ends.
 
 ## Sarlacc Escape (Mini-Wizard Mode): {#heading--sarlacc}
 
