@@ -43,9 +43,9 @@ opdb_id: "Gxv81"
 - Display and Animations:
 - Sound Design: Jerry Thompson, Bob Baffy
 - Release Date: September 2025
-- Wiki Rulesheet based on Code Rev: 0.97
+- Wiki Rulesheet based on Code Rev: 0.98
   - *Edit the Code revision, if applicable, when you make changes*
-- Original Wiki Rulesheet hosted on [Tilt Forums](/stern/star-wars-fall-of-the-empire-rulesheet)
+- Original Wiki Rulesheet hosted on [Pinball Rulesheets](/stern/star-wars-fall-of-the-empire-rulesheet)
 
 ***Star Wars: Fall of the Empire*** marks John Borg's return to the *Star Wars* license after over 30 years, bringing his pinball career full circle as the 1992 Data East machine was his first ever pinball design. Based on the Original Trilogy, the table covers aspects of the trilogy that were given less attention in prior releases with the theme.
 
@@ -82,23 +82,22 @@ The Rebel Missions play very similarly but have different shot maps: hit four bl
 
 Playing and completing Rebel missions or completing Bonus Missions provides a *Force Boost*, multiplying the associated character's jackpot shots during most multiballs for the remainder of the game. The associated Rebel character's "portrait" insert will be pulsing, solid, or flashing during the multiball to indicate a 2x, 3x, or 4x jackpot multiplier.  The status of each character is also shown in the semi-circle arc of capsule-shaped inserts with identical logic to the Portraits: pulsing, solid, or flashing for a played Rebel Mission, a completed Rebel Mission, or a completed Bonus Mission, respectively.
 
-Each character has four missions: a level 1 *green* mission with the easiest array of shots but lowest starting value (3M), a level 2 *yellow* mission with a medium-difficulty set of shots and medium value (4M), a level 3 *orange* mission that lights the fewest shots for the highest value (5M), and a 4th *Bonus* mission can only be unlocked by *completing* one of the character's missions, then shooting their shot again while no other modes are running. The shot color of the Bonus Mission is different for each character. Multiballs and mini-wizard modes take priority over Bonus missions if both are lit at the same shot.
+Each character has four missions: a level 1 *green* mission with the easiest array of shots but lowest starting value (3M), a level 2 *yellow* mission with a medium-difficulty set of shots and medium value (4M), a level 3 *orange* mission that lights the fewest shots for the highest value (5M), and a 4th *Bonus* mission can only be unlocked by *completing* one of the character's missions, then shooting their shot again while no other modes are running. The shot color of the Bonus Mission is different for each character. Multiballs and mini-wizard modes take priority over Bonus missions if both are lit at the same shot. **[Ion cannons / shot multipliers](#heading--shotx)** cannot be advanced during Bonus missions, and **[hyperspace loops](#heading--tiefighter)** cannot be started either.
 
 The lit mission colors change with Stormtrooper target hits. If another mission is started at a character who already has a completed mission, the mode shot values will be multiplied by 2x.
 
 **Rebel Mission Blue Shot Logic:** Generally, they fall into the following categories:
-- Level 1 (Green): 4 shots initially lit. Shooting 1 shot unlights it for next shot only, then it relights after you hit a different shot. Meaning that 3 shots will be lit for shots 2-4.
-- Level 2 (Yellow): Shifting pairs. A pair of shots will be lit. Shoot 1 of them and a new pair of shots will be lit.
-- Level 3 (Orange): One shot lit at a time.
+- Level 1 (Green): 4 shots initially lit. Shooting 1 shot unlights it for next shot only, then it relights after you hit a different shot. Meaning that 3 shots will be lit for shots 2-4. Shot value starts at 3M + 750k build.
+- Level 2 (Yellow): Shifting pairs. A pair of shots will be lit. Shoot 1 of them and a new pair of shots will be lit. Shot value starts at 4M + 1M build.
+- Level 3 (Orange): One shot lit at a time. Shot value starts at 6M + 1.5M build.
 
 The characters also provide different scoring buffs to certain shots, giving each character's set of missions some unique attributes. Fast-flashing blue shots are worth 2x the displayed value for regular-flashing blue shots. The attributes and the names for each mode, from easiest to hardest, are listed below:
 - **Yoda**: Spinners increase the shot value by 10k per spin. Missions: **Meeting Yoda** (green), **Jedi Training** (yellow), **Seeing the Future** (orange)
   - **The Final Lesson**: Long mode with ball save checkpoints at each Luke shot. Shoot Luke VUK to start. Phase 1 - shoot the lit shots to increase the per spin value of the left and right spinners by 50k, left spinner scores 2x the value of right spinner, and shoot the Luke VUK after making enough spins to advance through the mode; repeat 3x, 25 more spins are needed for each phase. Phase 2 - shoot the Luke VUK again, then hit 10 lit shots and finally the Vader scoop before Yoda fades away. Increase the shot value using the spinners.
-
-- **Luke**: The Luke VUK will always be available as a possible blue shot. Luke VUK and right ramp score 2x their normal mode value. Missions: **Discovering the Force** (green), **Escaping the Death Star** (yellow), **Leaving Dagobah** (orange)
-  - **Dark Side Cave**: Phase 1 - Shoot the Luke shot, then the left orbit twice to advance towards the cave, with the "F" FORCE target scoring single value when the left orbit is lit for 2x value. Repeat the process again, then shoot the Vader scoop to enter the cave. Phase 2 - While in the cave, shoot the FORCE targets from left to right to advance the fight against Vader and light the previously hit targets for unlimited additional points. Spelling FORCE will light the Vader scoop to complete the mode and re-score 50% of your mode points (not multiplied by ion cannon ShotX).
+- **Luke**: The Luke VUK will always be available as a possible blue shot. Luke VUK and right ramp score 2x their normal mode value. (In *Leaving Dagobah*, left orbit and right orbit are worth 2x instead.) Missions: **Discovering the Force** (green), **Escaping the Death Star** (yellow), **Leaving Dagobah** (orange)
+  - **Dark Side Cave**: Phase 1 - Shoot the Luke shot, then the left orbit twice to advance towards the cave, with the "F" FORCE target scoring single value when the left orbit is lit for 2x value. Repeat the process again, then shoot the Vader scoop to enter the cave. Phase 2 - While in the cave, shoot the FORCE targets to advance the fight against Vader, ideally shooting the targets from left to right to increase the multiplier for maximum points. Spelling FORCE will light the Vader scoop to complete the mode and re-score 25% of your mode points.
 - **Droids**: Slingshots and bumpers move which shot is lit for 2x value. Missions: **Rebel Ship** (green), **Welcome to Tatooine** (yellow), **Ewok Deity** (orange)
-  - **Find R2-D2**: Shoot the Droids target to lock in or unlock the lit shot roving around the playfield. After collecting each roving shot, the process repeats. Collect six roving shots to complete the mode. The first and last roving shots are restricted to the Vader scoop, Luke VUK, or Sarlacc Pit; but the 4 roving shots in between can be at any shot excluding the Droids target. The value is multiplied by +1x with every unique roving shot made over the course of the mode.
+  - **Find R2-D2**: Shoot the Droids target to lock in or unlock the lit shot roving around the playfield for 10 seconds. After collecting a roving shot, the process repeats. Collect six roving shots to complete the mode. The first and last roving shots are restricted to the Vader scoop, Luke VUK, or Sarlacc Pit; but the 4 roving shots in between can be at any shot excluding the Droids target. The value is multiplied by +1x with every unique roving shot made over the course of the mode, and by 2x if the Droids target was hit to lock it in.
 - **Lando**: All blue shots start at 2x, but if enough slingshots or bumpers are hit, they will reduce back to 1x. Missions: **Lando Calrissian** (green), **The Sellout** (yellow), **Lando's Redemption** (orange)
   - **Rescue Luke**: Combo mode. Score combos at the pink-flashing shots by shooting them in succession to advance through the scene. Continuing the sequence before your combo timer runs out adds +1x to each shot, and the first shot of sequences 1 & 2 can be multiplied by hitting the [white starter] shot first.  If your combo timer runs out, your combo X is lost and your prior pink shot will relight as a white starter shot, re-enabling the current pink shot as a combo (but only at 2x).
   - The first combo is [right ramp] - Luke VUK - center ramp 2x - right ramp - Vader scoop; the second combo is [Luke VUK] - center ramp - right ramp - Death Star; and the final combo is Luke VUK - right ramp - Luke VUK. Note that the multiplier resets to 1x every time one of the above combos is completed.
@@ -110,11 +109,11 @@ The characters also provide different scoring buffs to certain shots, giving eac
 - **Leia**: Prioritizes the Luke VUK and Han center ramp as build shots. Right ramp scores 2x its normal mode value. Missions: **Jailbreak** (green), **Trash Compactor** (yellow), **Rescuing Han** (orange)
   - **Speeder Bikes**: Shoot the Luke VUK to light the orbits and ramps for hurry-up awards starting at 12.5M. Making 8 shots will lock in the hurry-up award value and start a 2-ball multiball where each lit shot scores the hurry-up value. Once all 8 major shots are made during the multiball, the right ramp will score their combined value as a super jackpot and complete the mode.
 - **Obi-Wan**: Any time the Luke VUK or Obi-Wan right orbit are lit blue, they will score 2x their normal mode value. Missions: **Ben Meets Luke** (green), **The Message** (yellow), **Duel with Darth Vader** (orange)
-  - **Revealing the Truth**: VERY long mode with ball save checkpoints at each shot threshold described below. Advance through the scene by hitting any of the Vader scoop, Luke VUK, right ramp, or right orbit. If the shot hasn't been made yet, the score from that shot will be doubled; and at 7, 14, 21, and 28 shots, only Vader scoop and Luke VUK will be lit to advance. Complete the mode by making 28 total lit shots.
+  - **Revealing the Truth**: VERY long mode with ball save checkpoints at each shot threshold described below. Advance through the scene by hitting any of the Vader scoop, Luke VUK, right ramp, or right orbit. If the shot hasn't been made yet (fast flashing), the score from that shot will be doubled; and at 7, 14, 21, and 28 shots, only the Vader scoop and Luke VUK will be lit to advance. Complete the mode by making 28 total lit shots. Shot value starts at 2M, and the final shot scores 3x the current value (+1x if it was at a fast flashing shot).
 
 Complete two, then six missions to light **[extra ball](#heading--extraballs)**.
 
-Play one mission for four different characters to light the left scoop for **[Not a Jedi Yet](#heading--father)** mini-wizard mode. Every Rebel Bonus mission *completed* will reduce the number of unique character mission types required to access Not a Jedi Yet by 1.
+Play one mission for four different characters to light the left scoop for **[Not a Jedi Yet](#heading--father)** mini-wizard mode. Play one mission for all four unique characters to light the left scoop for **[Ewok Encounter](#heading--ewok)** mini-wizard mode. Every Rebel Bonus mission *completed* will reduce the number of unique character mission types required to access either mini-wizard mode by 1.
 
 ## Falcon Features & Lightspeed Escape: {#heading--falcon}
 
@@ -193,14 +192,15 @@ Shoot the Death Star ramp to open up the lock at the toy, then shoot the ramp ag
 
 - **Death Star Multiball**: All shots are lit to score jackpots; if a jackpot is made, the shot where it was scored will unlight until a different shot is made. After scoring 15 jackpots (all subject to progression increases from **[rebel combos](#heading--combos)**), all jackpots will turn off and the Death Star ramp will be the only shot lit. Shoot the ramp to open up the toy, lighting it for a 20M super jackpot, and add a ball. Before scoring the super jackpot, the other jackpots will relight for 30 seconds when the ramp shot is made: hitting 3 of these jackpots increases the super jackpot multiplier to 2x, then 3x after 7 jackpots are made (also subject to Rebel Combo progress buffs).  If the super jackpot timer expires, your super jackpot phase restarts at the base value and 1x multiplier. After scoring the super jackpot, ball save will start up again, a ball will be added, and victory laps will start; hit the flashing shots for victory laps, then hit the Death Star to score a victory super jackpot and relight the other shots at increased values. Progress towards the super jackpot is saved across Death Star Multiball attempts.
 
-- **Death Star II Multiball**: Scoring the super jackpot in the first multiball counts as having destroyed the first Death Star, and the lock progress for the next multiball will instead progress towards defeating the Death Star II. During the multiball, shoot lit shots to score jackpots (as usual, subject to Rebel Combo progress buffs), increase their value, and eventually light a 2x jackpot at the Death Star. Unlike the first DSMB, jackpot shots will NOT relight after you hit a different jackpot. Scoring the 2x jackpot lights a roving shot from left to right for 3x jackpot, and scoring this jackpot lights the Center Ramp for a super (12x) jackpot that must be scored by shooting two balls through the center ramp in quick succession. Scoring the super jackpot completes the multiball and starts victory laps.
+- **Death Star II Multiball**: Scoring the super jackpot in the first multiball counts as having destroyed the first Death Star, and the lock progress for the next multiball will instead progress towards defeating the Death Star II. During the multiball, shoot lit shots to score jackpots (as usual, subject to Rebel Combo progress buffs), increase their value, and eventually light a 2x jackpot at the Death Star. Unlike the first multiball, jackpot shots will NOT relight after you hit a different jackpot. Scoring the 2x jackpot lights a roving shot from left to right for 3x jackpot, and scoring this jackpot lights the Center Ramp for a super (12x) jackpot that must be scored by shooting two balls through the center ramp in quick succession. Scoring the super jackpot completes the multiball and starts victory laps.
 
 # Other Scoring: {#heading--other}
 
 ## Ion Cannons (Shot Multipliers) {#heading--shotx}
 
 Shots to the left and right pop bumpers in single-ball play charge up the ion cannons and eventually light the pulsing Rebel Alliance icons at all major shots. The next time one of these pulsing shots is made, it will be worth 2x for the rest of the ball in play.
-- The player cannot light new shot multipliers (pulsing) while any **[multiball](#heading--multiballs)** mode is active, but can charge up the ion cannons during multiball for progress toward the next eventual activation during single-ball play.
+
+- The player cannot light new shot multipliers (pulsing) while any **[multiball](#heading--multiballs)** mode is active, but can charge up the ion cannons during multiball for progress toward the next eventual activation during single-ball play. If an ion cannon was ready before starting any **[bonus mission](#heading--missions)** or **[wizard mode](#heading--wizard)**, it can be placed during the mode but can't be advanced afterwards.
 - Pulsing shot multipliers that have not yet been locked in will carry across balls.
 - If the player places a shot multiplier at *all* major shots, then the next ion cannon activation will activate a 3x shot multiplier that moves across the playfield (from left to right) with every bumper hit.
 
@@ -211,14 +211,14 @@ While in single-ball play, shoot any shot to light natural combo opportunities f
 **Super Modes** are untimed features -- each started by completing a shot's 2nd Rebel Combo -- that stack with everything else in the game and award points for continuing to hit shots around the playfield, similar to the Ultra modes on Bally's *World Cup Soccer*. The points are determined by how many super modes have been completed; each shot made during a Super Mode scores the "super mode value" divided by the number of shots required to complete the super mode. This value starts at 10M and increases by 2.5M with every super mode *completed* over the course of the game. Each completed super mode also awards its full value in that ball's **[end-of-ball bonus](#heading--bonus)**.
 
 Each character's Super Mode, and the number of shots required to complete it, are:
-- **Yoda**: Super spinners (200 spins)
-- **Luke**: Super targets (10 FORCE target hits, from left to right)
-- **Droids**: Super droids (10 droids target hits)
-- **Lando**: Super slings (20 slingshot hits)
+- **Yoda**: Super spinners (100 spins)
+- **Luke**: Super FORCE targets (5 FORCE target hits, from left to right)
+- **Droids**: Super droids target (5 droids target hits)
+- **Lando**: Super slings (10 slingshot hits)
 - **Han**: Super lanes (10 lit inlanes, the same inlane cannot be hit twice in a row)
 - **Chewie**: Super Sarlacc (40 Sarlacc pit spins)
 - **Leia**: Super ramps (10 ramps, both ramps relight once both are made)
-- **Obi-Wan**: Super pops (20 bumper hits)
+- **Obi-Wan**: Super pops (10 bumper hits)
 
 ## Dark Side Mystery: {#heading--mystery}
 
@@ -243,7 +243,7 @@ Every completion of the return lanes also adds +250k to the **[Stormtrooper hurr
 
 Shoot the right ramp to collect TIE Fighters: 1 per ramp shot, 2 if made as a combo from the center ramp on Prem / LE models. Awards are given at thresholds of TIE Fighters:
 
-- 5, 15, 45: starts **Hyperspace Loops**. Shoot the center ramp as many times as possible to build a hyperspace jackpot that can be scored at the right ramp, and cash out the jackpot before time runs out. The center ramp build value and right ramp jackpot can be multiplied by **[shot multipliers](#heading--shotx)**.
+- 5, 15, 45: starts **Hyperspace Loops**. Shoot the center ramp as many times as possible to build a hyperspace jackpot that can be scored at the right ramp, and cash out the jackpot before time runs out. The center ramp build value and right ramp jackpot can be multiplied by **[shot multipliers](#heading--shotx)**. If the threshold that starts Hyperspace Loops is reached during a **[bonus mission](#heading--missions)**, the mode won't start until after the right ramp is shot following the end of the bonus mission.
 - 10, 30, 60: lights **[extra ball](#heading--extraballs)**, defaulting to the Luke VUK shot but alternating with slingshot hits between that shot and the right ramp.
 
 ## Stormtrooper Hurry-Up & Bonus X: {#heading--stormtrooper}
@@ -259,7 +259,7 @@ Rip the spinners to add letters to JEDI and light *both* outlanes for ball save.
 - **Pro**: The ball save only lights when JEDI is fully spelled and can only be used during single-ball play. Once a lit outlane is rolled over, the player must press the *action button* before a drain is registered to save their ball and continue play.
 - **Prem / LE**: When 2-3 letters in JEDI are fully lit, the action button will be lit to quickly pulse the magnet below the flippers once per letter after an outlane is rolled over. If all of JEDI is spelled, pressing the action button will cause the magnet to grab the ball and then toss it up back into play from between the flippers, still momentarily leaving 3 pulses left if the player still needs them to save the ball.
 
-Every time the player fully spells JEDI, the difficulty of relighting it increases. 20 more spins are needed per letter.
+Every time the player fully spells JEDI, the difficulty of relighting it increases. 20 more spins are needed per letter. Outside of the ball save at the start of each ball, JEDI cannot be spelled while ball save is running.
 
 ## Extra Balls: {#heading--extraballs}
 
@@ -298,13 +298,26 @@ All multiplied by the bonus multiplier which increases by +1x with every **[stor
 
 ## Not a Jedi Yet (Mini-Wizard Mode): {#heading--father}
 
-Light the left scoop *blue* to start this single-ball mini-wizard mode by playing (completion is not required) **[Rebel Missions](#heading--missions)** across four unique characters. Completing *Bonus Missions* for any character reduces the number of unique character missions required to light this mode by 1. When the mini-wizard mode is lit by playing a Rebel Mission from your 4th unique character, no further missions can be lit. However, if NAJY was lit with the aid a Bonus Mission completion, then the option remains to continue qualifying and playing more Rebel Missions until you've played one from your 4th unique character.
+Light the left scoop *blue* to start this single-ball mini-wizard mode by playing (completion is not required) **[Rebel Missions](#heading--missions)** across four unique characters. Completing *Bonus Missions* for any character reduces the number of unique character missions required to light this mode by 1. When the mini-wizard mode is lit by playing a Rebel Mission from your 4th unique character, no further missions can be lit. However, if NAJY was lit with a Bonus Mission completion, then the option remains to continue qualifying and playing more Rebel Missions until you've played one from your 4th unique character.
 
 In the depths of Cloud City, Luke has been captured by Darth Vader. Wanting to finally take revenge on him for what he did to Obi-Wan, their lightsabers clash during an epic battle, but Luke isn't prepared for what Vader plans to tell him.
 
-This mini-wizard mode's scoring is based on a percentage of total scores gained from the prior Rebel Missions (up to 13 can be played, including Bonus Missions, as each character has 4 different modes). Shots start out lit white for 1x value, but hitting the same shot again will turn it blue for 2x, then red for 3x. Hitting any 3 shots will light the left scoop, Luke VUK, and Sarlacc pit blue to advance to the next stage, which will reactivate a 15-second ball save and score a value based on the current white/blue/red status of the lit shots. Beware, as after hitting a red shot, that shot can no longer be made again (outside of the blue "progress checkpoint" shots on the left scoop, Luke VUK, and Sarlacc pit) for the rest of the mode!
+This mini-wizard mode's scoring is based on 1% of total scores gained from the prior Rebel Missions. Shots start out lit white for 1x value, but hitting the same shot again will turn it blue for 2x, then red for 3x. Hitting any 3 shots will light the left scoop, Luke VUK, and Sarlacc pit blue to advance to the next stage, which will reactivate a 15-second ball save and score a value based on the current white/blue/red status of the lit shots. Beware, as after hitting a red shot, that shot can no longer be made again (outside of the blue "progress checkpoint" shots on the left scoop, Luke VUK, and Sarlacc pit) for the rest of the mode!
 
 After clearing out 6 waves of shots (a total of 24 shots, including 6 blue checkpoint shots), the left scoop is lit to score a final hurry-up based on the total value of the shots that were still available to collect. Collecting this final hurry-up completes the mode, and afterwards, Rebel Missions will be available to qualify and play.
+
+## Ewok Encounter (Mini-Wizard Mode): {#heading--ewok}
+
+Light the left scoop to start this multiball mini-wizard mode by playing (completion is not required) **[Rebel Missions](#heading--missions)** across all eight unique characters. Completing *Bonus Missions* for any character reduces the number of unique character missions required to light this mode by 1.
+
+The final attack on the Death Star II begins as with the help of the Ewoks, the Rebel Alliance takes down the shield generators on Endor.
+
+This mini-wizard mode is split into four phases. The scoring for the mode is based on 0.1% of total scores gained from the prior Rebel Missions.
+
+- *Phase 1* - Leia Meets Wicket:
+- *Phase 2* - Battle Multiball:
+- *Phase 3* - Battle Hurry-Ups:
+- *Phase 4* - Shield Generator Hurry-Ups:
 
 ## Sarlacc Escape (Mini-Wizard Mode): {#heading--sarlacc}
 
@@ -312,6 +325,7 @@ Start this multiball mini-wizard mode by playing all three **[Jabba Events](#hea
 
 Collect switch hits to light the jackpot at the Sarlacc Pit ramp; when the jackpot is lit, shoot the flashing arrow shots to increase the jackpot multiplier. The jackpot is scored once for every spin in the ramp but on competition mode, will cap out at 50 spins. Scoring the jackpot adds a ball and returns to the switch frenzy phase.
 
+The shot value starts at 5M + 2.5M per Jabba Event completed. The per spin value starts at 1M + 250k per Jabba Event completed, and each switch hit before the jackpot is lit increases the per spin value by 10k.
 After scoring four jackpots, shoot the left scoop to score a hurry-up super jackpot worth the jackpot total and complete the mini-wizard mode.
 
 ## Never Tell Me The Odds (Mini-Wizard Mode): {#heading--odds}
@@ -326,12 +340,10 @@ If the player drains down to 1 ball at any time during the mode, they will have 
 
 ## Dark Side Multiball (Mini-Wizard Mode): {#heading--darkside}
 
-Light the left scoop *purple* to start this mini-wizard mode by collecting 10 shots during **[Dark Side Scoring](#heading--vader)**. To start dark side scoring, complete any **Vader mode**, then the randomly lit purple shots will advance towards lighting this mini-wizard mode.
+Light the left scoop *purple* to start this mini-wizard mode by collecting 10 shots during **[Dark Side Scoring](#heading--vader)**. To start dark side scoring, complete any **Vader mode**, then the randomly lit purple shots will advance towards lighting this mini-wizard mode. A minimum jackpot value is locked in as soon as the mini-wizard mode is qualified, and the value resets to its minimum if the ball drains before the mode starts. The mode can only start if no other modes are running.
 
-During the cutscene that starts this multiball, press the action button if you want to cancel out the multiball and play another Vader mode instead, increasing the value of the multiball before starting it.
+Dark Side Multiball is a 3-ball multiball where all shots are lit to score jackpots worth the current Dark Side Scoring award. Scoring a jackpot will increase the next shot's value by 10% of the award. Shooting the Death Star scores 2x the current value and relights all shots, while hitting the Vader scoop lights the next shot made to score 2x the current value.
 
-Dark Side Multiball is a 3-ball multiball where all shots are lit to score the current Dark Side Scoring value (5% of the built-up value from Vader modes). Hitting all eight major shots *or* hitting the left scoop relights all shots.
-
-Once the multiball ends and single-ball play resumes, the left scoop is lit to score a final hurry-up starting at the total value of Dark Side multiball and decreasing to 10% of the total value. Shoot the left scoop to collect the hurry-up award and complete the mode.
+Once the multiball ends and single-ball play resumes, the left scoop is lit to score a final hurry-up starting at the total value of the multiball and decreasing to 10% of the total value. Shoot the left scoop to collect the hurry-up award and complete the mode.
 
 ## Jedi Master (Wizard Mode): {#heading--master}
