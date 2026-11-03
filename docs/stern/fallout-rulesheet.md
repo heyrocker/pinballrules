@@ -202,7 +202,7 @@ The classic Fallout stat mechanism is present. Earn XP during **[quest modes](#h
   * Level 1 - Easier to light fat man (lane behind upper flipper lights all right standup targets to enable fat man). -1 shot to enable radio jackpots.
   * Level 2 - Guaranteed **[advanced hacking](#heading--hacking)**. -2 shots to enable radio jackpots.
 * **A**gility
-  * Level 1 - Easier to light VATS
+  * Level 1 - Easier to light VATS. The timer to hit the escape shots after a failed steal attempt is extended.
   * Level 2 - Even easier to light VATS as you need even less AP, easier to upgrade weapons
 * **L**uck
   * Level 1 - Earn more caps, better stealing odds, and better junk items
