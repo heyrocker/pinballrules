@@ -180,7 +180,7 @@ Eggman will then present himself and Boss Battle will activate. Shoot the center
 
 <h2 id="heading--feature">Feature Modes:</h2>
 
-**NOTE: Boss Rush and Super Sonic feature modes are not implemented on 0.95 code.**
+**NOTE: Super Sonic feature mode is not implemented on 0.96 code.**
 
 Feature Modes take priority over all other modes and multiballs once started, and serve as mini-wizard modes of the game.
 
@@ -190,7 +190,7 @@ Collect enough shots on the upper playfield to light this mode at the center ram
 
 While attempting to protect the Master Emerald from Eggman, Knuckles accidentally shatters the emerald and has to recover the shards. 30 seconds of ball save are given at the start of this mode. Within 70 seconds, shoot the lit green shots to collect 2 or 3 of the 30 Master Emerald shards. Once a green shot is hit, it will turn red; red shots score smaller jackpot awards and increase the value for each individual shard. After finding 20 shards, all shots will turn red and the player must hold the action button to reveal where the next shards are. The last shot of the mode will always be at a shot that holds the ball: either the center ramp, lab jump ramp, or lockup. If the player fails the mode, they can requalify it with more upper playfield shots and start where they left off. 
 
-Collecting all 30 shards recovers the Master Emerald and boosts all **[bash dash](#heading--multiballs)** scoring so that it starts at 3x and increases by 2x per shot while the ball is held. If the player obtained the **[green Chaos Emerald](#heading--emerald)**, victory laps will be enabled for the rest of the game after the mode is won. Every further upper playfield shot lit green will add to a jackpot value scored at the bash dash target.
+Collecting all 30 shards recovers the Master Emerald and boosts all **[bash dash](#heading--multiballs)** scoring so that it starts at 3x and increases by 2x per captive ball shot while the ball is held. If the player obtained the **[green Chaos Emerald](#heading--emerald)**, victory laps will be enabled for the rest of the game after the mode is won. Every further upper playfield shot lit green will add to a jackpot value scored at the bash dash target.
 
 <h3 id="heading--casino">Casino Night:</h3>
 
@@ -203,7 +203,7 @@ Some possible tasks for each stage are:
 - Stage 2: 4 ramp shots; 4 upper playfield orbits; 4 upper playfield targets; 10 Badnik targets
 - Stage 3: Left shots in order; Right shots in order; Upper playfield shots in order (left to right); 5 left orbits; 5 right orbits
 
-Possible awards from the slots that can be added to the prize bank include: points (10M or 50M), 1 additional token, spotting a hero towards **[Sonic Heroes multiball](#heading--heroes)**, **[rings](#heading--rings)** (10 or 50), 1 **[Chao egg](#heading--chao)**, or 1 **[kickback charge](#heading--kickback)**. Past the first stage of Casino Night, scoring 3 Eggman icons on the slots will remove the top award from the prize bank.
+Possible awards from the slots that can be added to the prize bank include: points (10M or 50M), 1 additional token, spotting a hero towards **[Sonic Heroes multiball](#heading--heroes)**, **[rings](#heading--rings)** (10, 50 or 100), 1 **[Chao egg](#heading--chao)**, 1 **[kickback charge](#heading--kickback)**, or lighting **[extra ball](#heading--extraballs)**. Past the first stage of Casino Night, scoring 3 Eggman icons on the slots will remove the top award from the prize bank.
 
 If the player makes it through all 3 stages, their next slot spin will score a final jackpot worth 100M and end the mode automatically cashing out the prize bank.
 
@@ -211,7 +211,11 @@ If the player makes it through all 3 stages, their next slot spin will score a f
 
 The lockup lights to start Boss Rush during single-ball play after winning 4, 9, and 12 **[boss battles](#heading--zones)**. While this mode is available, drop targets cannot be scored towards lighting **[Chaos Emerald multiball](#heading--emerald)**.
 
-This mode is currently not implemented and instead scores 50M.
+Sonic and Shadow team up to defeat all of Eggman's machines in quick succession. Starting as a single-ball mode, the player is prompted to defeat the Eggman mech on the upper playfield, which will add a ball. The mode then becomes a multiball where the player must follow the flashing shots to take down Eggman's shield before they can damage the mech, move to the next phase, and add-a-ball. **[Bash dash](#heading--multiballs)** can be started during this mode and applies to all scoring.
+
+(*Need requirements for defeating each boss. I know boss 7 requires all 5 lower playfield shots to be made before damage can be dealt*)
+
+If the player fails to defeat all 7 of Eggman's machines in the same mode, their progress will be saved the next time they reach the mode. The player's best time is also saved if they were able to complete the mode.
 
 <h3 id="heading--supersonic">Super Sonic:</h3>
 
