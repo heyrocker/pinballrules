@@ -102,7 +102,9 @@ Each skill shot, regardless of level, also adds +5 seconds of ball save time.
 
 There are also two **secret skill shots** and a **super secret skill shot**:
 
-[details="Spoilers"]
+<details markdown="1">
+<summary>Spoilers</summary>
+
 **Secret Skill Shots** (awards the current skill shot value when hit):
 
 - Shoot the chum bucket, *without* any other switch hits.
@@ -113,7 +115,8 @@ There are also two **secret skill shots** and a **super secret skill shot**:
 - Shoot the dead center of the captive ball area, *without* any other switch hits.
 
 Note: on Prem / LE models, if shark hits are available, secret skill shots at the captive ball area cannot be hit.
-[/details]
+
+</details>
 
 ## Shark Encounters: {#heading--encounters}
 

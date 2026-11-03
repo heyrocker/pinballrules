@@ -76,7 +76,8 @@ At the start of the ball the player is able to choose one of the 22 songs in the
 
 Starting any feature, mode or multiball, will change background music to the associated song. Each song that corresponds to a mode has an associated **[setlist combo](#heading--luxaeterna)** described in the appropriate section.
 
-[details="Track List"]
+<details markdown="1">
+<summary>Track List</summary>
 
 |Song Title|Original Album|Year|Length|
 |---|---|---|---|
@@ -103,7 +104,7 @@ Starting any feature, mode or multiball, will change background music to the ass
 |72 Seasons|72 Seasons|2023|7:39|
 |If Darkness Had a Son|72 Seasons|2023|6:36|
 
-[/details]
+</details>
 
 ## Skill Shots {#heading--skillshots}
 
@@ -284,7 +285,8 @@ Once Hardwired starts, all five shots will be lit to score a hurry-up value star
 
 There are 14 unique setlist combos in the game that can only be earned when certain modes are running. The combos, modes they're associated with, and the values they add to the **[combo jackpot](#heading--combos)** are listed below.
 
-[details="Setlist combos"]
+<details markdown="1">
+<summary>Setlist combos</summary>
 
 | **Combo Sequence** | **Jackpot Boost** | **Associated Modes** |
 | --- | --- | --- |
@@ -303,7 +305,7 @@ There are 14 unique setlist combos in the game that can only be earned when cert
 |Right Ramp → Captive Ball | 300,000 | **[Seek & Destroy](#heading--seek)** |
 |Right Orbit → Right Orbit | 750,000 | **[Blackened](#heading--blackened)** |
 
-[/details]
+</details>
 
 Each setlist combo earned during the mode that matches it will award a **[self-destruct button](#heading--button)** and count down towards lighting Lux Aeterna at the piston target. 5 setlist combo pairs are required to light this side mode, and it can only be started if no other multiball or Crank it Up mode is running. Collecting 10 setlist combo pairs will instead light the piston target for **[Frantic Multiball](#heading--fmb)**, and collecting all 14 pairs will award a letter in **[UNFORGIVEN](#heading--unforgiven)**.
 
@@ -404,7 +406,8 @@ Each combo scores points on its own as well: 250k + 500k x (combo length greater
 
 Complete all 5 rollover lanes (3 inlanes, 2 above pop bumpers), which alternate with the flippers, to enable **[super pistons](#heading--blownpistons)** and light Mystery at the scoop. Complete them multiple times for better awards, up to level 4. Shoot scoop when Mystery is lit to collect a random award. A full set of the mystery awards and which levels they correspond to can be seen below:
 
-[details="Mystery awards & levels"]
+<details markdown="1">
+<summary>Mystery awards & levels</summary>
 
 |**Type**|**1**|**2**|**3**|**4**|
 | --- | --- | --- | --- | --- |
@@ -425,7 +428,7 @@ Complete all 5 rollover lanes (3 inlanes, 2 above pop bumpers), which alternate 
 |**[Bonus X](#heading--bonus)**|N|2x|3x|5x|
 |**[Hold Bonus X](#heading--bonus)**|N|N|N|Y|
 
-[/details]
+</details>
 
 The mystery animation can be skipped by pressing both flippers.
 
@@ -469,7 +472,9 @@ Once all 4 [**Crank it Up**](#heading--ciu) modes have been *played* (they don't
 
 At the start of End of the Line, you receive a hefty bonus for all the items you've collected in the game. This seems to be 200k per # of items collected throughout your game.
 
-[details="Spoilers!"]
+<details markdown="1">
+<summary>Spoilers!</summary>
+
 This wizard mode starts with 2 balls in play and 1 random shot lit for a jackpot. Collect the jackpot to light a roving super jackpot (from left to right, and then back). Once you collect the super jackpot, an add-a-ball plus ball-save is awarded and you return to the jackpot phase, but with one additional shot required to qualify your next super jackpot. You can repeat this cycle until you complete it, with all 6 shots lit for jackpots. After the final super jackpot, all shots award jackpots and no additional super jackpots are possible.
 
 The super jackpot value is determined by 50% of the scores from the Crank It Up modes you played, awarded in order from lowest to highest, and each super jackpot includes the value of the previous ones that were scored. The 5th and 6th super jackpots "wrap around" the mode totals in the super jackpot formula, so 2x the lowest-scoring mode and 2x the 2nd lowest-scoring mode total would be added in, respectively.
@@ -477,7 +482,8 @@ The super jackpot value is determined by 50% of the scores from the Crank It Up 
 Both [**Fuel 2x Playfield**](#heading--fuel2x) and [**Snake 2x Playfield**](#heading--multiballs) are in play during this multiball, so you can 2x or even 4x these Super Jackpot values!
 
 If you drain down to single-ball play during End of the Line, the scoop can be lit for the final collect the same way that it can during the other Crank It Up modes (and it can also be qualified by completing the four features during the multiball). Scoring the final collect ends the mode and returns to normal play.
-[/details]
+
+</details>
 
 Until the player qualifies Crank It Up again, they can continue to cash out 25% of the final collect for the remainder of the ball.
 
@@ -492,9 +498,12 @@ This super wizard mode starts as soon as UNFORGIVEN is spelled and no other mode
 - Collecting 100 **[combos](#heading--combos)** awards a letter (+100 for every time this super wizard mode is played)
 - Scoring the super jackpot during **[Blackened](#heading--blackened)** awards a letter
 
-[details="Spoilers!"]
+<details markdown="1">
+<summary>Spoilers!</summary>
+
 - **Part I**: Shoot spinners for big points. Once you make 72 spins, the 72 Seasons targets will light for a jackpot. Each spin increases in value until you haven’t hit a spinner in 5 seconds, then resets in value (and unlights if you’ve reached the next jackpot threshold). The toy jackpot at the 72 Seasons target is worth more depending on how many 72 Seasons toys you’ve collected.
 - **Part II**: Shoot lit shots to score Hardwired hurry-ups. Make shots with a flashing Hardwired circular insert on them to add a multiplier to the hurry up value for big points!
 - **Part III**: All shots start with Electric Chair inserts blinking. Shoot the grave marker to change inserts to Grave Markers, or Snake jaw to change the inserts to Snakes. Shooting a shot with a blinking item insert will award the item jackpot and turn that flashing insert solid. The base value of the item jackpot increases each time you make any item shot with solidly lit items already at that shot. The jackpot increases more if there are more solidly lit items on a shot. The item jackpot also gains a multiplier by how many items you have already made on that shot. Every column of items completed, or every 10 hits to the coffin, will add a ball into play. The coffin scores increasing millions of points until you reach 50 hits, then the coffin will unlight. Turn all item shots solid and make 50 coffin hits to light the coffin magnet to hold the ball for 9 seconds. Knock the ball off the coffin to score super jackpot and advance to victory laps.
 - **Victory Laps**: Each shot starts lit for the item jackpot value, and unlights once hit. Make all 6 shots to increase the jackpot multiplier (up to 3x) and light the scoop for super jackpot. Scoring a super jackpot will add a ball and reset the jackpot multiplier.
-[/details]
+
+</details>

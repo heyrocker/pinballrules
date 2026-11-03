@@ -142,7 +142,8 @@ If an item is available, use it by pressing the action button. Players can have 
 
 Hitting the crate also lights a random red arrow shot. Collecting these red arrows will fill up the tornado lightstrip on the backboard and eventually start **[Taz-Mania](#heading--taz)** mini-wizard mode.
 
-[details="ACME Factory Catalog"]
+<details markdown="1">
+<summary>ACME Factory Catalog</summary>
 
 |**Item Name**|**Boost**|**Criteria**|
 | --- | --- | --- |
@@ -169,7 +170,7 @@ Hitting the crate also lights a random red arrow shot. Collecting these red arro
 |**Instant Holes**|Award **[end-of-ball bonus](#heading--bonus)**|Open 4 crates|
 |**Paint-A-Tunnel**|Open next crate|Open 4 crates|
 
-[/details]
+</details>
 
 ## Roadrunner Loops: {#heading--roadrunner}
 

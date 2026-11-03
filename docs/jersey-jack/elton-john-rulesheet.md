@@ -82,7 +82,9 @@ At the very start of the game, the player will be prompted to select one of 15 s
 Depending on the song, note inserts will light across the playfield in different patterns. Each song has 3 levels to complete, with the current level indicated by the color of the lit notes (Yellow, then Orange, then Red.) Scoring values for each note are listed below each level's associated wardrobe item. Each note collected will slightly boost the current level's note value. A small counter above the current level's associated wardrobe item tracks how many more notes are required to complete that level.
 
 Click the spoiler tab to view the full list of songs, presented in the order that they appear in the selection screen, as well as the rules for each song's note patterns.
-[details="Song list / Note pattern details"]
+
+<details markdown="1">
+<summary>Song list / Note pattern details</summary>
 
 |**Title**|**Time**|**Notes Needed**|**Rules**|
 | --- | - | -- | ---- |
@@ -102,7 +104,7 @@ Click the spoiler tab to view the full list of songs, presented in the order tha
 |**Honky Cat**|5:13|4 / 6 / 10|Three sets of shots are lit. Nearly all shots are lit at the start of the song, but each level of notes decreases the number of shots available. Notes can also be collected by *using a kickback,* awarding 2.5x current value.|
 |**Your Sister Can't Twist**|2:41|1 / 1 / 4|*Very short song!* Left & right ramps start lit, *but will not collect notes.* Spinners worth (10K / 15K / 20K) per spin throughout song. After (level 1: 100 / level 2: 150) spinner turns, both orbits and the left VUK light to collect one note. The shot used to finish Level 1 cannot be used to finish Level 2. At level 3, one random shot (either ramp, either orbit, or left VUK) starts lit to collect a note. Make any lit shot to add another shot to the playfield.|
 
-[/details]
+</details>
 
 The name of the current song occasionally replaces the "Credit" counter on the display. The remaining time for the song is represented by the vanishing lights along the edge of the song panel. Songs will continue to run in the background of most Multiball modes (but not during wizard modes.)
 Once any song times out, the next, randomly-selected song will start.
@@ -121,7 +123,8 @@ The most important award to remember is that **[encore modes unlocked](#heading-
 
 Click the spoilers tab to view the full list of normal awards, and the order that the awards are given in:
 
-[details="Rockabox Awards"]
+<details markdown="1">
+<summary>Rockabox Awards</summary>
 
 |**Order**|**Award**|
 | --- | --- |
@@ -152,7 +155,7 @@ Click the spoilers tab to view the full list of normal awards, and the order tha
 |#25|
 |#26|
 
-[/details]
+</details>
 
 Every six albums starts a timed frenzy mode at the rockabox targets. During "party", only one target is lit green and the others are lit red, with the green value increasing the value of successive shots and red targets decreasing the value. "Shuffle" - one target is lit white, and hitting a wrong target will change the position of the lit target. "Puzzle" - hit the lit targets the designated number of times (the number of lights tell you how many shots are needed). Scoring enough lit shots during these frenzy modes will qualify an **[extra ball](#heading--extraballs)** on the next lit shot, which will be lit yellow instead of its normal color.
 
@@ -242,7 +245,8 @@ A **[milestone](#heading--milestones)** is awarded after collecting three hurry-
 
 There is a wide variety of 3-shot combos recognized by the game. The full list of combos can be viewed in attract mode and are listed in the below spoilers tab. Each letter corresponds to the "ELTON JOHN" Star in front of that shot on the playfield.
 
-[details="List of Combos"]
+<details markdown="1">
+<summary>List of Combos</summary>
 
 |**Name** | **Shot 1** | **Shot 2** | **Shot 3**|
 |--- | --- | --- | ---|
@@ -268,7 +272,7 @@ There is a wide variety of 3-shot combos recognized by the game. The full list o
 |V.I.P | O | O | O|
 |Crowd Pleaser | O | T | T|
 
-[/details]
+</details>
 
 Making the initial shot of a combo will cause the Star of potential follow-up shots to light in yellow.
 
@@ -330,7 +334,8 @@ All scoring during Champ Multiball is multiplied by the playfield multiplier (sh
 After enough jackpots are made to complete the grid, the super jackpot initially lights at the left saucer, crocodile, and the rocket. Shoot one of these to collect the first SJP. For future SJPs, only one of the previous three shots is lit *(appears to be random)*.
 ***Note: Shooting the drop targets DOES NOT fill up the grid to qualify the SJP! The drop targets only increase the value of the SJP.***
 
-[details="Super Jackpot Info"]
+<details markdown="1">
+<summary>Super Jackpot Info</summary>
 
 |**SJP**|**Qualify**|**Base**|**Increase**|
 | --- | --- | --- | --- |
@@ -339,7 +344,7 @@ After enough jackpots are made to complete the grid, the super jackpot initially
 |Third|9 Jackpots|30M|25K per drop target|
 |Fourth+|9 Jackpots|+5M|25K per drop target|
 
-[/details]
+</details>
 
 ### Super Stardom: {#heading--stardom}
 
@@ -348,7 +353,8 @@ If the player starts all four **[signature stage multiballs](#heading--stage)** 
 This is a single ball mode where each of the nine letter/star shots are color coded to correspond to a square on the grid. The goal is to shoot different shots to create patterns, then lock those patterns in with the drop targets to enable the action button to collect and fill up the meter. Fill the meter up all the way to reach Super Stardum.
 
 
-[details="Shot to Grid Mapping"]
+<details markdown="1">
+<summary>Shot to Grid Mapping</summary>
 
 | Left | Mid | Right |
 |--- | --- | ---|
@@ -356,7 +362,7 @@ This is a single ball mode where each of the nine letter/star shots are color co
 |L | N | H|
 |E | J | O (croc)|
 
-[/details]
+</details>
 
 Additional Details:
 
@@ -368,7 +374,9 @@ Additional Details:
 * There are bonus patterns listed at the bottom right of the meter on the UI that also give additional perks.
 
 
-[details="Bonus Patterns"]
+<details markdown="1">
+<summary>Bonus Patterns</summary>
+
 `XXX`
 `XXX`
 `XXX    All Values Increased`
@@ -385,7 +393,7 @@ Additional Details:
 `X_X`
 `XXX    Final Shot 2x`
 
-[/details]
+</details>
 
 
 ### Final Tour: {#heading--finaltour}
@@ -395,7 +403,8 @@ Once the player has achieved four unique **[milestones](#heading--milestones)** 
 This is a single ball mode where a group of shots will be lit on the playfield at a time. These shots change every 15 seconds and correspond to one of the four regions listed on the UI.
 
 
-[details="Shot Groupings"]
+<details markdown="1">
+<summary>Shot Groupings</summary>
 
 |Region | 4+ Milestones | 7+ Milestones | 9+ Milestones|
 |--- | --- | --- | ---|
@@ -404,7 +413,7 @@ This is a single ball mode where a group of shots will be lit on the playfield a
 |Baltic | Drop Targets | Left Ramp | ???|
 |North America | Left Ramp, Backstage, Side Ramp | Tiny Target | ???|
 
-[/details]
+</details>
 
 
 Each shot is lit to score starting at the base city value and increases by a fixed amount. If more than 4 milestones had been collected, the player can also change regions vs waiting 15 seconds by shooting the rocket kicker. The number of shot opportunities (cities) per region is equal to the number of milestones collected. After you've collected the max number of cities in a region, the shots will turn blue. *You'll still get ~1-2M per blue shot but no more points will be added to the region total at this point, so it's best to cash out the region once this happens.*
@@ -412,7 +421,8 @@ Each shot is lit to score starting at the base city value and increases by a fix
 Pressing the action button will instantly cash out the total value of the selected region and remove it from the rotation. Once all regions have been cashed out, the side ramp will light to complete the wizard mode and award the total points from all four regions again. *If the ball is about to be lost, be sure to press the action button repeatedly to collect the value from any active regions!*
 
 
-[details="Mode Details By Milestone"]
+<details markdown="1">
+<summary>Mode Details By Milestone</summary>
 
 |**Milestones** | **Cities** | **Ball Saver** | **Lit Shots** | **Rocket Ramp** | **Base City** | **Shot Increment**|
 |--- | --- | --- | --- | --- | --- | ---|
@@ -424,4 +434,4 @@ Pressing the action button will instantly cash out the total value of the select
 |9 | 9 | 85 | 5 | Active | 15,000,000 | ?? |
 |10 | 10 | 90 | 5 | Active | 25,000,000 | ?? |
 
-[/details]
+</details>

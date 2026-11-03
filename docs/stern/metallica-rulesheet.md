@@ -245,12 +245,15 @@ Once all 4 [**Crank It Up**](#heading--ciu) modes have been *played* (they don't
 
 At the start of End of the Line, you receive a hefty bonus for all the items you've collected in the game. This seems to be 200k per # of items collected throughout your game.
 
-[details="(SPOILER ALERT)"]
+<details markdown="1">
+<summary>(SPOILER ALERT)</summary>
+
 This wizard mode starts with 2 balls in play and 1 random shot lit for a jackpot. Collect the jackpot to light a roving Super Jackpot (from left to right, and then back). Once you collect the Super Jackpot, an add-a-ball plus ball-save is awarded and you return to the jackpot phase, but with one additional shot required to qualify your next Super Jackpot. You can repeat this cycle until you complete it, with all 6 shots lit for jackpots. After the final Super Jackpot, all shots award jackpots and no additional Super Jackpots are possible.
 
 The Super Jackpot value is determined by the cumulative total of the Crank It Up modes you played, awarded in the same order that you played the modes in (ie. if you played *For Whom the Bell Tolls* first, and *Fade to Black* second, then your 2nd End of the Line Super Jackpot = both of those mode totals. The 5th and 6th Super Jackpots "wrap around" your CIU mode totals in the Super Jackpot formula, so you'll get 2x your 1st mode and 2x your 2nd mode total added in, respectively. Both [**Fuel 2x Playfield**](#heading--fuel2x) and [**Snake 2x Playfield**](#heading--multiballs) are in play during this multiball, so you can 2x or even 4x these Super Jackpot values!
 
 If you drain down to single-ball play during End of the Line, the scoop can be lit for the final collect the same way that it can during the other Crank It Up modes (and it can also be qualified by completing the four features during the multiball). The final collect, with all 6 Super Jackpots collected, is often worth over 1B (!!!) points on its own, and - of course - can be doubled via [**Fuel 2x Playfield**](#heading--fuel2x). Scoring the final collect ends the mode and returns to normal play.
-[/details]
+
+</details>
 
 After playing End of the Line, play returns to normal and no further Crank It Up modes can be played for the remainder of the game - qualifying subsequent Crank It Up modes simply locks the player into scoring 10M. However, until the player qualifies Crank It Up again, they can continue to cash out 25% of the final collect for the remainder of the ball.

@@ -80,7 +80,8 @@ There are seven zones to play through:
 
 The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all located on the lower playfield, while 3x "expert" shots are located on the lab upper playfield and indicated with flashing blue lights.
 
-[details="Zone shot maps"]
+<details markdown="1">
+<summary>Zone shot maps</summary>
 
 **Green Hill**
 
@@ -156,7 +157,8 @@ The shot maps per zone can be viewed below. Generally, the 1x & 2x shots are all
 |1|Center ramp|Left or right ramp|N/A|
 |2|Lockup|Center ramp|Lab spinner|
 
-[/details]
+</details>
+
 Once the player has reached the Goal Ring in any zone, the player's score for that zone will be tallied up and ranked before the Boss Battle starts. The score is based on how quickly the zone was completed, how many "expert" (3x) shots were made, how many **[rings](#heading--rings)** the player has, and a value per **[chaos emerald](#heading--emerald)** the player has collected. The later into the game the player is, the easier it is to get the maximum "S" rank for a zone.
 
 Eggman will then present himself and Boss Battle will activate. Shoot the center ramp or left ramp to enter the upper playfield, and hit Eggman with the ball enough times to attack the boss and score a hurry-up award that decreases over time. Every battle increases in difficulty, and the player will eventually need to hit shots on the lab playfield to lower Eggman for chances to deal damage. Once the Boss Battle is completed, the player will be given an award that changes with each boss defeated. The awards are:

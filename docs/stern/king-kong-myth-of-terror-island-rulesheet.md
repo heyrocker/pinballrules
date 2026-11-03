@@ -425,7 +425,8 @@ Whenever a ball falls into this lane, 2.42 million points are scored and the bes
 
 There are many different combos corresponding to different banana types that can be scored during single-ball play. Collecting 8 awards a **[map segment](#heading--map)**.
 
-[details=Banana Combos]
+<details markdown="1">
+<summary>Banana Combos</summary>
 
 |Name|Shot 1|Shot 2|Shot 3|Shot 4|Shot 5|
 |---|---|---|---|---|---|
@@ -444,7 +445,7 @@ There are many different combos corresponding to different banana types that can
 |Red Banana|Center ramp|Kong Cave VUK rollover|
 |Rhino Horn|Punchback target|River thru|
 
-[/details]
+</details>
 
 ## Island Mystery: {#heading--mystery}
 

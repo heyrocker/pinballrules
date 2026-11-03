@@ -119,7 +119,8 @@ Completing each lesson awards a time bonus (seconds remaining x 25k + 25k per ea
 
 **[Weasley's Wizard Wheezes](#heading--diagon)** can award Bombtastic Bombs that allow players to complete a lesson during any term by pressing the action button.
 
-[details="Lesson shot maps"]
+<details markdown="1">
+<summary>Lesson shot maps</summary>
 
 **Year 1** (Sorcerer's / Philosopher's Stone):
 
@@ -247,7 +248,7 @@ Completing each lesson awards a time bonus (seconds remaining x 25k + 25k per ea
 |Hogwarts in Peril|
 |Together as One|
 
-[/details]
+</details>
 
 ## O.W.L.s Multiball: {#heading--owls}
 

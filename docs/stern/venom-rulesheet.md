@@ -93,7 +93,9 @@ Name | Perks | Skill Shots | **[Mayhem](#heading--mayhem)** Locks Lit | Combo Le
 **Gwen Stacy** | 2x **[infected](#heading--infected)** defeated, more valuable **[doppelganger attacks](#heading--doppelganger)**, **[Quick Doppelganger Multiball](#heading--quickmb)** access (Prem / LE) | Left loop (spot **[mini-mode](#heading--minimodes)**), right loop (start **[doppelganger](#heading--doppelganger)**) | 1 | Good | Left loop - center ramp - left loop - left ramp | Same as Pro
 **Peter Parker** | **[Miles Morales](#heading--teamups)** unlocked, **[Carnage modes](#heading--carnage)** easier and more valuable | Left loop (spot **[mini-mode](#heading--minimodes)**), scoop (light **[mystery](#heading--mystery)**) | 1 | Good | Left orbit - left ramp - left loop - scoop | 180 ramp shot, right loop feeds left orbit entrance
 
-[details="Unlockable Characters"]
+<details markdown="1">
+<summary>Unlockable Characters</summary>
+
 Additional hosts can be unlocked by winning **[the final battle against Knull](#heading--boss)**, and are not available in competitive play to prevent unfair advantages between players. These hosts correspond to two lines on the **[grid](#heading--minimodes)** instead of one.
 
 Name | Perks | Skill Shots | **[Mayhem](#heading--mayhem)** Locks Lit | Combo Level | Signature Combo | Shot Positions (Prem / LE)
@@ -108,7 +110,7 @@ Name | Perks | Skill Shots | **[Mayhem](#heading--mayhem)** Locks Lit | Combo Le
 --- | --- | --- | --- | --- | --- | ---
 **Venomized Ghost Rider** | Starts with **[flamethrower](#heading--minimodes)** if chosen as first host | | | | | Left ramp - left loop  - right loop - right orbit | 180 ramp shots, right loop feeds left orbit entrance
 
-[/details]
+</details>
 
 All hosts also have the standard skill shot option of plunging into the flashing rollover lane for **[+2 bonus X](#heading--bonus)**. It can be changed with the other options with the right flipper, and if the host is changed during a ball at the left ramp, either skill shot listed in the above grids can be scored as a "bonus shot".
 
@@ -127,12 +129,17 @@ Host | Yellow | Blue | White
 **Gwen Stacy** | Right loop - left orbit | Left ramp - scoop | Left loop - center ramp
 **Peter Parker** | Center ramp - left ramp | Left loop - scoop | Right orbit - left orbit
 
-[details="Unlockable Characters' Mini Modes"]
+<details markdown="1">
+<summary>Unlockable Characters' Mini Modes</summary>
+
+Host | Yellow | Blue | White
+--- | --- | --- | ---
 **Venomized Hulk** | Right orbit - right loop | Scoop - left orbit | Center ramp - left ramp
 **Venomized Captain America** | Left ramp - right loop | Left loop - right orbit | Scoop - center ramp
 **Venomized Wolverine** | Center ramp - left loop | Scoop - left orbit |
 **Venomized Ghost Rider** | Left loop - scoop | Center ramp - left ramp | Right orbit - left orbit
-[/details]
+
+</details>
 
 "Default" hosts only need to complete one column of mini-modes to qualify their battle. "Unlockable" hosts need to complete two.
 

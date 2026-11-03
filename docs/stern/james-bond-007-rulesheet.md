@@ -408,7 +408,9 @@ Chances at additional **[skill shots](#heading--skillshots)** are given if any o
 
 The *final* wizard mode, On Her Majesty's Secret Service, can be started once all four of the **[villain mini-wizard modes](#heading--miniwizard2)** have been played. It can be started with a shot to either the right ramp, or the side ramp.
 
-[details="Spoilers"]
+<details markdown="1">
+<summary>Spoilers</summary>
+
 **On Her Majesty's Secret Service** is a multi-stage, flip count based, wizard mode slightly akin to "Terror of Mechagodzilla" from Stern's *Godzilla* table. The player must advance through six phases of shots called "film stages", each using different aspects of the playfield, before the final **MI6 Multiball** where the totals from all six phases determine the jackpot values and are added into the super jackpot.
 
 The player starts off with 50 flips, 100 if they started the mode at the side ramp. +10 flips are awarded for every mode that the player had completed prior to starting the final wizard mode. Flips are also awarded as the player advances through the film stages - +5 for each "advance" shot and +35 for each film stage completed. 5 flips are subtracted if the player drains during single-ball play.
@@ -438,4 +440,5 @@ Once all six stages have been played, **MI6 Multiball** will begin. This is a th
 Once all six jackpots have been scored, the side ramp is lit to score the super jackpot, worth the combined totals from all six jackpots, and add +10 flips.
 
 After MI6 Multiball ends, **[end-of-ball bonus](#heading--bonus)** is awarded one last time, and the game ends.
-[/details]
+
+</details>

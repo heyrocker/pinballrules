@@ -475,7 +475,9 @@ The left ramp will light to commence the final battle against the Overlord after
 
 After completing each phase of the battle, the Overlord shot will light to move onto the next phase. This final shot of each phase cannot be spotted by the UFO button.
 
-[details="Spoilers"]
+<details markdown="1">
+<summary>Spoilers</summary>
+
 **Phase 1:** The Overlord has successfully captured the Foo Fighters and imprisoned Pat and Dave. The two have to find a way out.
 
 Rescue Pat and Dave by making hurry-up shots to the left and right ramps; shooting both bot targets flanking the right ramp will spot a right ramp shot. On Prem / LE, the upper playfield arrows (spinner and loop) are both lit to spot a right ramp shot as well. The hurry-up value starts at 10M and increases by 5M per shot.
@@ -509,4 +511,5 @@ Phase 4 has a time limit of 150 seconds, indicated by Foobot's HP bar. If the pl
 **Epilogue:** Finally defeated by the Foo Fighters, the Overlord is distraught, but Dave recognizes that there *was* good in him. The Overlord simply grew envious of the band's success and unleashed that envy onto the world, losing sight of who he was, and the band feels that he deserves redemption. The Overlord becomes a "mascot" of the band, appearing on their official posters and becoming an honorary team member as the credits roll.
 
 Once the Overlord is defeated, all process will reset along with all **[FooBot parts](#heading--foobotmb)**, but their shot multipliers will be increased by +1x for the next play through of the game!
-[/details]
+
+</details>

@@ -529,7 +529,8 @@ Secret Combos: {#heading--citycombos}
 
 There are 10 **secret combos** throughout the game. Each secret combo is worth 2,500,000. The secret combos are:
 
-[details="Spoilers"]
+<details markdown="1">
+<summary>Spoilers</summary>
 
 |#|1st Shot|2nd Shot|3rd Shot|
 |---|---|---|---|
@@ -544,7 +545,7 @@ There are 10 **secret combos** throughout the game. Each secret combo is worth 2
 |9|Left Ramp|Pop Bumper|
 |10|Building Thru|Shield Targets|
 
-[/details]
+</details>
 
 Additionally, collecting certain numbers of secret combos awards different awards:
 

@@ -282,7 +282,11 @@ Eight SIM Cards are required to spell D-I-A-L-E-D-I-N and qualify the Showdown W
 
 **Wizard Modes**
 _(I tried to use the "Hide Details" function to hide the info on the wizard modes.  While it shows up correctly in the "Preview" edit window, it doesn't seem to be working below, because it's still displayed.  Anyone: feel free to fix this if you know how.)_
-[details=Summary]_Armageddon_
+
+<details markdown="1">
+<summary>Summary</summary>
+
+_Armageddon_
 Qualified by playing all 11 disaster modes.
 Started by shooting the phone scoop.
 Instructions are:
@@ -301,7 +305,9 @@ _Showdown_
 * Additionally the theater and pop bumper attacks are fast and frequent to help DIE force you to lose balls.
 * Should you defeat DIE the multiball will stop having a ball save (it will still linger for about 20 seconds) and any jackpot shots scored will count as victory laps until you are down to 1 ball.
 
-NOTE:  You can see the "Showdown" wizard mode from about around 9 hours and 52 minutes at https://www.twitch.tv/videos/156334683 or https://www.twitch.tv/videos/156417080[/details]
+NOTE:  You can see the "Showdown" wizard mode from about around 9 hours and 52 minutes at https://www.twitch.tv/videos/156334683 or https://www.twitch.tv/videos/156417080
+
+</details>
 
 **Bonus**
 If collected nothing worth bonus points you’ll receive a Participation Award for 500 points.  Otherwise bonus is calculated as the sum of:

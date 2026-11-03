@@ -94,7 +94,8 @@ In *****Avatar: The Battle of Pandora*****, each shot represents a certain token
 
 The token types are represented by the key below.
 
-[details="Tokens & abbreviations"]
+<details markdown="1">
+<summary>Tokens & abbreviations</summary>
 
 |**Token**|**Abbreviation**|**Shot**|
 | --- | --- | --- |
@@ -114,7 +115,7 @@ The token types are represented by the key below.
 |Rookery|RK|Right orbit|
 |Kids|K|Right targets|
 
-[/details]
+</details>
 
 During songcord modes, every lit shot made enables the action button to replenish **[arrows](#heading--arrows)** (flashing green). Quickly mash the action button to maintain your multiplier.
 

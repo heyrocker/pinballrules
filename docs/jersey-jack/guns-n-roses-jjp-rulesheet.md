@@ -235,7 +235,9 @@ Hit the lit shots for jackpots
 
  **Not in this Lifetime Wizard Mode**
 
-[details="Spoilers"]
+<details markdown="1">
+<summary>Spoilers</summary>
+
 The mode is actually called “No Sympathy For The Devil”.
 
 The mode is 120 seconds, fixed. It starts with a ball save that appears to end after 65 seconds?? The objective is to recover GnR’s instruments from the devil by shooting each band member’s shot twice while they are lit. The lit band member cycles every 15 seconds(ish?) or when a shot is made, a brief ball save activates when the band member cycles if the initial save has run out. While each band member’s shot is lit a special rule applies as follows.
@@ -253,4 +255,5 @@ The mode is 120 seconds, fixed. It starts with a ball save that appears to end a
 Both Dizzy and Melissa **lose** successful shots if the center scoop is hit without hitting the keyboard first.
 
 Each successful band member shot is worth 5000 points. There also appears to be very frequent scoring (per switch?) of 10 points.
-[/details]
+
+</details>
