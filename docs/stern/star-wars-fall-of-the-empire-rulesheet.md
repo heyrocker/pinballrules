@@ -29,6 +29,7 @@ opdb_id: "Gxv81"
   - [End-of-Ball Bonus](#heading--bonus)
 - [Wizard Modes](#heading--wizard)
   - [Not a Jedi Yet (Mini-Wizard Mode)](#heading--father)
+  - [Ewok Encounter (Mini-Wizard Mode)](#heading--ewok)
   - [Sarlacc Escape (Mini-Wizard Mode)](#heading--sarlacc)
   - [Never Tell Me The Odds (Mini-Wizard Mode)](#heading--odds)
   - [Dark Side Multiball (Mini-Wizard Mode)](#heading--darkside)
