@@ -168,8 +168,8 @@ For **Premium/LE Models**: Hitting a limb of the deathclaw that is already cripp
 
 * **Deathclaw Multiball 1:**: For 20 seconds, hit as many red shots to build the Deathclaw jackpot value, which starts at 2M and increases by 250k per lit shot. Once time expires, hit the Deathclaw bash toy to collect jackpots within 12 seconds. Repeated shots to the bash toy apply a stacking multiplier. After enough jackpots have been collected, the next shot before time runs out will score a super jackpot worth the total of the previous jackpots. The number of jackpots that need to be collected to enable super jackpot carry over across phases. Once enough time has passed, the build phase begins again and the jackpot value resets to its minimum.
 * **Deathclaw Multiball 2:**: Charge your weapon by hitting red shots and switches. Shots will charge the weapon by 20% each or 30% if quickly flashing; and shooting the right ramp will lower the spinner to quickly add switch hits. Once the weapon is charged, the Deathclaw will light to score the jackpot, then reset the process with the weapon being needed to be recharged. Collect 5 jackpots to qualify the super jackpot at the Deathclaw worth the total of the previous jackpots and reset the process.
-* **Deathclaw Multiball 3:** All shots are lit to light the Deathclaw for jackpot. If the same shot that lit jackpot is hit again, shooting it again will score a 2x jackpot and unlight it. Once all shots are cleared out, shoot the Deathclaw in all five positions with well-timed shots to score the super jackpot worth the total of the previous jackpots and reset the process.
- 
+* **Deathclaw Multiball 3:** All shots are lit to light the Deathclaw for jackpot. If the same shot that lit jackpot is hit again, shooting it again will score a 2x jackpot and unlight it. Once all shots are cleared out, shoot the Deathclaw when "Fire!" is lit to score the super jackpot worth the jackpot total and end the multiball. Hitting the Deathclaw weak points before scoring the super jackpot increases the super jackpot multiplier, once per weak point.
+  
 During any Deathclaw multiball, complete all 4 Radroach targets to add-a-ball and briefly extend the ball save timer.
 
 ### Wasteland Multiball {#heading--wasteland-multiball}
@@ -198,7 +198,7 @@ The classic Fallout stat mechanism is present. Earn XP during **[quest modes](#h
   * Level 1 - Longer Ball Save Timer
   * Level 2 - Easier wasteland items, once per set (next shot to a flashing lane scores all 3 currently lit wasteland items)
 * **C**harisma
-  * Level 1 - Sundries Shop is now 20% off. You also earn more EXP from junk
+  * Level 1 - Sundries Shop is now 20% off. You also earn more XP from junk
   * Level 2 - Flipper buttons can now be used to select quest
 * **I**ntelligence
   * Level 1 - Easier to light fat man (lane behind upper flipper lights all right standup targets to enable fat man). -1 shot to enable radio jackpots.
@@ -300,11 +300,11 @@ Each companion has a passive and active ability. **Press the action button to us
 Your four trusty companions are:
 * Victor
   * Active Ability: Instant **[Cap Stash](#heading--caps-sundries)** (action button drops the spinner)
-  * Passive Ability: Great Deals
+  * Passive Ability: Great Deals. Boosts all luck
   * *Smooth Talker*
 * Protectron
   * Active Ability: Spots all lit **[Radaway Awards](#heading--radroaches-radaway)**
-  * Passive Ability: Max Quest Timers (at 100 HP)
+  * Passive Ability: Max Quest Timers (at 100 HP). Heals radiation over time
   * *Not A Doctor*
 * Dogmeat
   * Active Ability: Collects lit **[junk](#heading--junk)** (3 charges per refresh)
