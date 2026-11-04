@@ -388,7 +388,7 @@ Collect junk items around the wasteland to upgrade your weapon. Each junk item c
 You can collect junk by:
 * Hitting the *Junk standup target* when qualified.
 * Cashing out at least one phase of a **[side quest](#heading--side-quests)**.
-* **[Looting](#heading--loot)** corpses.
+* **[Looting](#heading--loot)** corpses or **[wasteland locations](#heading--loops)**. Super Duper Mart (at 50 loops) guarantees one legendary junk piece.
 * Buying them from **[Sundries](#heading--caps-sundries)**
 
 The junk standup target lights once 10 slingshot / bumper hits are made. Hitting the target will award a random piece of common or rare junk. Rolling through the right inlane and then hitting the junk target awards 2 pieces of junk. If the player has **[Dogmeat as their companion](#heading--trusty-companions)**, pressing the lit action button will spot the lit junk target.
@@ -400,9 +400,9 @@ Shoot the outer loop shot from the mutant flipper to advance towards wasteland l
 The loop thresholds and locations are:
 - 5 Loops: Red Rocket Service Station - light Nuka Quantum, common junk
 - 10 Loops: Sunset Sarsaparilla Bottling Plant - ?
-- 20 Loops: Cabin - ?
+- 20 Loops: Cabin - bobblehead, ?
 - 35 Loops: Vault 4 - light **[Vault 4 multiball](#heading--vaultfour)**
-- 50 Loops: Super Duper Mart - extra ball, rare junk, ?
+- 50 Loops: Super Duper Mart - legendary junk, 2x rare junk, ?
 
 ### Caps & Sundries {#heading--caps-sundries}
 
@@ -437,7 +437,7 @@ List of Items at Sundries:
 | Psycho | Add tilt warning | 120 Caps | Must have used one tilt warning already
 | Various Common Junk | +1 to common junk counter | 30 Caps |
 | Various Rare Junk | +1 to rare junk counter | 100 Caps
-| Grognak the Barbarian Issue | 200M Points (non-multipliable) | Legendary Junk
+| Grognak the Barbarian Issue | 300M Points (non-multipliable) | Legendary Junk
 | Gold Pinball | Extra Ball | Legendary Junk |
 | Various Bobbleheads | +1 level to SPECIAL perk for this bobblehead type | Legendary Junk |
 | Holotape | Red Menace video mode | Legendary Junk |
@@ -479,8 +479,7 @@ Extra balls can be collected at the stand-up target that is located on the side 
 
 * Playing 3 **[quests](#heading--quests)**
 * Killing 5, then 25 lit **[Radroach targets](#heading--radroaches-radaway)**
-* Purchasing a Gold Pinball from **[Sundries](#heading--caps-sundries)**
-* Shooting 50 **[wasteland loops](#heading--loops)**, then looting the Super Duper Mart (instantly scored)
+* Purchasing a Gold Pinball from **[Sundries](#heading--caps-sundries)**, or finding it at the **[Super Duper Mart](#heading--loops)** after making 50 loops (instantly scored)
 
 On competition mode, extra balls are worth 15M and subject to multipliers from power armor and weapons.
 
