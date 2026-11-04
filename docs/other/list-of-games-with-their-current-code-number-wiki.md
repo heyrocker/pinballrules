@@ -126,7 +126,7 @@ Beta updates not listed (any one can opt in to installing them)
 
 Staged Flipper functionality, meaning the lower and upper right flipper gets activated by separate opto switches on the flipper board. IF you experience any issues with the right flippers, upper or lower, after this update you can use the link to install the same version without the Staged Flipper functionality (NS = Not Staged).
 
-1.0.1 Is just an hotfix not an full update file. Needs 1.0 installed 1st.
+1.0.1 is just a hotfix, not a full update file. Needs 1.0 installed first.
 
 | Game Title | Latest Version | Release Date | Link | Hotfix Link | Change Log | Support |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -137,7 +137,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 
 | Game Title | Latest Version | Release Date | Link |
 | --- | --- | --- | --- |
-| Alice's Adventures in Wonderland | 0.99-5 | Soon | [Code](https://www.dutchpinball.com/alices_adventures_in_wonderland_software) |
+| Alice's Adventures in Wonderland | 1.00 | Dec 2025 | [Code](https://www.dutchpinball.com/alices_adventures_in_wonderland_software) |
 
 ## <a name="heading--turner"></a>Turner Pinball
 [Turner Pinball code can be viewed by clicking on updates.](https://turnerpinball.com/updates/)
