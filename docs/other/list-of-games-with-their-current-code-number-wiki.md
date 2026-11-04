@@ -50,7 +50,7 @@ This is a one stop reference list for games with their current code number. Any 
 | Metallica Remastered                  | 1.04           | Jul 1, 2026  |
 | Dungeons & Dragons: The Tyrant's Eye  | 1.11           | Oct 29, 2026 |
 | King Kong: Myth of Terror Island      | 0.97           | Jul 1, 2026  |
-| Star Wars: Fall of the Empire         | 0.97           | Jul 1, 2026  |
+| Star Wars: Fall of the Empire         | 0.98           | Nov 3, 2026  |
 | The Walking Dead Remastered           | 0.94           | Oct 22, 2026 |
 | Pokémon                               | 0.87           | Oct 29, 2026 |
 | Pokémon (Home Edition)                | 1.04           | Oct 29, 2026 |
@@ -116,8 +116,8 @@ Beta updates not listed (any one can opt in to installing them)
 
 | Game Title | Latest Version | Release Date | Change Log |
 | --- | --- | --- | --- |
-| Evil Dead | [v2026.07.15](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.07.15.ed/2026.07.15.ed) | Jul 15, 2026 | [Log](https://www.spookypinball.com/EvilDead) |
-| Beetlejuice | [v2026.10.23](https://spookypinball.s3.us-east-2.amazonaws.com/beetlejuice/software_versions/release/v2026.10.23.16.beetlejuice) | Oct 23, 2026 | [Log](https://www.spookypinball.com/beetlejuice/) |
+| Evil Dead | [v2026.10.30](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.10.30/2026.10.30.ed) | Oct 30, 2026 | [Log](https://www.spookypinball.com/EvilDead) |
+| Beetlejuice | [v2026.10.28](https://spookypinball.s3.us-east-2.amazonaws.com/beetlejuice/software_versions/release/v2026.10.28.14.beetlejuice) | Oct 28, 2026 | [Log](https://www.spookypinball.com/beetlejuice/) |
 
 ## <a name="heading--pb"></a>Pinball Brothers
 [Scroll down and the code updates for Pinball Brothers releases can be viewed under Game Updates.](https://www.pinballbrothers.com/support/)
@@ -144,7 +144,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 
 | Game Title | Latest Version | Release Date | Links |
 | --- | --- | --- | --- |
-| Merlin's Arcade | 0.9.5 | Oct 29, 2026 | [Notes](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.5/merlinsarcade_v0.9.5.md), [Enc File](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.5/merlinsarcade_v0.9.5.enc), [Sig File](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.5/merlinsarcade_v0.9.5.sig) |
+| Merlin's Arcade | 0.9.7 | Nov 3, 2026 | [Notes](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.7/merlinsarcade_v0.9.7.md), [Enc File](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.7/merlinsarcade_v0.9.7.enc), [Sig File](https://turnerpinball.com/software-releases/merlinsarcade_v0.9.7/merlinsarcade_v0.9.7.sig) |
 | Yukon Yeti | 0.9.1 | Oct 9, 2026 | [Notes](https://turnerpinball.com/software-releases/yukonyeti_v0.9.1/yukonyeti_v0.9.1.md), [Enc File](https://turnerpinball.com/software-releases/yukonyeti_v0.9.1/yukonyeti_v0.9.1.enc), [Sig File](https://turnerpinball.com/software-releases/yukonyeti_v0.9.1/yukonyeti_v0.9.1.sig) |
 
 ## <a name="heading--vaults"></a>Vaults
@@ -232,7 +232,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 
 | Game Title | Latest Version | Release Date | Change Log |
 | --- | --- | --- | --- |
-| Alien | 4.12 | May 16, 2024 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001140693-alien-delta-game-update-4-1-2) |
+| Alien | 4.14 | Otc 23, 2024 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001140693-alien-delta-game-update-4-1-4) |
 | Queen | 2.1G | Jan 27, 2025 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001164090-queen-delta-game-update-2-1g-hotfix-) 
 | ABBA | 1.45 | Apr 21, 2025 | [Log](https://pinballbrothers.freshdesk.com/support/solutions/articles/80001174176-abba-game-update-1-4-5) |
 
@@ -249,7 +249,7 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 
 | Game Title | Latest Version | Release Date | Links |
 | --- | --- | --- | --- |
-| Ninja Eclipse | 1.0.1 | Oct 29, 2026 | [Notes](https://turnerpinball.com/software-releases/ninjaeclipse_v0.9.5/update.md), [Enc File](https://turnerpinball.com/software-releases/ninjaeclipse_v1.0.1/ninjaeclipse_v1.0.1.enc), [Sig File](https://turnerpinball.com/software-releases/ninjaeclipse_v1.0.1/ninjaeclipse_v1.0.1.sig) |
+| Ninja Eclipse | 1.0.3| Nov 3, 2026 | [Notes](https://turnerpinball.com/software-releases/ninjaeclipse_v1.0.3/ninjaeclipse_v1.0.3.md), [Enc File](https://turnerpinball.com/software-releases/ninjaeclipse_v1.0.3/ninjaeclipse_v1.0.3.enc), [Sig File](https://turnerpinball.com/software-releases/ninjaeclipse_v1.0.3/ninjaeclipse_v1.0.3.sig) |
 
 ## <a name="heading--legacy"></a>Legacy Tables
 **Legacy tables** are pinball machines released by companies that have since left the pinball industry, or have since moved on from DMD releases to LCDs. The code releases are presented here for safekeeping.
