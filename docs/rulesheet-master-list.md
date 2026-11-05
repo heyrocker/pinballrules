@@ -16,6 +16,7 @@ title: "Rulesheet Master List"
 - [Gottlieb](#heading--gottlieb)
 - [Chicago Gaming Company](#heading--chicago)
 - [Barrels of Fun](#heading--barrels)
+- [Turner Pinball](#heading--turner)
 
 ## Legacy non-wiki Rulesheet List (external)
 
@@ -190,5 +191,12 @@ title: "Rulesheet Master List"
 |[Winchester Mystery House](/barrels-of-fun/winchester-mystery-house-rulesheet) | January 2026 | Karl DeAngelo | Karl DeAngelo / Eric Priepke|
 |[Dune](/barrels-of-fun/dune-rulesheet) | April 2025 | David Van Es, Travis Moseman | Phil Grimaldi, Bowen Kerins|
 |[Labyrinth](/barrels-of-fun/labyrinth-rulesheet) | October 2023 | David Van Es | Phil Grimaldi, Bowen Kerins|
+
+### [*Return to top*](#heading--top)
+## Turner Pinball: {#heading--turner}
+
+|Game | Released | Designer | Rules/Code|
+|--- | --- | --- | ---|
+|[Merlin's Arcade](/turner/merlins-arcade) | March 2025 |  | |
 
 ### [*Return to top*](#heading--top)
