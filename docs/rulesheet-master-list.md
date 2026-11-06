@@ -31,48 +31,48 @@ title: "Rulesheet Master List"
 |[Pokemon](/stern/pokemon-rulesheet) | March 2026 | George Gomez, Jack Danger | Tanio Klyce, Andrew Wilkening, Joshua Henderson|
 |[The Walking Dead Remastered](/stern/the-walking-dead-remastered-rulesheet) | January 2026 | John Borg | Lyman Sheats (original), Mark Guidarelli (revisions)|
 |[Star Wars: Fall of the Empire](/stern/star-wars-fall-of-the-empire-rulesheet) | September 2025 | John Borg | Raymond Davidson|
-|[King Kong: Myth of Terror Island](/stern/king-kong-myth-of-terror-island-rulesheet) | April 2025 | Keith Elwin | Rick Naegele / Joshua Henderson|
-|[Dungeons & Dragons: The Tyrant's Eye](/stern/dungeons-dragons-the-tyrants-eye-rulesheet) | February 2025 | Brian Eddy | Dwight Sullivan / Corey Stup / Elizabeth Gieske / David Sullivan|
-|[Metallica Remastered](/stern/metallica-remastered-rulesheet) | November 2024 | John Borg | Lyman F. Sheats Jr. (RIP) / Lonnie D. Ropp / Mike Kyzivat (original code) /Raymond Davidson (expanded code)|
+|[King Kong: Myth of Terror Island](/stern/king-kong-myth-of-terror-island-rulesheet) | April 2025 | Keith Elwin | Rick Naegele, Joshua Henderson|
+|[Dungeons & Dragons: The Tyrant's Eye](/stern/dungeons-dragons-the-tyrants-eye-rulesheet) | February 2025 | Brian Eddy | Dwight Sullivan, Corey Stup, Elizabeth Gieske, David Sullivan|
+|[Metallica Remastered](/stern/metallica-remastered-rulesheet) | November 2024 | John Borg | Lyman Sheats, Lonnie D. Ropp, Mike Kyzivat (original code), Raymond Davidson (Remastered code)|
 |[The Uncanny X-Men](/stern/the-uncanny-x-men-rulesheet) | September 2024 | Jack Danger | Waison Cheng|
-|[John Wick](/stern/john-wick-rulesheet) | April 2024 | Elliot Eismin | Tim Sexton / Joshua Henderson|
-|[Jaws](/stern/jaws-rulesheet) | February 2024 | Keith Elwin | Keith Elwin/Rick Naegele|
+|[John Wick](/stern/john-wick-rulesheet) | April 2024 | Elliot Eismin | Tim Sexton, Joshua Henderson|
+|[Jaws](/stern/jaws-rulesheet) | February 2024 | Keith Elwin | Keith Elwin, Rick Naegele, Elizabeth Gieske|
 |[Venom](/stern/venom-rulesheet) | September 2023 | Brian Eddy | Dwight Sullivan|
-|[Foo Fighters](/stern/foo-fighters-rulesheet) | March 2023 | Jack Danger | Tanio Klyce/Raymond Davidson|
+|[Foo Fighters](/stern/foo-fighters-rulesheet) | March 2023 | Jack Danger | Tanio Klyce, Raymond Davidson|
 |[James Bond 007 60th Anniversary (LE)](/stern/007-60th-anniversary-rulesheet) | January 2023 | Keith Elwin | Mark Penacho |
-|[James Bond](/stern/james-bond-007-rulesheet) | October 2022 | George Gomez | Lonnie Ropp/Mike Vinkour|
-|[Rush](/stern/stern-rush-rulesheet) | January 2022 | John Borg | Tim Sexton/Raymond Davidson|
+|[James Bond](/stern/james-bond-007-rulesheet) | October 2022 | George Gomez | Lonnie D. Ropp, Mike Vinikour|
+|[Rush](/stern/stern-rush-rulesheet) | January 2022 | John Borg | Tim Sexton, Raymond Davidson|
 |[Jurassic Park (Home Edition)](/stern/jurassic-park-home-rulesheet) | October 2021 | Jack Danger | Waison Cheng|
-|[Godzilla](/stern/stern-godzilla-rulesheet) | September 2021 | Keith Elwin | Keith Elwin/Rick Naegele|
+|[Godzilla](/stern/stern-godzilla-rulesheet) | September 2021 | Keith Elwin | Keith Elwin, Rick Naegele|
 |[The Mandalorian](/stern/the-mandalorian-rulesheet) | June 2021 | Brian Eddy | Dwight Sullivan|
-|[Led Zeppelin](/stern/led-zeppelin-rulesheet) | December 2020 | Steve Ritchie | Tim Sexton/Raymond Davidson|
-|[Avengers: Infinity Quest](/stern/avengers-infinity-quest-rulesheet) | September 2020 | Keith Elwin | Keith Elwin/Rick Naegele|
+|[Led Zeppelin](/stern/led-zeppelin-rulesheet) | December 2020 | Steve Ritchie | Tim Sexton, Raymond Davidson|
+|[Avengers: Infinity Quest](/stern/avengers-infinity-quest-rulesheet) | September 2020 | Keith Elwin | Keith Elwin, Rick Naegele|
 |[Teenage Mutant Ninja Turtles](/stern/stern-tmnt-rulesheet) | June 2020 | John Borg | Dwight Sullivan|
-|[Stranger Things](/stern/stranger-things-rulesheet) | December 2019 | Brian Eddy | Ropp/Vinkour|
+|[Stranger Things](/stern/stranger-things-rulesheet) | December 2019 | Brian Eddy | Lonnie D. Ropp, Mike Vinikour|
 |[Elvira’s House of Horrors](/stern/elvira-s-house-of-horrors-rulesheet) | October 2019 | Dennis Nordman | Lyman Sheats|
-|[Jurassic Park (Stern)](/stern/stern-jurassic-park-rulesheet) | August 2019 | Keith Elwin | Keith Elwin/Rick Naegele|
+|[Jurassic Park (Stern)](/stern/stern-jurassic-park-rulesheet) | August 2019 | Keith Elwin | Keith Elwin, Rick Naegele|
 |[Black Knight: Sword of Rage](/stern/black-knight-sword-of-rage-rulesheet) | April 2019 | Steve Ritchie | Tim Sexton|
 |[The Munsters](/stern/the-munsters-rulesheet) | December 2018 | John Borg | Dwight Sullivan|
-|[The Beatles](/stern/stern-the-beatles-rulesheet) | November 2018 | Mike Kubin/George Gomez | Dean Grover|
+|[The Beatles](/stern/stern-the-beatles-rulesheet) | November 2018 | Mike Kubin, George Gomez | Dean Grover|
 |[Deadpool](/stern/deadpool-rulesheet) | September 2018 | George Gomez | Tanio Klyce|
-|[Iron Maiden](/stern/iron-maiden-pinball-rulesheet) | April 2018 | Keith Elwin | Keith Elwin/Rick Naegele|
-|[Guardians of the Galaxy](/stern/guardians-of-the-galaxy-pinball-rulesheet) | November 2017 | John Borg | Lonnie Ropp|
+|[Iron Maiden](/stern/iron-maiden-pinball-rulesheet) | April 2018 | Keith Elwin | Keith Elwin, Rick Naegele|
+|[Guardians of the Galaxy](/stern/guardians-of-the-galaxy-pinball-rulesheet) | November 2017 | John Borg | Lonnie D. Ropp|
 |[Star Wars (Stern)](/stern/star-wars-stern-rulesheet) | June 2017 | Steve Ritchie | Dwight Sullivan|
-|[Aerosmith](/stern/aerosmith-rulesheet) | February 2017 | John Borg | Lonnie Ropp|
+|[Aerosmith](/stern/aerosmith-rulesheet) | February 2017 | John Borg | Lonnie D. Ropp|
 |[Batman 66](/stern/batman-66-rulesheet) | December 2016 | George Gomez | Lyman Sheats|
 |[Ghostbusters](/stern/ghostbusters-pinball-rulesheet) | April 2016 |  | Dwight Sullivan|
 |[Game of Thrones](/stern/game-of-thrones-pinball-rulesheet) | October 2015 | Steve Ritchie | Dwight Sullivan|
-|[KISS (Stern)](/stern/kiss-wiki-rulesheet) | May 2015 | John Borg | Lonnie Ropp|
-|[WWE Wrestlemania](http://tiltforums.com/t/wrestlemania-wiki-rulesheet/189) | January 2015 |  | Waison|
+|[KISS (Stern)](/stern/kiss-wiki-rulesheet) | May 2015 | John Borg | Lonnie D. Ropp|
+|[WWE Wrestlemania](http://tiltforums.com/t/wrestlemania-wiki-rulesheet/189) | January 2015 |  | Waison Cheng|
 |[Walking Dead](/stern/walking-dead-wiki-rulesheet) | September 2014 | John Borg | Lyman Sheats|
-|[Mustang](/stern/mustang-wiki-rulesheet) | April 2014 |  | |
+|[Mustang](/stern/mustang-wiki-rulesheet) | April 2014 |  | Lonnie D. Ropp, Tanio Klyce, Jack Benson, Mike Kyzivat, Waison Cheng |
 |[Metallica](/stern/metallica-rulesheet) | April 2013 | John Borg | Lyman Sheats|
-|[Star Trek](/stern/star-trek-wiki) | January 2013 | Steve Ritchie | |
+|[Star Trek](/stern/star-trek-wiki) | January 2013 | Steve Ritchie | Lonnie D. Ropp, Tanio Klyce, Jack Benson, Mike Kyzivat, Waison Cheng, Dwight Sullivan|
 |[X-Men](/stern/x-men-stern-2012) | August 2012 | John Borg | Lonnie D. Ropp, Waison Cheng|
 |[Wheel of Fortune](/stern/wheel-of-fortune-rulesheet-wip) | October 2007 | Dennis Nordman | Keith Johnson|
 |[Spider-Man](/stern/spider-man-rulesheet-wip) | June 2007 | Steve Ritchie | Lyman Sheats|
 |[World Poker Tour](/stern/world-poker-tour-rulesheet) | February 2006 | Steve Ritchie | Keith Johnson|
-|[Sharkey’s Shootout](/stern/creating-a-rulesheet-for-sharkeys-shootout) | September 2000 | John Borg | �|
+|[Sharkey’s Shootout](/stern/creating-a-rulesheet-for-sharkeys-shootout) | September 2000 | John Borg | Dwight Sullivan, Keith Johnson, Lonnie D. Ropp|
 | |  |  | |
 
 ### [*Return to top*](#heading--top)
@@ -187,8 +187,8 @@ title: "Rulesheet Master List"
 
 |Game | Released | Designer | Rules/Code|
 |--- | --- | --- | ---|
-|[Bon Jovi](/barrels-of-fun/bon-jovi-rulesheet) | July 2026 | David Van Es, Luke Underwood | Phil Grimaldi, Jess Denardo / Eric Priepke|
-|[Winchester Mystery House](/barrels-of-fun/winchester-mystery-house-rulesheet) | January 2026 | Karl DeAngelo | Karl DeAngelo / Eric Priepke|
+|[Bon Jovi](/barrels-of-fun/bon-jovi-rulesheet) | July 2026 | David Van Es, Luke Underwood | Phil Grimaldi, Jess Denardo, Eric Priepke|
+|[Winchester Mystery House](/barrels-of-fun/winchester-mystery-house-rulesheet) | January 2026 | Karl DeAngelo | Karl DeAngelo, Eric Priepke|
 |[Dune](/barrels-of-fun/dune-rulesheet) | April 2025 | David Van Es, Travis Moseman | Phil Grimaldi, Bowen Kerins|
 |[Labyrinth](/barrels-of-fun/labyrinth-rulesheet) | October 2023 | David Van Es | Phil Grimaldi, Bowen Kerins|
 
