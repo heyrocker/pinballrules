@@ -54,7 +54,7 @@ opdb_id: "GK17D"
 - Computer Graphics Art Director: Chuck Ernst
 - Lead Sound Designer: Jerry Thompson
 - Release Date: July 2019
-- Wiki Rulesheet based on Code Rev: 1.10
+- Wiki Rulesheet based on Code Rev: 1.16
   - Edit the Code revision, if applicable, when you make changes
 
 Jurassic Park is the second Stern Pinball machine designed by Keith Elwin. Directly after the events of the film, Nedry’s computer virus has continued to plunge the park into chaos - meaning the dinosaurs are loose and the employees are in danger. The player has to rescue as many staff as they can and capture the dinosaurs, all while trying to survive the horrors of the abandoned park and eventually staging an escape.
@@ -411,7 +411,7 @@ Thus when the whole spinner is lit, you will get 225K/spin. Shoot the spinner to
 
 If the right inlane is lit for "Super Spinner" after collecting enough **[rescues](#heading--rescues)**, rolling through the inlane will cause each spin to be multiplied by the current **[Bonus Multiplier](#heading--bonus)**, +2x if the Spitter was **[captured](#heading--paddocks)**, for a limited time. The lit inlane disappears when the ball drains and alternates with **[Smart Missile](#heading--smartmissile)** with truck hits.
 
-Pteranodon Attack: {#heading--superspinner}
+### Pteranodon Attack: {#heading--pteranodon}
 
 After four shots to the right ramp, Pteranodon Attack will start. This is a timed frenzy mode where all switches add 25K (+10K each subsequent Pteranodon Attack) to an award collected at the right ramp, which can be rebuilt/re-collected while there's time left in the mode. Each threshold of 12 switches adds a multiplier to your next award that resets when the award is collected, or the ball drains. When the mode times out, the multiplier carries over to the next Pteranodon Attack, but not the award value. (*Note: the timer will not pause in the pops nor during game stoppages such as mode introductions.*) As of 1.10, if you drain while Pteranodon Attack is running, your multiplier *does* reset to 1x.
 
@@ -611,11 +611,11 @@ There are also seven "wildcard" Fossils hidden throughout the game. A wildcard F
 - Collect a 50M+ **[Pteranadon Attack](#heading--pteranodon)** shot
 - Collect all 11 **[DNA Combos](#heading--dna)**
 
-Wizard Modes:
+## Wizard Modes: {#heading--wizardmodes}
 
 Three mini-wizard modes exist - play all three wizard modes to qualify **[Escape Nublar](#heading--escapenublar)**. *Completion* of all of these mini-wizard modes is a requirement for the *[ultimate final wizard mode](#heading--wdrte)*. You only get one attempt at each mini-wizard mode, so make them count!
 
-Visitor’s Center: {#heading--fossils}
+### Visitor’s Center: {#heading--miniwizardmodesvisitorcenter}
 
 Mini-wizard mode for reaching the Visitor Center by **[navigating the Paddocks](#heading--paddocks)**, lit at the left ramp in the same way as the Paddocks by shooting the white arrow shots.
 
