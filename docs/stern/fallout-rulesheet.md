@@ -65,7 +65,7 @@ opdb_id: "GELVv"
 - Shoot Deathclaw to start **Deathclaw multiballs**. Time your shots to the bash toy when the FIRE insert is flashing to guarantee progress. Complete radroach targets during multiball for add-a-ball.
 - Complete the right nuke standup targets to light the pipboy ramps to load the Fat Man nuke launcher. Complete the lit right standup targets (**Pro model**) or use the nuke launcher to fire the ball at lit upper playfield targets (**Premium/LE model**) to start **Wasteland Multiball**.
 - Spell VAULT at the lit VAULT shots to light the center ramp to either start **Find the Lunchbox!** (**Pro model** - shoot any lit shot followed by the scoop) or **one of seven vault experiments** (**Premium/LE model** - follow the display instructions for each experiment).
-  - **Vault Multiball** is awarded from odd-numbered vault completions. Shoot the jackpot that starts on the left side of the playfield and moves to the right with each shot. Then score a double jackpot at the upper loop (**Pro model**) or lower playfield (**Prem / LE model**), followed by a super jackpot at the center ramp.
+  - **Vault Multiball** is awarded from odd-numbered vault completions. Shoot the jackpot that starts on the left side of the playfield and moves to the right with each shot. Then score a double jackpot at the upper loop (**Pro model**) or lower playfield (**Premium/LE model**), followed by a super jackpot at the center ramp.
 - Earn XP by completing playfield objectives. Once the player has leveled up, shoot either pipboy ramp to add 1 skill point and advance a **SPECIAL perk**. Read the pipboy display to learn what each perk does.
 - Start **radio modes** by hitting the radio tower target then any music note shot. Keep hitting music notes to enable radio jackpots and increase the multiplier with each one earned.
 - Earn **wasteland items** by shooting white, yellow, and blue inserts at the left ramp, U-turn, and right ramp shots. Given in the following order: stimpak (outlane ball save), trusty companion (use the flippers to rotate while the final yellow shot is lit), light side quest (at the scoop as the next quest started).
@@ -114,10 +114,10 @@ Each quest completed awards a **[Legendary Weapon](#heading--legendary-weapons)*
 
 ### Quest List {#heading--quest-list}
 * **Wedding Day:** A *2-ball multiball* mode. Earn add-a-ball by hitting the Deathclaw 5 times during the multiball.
-  * **Pro Model:**: Four of the shots are blue, and four of the shots are yellow. Making a blue shot will light a yellow shot. Yellow shots will progress towards super jackpot. (*Need more info*)
-  * **Premium/LE Model:** The lower playfield is also active for this quest mode! Shots made in the lower playfield will light the shots on the main playfield, while shots made in the main playfield will light shots in the lower playfield at +1x multiplier. Hit each shot on the main playfield to light the super jackpot and 2x super jackpot, collected with two shots to the open vault door (the second one has to be hit in quick succession after the first). The process then resets with higher jackpots.
+  * **Pro model:**: Four of the shots are blue, and four of the shots are yellow. Making a blue shot will light a yellow shot. Yellow shots will progress towards super jackpot. (*Need more info*)
+  * **Premium/LE model:** The lower playfield is also active for this quest mode! Shots made in the lower playfield will light the shots on the main playfield, while shots made in the main playfield will light shots in the lower playfield at +1x multiplier. Hit each shot on the main playfield to light the super jackpot and 2x super jackpot, collected with two shots to the open vault door (the second one has to be hit in quick succession after the first). The process then resets with higher jackpots.
 * **Radscorpion Attack:** Jump ramp mode with a build mechanic. 
-  * Shoot any lit shots to light the center jump ramp for 2x the base shot value (500k + 250k per shot),. Other lit shots increase the multiplier by +1x for the next jump ramp shot only. After 4 center jump ramp shots have been made, the final blow is lit. On the **Pro model**, this is the flashing right standup target. On the **Premium/LE model**, the ball must be loaded into the fat man launcher and aimed towards the Radscorpion spinner. If stacked with multiball, only the upper pipboy ramp will load the fat man; otherwise both pipboy shots will load it.
+  * Shoot any lit shots to light the center jump ramp for 2x the base shot value (500k + 250k per shot). Other lit shots increase the multiplier by +1x for the next jump ramp shot only. After 4 center jump ramp shots have been made, the final blow is lit. On the **Pro model**, this is the flashing right standup target. On the **Premium/LE model**, the ball must be loaded into the Fat Man launcher and aimed towards the Radscorpion spinner. If stacked with multiball, only the upper pipboy ramp will load the Fat Man; otherwise both pipboy shots will load it.
 * **The Kings:** A *2-ball multiball* mode. Earn add-a-ball by hitting the Deathclaw 5 times during the multiball.
   * All lit shots score jackpots with a multiplier starting at 1x. Comboing the lit shots together starts a killing spree, advances the multiplier by +1x and rewards a multiplied jackpot. Light the super jackpot at the flashing right standup target (which moves from top to bottom and back) by either reaching the maximum multiplier of 8x, or starting 3 killing sprees. The process then repeats with higher jackpots. The base value of jackpots is 500k + 50k per shot. 
 * **Mind Control:** Ramp + spinner mode.
@@ -125,12 +125,12 @@ Each quest completed awards a **[Legendary Weapon](#heading--legendary-weapons)*
 * **NOVAC:** Hit the lit ramps.
   * Shoot the left orbit and right ramp. Base score: 2M + 250k per shot. The left orbit increases in multiplier with each successive combo shot. Hit 6 shots to light the final shot at either pipboy shot, scoring 2x the current ramp value, which can be further increased with up to 6 additional ramp shots while the final shot is lit.
 * **Find the Target:** A three-phase mode.
-  * Find the target by hitting 3 of the yellow shots. You cannot normally hit the same shot again, but when you reach the 3rd shot, you will be prompted to hit the shot again to find the target or hit another shot to increase the value and make that shot the target. Once the target is found, hit the scoop. The right ramp will then light. After hitting it, load the fat man launcher with a shot to either pipboy ramp, then shoot the random flashing right standup target to defeat the target and complete the mode. On the **Pro model**, the target must be hit from the flippers. On the **Premium/LE model**, the target must be hit from the fat man launcher, and only the upper pipboy ramp will feed the launcher if multiball is active.
+  * Find the target by hitting 3 of the yellow shots. You cannot normally hit the same shot again, but when you reach the 3rd shot, you will be prompted to hit the shot again to find the target or hit another shot to increase the value and make that shot the target. Once the target is found, hit the scoop. The right ramp will then light. After hitting it, load the Fat Man launcher with a shot to either pipboy ramp, then shoot the random flashing right standup target to defeat the target and complete the mode. On the **Pro model**, the target must be hit from the flippers. On the **Premium/LE model**, the target must be hit from the Fat Man launcher, and only the upper pipboy ramp will feed the launcher if multiball is active.
 
 ## Vault Modes / Find the Lunchbox! {#heading--vault-modes}
 Spell VAULT by shooting the lit "VAULT Letter" shots around the playfield. This will light "Open Vault" at the center ramp. 
 
-On **Pro model**, shoot the center ramp again to start Find the Lunchbox! This mode is timed for 15 seconds (unless playing as Lucy who has longer timers). Multiple shots will be lit blue. Hit one of these shots to light the scoop to open the lunchbox. For sequential rounds of Find the Lunchbox!, the shot you hit will be removed.
+On **Pro model**, shoot the center ramp again to start **Find the Lunchbox!** This mode is timed for 15 seconds (unless playing as Lucy who has longer timers). Multiple shots will be lit blue. Hit one of these shots to light the scoop to open the lunchbox. For sequential rounds of Find the Lunchbox!, the shot you hit will be removed.
 
 On **Premium/LE model**, shoot the ball to the center ramp to hit the vault door behind it. The ball will be held while the vault door physically opens up. Shoot the ball past the vault door to start a [Vault Mode](#heading--vault-mode-list). The lower playfield activates and becomes the focus point for the duration. The pipboy will display how much time you have left.
 
@@ -142,7 +142,7 @@ Lunchboxes provide the following awards in order:
 During the opening vault door animation, the number of the vault is displayed. This hints at what specific vault mode you will be playing.
 
 ### Vault Mode List {#heading--vault-mode-list}
-**Available only on Premium/LE Models**. There is a total of 6 different vault modes as of version 0.81:
+**Available only on Premium/LE models**. There are a total of 6 different vault modes as of version 0.81:
 
 * **Vault 13** - Repair the Waterchip! (Limited Flips and Extended Timer)
   * Hit the lit roving shot (moving between targets or loop) to collect a component needed to repair the water chip. The pipboy screen displays how many flips are left. Once you've collected all 6 components, hit the loop to collect a lunchbox!
@@ -160,27 +160,27 @@ During the opening vault door animation, the number of the vault is displayed. T
 ## Multiball Modes {#heading--multiball-modes}
 
 ### Deathclaw Multiballs {#heading--deathclaw-multiball}
-Shoot the Deathclaw bash toy to advance towards the Deathclaw Multiball. Each successful hit will cripple a limb of the deathclaw. Four insert lights just below the bash toy consistently rotate from left to right and back. These insert lights indicate which limb will be hit. When all four insert lights and "Fire!" are flashing, the multiball is ready and will start the next time you hit the bash toy. With *[Mr. Handy as the active companion](#heading--trusty-companions)*, pressing the action button (once per level) will spot a Deathclaw hit but won't start the multiball. There are three different Deathclaw multiballs played in the same order each game. 
+Shoot the Deathclaw bash toy to advance towards Deathclaw Multiball. Each successful hit will cripple a limb of the deathclaw. Four insert lights just below the bash toy consistently rotate from left to right and back. These insert lights indicate which limb will be hit. When all four insert lights and "Fire!" are flashing, the multiball is ready and will start the next time you hit the bash toy. With *[Mr. Handy as the active companion](#heading--trusty-companions)*, pressing the action button (once per level) will spot a Deathclaw hit but won't start the multiball. There are three different Deathclaw multiballs played in the same order each game. 
 
-Once a Deathclaw multiball has been played, upgrade your **[weapon](#heading--weapon)** to enable the next one.
+Once a Deathclaw multiball has been played, upgrade your **[weapon](#heading--weapon)** to enable the next one. The timing of each weapon upgrade does not matter i.e. if you upgrade your weapon before playing Deathclaw Multiball 1, then Deathclaw Multiball 2 will be available to work towards straight afterwards. 
 
-For **Premium/LE Models**: Hitting a limb of the deathclaw that is already crippled will cause the Deathclaw to fire the ball back to the player. Make sure to time the shot correctly. The "Fire!" insert will indicate when to hit the bash toy.
+For **Premium/LE models**: Hitting a limb of the deathclaw that is already crippled will cause the Deathclaw to fire the ball back to the player. Make sure to time the shot correctly. The "Fire!" insert will indicate when to hit the bash toy.
 
-* **Deathclaw Multiball 1:**: For 20 seconds, hit as many red shots to build the Deathclaw jackpot value, which starts at 2M and increases by 250k per lit shot. Once time expires, hit the Deathclaw bash toy to collect jackpots within 12 seconds. Repeated shots to the bash toy apply a stacking multiplier. After enough jackpots have been collected, the next shot before time runs out will score a super jackpot worth the total of the previous jackpots. The number of jackpots that need to be collected to enable super jackpot carry over across phases. Once enough time has passed, the build phase begins again and the jackpot value resets to its minimum.
+* **Deathclaw Multiball 1:**: For 20 seconds, hit red shots to build the Deathclaw jackpot value, which starts at 2M and increases by 250k per lit shot. Once time expires, hit the Deathclaw bash toy to collect jackpots for 12 seconds. Repeated shots to the bash toy apply a stacking multiplier. After enough jackpots have been collected, the next shot before time runs out will score a super jackpot worth the total of the previous jackpots. The number of jackpots that need to be collected to enable super jackpot carry over across phases. Once enough time has passed, the build phase begins again and the jackpot value resets to its minimum.
 * **Deathclaw Multiball 2:**: Charge your weapon by hitting red shots and switches. Shots will charge the weapon by 20% each or 30% if quickly flashing; and shooting the right ramp will lower the spinner to quickly add switch hits. Once the weapon is charged, the Deathclaw will light to score the jackpot, then reset the process with the weapon being needed to be recharged. Collect 5 jackpots to qualify the super jackpot at the Deathclaw worth the total of the previous jackpots and reset the process.
 * **Deathclaw Multiball 3:** All shots are lit to light the Deathclaw for jackpot. If the same shot that lit jackpot is hit again, shooting it again will score a 2x jackpot and unlight it. Once all shots are cleared out, shoot the Deathclaw when "Fire!" is lit to score the super jackpot worth the jackpot total and end the multiball. Hitting the Deathclaw weak points before scoring the super jackpot increases the super jackpot multiplier, once per weak point.
   
 During any Deathclaw multiball, complete all 4 Radroach targets to add-a-ball and briefly extend the ball save timer.
 
 ### Wasteland Multiball {#heading--wasteland-multiball}
-Once the player **[hits all shots in the shooting gallery](#heading--fat-man)**, wasteland multiball will begin. Enemies come out in waves and must be eliminated. Shoot the lit shots, which include the left orbit, U-turn, and right ramp, to eliminate enemies. Jackpots are worth 3M + 500k per shot, and the base super jackpot value is 15M + 2.5M per jackpot scored x wave number. Super jackpot is lit at the upper pipboy ramp after 2 jackpots (+1 per super jackpot scored). On the **Pro model**, the player must make the center right standup target to score it. On the **Premium/LE model**, the fat man will point towards the 3-bank stand-up target. Aim for the center right standup target and fire with the action button to score the super jackpot. Scoring the first super jackpot in wasteland multiball awards a **[legendary weapon](#heading--legendary-weapons)**.
+Once the player **[hits all shots in the shooting gallery](#heading--fat-man)**, Wasteland Multiball will begin. Enemies come out in waves and must be eliminated. Shoot the lit shots, which include the left orbit, U-turn, and right ramp, to eliminate enemies. Jackpots are worth 3M + 500k per shot, and the base super jackpot value is 15M + 2.5M per jackpot scored x wave number. Super jackpot is lit at the upper pipboy ramp after 2 jackpots (+1 per super jackpot scored). On the **Pro model**, the player must make the center right standup target to score it. On the **Premium/LE model**, the Fat Man will point towards the 3-bank stand-up target. Aim for the center right standup target and fire with the action button to score the super jackpot. Scoring the first super jackpot in Wasteland Multiball awards a **[legendary weapon](#heading--legendary-weapons)**.
 
 The first two super jackpots also add-a-ball to the multiball.
 
 ### Vault Multiball {#heading--vault-multiball}
-A 3-ball multiball that starts when awarded from odd-numbered **[lunchbox awards](#heading--vault-modes)**. Multiple shots are lit blue to score awards, with one shot blinking faster then the others (and having its corresponding "Spell VAULT" insert lit) to score a jackpot worth 2M + previous award values + 500k per jackpot. The jackpot shot moves from left to right with each shot in the following order: lower pipboy shot, upper pipboy shot, U-turn, center jump ramp, right ramp. Once the jackpot is made at the right ramp, either shoot the upper loop (**Pro model**) or complete all four lower playfield shots (**Premium/LE model) to score a double jackpot and then light the center jump ramp for super jackpot worth the total of all prior jackpots. Scoring the first super jackpot in vault multiball awards a **[legendary weapon](#heading--legendary-weapons)**. 
+A 3-ball multiball that starts when awarded from odd-numbered **[lunchbox awards](#heading--vault-modes)**. Multiple shots are lit blue to score awards, with one shot blinking faster then the others (and having its corresponding "Spell VAULT" insert lit) to score a jackpot worth 2M + previous award values + 500k per jackpot. The jackpot shot moves from left to right with each shot in the following order: lower pipboy shot, upper pipboy shot, U-turn, center jump ramp, right ramp. Once the jackpot is made at the right ramp, either shoot the upper loop (**Pro model**) or complete all four lower playfield shots (**Premium/LE model**) to score a double jackpot and then light the center jump ramp for super jackpot worth the total of all prior jackpots. Scoring the first super jackpot in Vault Multiball awards a **[legendary weapon](#heading--legendary-weapons)**. 
 
-The player's progress on lighting super jackpot is carried over between vault multiballs if the player starts more than one in the same game, and hasn't scored a super jackpot yet.
+The player's progress on lighting super jackpot is carried over between Vault Multiballs if the player starts more than one in the same game, and hasn't scored a super jackpot yet.
 
 Hit the Deathclaw 5 times during Vault Multiball to add-a-ball.
 
@@ -201,7 +201,7 @@ The classic Fallout stat mechanism is present. Earn XP during **[quest modes](#h
   * Level 1 - Sundries Shop is now 20% off. You also earn more XP from junk
   * Level 2 - Flipper buttons can now be used to select quest
 * **I**ntelligence
-  * Level 1 - Easier to light fat man (lane behind upper flipper lights all right standup targets to enable fat man). -1 shot to enable radio jackpots.
+  * Level 1 - Easier to light Fat Man (lane behind upper flipper lights all right standup targets to enable Fat Man). -1 shot to enable radio jackpots.
   * Level 2 - Guaranteed **[advanced hacking](#heading--hacking)**. -2 shots to enable radio jackpots.
 * **A**gility
   * Level 1 - Easier to light VATS. The timer to hit the escape shots after a failed steal attempt is extended.
@@ -216,7 +216,7 @@ Bobbleheads of different types can be earned from **[sundries](#heading--caps-su
 
 ### Radio Modes {#heading--radio-modes}
 
-Build the radio signal by shooting the radio tower target located next to the nuka cola spinner; every time a radio mode is started, one additional radio tower hit is needed. The current strength of the radio signal is displayed at the backboard screen on the top left area. Once the signal is at full strength, each music note insert will light up with different colors. The colors signal which song will be played. The duration of the song determines the timer of the mode. **You cannot pause the timer for Radio modes by trapping/cradling the ball**.
+Build the radio signal by shooting the radio tower target located next to the Nuka Cola spinner; every time a radio mode is started, one additional radio tower hit is needed. The current strength of the radio signal is displayed at the backboard screen on the top left area. Once the signal is at full strength, each music note insert will light up with different colors. The colors signal which song will be played. The duration of the song determines the timer of the mode. **You cannot pause the timer for Radio modes by trapping/cradling the ball**.
 
 **Songs:**
 As of version 0.81, there are a total of 6 songs that can be played during Radio Mode. Below is the list of songs and includes the duration of the radio mode, the number of shots needed to activate the jackpot, and the corresponding color to hit to start the song.
@@ -260,7 +260,7 @@ As of version 0.81, there are a total of 6 songs that can be played during Radio
 
 ### Fat Man {#heading--fat-man}
 
-An iconic weapon of the wasteland. The player qualifies for the Fat Man by shooting the the 3-bank of stand up targets on the right, collecting a mini nuke. Once collected, shoot either lit pipboy ramp to load the launcher. Once all three targets have been hit, **[Wasteland Multiball](#heading--wasteland-multiball)** begins. Each enemy killed lights the scoop for loot as well.
+An iconic weapon of the Wasteland. The player qualifies the Fat Man by shooting the the 3-bank of stand up targets on the right, collecting a mini nuke. Once collected, shoot either lit pipboy ramp to load the launcher. Once all three targets have been hit, **[Wasteland Multiball](#heading--wasteland-multiball)** begins. Each enemy killed lights the scoop for loot as well.
 
 * For **Pro model:** The ball feeds to the left flipper. Shoot the lit shots at the 3-bank of standup targets.
 * For **Premium/LE model:** The ball feeds into the Fat Man launcher mechanism. Shoot any of the lit targets/spinner on the upper playfield.
@@ -276,7 +276,7 @@ The Vault-Tec Assisted Targeting System will make it easier to progress the shoo
 * For **Pro model:** VATS will spot a target for you at the 3-bank stand-up targets. Use the flipper buttons to select a target and action button to confirm.
 * For **Premium/LE model:** VATS will completely guide the ball launcher when using the Fat Man, acting as a spot mechanic. Use flipper buttons to select a target and action button to confirm. If a **[glowing radroach](#heading--radroaches-radaway)** is available, VATS will always prioritize it.
 
-### Wasteland Items {heading--items}
+### Wasteland Items {#heading--items}
 
 The left ramp, U-turn, and right ramp all have rows of three inserts in front of them. Completing all three inserts of the same color gives a wasteland item, and filling out all three rows will light the scoop to start a **[side quest](#heading--side-quests)**. After the first side quest, the inserts must be completed by making the shots from left to right.
 
@@ -284,7 +284,7 @@ The awards for each set of inserts are listed below. The inserts are lit in the 
 
 #### Outlane Ball Save (Stimpak) {#heading--outlane-ball-save-stimpak}
 
-Completing the three white inserts will light the right outlane for stimpak. Stimpaks save the ball when the ball drains down a lit outlane. The location of the lit stimpak changes with hits to the fusion core pop bumper or right slingshot. Stimpaks can also be earned from **[sundries](#heading--caps-sundries)**.
+Completing the three white inserts will light the right outlane for Stimpak. Stimpaks save the ball when the ball drains down a lit outlane. The location of the lit stimpak changes with hits to the fusion core pop bumper or right slingshot. Stimpaks can also be earned from **[sundries](#heading--caps-sundries)**.
 
 The following SPECIAL perks help with stimpaks:
 
@@ -295,7 +295,7 @@ The following SPECIAL perks help with stimpaks:
 
 Completing the three yellow inserts will enable a trusty companion. While the third yellow insert is flashing, using the left or right flipper will change the qualified companion clockwise (right flipper) or counterclockwise (left flipper). The player can only have one companion active at a time.
 
-Each companion has a passive and active ability. **Press the action button to use the companions' active ability.** Leveling up refreshes the companion's active ability.
+Each companion has a passive and active ability. **Press the action button to use the companion's active ability.** Leveling up refreshes the companion's active ability.
 
 Your four trusty companions are:
 * Victor
@@ -317,19 +317,19 @@ Your four trusty companions are:
 
 #### Side Quests {#heading--side-quests}
 
-Side Quests are single-ball modes that take priority over all other game features besides **[radio modes](#heading--radio-modes)**. To light side quests, complete all three of the blue inserts, and make sure that your *[HP is above 50](#heading--quests)*. Once available, the scoop will start the next side quest. During side quests, completing each phase will light the scoop to either cash out the current value or continue the mode with time added. Every time the cashout is lit, a bonus award is added: **[junk](#heading--junk)**, then **[legendary weapon](#heading--legendary-weapons)**, then a random **[bobblehead](#heading--special)**, then ?.
+Side quests are single-ball modes that take priority over all other game features besides **[radio modes](#heading--radio-modes)**. To light side quests, complete all three of the blue inserts, and make sure that your *[HP is above 50](#heading--quests)*. Once available, the scoop will start the next side quest. During side quests, completing each phase will light the scoop to either cash out the current value or continue the mode with time added. Every time the cashout is lit, a bonus award is added: **[junk](#heading--junk)**, then **[legendary weapon](#heading--legendary-weapons)**, then a random **[bobblehead](#heading--special)**, then ?.
 
 * **Filly** — *TBD*
-* **Gulper** — 4-phase mode. Clear out 6 shots, with the first shot in each phase becoming a multiplier shot and being able to hit as many times as the multiplier number allows. The 7th shot of each phase is at either pipboy ramp. Each phase increases the max multiplier.
+* **Gulper** — 4-phase mode. Clear out 6 shots, with the first shot in each phase becoming a multiplier shot and being able to be hit as many times as the multiplier number allows. The 7th shot of each phase is at either pipboy ramp. Each phase increases the max multiplier.
 * **Super Duper Mart** — *TBD*
 
 ### Radroaches / Radaway {#heading--radroaches-radaway}
 
-**Radroaches:** One of the four radroach stand up targets is always flashing. Hitting this stand up target kills the radroach and awards points. Another radroach will then spawn at one of the remaining stand-up targets. Killing a radroach causes the insert to remain lit in a solid fashion. *If you hit the lit stand-up target again, you will be inflicted with RAD (Radiation)*, resulting in your maximum HP being lowered.
+**Radroaches:** One of the four radroach stand up targets is always flashing. Hitting this stand-up target kills the radroach and awards points. Another radroach will then spawn at one of the remaining stand-up targets. Killing a radroach causes the insert to remain lit solidly. *If you hit the lit stand-up target again, you will be inflicted with RAD (Radiation)*, resulting in your maximum HP being lowered.
 
-Killing all four radroaches will spawn a **Glowing Radroach** that can be killed with the fat man for 20M + 10M per glowing radroach, or hit directly from the flippers for 1/2 the value. Glowing radroaches can also be looted.
+Killing all four radroaches will spawn a **Glowing Radroach** that can be killed with the Fat Man for 20M + 10M per glowing radroach, or hit directly from the flippers for 1/2 the value. Glowing radroaches can also be looted.
 
-If your collect *[Dogmeat as your Companion](#heading--trusty-companions)*, you will have more than one radroach stand up target active.
+If you collect *[Dogmeat as your companion](#heading--trusty-companions)*, you will have more than one radroach stand-up target active.
 
 **Radaway:** Upon being inflicted with RAD, a green shot becomes lit at the ramps to indicate that radaway is available. Hitting the green shot rewards hurry-up points and reduces the amount of RAD the player has incurred, which increases their maximum HP. Collecting 3 Radaway shots enables the upper pipboy ramp to start **[Radaway Hurry-Up](#heading--radaway-hurry-up)**. If Rad X was obtained from **[Sundries](#heading--caps-sundries)**, radaway shots will be lit for longer until the next Radaway Hurry-Up is started.
 
@@ -339,7 +339,7 @@ Once 3 Radaway shots have been been collected, the player is qualified for the R
 
 To light the Radaway Jackpot, shoot all 3 ramps (upper pipboy ramp, center jump ramp, and right ramp), which score hurry-up values based on the individual value of the prior Radaway shots. Once lit, the Radaway Jackpot, worth the total of all 3 hurry-up values, is lit at the upper loop. Shoot the upper loop from the mutant flipper as many times as possible to score it with each successive shot. The player has 10 seconds to repeat this outer loop shot as many times as they can, and the timer starts as soon as the first Radaway Jackpot is collected.
 
-The value of Radaway Hurry-Up, and thus the Radaway Jackpot, massively increase over the course of the game. Collecting Radaway from **[Sundries](#heading--caps-sundries)** further boosts this value.
+The value of Radaway Hurry-Up, and thus the Radaway Jackpot, massively increases over the course of the game. Collecting Radaway from **[Sundries](#heading--caps-sundries)** further boosts this value.
 
 ### Playfield X {#heading--playfield-x}
 There are two types of playfield multipliers. The Power Armor is a timed 2x playfield multiplier while weapon upgrades act as a passive playfield multiplier with no timer.
@@ -393,9 +393,9 @@ You can collect junk by:
 
 The junk standup target lights once 10 slingshot / bumper hits are made. Hitting the target will award a random piece of common or rare junk. Rolling through the right inlane and then hitting the junk target awards 2 pieces of junk. If the player has **[Dogmeat as their companion](#heading--trusty-companions)**, pressing the lit action button will spot the lit junk target.
 
-### Wasteland Locations {heading--loops}
+### Wasteland Locations {#heading--loops}
 
-Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations. Then shoot the scoop to loot the location. This is the main method of lighting Nuka-Cola Quantum at the shot behind the mutant flipper (which doubles XP gain for a short time). The pipboy display shows what awards will be given at enough loop thresholds. Reaching 35 loops qualifies **[Vault 4 multiball](#heading--vaultfour)**.
+Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations, then shoot the scoop to loot the location. This is the main method of lighting Nuka-Cola Quantum at the shot behind the mutant flipper (which doubles XP gain for a short time). The pipboy display shows what awards will be given at enough loop thresholds. Reaching 35 loops qualifies **[Vault 4 multiball](#heading--vaultfour)**.
 
 The loop thresholds and locations are:
 - 5 Loops: Red Rocket Service Station - light Nuka Quantum, common junk
@@ -448,7 +448,7 @@ Hacking is the game's mystery award. Shoot either pipboy ramp to light the lower
 * 10M
 * +25 XP
 * Light radio mode
-* Light fat man
+* Light Fat Man
 * Common junk
 * Rare junk
 * *To be discovered and documented*
@@ -501,10 +501,10 @@ Bonus Multiplier (Bonus X):
 
 ### Vault 4 Multiball (Mini-Wizard Mode) {#heading--vaultfour}
 
-Make a total of 35 **[wasteland loops](#heading--loops)** to qualify the scoop (Pro) or center jump ramp (Prem / LE) to start Vault 4 multiball when no other modes are running.
+Make a total of 35 **[wasteland loops](#heading--loops)** to qualify the scoop (**Pro model**) or center jump ramp (**Premium/LE model**) to start Vault 4 multiball when no other modes are running.
 
-Phase-based multiball where each completed phase adds a ball. The jackpots are multiplied based on # of balls in play.
-- Phase 1 - shoot the jump ramp or U-turn for jackpots. Collect 6 to light scoop (Pro) or center jump ramp (Prem / LE) to complete.
+Vault 4 is a phase-based multiball where each completed phase adds a ball. The jackpots are multiplied based on # of balls in play.
+- Phase 1 - shoot the jump ramp or U-turn for jackpots. Collect 6 to light scoop (**Pro model**) or center jump ramp (**Premium/LE model**) to complete.
 - Phase 2 - hit all lit shots for jackpots. The same shot cannot be hit twice in succession. Collect 10 to light super jackpot at the jump ramp to complete.
 - Phase 3 - hit all lit shots for jackpots. All major shots must be hit before they can be scored again. Collect 13 to light super jackpot at the jump ramp to complete.
 - Phase 4 - victory laps. Hit all lit shots for jackpots. Clear out all 8 jackpots to relight them.
