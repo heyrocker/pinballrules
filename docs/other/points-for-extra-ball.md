@@ -9,20 +9,30 @@ This lists how many points an extra ball is worth in tournament mode. Each secti
 | Game | Extra Ball | Special | Multipliable |
 | :--- | :--- | :--- | :--- |
 | **24** | **2.5M**<br>• Lit by completing Scene 6 or from Cell Phone award in non-tournament play.<br>• Collect at Sniper shot. | | No |
-| **AC/DC** | **2.5M**<br>• Lit by 25 combos or completing the AC/DC, TNT, and ROCK banks twice each.<br>• Collect at the right orbit. | | |
+| **AC/DC** | **2.5M**<br>• Lit by 25 combos or completing the AC/DC, TNT, and ROCK banks twice each.<br>• Collect at the right orbit. | | Yes<br>• Can be multiplied by 2x or 3x from bell playfield multipliers. |
 | **Aerosmith** | **15M**<br>• Lit by starting 3 songs (Toy Box and Elevator MB count as songs).<br>• Also lit by completing Find Jacky shots (progress shown on upper left side of screen; Jacky hides on a random, unindicated shot).<br>• Collect at left scoop. | | Yes |
-| **Attack From Mars** | **250M**<br>• Collect by scoring 10 hits in Strobe MB (every 10 hits scores 250M). | | |
+| **Apollo 13** | **50M**<br>• Lit at right scoop from "Light Extra Ball" mission. Awarded after completing Docking mission the first time or as a mystery award. | | No |
+| **Arena** | **500k**<br>• Lit by completing 3 Guard targets before time runs out.<br>• Collect at 2nd ring of Pit. | **500k**<br>• Lit by completing both CYS spellouts on the same ball.<br>• Collect at 3rd ring of Pit. | No |
+| **Attack from Mars** | **250M**<br>• Collect by scoring 10 hits in Strobe MB (every 10 hits scores 250M). | | |
 | **The Avengers** | **3M**<br>• Lit by starting COSMIC mode three times.<br>• Collect at Hulk saucer. | | |
 | **Avengers: Infinity Quest** | **25M** | | No |
+| **Bad Girls** | **500k**<br>• Collected at the right orbit once progression has been maxed out, once per ball. | **500k**<br>• Scored for completing a 4th rack of drop targets. Collected at the right orbit once progression has been maxed out and extra ball was already scored. Collected at 8-ball drop target after spelling POOL 3 times on the same ball. Scored with a strong vari-target shot after reaching 10x bonus. | No |
+| **Barb Wire** | **50M**<br>• Scored after making enough LENS targets during Hammerhead Bar after LENS has been spelled. Scored as the 2nd Hideout award. Lit at inlanes w/ lane-change at the 6th Mind Read shot. | **200M**<br>•Guaranteed as the next Retinal Scan mystery award at the 12th Mind Read shot. | No |
+| **Batman Forever** | **50M**<br>• Lit at mini-ramp from "Light Extra Ball" Gotham Event or from a Mr. E award. Awarded after completing Brain Drain Gotham Event the first time or by making all possible Batwing shots. | | No |
 | **Batman: The Dark Knight** | **0** | | |
-| **Baywatch** | **50M**<br>• Lit after collecting 10 sharks, reaching 10x SPF factor, or on a hurry-up timer at the end of Diver Trapped.<br>• Collect at center VUK. | | No
-| **Big Buck Hunter** | **2.5M** | **5M** | Yes |
+| **Baywatch** | **50M**<br>• Lit after collecting 10 sharks, reaching 10x SPF factor, or on a hurry-up timer at the end of Diver Trapped.<br>• Collect at center VUK. | | No |
+| **Big Buck Hunter Pro** | **2.5M** | **5M** | Yes |
+| **Big House** | **500k**<br>• Lit at one of the three top lanes, alternating with bumper hits, after completing all 4 cell block targets. |**500k**<br>• Lit at an inlane that alternates on slingshot hits (for a short time) after clearing the upper left drop targets within 2 seconds. Lit at the top center lane once JAIL and BREAK are completed, and instantly awarded if the two words are completed again. | No |
 | **Black Knight 2000** | **100k**<br>• Collected by making enough Skyway Loops in a row, then shooting the left ramp quickly. Lit at the left ramp during The King's Ransom. Instantly awarded from percentage-based lightning wheel award. | **100k**<br>• Instantly awarded from percentage-based lightning wheel award. | |
-| **Bone Busters Inc.** | **500k**<br>• Collected as the 4th loop award. Lit at the loop by completing drop targets lit for "Light Extra Ball". | **500k**<br>• 3 are earned at the same time by maxing out the Bony Bonus at 300. Collected as the 5th loop award (on a timer). Lit at the loop by completing drop targets lit for "Light Special". | No |
+| **Bone Busters Inc.** | **500k**<br>• Collected as the 4th loop award. Lit at the loop by completing drop targets lit for "Light Extra Ball". | **500k**<br>• 3 are earned at once by maxing out the Bony Bonus at 300. Collected as the 5th loop award (on a timer). Lit at the loop by completing drop targets lit for "Light Special". | No |
+| **Bounty Hunter** | **500k**<br>• Collected at the lit B lane once HUNTER is spelled, once per ball. | **500k**<br>• After spelling HUNTER and ABC on the same ball, shoot the saucer to right the left U-turn for special. | No |
+| **Cactus Jack's** | **1M**<br>• Lit at either inlane, which can be lane-changed, once 4x bonus is reached or as a random award from thorny surprise. Awarded by spelling EXTRABALL with right ramp shots. | **1M**<br>• Lit at either outlane, which can be lane-changed, once 5x bonus is reached. Lit at the third top lane from the left as the 4th Banjo Bonus of the game, replacing the normal hurry-up. | No |
 | **Car Hop** | **1M**<br>• Awarded for completing extra ball round (from icepops) or as a rare mystery / select-a-feature award. Lit at the loop if all 3 burgers are on the same purple row. | **1M**<br>• Awarded for completing special round (from icepops). | No |
+| **Chicago Cubs Triple Play** | **500k**<br>• Lit at the left saucer once TRIPLE PLAY spellout is completed. | **500k**<br>• Lit at the upper right standup after 3 runners have been put on base and all given outs via the spinner. | No |
 | **Class of 1812** | **1M**<br>• Lit at the spinner as the 3rd Bat-O-Meter award in a single ball. Lit at alternating top lanes upon reaching 6x bonus. Lit at alternating outlanes from a Door Prize award. | **1M**<br>• Lit at the spinner as the 4th Bat-O-Meter award in a single ball. Lit at the center top lane upon reaching 7x bonus. Instantly awarded by maxing out the base bonus, completing 6 grids in a single ball. | No |
 | **CSI: Crime Scene Investigation** | **0** | | |
 | **Deadpool** | **10M** | | |
+| **Diamond Lady** | **500k**<br>• Scored on 3 royal flush completions on the same ball. | **500k**<br>• Scored on 4 royal flush completions on the same ball. | No |
 | **Dungeons & Dragons: The Tyrant's Eye** | **25M**<br>• Lit by playing 2 modes, starting dragon multiball 3 times, collecting 50 gems, finding one at Fizmo's, or finding one in the treasure room of a level 1 Dungeon Crawl.<br>• Collect at right ramp. | | Yes<br>• Double scoring multiplies extra ball to 50M. |
 | **Earthshaker!** | | **100k**<br>• Lit at either outlane by locking a total of 6 balls, reaching 75 miles, or as a rare match-up award. | No |
 | **Elvira and the Party Monsters** | | **100k**<br>• Toggles between the left ramp and outlanes with bumper & slingshot hits after completing Wake The Dead Heads 6 times on the same ball. Instantly awarded rarely from BBQ Bonus. | No |
@@ -35,6 +45,7 @@ This lists how many points an extra ball is worth in tournament mode. Each secti
 | **Firepower II** | | **100k**<br>• Lit at the outlanes after completing FIREPOWER 3 times on the same ball. Instantly awarded for the 4th completion of FIREPOWER on the same ball. | No |
 | **Fish Tales** | | **1M**<br>• Lit at the outlanes by making 5 Sell Yer Gear shots, after the captive ball has been maxed out. | No |
 | **Foo Fighters** | **10M**<br>• Lit once two van modes are completed, after defeating 10 and 30 spider-bots, and as a percentage-based mystery award.<br>• Collect at right bot target. | | Yes<br>•Ray gun multipliers and playfield X both multiply the extra ball compensation. |
+| **Freddy: A Nightmare on Elm Street** | **20M**<br>•Replaces the hurry-up extra ball from Kruegerands if one has already been earned this game. | | No |
 | **FunHouse** | | **1M**<br>• Lit at the outlanes after reaching 1130 on the clock twice in the same game. | |
 | **Future Spa** | **25k** | **50k** | |
 | **Harlem Globetrotters** | **25k**<br>• Lit by completing the five spot targets on the left side of the playfield.<br>• Collect at the Slam Dunk standup target. | **50k** | |
@@ -43,6 +54,7 @@ This lists how many points an extra ball is worth in tournament mode. Each secti
 | **Genesis** | **500k**<br>•After completing two non-duplicate body parts on the same ball, the next body part completed awards an extra ball. | **500k**<br>• Lit at alternating kicker targets after activating the life-force generator. Settings allow this special to be lit after completing all four body parts instead. | No |
 | **The Getaway: High Speed II** | | **10M**<br>• Lit at the outlanes by collecting 8, then 58 tunnel shots. Instantly awarded from rare burn rubber award. | No |
 | **Ghostbusters** | **15M**<br>• Lit by collecting ~49 ghosts, by completing 3 scenes, or from a pop bumper award.<br>• Collect at the left scoop. | | Yes<br>• Can be multiplied up to 6x. |
+| **Gilligan's Island** | | **1M**<br>• Scored as a random lagoon award. | No |
 | **Godzilla (Stern)** | **50M**<br>• Instantly earned after 2 battles are won, 10 jet fighters are defeated, 3 saucers are destroyed, 5 city combos are made, or 12 lit shots are made during Monster Rampage. | | Yes<br>• All except for 2 battles extra ball can be doubled to 100M using Rodan ally. |
 | **Gold Wings** | **500k**<br>• Lit at either mini-loop (alternating with slingshots) by completing all 8 numbered targets on the same ball. | **500k**<br>• Awarded by making the vertical loop 5 times in the same ball. In multiball, 2 specials are awarded instead of 1 for doing this. | No |
 | **Guardians of the Galaxy** | **15M**<br>• Lit by starting 3 modes (Groot and Orb MB count as modes).<br>• Collect at the right scoop. | | Yes |
@@ -52,6 +64,7 @@ This lists how many points an extra ball is worth in tournament mode. Each secti
 | **Hoops** | **500k**<br>• Lit at hang time target after scoring between 40 to 70 basket points, and each subsequent threshold of the same amount. | **500k**<br>• Lit at captive ball after scoring between 50 to 80 basket points, and each subsequent threshold of the same amount. | No |
 | **Hot Shots** | **500k**<br>• Awarded after completing TEDDY BEAR twice on the same ball. | **500k**<br>• Awarded after completing TEDDY BEAR 4 times on the same ball, or after completing the drop targets while special is lit. If bonus prize or double your score are running, hitting 8 drop targets on the same time without hitting any on the opposite side awards 10 specials. | No |
 | **Hurricane** | | **1M**<br>• Lit at the hurricane ramp after starting multiball 3 times in the same game, or as a rare mystery award. | No |
+| **Ice Fever** | **50k**<br>• Lit at one of the three top lanes once ICE is spelled, alternating with bumper, slingshot, and spinner hits. | **50k**<br>• Lit at the left orbit once FEVER is spelled with 5 shots to it. | No |
 | **Iron Maiden: Legacy of the Beast** | **10M** | | No |
 | **Iron Man** | **3M**<br>• Lit at the left ramp by 2 completions of Iron Man targets, or S.H.I.E.L.D. mystery award (4th award in Competition Mode). | **9M**<br>• Lit at right ramp by S.H.I.E.L.D. mystery award (5th award in Competition Mode). | Yes<br>• 2nd completion of Iron Man targets starts Double Scoring.<br>• Completing Do or Die Hurry-Up increases playfield multiplier for rest of ball. |
 | **Jack*Bot** | **200M**<br>• Awarded from completing the visor using only side targets (while locks are lit), and extra ball has already been earned from them. | **500M**<br>• Can be added to the prize bank or instantly awarded (from cow) during Casino Run. | No |
@@ -69,7 +82,7 @@ This lists how many points an extra ball is worth in tournament mode. Each secti
 | **Mary Shelley's Frankenstein** | **50M**<br>• Lit at the VUK from "Light Extra Ball" creation scene, once Creation Multiball starts, or as a rare Ice Cave mystery award. | | No |
 | **Maverick** | **50M**<br>• Lit at the VUK after making 2 captive ball shots during Bank Heist, or from the Stage Coach Mystery / Lauren Belle award pool. Instantly awarded at the #3 skill shot hole with low ball time, or from the aforementioned award pool. | | No | 
 | **Metallica** | **2.5M**<br>• Lit by ~15 Coffin captive ball hits, or by 10 Piston lane hits.<br>• Collect at right scoop. | | Yes<br>• Can be multiplied up to 4x by FUEL 2x scoring and snake during MB. |
-| **Monte Carlo (Gottlieb)** | **500k**<br>• Lit at either left or right saucer if the roulette lands on 0. | **500k**<br>• Lit at top saucer if the roulette lands on 00. | No |
+| **Monte Carlo (Premier)** | **500k**<br>• Lit at either left or right saucer if the roulette lands on 0. | **500k**<br>• Lit at top saucer if the roulette lands on 00. | No |
 | **Paragon** | **25K** | **50K** | |
 | **The Party Zone** | | **1M**<br>• Lit as the 4th Way Out of Control award.<br>• Collect at payoff lane. | No |
 | **Pirates of the Caribbean (Stern)** | **500K** | **50K** | |
@@ -79,15 +92,19 @@ This lists how many points an extra ball is worth in tournament mode. Each secti
 | **Radical!** | | **100k**<br>• Lights randomly at the left outlane at the start of the game (approx. 2% chance). | No |
 | **Ripley's Believe It or Not!** | **1M** | | |
 | **Robocop** | **1M**<br>• Lit on ramp by hitting 4 standups after collecting jackpot in multiball (adjustable), by starting "Everything Lit" (ramp jump record), or as a Robocop saucer award. | | Yes<br>• Shoot ramp twice in a row to start double scoring. |
+| **Robo-War** | **500k**<br>• Lit at one of the three top lanes, alternating with bumper hits, once the alpha drop targets are completed in order. | **500k**<br>• Lit at one of four different lanes, alternating with bumper, slingshot and spinner hits, once ROBOWAR is spelled. | No |
+| **Rock** | **500k**<br>• Lit at the full loop shot once bonus is maxed out. | **500k**<br>• Awarded for advancing the scoring level to 4 with enough drop target hits. | No |
 | **Rush** | **10M**<br>• Lit by making ~4 ramp shots, collecting 5 albums, upgrading the time machine to year 2062, or as a topper mystery award.<br>•Can either be lit at the side scoop or shot behind the upper flipper. Slingshots alternate which shot is lit to collect. | | No |
 | **The Simpsons Pinball Party** | **2M** | | |
 | **Sonic the Hedgehog** | **10M**<br>• Lit by collecting 100 rings, defeating 3 bosses, or finding Froggy.<br>• Collect at center ramp. | | No |
-| **The Sopranos** | **10M**<br>• Advance rank to Acting Capo with safes/envelopes.<br>• Collect at spinner. | **25M**<br>• Complete 3 episodes (cannot time out).<br>• Collect at spinner. | |
+| **The Sopranos** | **10M**<br>• Advance rank to Acting Capo with safes/envelopes.<br>• Collect at spinner. | **25M**<br>• Complete 3 episodes (cannot time out).<br>• Collect at spinner. | No |
 | **Spider-Man (Stern)** | **5M**<br>• Lit at the left orbit by completing the first "wave" of each villain. | | No |
+| **Spring Break** | **500k**<br>• Lit at the middle side lane or mini-playfield loop, alternating with various switch hits, once VACATION spellout is completed. | **500k**<br>• Scored with a full center lane shot once the value of the mini-playfield exit is maxed out. | No |
 | **Stargate** | **100M**<br>• Lit at the left lane near the bumpers once 30 combos are scored or 7~9 Quartz are traded to light it. Instantly awarded from transporter award (first pool only) or 3rd hurry-up. | | No |
 | **Star Trek 25th Anniversary** | **1M**<br>• Lit at right ramp from a scanner award, or awarded from left ice planet hurry-up. | | No |
 | **Star Wars: Fall of the Empire** | **25M**<br>• Lit after 2 & 6 Rebel Missions are completed, completing the first Jabba Event of a game, making 5 shots during Dark Side Scoring, collecting 10, 30, and 60 TIE Fighters from the right ramp, as a rare mystery award, or after hitting the lowered center ramp 10 times during Mynock Multiball (Premium / LE only).<br>•Can either be lit at the Luke VUK or right ramp. Slingshots alternate which shot is lit to collect. | | Yes<br>• Can be doubled or tripled with ion cannon shot multipliers on the same shot that collects the extra ball. |
 | **Swords of Fury** | | **100k**<br>• Scored after completing the MAGIC drop targets once bonus X has been maxed out. | No |
+| **Tag-Team Pinball** | **500k**<br>• Collected at the left orbit by making 3 right inlane - left orbit combos on the same ball. | **500k**<br>• Lit at one of the three top lanes, alternating with bumper and slingshot hits, once bonus X is maxed out. If the center top lane is lit, it can also be scored at the target near the upper left flipper. | No |
 | **Tales from the Crypt** | **50M** (old code) / **20M** (new code)<br>•Lit at center spinner from "Lite Axe-tra Ball" Creature Feature. Instantly awarded from 10 captive ball hits (old code) / 5 captive ball hits (new code). | | No |
 | **Tales of the Arabian Nights** | | **1M**<br>• Lit at both outlanes after completing Rescue the Princess. | No |
 | **Tee'd Off** | **20M** | | |
@@ -102,11 +119,13 @@ This lists how many points an extra ball is worth in tournament mode. Each secti
 | **Transporter the Rescue** | | **100k**<br>•Lit at the outlanes by shooting the left ramp once during multiball. Toggles with slingshot hits. | No |
 | **TRON** | **3M**<br>• Lit from specified number of ramps (12 default); collect at scoop. | | Yes<br>• Complete T-R-O-N targets with double scoring flashing to light double scoring. Change flashing award at pops. |
 | **Twilight Zone** | | **30M**<br>• Lit at the right outlane from "Lite Outlanes" camera award, or orange zone super skill shot. Alternates with slingshots. | No |
+| **TX-Sector** | **500k**<br>• Lit at either standup target once multiball starts. One can be scored per ball. | **500k**<br>• Lit at the standup target that isn't lit for extra ball once multiball starts and both drop target banks have been used to score 3x Mega-Level. One can be scored per ball. | No |
 | **The Uncanny X-Men** | **0**<br>• As of v0.86 | | |
 | **Vegas** | **1M**<br>• Awarded by maxing out the top lane. Lit at the right lane behind the drop targets after collecting 5 consecutive cards. Can be lit or 2 instantly awarded from easy or hard level super feature. | **1M**<br>• Awarded by collecting all 13 cards. All "Q" targets score special after all 7 "7"s are lit. Mystery award can light the joker lane for special. | No |
 | **Victory** | **500k**<br>• Lit at Checkpoint 1 or the upper playfield right orbit, alternating with slingshot hits, when Checkpoint 1's value has been maxed out. If scored at Checkpoint 1, the ball is held at the lock and releases once the ball drains. | **500k**<br>• Lit at outlanes when a race is completed, alternating with slingshot hits. Scored as the final FUEL drop target award. | No |
 | **The Walking Dead** | **2.5M** | | Yes |
 | **Wheel of Fortune** | **5M** | | |
+| **Wipe Out** | **20M**<br>• Lit after hitting Panic Button enough times within 7 seconds, or on a hurry-up timer at center target from mystery. | **50M**<br>• 
 | **World Challenge Soccer** | **20M**<br>• Lit at the left rollover if all 3 soccer balls are on the same purple row. Instantly awarded by completing extra ball round or making 20 goals. | **50M**<br>• Awarded by completing special round. | No |
 | **World Cup Soccer** | **50M**<br>• Only applies if extra balls are maxed out. Lit at Striker's hideout from reaching Washington DC or as a random mystery award. During extra ball round, subsequent shots to Striker's hideout score 50M instead of extra ball. | **100M**<br>• Lit at right outlane after defeating Germany during the main multiball. | No |
 | **World Poker Tour** | **5M**<br>• Cannot be multiplied. | | No |
