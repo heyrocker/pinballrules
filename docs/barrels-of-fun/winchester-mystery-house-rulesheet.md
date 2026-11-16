@@ -8,7 +8,7 @@ opdb_id: "GvBzO"
 
 Guide edited by Fudd
 
-_Last updated for code revision: 2026.10.01_
+_Last updated for code revision: 2026.11.12_
 
 [**Overview**](#heading--overview)
 
@@ -57,7 +57,9 @@ _Last updated for code revision: 2026.10.01_
 - [Combos / Banished](#heading--13-combos)
 - [Thirteenths Mini Wizard Mode](#heading--13-wiz)
 
-[**Echoes**](#heading--echoes)
+[**Mini Wizard Modes**]
+- [Echoes](#heading--echoes)
+- [Encounter](#heading--encounter)
 
 [**Playfield Multipliers**](#heading--multipliers)
 - [Filling the Spirit Meter](#p-99988-filling-the-spirit-meter-10)
@@ -1242,9 +1244,10 @@ Thirteenths starts a single ball mode, but another ball is plunged on to the pla
 
 Once two complete sets have been made, the player can continue to make shots to increase the cashout value, or press the action button to collect the value. All balls in play drain, all 13 counters are back to zero, and normal play resumes.
 
-## Echoes {#heading--echoes}
-Collect three mementos and immediately you will be taken to the Grand Ballroom, where friendly spirits are playing the organ. Shoot any cyan shot to start Echoes.
+## Mini-Wizard Modes
+The Mini-Wizard modes (currently Echoes and Encounter) are played by qualifying and collecting 3 mementos during your journey. Subsequent mini-wizard modes are available by collecting another 3 mementos. When qualified, the screen will display the Grand Ballroom, music will change, and the only shots available will be lit cyan to start the mini-wizard mode of your choosing. You will be presented with cards representing the mini-wizard modes: select the desired mode with your flippers and confirm with the action button.
 
+### Echoes {#heading--echoes}
 Echoes has three phases:
 
 #### Phase 1: Expel Spirits and Escape the Basement
@@ -1264,6 +1267,23 @@ When you drain down to once ball, you will enter the final phase.
 #### Phase 3: Escape
 
 When you are down to your final ball of Phase 2, phase three will begin. This phase is a single shot to the right ramp and behind the tower to escape the angry spirits. Your value will be a cumulation of points earned through Phase 2 of Echoes. Hitting any switch OTHER than the right ramp will decrease this value, so be sure to hit the right ramp and escape as soon as possible!
+
+### Encounter {#heading--encounter}
+When choosing Encounter, the spirits will leave the ballroom. You immediately find out why -- Henry Zorne is a spirt who isn't so friendly, and it's time to deal with him now. Encounter has two main phases:
+
+#### Phase 1: Build
+Encounter is a limited flips mode. You will start the mode by hitting the action button to earn flips, which will cap out at 26 flips. Your current number of flips is displayed on both screens. Once capped, you will hear a callout and the sound of hitting the action button will change. Any flipper button press will decrement your total by one, and draining in this phase will subtract 5 flips. You can then focus on your main tasks:
+ - Hitting the three ramps will build your 2nd phase Jackpot value, starting at 3.3m per ramp. You must hit a different ramp to re-light the ramp you just successfuly hit. Completing all 3 ramps will increase the build value and relight the ramps. During this time, Henry will start fighting back, and so your second task:
+ - Blocking objects being thrown by Henry. After a period of time, the center turntable shot and right orbit will light green. This indciates Henry is preparing to throw an object at you! Hit the shot to stop the object before it is thrown -- you will be given a countdown when the time is approaching, and the spirit board on the apron will show a green number indicating how much time until the object is thrown. Stopping an object awards your current build value in points starting at the same 3.3m, and gives you a breather! If Henry throws the object, you will lose all flips.
+
+ Equally important is flips management during this time. You can start re-adding flips by hitting the action button. Your first time reloading via the button will award 3 flips per press, and will stop awarding flips once the cap is reached, you stop hitting the button for a brief duration, or 7 seconds has elapsed. The button will unlock again after 7 seconds, and now you will earn 2 flips per press, followed by 1, and then things get really hard: 2 presses per flip, then 4 presses per flip. Eventually you won't be able to keep up, between Henry pelting you with objects and the nature of using flips over time. When the ball drains with 0 flips remaining, phase 1 will end and move to phase 2.
+
+ #### Phase 2: The Encounter
+ Henry has materialized, and it's time to fight for your jackpots. Hitting blue shots will weaken Henry, while hitting red shots (or hitting no shots for a period of time). Hitting blue shots will award 2x what your final blue "build" shot value was in Phase 1, and remove a red shot from the board. Likewise, hitting red shots will remove a blue shot from the board. If enough blue shots are hit, a yellow shot will be lit for a jackpot, at the full cumulative value of your jackpot build in Phase 1. Hitting enough red shots will put the game in a state where you must hit the captive ball to relight some blue shots before time expires. If time expires before hitting the captive ball, Henry will chase you out of the ballroom and Encounter will end.
+
+ At any point in Phase 2, you can hold the action button to Run Away and escape with the points you've earned. You will flee to the basement with Clyde and be given a new ball to continue touring the mansion. Otherwise, draining after ball save expires will end the mode and your ball with Clyde dragging you away to the basement. 
+
+ Encounter will continue the above cycle until you drain, are overpowered, or flee. 
 
 ## Playfield Multipliers {#heading--multipliers}
 
