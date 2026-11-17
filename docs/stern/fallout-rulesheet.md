@@ -61,7 +61,7 @@ opdb_id: "GELVv"
 ## Rules Overview: {#heading--overview}
 
 - Skill shot: time the full plunge so the ball rolls over the flashing Nuka-Cola insert. Then rip the spinner to score as many caps as possible. Caps are used to purchase items from sundries.
-- Light **quests** at the scoop by shooting the left orbit or right ramp to increase HP. Quest timers are based on the player's current HP. Four of the quests are single-ball, while Wedding Day and The Kings quests are 2-ball multiballs. Complete modes to earn legendary weapons that double certain playfield features.
+- Light **quests** at the scoop by shooting the left orbit or right ramp to increase HP. Quest timers are based on the player's current HP. Four of the quests are single-ball, while Wedding Day and The Kings quests are 2-ball multiballs. Complete single-ball modes to earn legendary weapons that double certain playfield features.
 - Shoot Deathclaw to start **Deathclaw multiballs**. Time your shots to the bash toy when the FIRE insert is flashing to guarantee progress. Complete radroach targets during multiball for add-a-ball.
 - Complete the right nuke standup targets to light the pipboy ramps to load the Fat Man nuke launcher. Complete the lit right standup targets (**Pro model**) or use the nuke launcher to fire the ball at lit upper playfield targets (**Premium/LE model**) to start **Wasteland Multiball**.
 - Spell VAULT at the lit VAULT shots to light the center ramp to either start **Find the Lunchbox!** (**Pro model** - shoot any lit shot followed by the scoop) or **one of seven vault experiments** (**Premium/LE model** - follow the display instructions for each experiment).
@@ -110,7 +110,7 @@ To qualify for a quest, you must have a **minimum of 50 HP**.
 * The blinking yellow insert under "Quests" is the quest you'll start when entering the scoop.
 * Hitting the "Junk" stand-up target will rotate to the next available quest if one is currently lit. With **[level 2 Charisma](#heading--special)**, the flippers will rotate the lit quest.
 
-Each quest completed awards a **[Legendary Weapon](#heading--legendary-weapons)**. For the 2-ball multiball modes, this constitutes scoring a super jackpot. Otherwise, making the final shot of any mode will award it.
+Each *single-ball* quest completed by making the final shot before time runs out awards a **[Legendary Weapon](#heading--legendary-weapons)**, so a total of 4 Legendary Weapons can be earned from Quests.
 
 If **[side quest](#heading--side-quests)** is lit, it must be played first before another main quest can be played.
 
@@ -132,7 +132,7 @@ If **[side quest](#heading--side-quests)** is lit, it must be played first befor
 ## Vault Modes / Find the Lunchbox! {#heading--vault-modes}
 Spell VAULT by shooting the lit "VAULT Letter" shots around the playfield. This will light "Open Vault" at the center ramp. 
 
-On **Pro model**, shoot the center ramp again to start **Find the Lunchbox!** This mode is timed for 15 seconds (unless playing as Lucy who has longer timers). Multiple shots will be lit blue. Hit one of these shots to light the scoop to open the lunchbox, and shoot the upper loop to increase the value for scoring the lunchbox. For sequential rounds of Find the Lunchbox!, the shot you hit will be removed.
+On **Pro model**, shoot the center ramp again to start **Find the Lunchbox!** This mode is timed for 15 seconds (unless playing as Lucy who has longer timers). Multiple shots will be lit blue. Hit one of these shots to light the scoop to open the lunchbox, and shoot the upper loop to increase the value for scoring the lunchbox by 250k per loop. For sequential rounds of Find the Lunchbox!, the shot you hit will be removed.
 
 On **Premium/LE model**, shoot the ball to the center ramp to hit the vault door behind it. The ball will be held while the vault door physically opens up. Shoot the ball past the vault door to start a [Vault Mode](#heading--vault-mode-list). The lower playfield activates and becomes the focus point for the duration. The pipboy will display how much time you have left.
 
@@ -172,7 +172,7 @@ For **Premium/LE models**: Hitting a limb of the deathclaw that is already cripp
 
 * **Deathclaw Multiball 1:**: For 20 seconds, hit red shots to build the Deathclaw jackpot value, which starts at 2M and increases by 250k per lit shot. Once time expires, hit the Deathclaw bash toy to collect jackpots for 12 seconds. Repeated shots to the bash toy apply a stacking multiplier. After enough jackpots have been collected, the next shot before time runs out will score a super jackpot worth the total of the previous jackpots. The number of jackpots that need to be collected to enable super jackpot carry over across phases. Once enough time has passed, the build phase begins again and the jackpot value resets to its minimum.
 * **Deathclaw Multiball 2:**: Charge your weapon by hitting red shots and switches. Shots will charge the weapon by 20% each or 30% if quickly flashing; and shooting the right ramp will lower the spinner to quickly add switch hits. Once the weapon is charged, the Deathclaw will light to score the jackpot, then reset the process with the weapon being needed to be recharged. Collect 5 jackpots to qualify the super jackpot at the Deathclaw worth the total of the previous jackpots and reset the process.
-* **Deathclaw Multiball 3:** All shots are lit to light the Deathclaw for jackpot. If the same shot that lit jackpot is hit again, shooting it again will score a 2x jackpot and unlight it. Once all shots are cleared out, shoot the Deathclaw when "Fire!" is lit to score the super jackpot worth the jackpot total and end the multiball. Hitting the Deathclaw weak points before scoring the super jackpot increases the super jackpot multiplier, once per weak point.
+* **Deathclaw Multiball 3:** All shots are lit to light the Deathclaw for jackpot. If the same shot that lit jackpot is hit again, shooting it again will score a 2x jackpot and unlight it. Once all shots are cleared out, shoot the Deathclaw when "Fire!" is lit to score the super jackpot worth the jackpot total, award a **[legendary weapon](#heading--legendary-weapons)**, and end the multiball. Hitting the Deathclaw weak points before scoring the super jackpot increases the super jackpot multiplier, once per weak point.
   
 During any Deathclaw multiball, complete all 4 Radroach targets to add-a-ball and briefly extend the ball save timer.
 
@@ -184,13 +184,13 @@ The first two super jackpots also add-a-ball to the multiball.
 ### Vault Multiball {#heading--vault-multiball}
 A 3-ball multiball that starts when awarded from odd-numbered **[lunchbox awards](#heading--vault-modes)**. Multiple shots are lit blue to score awards, with one shot blinking faster then the others (and having its corresponding "Spell VAULT" insert lit) to score a jackpot worth 2M + previous award values + 500k per jackpot. The jackpot shot moves from left to right with each shot in the following order: lower pipboy shot, upper pipboy shot, U-turn, center jump ramp, right ramp. Once the jackpot is made at the right ramp, either shoot the upper loop (**Pro model**) or complete all four lower playfield shots (**Premium/LE model**) to score a double jackpot and then light the center jump ramp for super jackpot worth the total of all prior jackpots. Scoring the first super jackpot in Vault Multiball awards a **[legendary weapon](#heading--legendary-weapons)**. 
 
-The player's progress on lighting super jackpot is carried over between Vault Multiballs if the player starts more than one in the same game, and hasn't scored a super jackpot yet.
+The player's progress on lighting super jackpot is carried over between Vault Multiballs if the player starts more than one in the same game, and hasn't scored a super jackpot yet. However, if they drain with double jackpot or super jackpot lit, their progress won't be remembered.
 
 Hit the Deathclaw 5 times during Vault Multiball to add-a-ball.
 
 ## S.P.E.C.I.A.L. {#heading--special}
 
-The classic Fallout stat mechanism is present. Earn XP during **[quest modes](#heading--quests)**, by **[looting / killing enemies](#heading--shooting-gallery)**, and by traveling to **[wasteland locations](#heading--loops)**. When you have collected enough XP to level up, shooting either pipboy ramp while outside of a mode will allow the player to select a SPECIAL perk. Each stat provides a perk for the duration of the game and has a maximum level of 2. The screen on the pipboy informs you what the perk at said level will provide.
+Earn XP during **[quest modes](#heading--quests)**, by **[looting / killing enemies](#heading--shooting-gallery)**, and by traveling to **[wasteland locations](#heading--loops)**, to level up. When you have collected enough XP to level up, shooting either pipboy ramp while outside of a mode will allow the player to select a SPECIAL perk. Each stat provides a perk for the duration of the game and has a maximum level of 2. The screen on the pipboy informs you what the perk at said level will provide.
 
 * **S**rength
   * Level 1 - Discover and carry more loot. Easier to light junk target
@@ -220,7 +220,7 @@ Bobbleheads of different types can be earned from **[sundries](#heading--caps-su
 
 ### Radio Modes {#heading--radio-modes}
 
-Build the radio signal by shooting the radio tower target located next to the Nuka Cola spinner; every time a radio mode is started, one additional radio tower hit is needed. The current strength of the radio signal is displayed at the backboard screen on the top left area. Once the signal is at full strength, each music note insert will light up with different colors. The colors signal which song will be played. The duration of the song determines the timer of the mode. **You cannot pause the timer for Radio modes by trapping/cradling the ball**.\
+Build the radio signal by shooting the radio tower target located next to the Nuka Cola spinner; every time a radio mode is started, one additional radio tower hit is needed. The current strength of the radio signal is displayed at the backboard screen on the top left area. Once the signal is at full strength, each music note insert will light up with different colors. The colors signal which song will be played. The duration of the song determines the timer of the mode. **You cannot pause the timer for Radio modes by trapping/cradling the ball**.
 
 During each song, clear out the flashing music notes to light the radio target for Radio Jackpot. The "focus shots" of each song are the shot that was used to start the radio mode, always stay lit, and increase the multiplier for the Radio Jackpot by +1x. Each jackpot scored boosts the starting value of subsequent radio modes.
 
@@ -259,21 +259,21 @@ There are a total of 6 songs that can be played during Radio Mode. Below is the 
   * Shots needed: 7
 * Big Iron
   * Shot to start - right ramp
-  * Scoring - right ramp to junk target scores combo award worth more points
+  * Scoring - right ramp stays lit; right ramp to junk target scores combo award worth 2x points
   * Color - Orange
   * Duration - 3:55
   * Shots needed: 7
 
 ### Fat Man {#heading--fat-man}
 
-An iconic weapon of the Wasteland. The player qualifies the Fat Man by shooting the the 3-bank of stand up targets on the right, collecting a mini nuke. Once collected, shoot either lit pipboy ramp to load the launcher. Once all three targets have been hit, **[Wasteland Multiball](#heading--wasteland-multiball)** begins. Each enemy killed lights the scoop for loot as well.
+An iconic weapon of the Wasteland. The player qualifies the Fat Man by shooting the the 3-bank of stand up targets on the right, collecting a mini nuke. Once collected, shoot either lit pipboy ramp to load the launcher (the slingshots alternate which ramp is lit). Once all three targets have been hit, **[Wasteland Multiball](#heading--wasteland-multiball)** begins. Each enemy killed lights the scoop for loot as well.
 
 * For **Pro model:** The ball feeds to the left flipper. Shoot the lit shots at the 3-bank of standup targets.
 * For **Premium/LE model:** The ball feeds into the Fat Man launcher mechanism. Shoot any of the lit targets/spinner on the upper playfield.
 
-For the second round, the enemy difficulty increases (requiring two shots to kill), but the value per shot also increases.
+For the second round, the enemy difficulty increases (requiring two shots to kill), but the value per shot also increases. For the third round onwards, the enemy difficulty increases again, and the nuke targets must be completed twice to enable the Fat Man. The speed of the nuke launcher increases with each successive round as well.
 
-The Fat Man also lights once the player has found a **[glowing radroach](#heading--radroaches-radaway)**. In this case, the launcher will aim towards the lower right radroach target instead of any of the upper playfield shots.
+The Fat Man also lights once the player has found a **[glowing radroach](#heading--radroaches-radaway)**. In this case, the launcher will aim towards the lower right radroach target instead of any of the upper playfield shots. *On the Pro, hitting any radroach target will kill the glowing radroach, with the lower right radroach target scoring 2x*.
 
 #### VATS {#heading--vats}
 
@@ -323,17 +323,17 @@ Your four trusty companions are:
 
 #### Side Quests {#heading--side-quests}
 
-Side quests are single-ball modes that take priority over all other game features besides **[radio modes](#heading--radio-modes)**. To light side quests, complete all three of the blue inserts, and make sure that your *[HP is above 50](#heading--quests)*. Once available, the scoop will start the next side quest. During side quests, shooting the upper loop will increase the value per shot, and completing each phase will light the pipboy to either cash out the current value or continue the mode with time added and refreshed ball save. Every time the cashout is lit, a bonus award is added: **[legendary weapon](#heading--legendary-weapons)**, then **[2 junk](#heading--junk)**, then a random **[bobblehead](#heading--special)**, then light **[loot](#heading--loot)** (legendary).
+Side quests are single-ball modes that take priority over all other game features besides **[radio modes](#heading--radio-modes)**. To light side quests, complete all three of the blue inserts, and make sure that your *[HP is above 50](#heading--quests)*. Once available, the scoop will start the next side quest. During side quests, shooting the upper loop will increase the value per shot, and completing each phase will light the pipboy to either cash out the current value or continue the mode with time added and refreshed ball save. Every time the cashout is lit, a bonus award is added: **[legendary weapon](#heading--legendary-weapons)**, then **[2 junk](#heading--junk)** (+1 junk with each subsequent phase completed), then a random **[bobblehead](#heading--special)**. The 4th phase perk varies depending on the mode.
 
-* **Filly** — 4-phase mode. Phase 1 - make 3 combos starting at the right ramp or either pipboy shot. Phase 2 - one target is lit at a time moving from left to right, hit 5 flashing targets to light the pipboy hurry-up and complete. Phase 3 - all shots are lit, with one shot lit to score 2x. Phase 4 - load the fat man and hit any of the right targets to collect, with center target scoring 2x.
-* **Gulper** — 4-phase mode. Clear out 6 shots, with the first shot in each phase becoming a multiplier shot and being able to be hit as many times as the multiplier number allows. The 7th shot of each phase (6th shot of phases 3 and 4) is at either pipboy ramp. Each phase increases the max multiplier, but the multiplied shot disappears once the phase ends.
+* **Filly** — 4-phase mode. Phase 1 - make 3 combos starting at the right ramp or either pipboy shot. Phase 2 - one target is lit at a time moving from left to right, hit 5 flashing targets to light the pipboy hurry-up and complete; unique targets score 2x. Phase 3 - all shots are lit, with one shot lit starting at the upper pipboy ramp, then moving one shot to the right, to score 2x. Phase 4 - load the fat man and hit any of the right targets to collect, with center target scoring 2x.
+* **Gulper** — 4-phase mode. Clear out 6 shots, with the first shot in each phase becoming a multiplier shot and being able to be hit as many times as the multiplier number allows. The 7th shot of each phase (6th shot of phases 3 and 4) is at either pipboy ramp. Each phase increases the max multiplier, but the multiplied shot disappears once the phase ends. Completing this mode by completing all 4 phases lights the scoop to loot the Gulper for **legendary loot**.
 * **Super Duper Mart** — *TBD*
 
 ### Radroaches / Radaway {#heading--radroaches-radaway}
 
 **Radroaches:** One of the four radroach stand up targets is always flashing. Hitting this stand-up target kills the radroach and awards points. Another radroach will then spawn at one of the remaining stand-up targets. Killing a radroach causes the insert to remain lit solidly. *If you hit the lit stand-up target again, you will be inflicted with RAD (Radiation)*, resulting in your maximum HP being lowered.
 
-Killing all four radroaches will spawn a **Glowing Radroach** that can be killed with the Fat Man for 20M + 10M per glowing radroach, or hit directly from the flippers for 1/2 the value. Glowing radroaches can also be looted.
+Killing all four radroaches will spawn a **Glowing Radroach** that can be killed with the Fat Man for 20M + 10M per glowing radroach. *On the Pro, hitting any radroach target will kill the glowing radroach, with the lower right radroach target scoring 2x*. Glowing radroaches can also be looted.
 
 If you collect *[Dogmeat as your companion](#heading--trusty-companions)*, you will have more than one radroach stand-up target active.
 
@@ -343,7 +343,7 @@ If you collect *[Dogmeat as your companion](#heading--trusty-companions)*, you w
 
 Once 3 Radaway shots have been been collected, the player is qualified for the Radaway Hurry-Up. Shoot either pipboy ramp in single-ball play to start it. 1 more Radaway shot is required to light subsequent hurry-ups.
 
-To light the Radaway Jackpot, shoot all 3 ramps (upper pipboy ramp, center jump ramp, and right ramp), which score hurry-up values based on the individual value of the prior Radaway shots. Once lit, the Radaway Jackpot, worth the total of all 3 hurry-up values, is lit at the upper loop. Shoot the upper loop from the mutated flipper as many times as possible to score it with each successive shot. The player has 10 seconds (15 seconds w/ Rad X) to repeat this outer loop shot as many times as they can, and the timer starts as soon as the first Radaway Jackpot is collected.
+To light the Radaway Jackpot, shoot all 3 ramps (upper pipboy ramp, center jump ramp, and right ramp), which score hurry-up values based on the individual value of the prior Radaway shots and increase slightly with each hurry-up shot made. Once lit, the Radaway Jackpot, worth the total of all 3 hurry-up values, is lit at the upper loop. Shoot the upper loop from the mutated flipper as many times as possible to score it with each successive shot. After making the first Radaway Jackpot, the player has 10 seconds (15 seconds w/ Rad X) to repeat this outer loop shot as many times as they can.
 
 The value of Radaway Hurry-Up, and thus the Radaway Jackpot, increases over the course of the game. Collecting Radaway from **[Sundries](#heading--caps-sundries)** further boosts this value.
 
@@ -352,14 +352,14 @@ There are two types of playfield multipliers. The Power Armor is a timed 2x play
 
 #### Power Armor {#heading--power-armor}
 
-Charge the Power Armor by hitting the fusion core pop bumper enough times or earning fusion cores from **[Sundries](#heading--caps--sundries)**. Once the fusion core power is at least 50% (shown via the meter near the pop bumper), the Power Armor can be equipped by holding the action button for two seconds. While Power Armor is equipped, all scoring is **+100% (2x) multiplied**, and this scoring is additive with your weapon multiplier. You can toggle the playfield multiplier on and off by holding the action button while the timer is running.
+Charge the Power Armor by hitting the targets above or near the fusion core pop bumper enough times, or earning fusion cores from **[Sundries](#heading--caps--sundries)**. Once the fusion core power is at least 50% (shown via the meter near the pop bumper), the Power Armor can be equipped by holding the action button for two seconds. While Power Armor is equipped, all scoring is **+100% (2x) multiplied**, and this scoring is additive with your weapon multiplier. You can toggle the playfield multiplier on and off by holding the action button while the timer is running.
 
 #### Weapons {#heading--weapon}
 You'll need production when roaming the wasteland! The game starts you off with a simple weapon that can be upgraded. Upgrading the weapon awards:
 * A playfield X multiplier of +20% (0.2x) for each upgrade
 * +1x **[bonus](#heading--end-of-ball-bonus) multiplier** for each upgrade
 
-Upgrading your weapon requires a certain amount of [Junk](#heading--junk) items of certain quality, becoming more demanding as you continue to upgrade. Once you have the material, shoot the scoop to upgrade your weapon. The junk material requirement for upgrading your weapon is as listed:
+Upgrading your weapon requires a certain amount of [Junk](#heading--junk) items of certain quality, becoming more demanding as you continue to upgrade. *Reaching **[agility level 2](#heading--special)** reduces the junk threshold by 1/5 of the required amount.* Once you have the material, shoot the scoop to upgrade your weapon. The junk material requirement for upgrading your weapon is as listed:
 * Level 2:
   * Any Junk x5
 * Level 3:
@@ -378,6 +378,7 @@ The backboard screen displays your current bonus X and playfield X, along with t
 ### Loot {#heading--loot}
 After each **[glowing radroach](#heading--radroaches-radaway)**, enemy in the **[shooting gallery](#heading--fat-man)** that you kill, and **[wasteland location](#heading--loops)** found, shoot the scoop to loot their corpse and collect 2 to 3 rewards from the list below. The rewards are random:
 * Caps
+* Clothes items (2.5M)
 * Nuka Cola
 * Jet
 * Buffout
@@ -387,7 +388,7 @@ After each **[glowing radroach](#heading--radroaches-radaway)**, enemy in the **
 
 Legendary loot can be found from completing **[side quests](#heading--side-quests)**, or at all **wasteland locations** past Vault 4. This can include the following along with any of the awards listed above:
 * Legendary Junk
-* Extra Ball (instantly awarded)
+* Extra Ball (instantly awarded, once per game)
 * Bobblehead
 
 ### Junk {#heading--junk}
@@ -398,23 +399,25 @@ Collect junk items around the wasteland to upgrade your weapon. Each junk item c
 
 You can collect junk by:
 * Hitting the *Junk standup target* when qualified.
-* Cashing out at least one phase of a **[side quest](#heading--side-quests)**.
+* Cashing out at least two phases of a **[side quest](#heading--side-quests)** (each phase completed adds +1 junk to the cashout).
 * **[Looting](#heading--loot)** corpses or **[wasteland locations](#heading--loops)**.
 * Buying them from **[Sundries](#heading--caps-sundries)**
 
-The junk standup target lights once 10 slingshot / bumper hits are made. Hitting the target will award a random piece of common or rare junk. Rolling through the right inlane and then hitting the junk target awards 2 pieces of junk. If the player has **[Dogmeat as their companion](#heading--trusty-companions)**, pressing the lit action button will spot the lit junk target.
+The junk standup target lights once 10 slingshot / bumper hits are made. Hitting the target will award a random piece of common or rare junk. Rolling through the right inlane and then hitting the junk target awards 2 pieces of junk. If the player has **[Dogmeat as their companion](#heading--trusty-companions)**, pressing the lit action button will spot the lit junk target, awarding 2x junk if it was lit from the right inlane first.
 
 ### Wasteland Locations {#heading--loops}
 
-Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations, then shoot the scoop to loot the location. This is the main method of lighting Nuka-Cola Quantum at the shot behind the mutant flipper (which doubles XP gain for a short time). The pipboy display shows what awards will be given at enough loop thresholds. Reaching 35 loops qualifies **[Vault 4 multiball](#heading--vaultfour)**.
+Shoot the outer loop shot from the mutant flipper to advance towards wasteland locations, then shoot the scoop to loot the location. This is the main method of lighting Nuka Quantum at the shot behind the mutant flipper (which doubles XP gain for a short time). The pipboy display shows what awards will be given at enough loop thresholds. Reaching 35 loops qualifies **[Vault 4 multiball](#heading--vaultfour)**.
 
 The loop thresholds and locations are:
 - 5 Loops: Red Rocket Service Station - light Nuka Quantum, common loot
 - 10 Loops: Sunset Sarsaparilla Bottling Plant - light Nuka Quantum, common loot
-- 20 Loops: Cabin - bobblehead, rare loot
-- 35 Loops: Vault 4 - light **[Vault 4 multiball](#heading--vaultfour)**, rare loot
+- 20 Loops: Cabin - bobblehead, legendary loot
+- 35 Loops: Vault 4 - light **[Vault 4 multiball](#heading--vaultfour)**, legendary loot (once Vault 4 is finished)
 - 50 Loops: Super Duper Mart - legendary loot
-- Every 15 Loops afterwards: National Guard Depot - legendary loot
+- Every 15 Loops afterwards: National Guard Depot - bobblehead, legendary loot
+
+The loop value also increases over the course of the game, by smaller amounts per loop and larger amounts for each location found, multiplied by +1x for each successive loop. Once any loop is made, shooting the radio tower target as a combo will score a radio tower bonus worth the built-up loop session value.
 
 ### Caps & Sundries {#heading--caps-sundries}
 
@@ -448,8 +451,8 @@ List of Items at Sundries:
 | Buffout (2) | Extend Multiball | 150 Caps | Player can only possess 1 Buffout at once
 | Psycho | Add tilt warning | 120 Caps | Must have used one tilt warning already
 | Various Common Junk | +1 to common junk counter | 30 Caps |
-| Various Rare Junk | +1 to rare junk counter | 100 Caps
-| Grognak the Barbarian Issue | 200M Points | Legendary Junk
+| Various Rare Junk | +1 to rare junk counter | 100 Caps |
+| Grognak the Barbarian Issue | 250M Points (can be multiplied by weapon multiplier, but not power armor) | Legendary Junk |
 | Gold Pinball | Extra Ball | Legendary Junk |
 | Various Bobbleheads | +1 level to SPECIAL perk for this bobblehead type | Legendary Junk |
 | Holotape | Red Menace video mode | Legendary Junk |
@@ -457,8 +460,9 @@ List of Items at Sundries:
 ### Hacking {#heading--hacking}
 Hacking is the game's mystery award. Shoot either pipboy ramp to light the lower left stand-up target for the award. Without **[mentats](#heading--caps-sundries)** or **[level 2 intelligence](#heading--special)**, though, hacking has an approx. 50% chance of failure and scoring nothing. Possible awards are:
 
-* 10M
-* +25 XP
+* Points: 10M
+* AP: +20
+* XP: +25
 * Light radio mode
 * Light Fat Man
 * Common junk
@@ -468,31 +472,33 @@ Hacking is the game's mystery award. Shoot either pipboy ramp to light the lower
 ## Legendary Weapons {#heading--legendary-weapons}
 There are various legendary weapons to collect within the wasteland. These award perks for the rest of the game. Collect legendary weapons by...
 - Completing **[quests](#heading--quests)**
+- Scoring a super jackpot in **[deathclaw multiball 3](#heading--deathclaw-multiball)**
 - Scoring a super jackpot in **[vault multiball](#heading--vault-multiball)**, or earning them from even-numbered **[lunchboxes](#heading--vault-modes)**
-- Scoring a super jackpot in **[wasteland multiball](#heading--wasteland-multiball)**, or earning them as rare **[loot](#heading--loot)**
+- Scoring a super jackpot in **[wasteland multiball](#heading--wasteland-multiball)**
+- Earning them as rare **[loot](#heading--loot)**
 - Cashing out a **[side quest](#heading--side-quests)** at phase 1
 
-In standard play, the perks are psuedo-random (first 4 are weak, then subsequent ones are chosen from the others). In competition mode, they are chosen in the same order every game. After finding all 11 legendary weapons, subsequent ones will give point awards: 50M + 25M per legendary weapon found, multipliable from both types of **[playfield X](#heading--playfield-x)**.
+In standard play, the perks are psuedo-random (first 4 are weak, then subsequent ones are chosen from the others). In competition mode, they are chosen in the same order every game. After finding all 11 legendary weapons, subsequent ones will give point awards: 50M + 25M per legendary weapon found, which can be multiplied from both types of **[playfield X](#heading--playfield-x)**.
 
-* **Alien Blaster** - 2x Wasteland Loops value
-* **Atom's Judgement** - 2x Radaway awards (only base value, not radaway hurry-up or jackpot)
-* **Big Boy** - 2x Wasteland Multiball scoring
-* **Big Jim** - 2x Wasteland Loops progress
-* **Cryolator** - 2x Nuka Quantum timer
-* **Experiment 18A** - 2x Companion ability uses
-* **Grognak's Axe** - 2x Vault Multiball scoring
-* **Le Fusil Terribles** - 2x Deathclaw Multiball scoring
-* **Old Reliable** - 2x Radio Jackpots
-* **Righteous Authority** - 2x Quest scoring
-* **Rockville Slugger** - 2x Action Points (easier VATS)
+* **Alien Blaster** - 2x **[Wasteland Loops](#heading--loops)** value
+* **Atom's Judgement** - 2x **[Radaway awards](#heading--radroaches-radaway)** (only base value, not radaway hurry-up or jackpot)
+* **Big Boy** - 2x **[Wasteland Multiball](#heading--wasteland-multiball)** scoring
+* **Big Jim** - 2x **Wasteland Loops** progress (each loop advances 2x to the next location) 
+* **Cryolator** - 2x **Nuka Quantum** timer
+* **Experiment 18A** - 2x **[Companion ability](#heading--trusty-companions)** uses
+* **Grognak's Axe** - 2x **[Vault Multiball](#heading--vault-modes)** scoring
+* **Le Fusil Terribles** - 2x **[Deathclaw Multiball](#heading--deathclaw-multiball)** scoring
+* **Old Reliable** - 2x **[Radio Jackpots](#heading--radio-modes)**
+* **Righteous Authority** - 2x **[Quest](#heading--quests)** scoring
+* **Rockville Slugger** - 2x **[Action Points](#heading--vats)**
 
 ## Extra Balls {#heading--extra-balls}
 Extra balls can be collected at the stand-up target that is located on the side area of the lower pipboy ramp. Extra balls can be lit by:
 
 * Playing 3 **[quests](#heading--quests)**
 * Killing 5, then 25 lit **[Radroach targets](#heading--radroaches-radaway)**
-* Purchasing a Gold Pinball from **[Sundries](#heading--caps-sundries)** (instantly awarded)
-* Finding it as a Legendary **[loot](#heading--loot)** item (instantly awarded)
+* Purchasing a Gold Pinball from **[Sundries](#heading--caps-sundries)** (instantly awarded, once per game)
+* Finding it as a Legendary **[loot](#heading--loot)** item (instantly awarded, once per game)
 
 On competition mode, extra balls are worth 15M and subject to multipliers from power armor and weapons.
 
