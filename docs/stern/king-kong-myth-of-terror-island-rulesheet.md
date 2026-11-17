@@ -51,7 +51,7 @@ opdb_id: "GEL0V"
 - Display and Animations: Chuck Ernst
 - Sound Design: Jerry Thompson
 - Release Date: April 2025
-- Wiki Rulesheet based on Code Rev: 0.97
+- Wiki Rulesheet based on Code Rev: 1.00
   - *Edit the Code revision, if applicable, when you make changes*
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/king-kong-myth-of-terror-island-rulesheet)
 
@@ -61,6 +61,8 @@ opdb_id: "GEL0V"
 
 # Skill Shots: {#heading--skillshots}
 
+Lots of options!
+
 - **Skill Shot**: Plunge the ball into the pit targets.
 - **Super Skill Shot**: Plunge the ball into the river lane near the mini-flipper.
 - **Anti-Skill Shot**: Plunge the ball into the left outlane. There is an "anti-skill luck shot" if the ball bounces back into play from the post and the player hits the right spinner or the gong!
@@ -68,6 +70,10 @@ opdb_id: "GEL0V"
 - **Super Secret Skill Shot**: Plunge the ball into the outer left inlane.
 - **Mega Secret Skill Shot**: Plunge to the upper left flipper and make a reflex shot to the cliffs ramp. Scores 1.75M and 8 seconds of ball save time. The skill shot is multiplied by 2x or 3x, with follow-up shots to the biplane ramp, or U-turn, respectively.
 - **Ultra Secret Skill Shot**: Plunge to the upper left flipper, make a reflex shot to the cliffs ramp, then follow up with a shot from the upper right flipper, straight across the playfield, into the river lane. Scores 7M(?) and 8 seconds of ball save time.
+- **Ultra Super Secret Skill Shot**:
+- **Colossal Secret Skill Shot**:
+- **Gargantuan Secret Skill Shot**:
+- **Gargantuan Ultra Super Secret Skill Shot**:
 
 On default settings, each skill shot adds more initial ball-save time.
 
@@ -144,7 +150,7 @@ Awards are given for every section of the building climbed:
 - 1000 ft - 10M & light **NYC event 3**
 - 1100 ft -
 - 1200 ft -
-- 1250 ft - 30M (TBD: light **[Terror on the Tower](#heading--tower)**)
+- 1250 ft - Light **[Terror on the Tower](#heading--tower)**
 
 ### NYC Events: {#heading--nyc}
 
@@ -186,6 +192,8 @@ Each modifier can only be chosen once; further NYC Events will force you to choo
   - Limited flips perk: Completing two lanes will light the kong cave to complete the mode and award a bonus based on the number of shots that were made prior. If all shots were made, they will relight. The U-turn upper loop will always spot shots.
   - Single-ball timed perk: Each shot completed adds +1x to the Retreat finishing bonus. Completing two lanes will light the kong cave to Rampage or Retreat. If the player chooses to Rampage, the mode will keep going and time will be added. If the player chooses to Retreat, they will cash out the finishing bonus and complete the mode.
 
+The total values of each NYC event are used to determine the jackpot value during **[Terror on the Tower](#heading--tower)** mini-wizard mode.
+
 ## Biplane Attack: {#heading--plane}
 
 To start Biplane Attack, make enough shots to the side ramp - 3 shots are required to start the first attack.
@@ -196,7 +204,7 @@ There are two combos that benefit Biplane Attack and can be scored at any time d
 - **Barrel roll**: left orbit - side ramp. Adds +250k to the next biplane destroyed.
 - **Chandelle maneuver**: river - punchback target - side ramp. Adds +500k to the next biplane destroyed and +15 seconds to the mode's timer.
 
-Destroying 5 biplanes, or scoring 25M from a single defeated biplane, is one of the requirements for **[8th Wonder](#heading--wonder)**.
+Destroying 5 biplanes (level 1), or scoring 25M from a single defeated biplane (level 2), is one of the requirements for **[8th Wonder](#heading--wonder)**.
 
 ## Spell KING KONG: {#heading--trex}
 
@@ -258,7 +266,7 @@ King Kong multiball starts on the Prem / LE by releasing all three balls from th
 
 Though all green shots during King Kong multiball score smaller awards with a Kong award for 5x at the side ramp, the jackpots (red arrows) must be lit. For the first jackpot round of a game, hitting any drop target will light the center spinner and punchback target for 1x jackpot. After this first jackpot round, all drop targets must be completed to light jackpots and the center spinner won't award jackpots; instead, the cliffs ramp will be lit to score a 2x jackpot.
 
-After scoring either jackpot, shoot the side ramp to score a super jackpot. The jackpot increases as green arrow shots are made and is multiplied as side ramps are made prior to collecting the super jackpot. The super jackpot starts the game lit for about 30 seconds, but every subsequent jackpot scored reduces the timer that the super jackpot is available for.
+After scoring either jackpot, shoot the side ramp to score a super jackpot. The jackpot increases as green arrow shots are made and is multiplied as side ramps are made prior to collecting the super jackpot. The super jackpot starts the game lit for about 30 seconds, but every subsequent jackpot scored reduces the timer that the super jackpot is available for. Scoring the super jackpot awards the level 1 Kong Multiball light towards **[8th Wonder](#heading--wonder)**, while scoring a super jackpot worth 2x or more awards the level 2 light.
 
 A ball can be relocked in the train by collecting all of the green arrow awards, then shooting the center ramp. The relock multiplies all jackpots & super jackpots by 2x and lasts 20 seconds before releasing the ball. On the Pro, the ball is not physically held during the timed 2x jackpots.
 
@@ -305,6 +313,8 @@ Awards are given for every treasure discovered in a game. Alongside each treasur
 - 10 treasures: add +15 seconds to **[2x playfield](#heading--2x)**.
 - 11 treasures: 1 billion points! Cannot be multiplied by 2x scoring.
 
+Every treasure found also boosts the jackpot value during the game's wizard mode, **[8th Wonder](#heading--wonder)**.
+
 ### Lost Temple & Island Treasure: {#heading--glyph}
 
 Light Lost Temple at the right orbit by hitting the punchback target or Kong Cave while at least one unlit drop target is available. Once lit, if the player is in single-ball play, the next right orbit shot will always send the ball to the mini-flipper and light a drop target that hasn't been lit yet. Hitting the drop target will award one cipher's worth of progress towards completing the glyph puzzle, *and* complete the next drop targets' worth of progress towards either **[King Kombos](#heading--kombos)** or **[light kong lock](#heading--kong)** instantly. Players can earn multiple ciphers worth of progress from Lost Temple by shooting the lit right orbit, followed by the flashing drop target, while **[at powerup level 3](#heading--kombos)** or after having collected 5 **[treasures](#heading--treasures)** in a game.
@@ -326,12 +336,12 @@ Complete game objectives to earn **map segments** towards completing the current
 - **Island scenes** level 2 (completed all 5 island scenes)
 - **[Climb](#heading--climb)** 100ft & 700ft
 - Complete any **[NYC event](#heading--nyc)**
-- **Climb** level 2 (2 buildings fully climbed)
+- **Climb** level 2 (20 biplanes destroyed during **[Terror on the Tower](#heading--tower)**)
 - **[Biplane attack](#heading--plane)** level 2 (scored a 25M biplane attack award)
 - Collecting the second "N" in **[KING KONG](#heading--trex)**
 - Scoring the deadeye jackpot during **[deadeye](#heading--deadeye)**
 - **[T-Rex Battle](#heading--trex)** level 2 (defeated both T-Rex)
-- **[Kong Multiball](#heading--kong)** level 2 (collected 2 super jackpots)
+- **[Kong Multiball](#heading--kong)** level 2 (collected a 2x, or 2, super jackpots)
 - **[Spider Pit](#heading--spider)** level 2 (scored 250M in spider queen multiball)
 - Collecting the rapids jackpot during **[rapids](#heading--river)**
 - 20 **[cliffs](#heading--cliffs)** ramp shots
@@ -366,10 +376,10 @@ There are two combos that can be earned even if King Kombos isn't running.
 
 King Kombos also light the **powerup target** to the right of the KONG drop targets. Every time a 2+ way kombo is made, the powerup target will be lit for as long as the kombo is currently active (alongside a short grace period). Hitting the powerup target while lit awards a powerup bonus worth the total of all kombos made x the length of the kombo leading up to the target hit), and starts a timed powerup award. Each shot added to the kombo adds one award to the powerup "pool", maxing out at 4 awards on a 5-way kombo. The maximum powerup bonus is 100M.
 
-- 2-way kombo: All **[climb](#heading--climb)** arrows are flashing and will make building progress for the next 13 seconds.
-- 3-way kombo: Above award + all **[pit target](#heading--spider)** hits score 2x progress for the next 16 seconds.
-- 4-way kombo: Above awards + right spinner is always lit for **[lost temple](#heading--glyph)**. For the next 20 seconds, hitting the lit cipher will award 2x advances to lighting the next island treasure.
-- 5-way kombo: Above awards + all switch hits award 2x progress towards lighting **[KING KONG letters](#heading--trex)** at the gong for the next 25 seconds.
+- 2-way kombo: Level 1 - All **[climb](#heading--climb)** arrows are flashing and will make building progress for the next 13 seconds.
+- 3-way kombo: Level 2 - Above award + all **[pit target](#heading--spider)** hits score 2x progress for the next 16 seconds.
+- 4-way kombo: Level 3 - Above awards + right spinner is always lit for **[lost temple](#heading--glyph)**. For the next 20 seconds, hitting the lit cipher will award 2x advances to lighting the next island treasure.
+- 5-way kombo: Level 4 - Above awards + all switch hits award 2x progress towards lighting **[KING KONG letters](#heading--trex)** at the gong for the next 25 seconds.
 
 King Kombos and Powerup awards are disabled during multiball play.
 
@@ -532,8 +542,29 @@ The *second* KING KONG completion of a game will start a fight against the Boss 
 
 ## Terror on the Tower: {#heading--tower}
 
-*TBD on 0.96 code*
+Once Kong has **[climbed](#heading--climb)** all the way to the top of the building, shooting the right orbit will start the Terror on the Tower mini-wizard mode. No other modes can run alongside it. Ball save is given for the entire mode.
+
+Help Kong defeat the waves of attacking biplanes at the top of the tower. The biplanes are represented by roving shots that move from left to right, starting at the left orbit and heading to the right orbit. If a biplane travels past the right orbit, Kong will be damaged for 20% health. Destroying all available biplanes lights the side ramp to score a jackpot worth the total value of the 1st, then 2nd, then 3rd, 1st, etc. **[NYC Event](#heading--nyc)** that was played; otherwise, the side ramp will spot a biplane. Kong can restore health by 20% once the drop targets are completed, up to 4 times; with no heals left, or at maximum health, the drop targets will spot a biplane.
+
+The biplanes attack in waves. The 1st wave includes one biplane, the 2nd wave includes 2, and then every wave after that includes 3. The biplanes move faster with each successive wave.
+
+Once Kong's health is depleted, the mode will end as Kong falls from the building. The level 1 Climb light towards **[8th Wonder](#heading--wonder)** is then awarded. Upgrade the light to level 2 by defeating 20 biplanes during the mode as well.
 
 # 8th Wonder (Wizard Mode): {#heading--wonder}
 
-*TBD on 0.96 code*
+Light the gong to start the game's final wizard mode by lighting all 6 of the gate inserts:
+
+- **[Kong Multiball](#heading--kong)** - score a super jackpot. Level 2 - score a 2x super jackpot, or 2 super jackpots
+- **[T-Rex Battle](#heading--trex)** - defeat a T-Rex. Level 2 - defeat both T-Rex
+- **[Biplane Attack](#heading--plane)** - defeat 5 biplanes. Level 2 - score a biplane award worth at least 25M
+- **[Climb](#heading--climb)** - play **[Terror on the Tower](#heading--tower)** mini-wizard mode. Level 2 - defeat 20 biplanes during the mode
+- **[Island Scenes](#heading--island)** - play all 5 island scenes. Level 2 - complete all 5 island scenes
+- **[Spider Pit](#heading--spider)** - play spider queen multiball, the 4th pit multiball. Level 2 - score 250M in spider queen
+
+The mode starts by determining the jackpot value, adding up all **[Island Treasures](#heading--treasures)**. *If all inserts are at level 2, each treasure adds more to the jackpot value.*
+
+A 90-second timed 6-ball multiball then starts. All major shots are lit representing the 7 Wonders of the Ancient World, and each shot scores a base jackpot value. Clearing all 7 shots lights the Gong to score the 8th Wonder Jackpot, which resets the process while adding 10 seconds to the timer and increasing the value of the next 8th Wonder Jackpot.
+
+*The multiball is enhanced if all 6 inserts are at level 2. The mode timer is 120 seconds instead of 90 seconds. Also, the jackpot value is higher, the U-turn and gong spot lit shots, and each 8th Wonder Jackpot adds +1x to the next one scored. All rules described above apply as well.*
+
+Once time expires, *the game ends*, and **[end-of-ball bonus](#heading--bonus)** is given one last time.
