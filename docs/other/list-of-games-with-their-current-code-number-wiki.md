@@ -49,13 +49,13 @@ This is a one stop reference list for games with their current code number. Any 
 | The Uncanny X-Men                     | 0.98           | Jul 1, 2026  |
 | Metallica Remastered                  | 1.04           | Jul 1, 2026  |
 | Dungeons & Dragons: The Tyrant's Eye  | 1.11           | Oct 29, 2026 |
-| King Kong: Myth of Terror Island      | 0.97           | Jul 1, 2026  |
+| King Kong: Myth of Terror Island      | 1.00           | Nov 17, 2026  |
 | Star Wars: Fall of the Empire         | 0.98           | Nov 3, 2026  |
 | The Walking Dead Remastered           | 0.94           | Oct 22, 2026 |
 | Pokémon                               | 0.87           | Oct 29, 2026 |
 | Pokémon (Home Edition)                | 1.04           | Oct 29, 2026 |
 | Transformers: More Than Meets the Eye | 0.96           | Oct 27, 2026 |
-| Fallout                               | 0.81           | Oct 12, 2026 |
+| Fallout                               | 0.82           | Nov 12, 2026 |
 
 ## <a name="heading--jjp"></a>Jersey Jack Pinball
 [Download code for all JJP pinball machines here.](https://www.jerseyjackpinball.com/support/downloads/)
@@ -118,6 +118,14 @@ Beta updates not listed (any one can opt in to installing them)
 | --- | --- | --- | --- |
 | Evil Dead | [v2026.10.30](https://spookypinball.s3.us-east-2.amazonaws.com/evil_dead/software/2026.10.30/2026.10.30.ed) | Oct 30, 2026 | [Log](https://www.spookypinball.com/EvilDead) |
 | Beetlejuice | [v2026.10.28](https://spookypinball.s3.us-east-2.amazonaws.com/beetlejuice/software_versions/release/v2026.10.28.14.beetlejuice) | Oct 28, 2026 | [Log](https://www.spookypinball.com/beetlejuice/) |
+
+## <a name="heading--pb"></a>Pedretti Pinball
+
+| Game Title | Latest Version | Release Date | Link  | Change Log |
+| --- | --- | --- | ---  | --- |
+| TALES OF THE ARABIAN NIGHTS REMAKE | 0.989 | Nov 16, 2026 | [Code](https://drive.google.com/file/d/1eR_cz41NkAH1Dozt_PIfhuj8o5aH4paw/view?usp=drive_link) | https://pedrettigaming.freshdesk.com/support/solutions/articles/101000601546--how-to-update-game-code-from-0-982-0-989| 
+| FUNHOUSE REMAKE | 1.37| ? | [Code](https://pedrettigaming.freshdesk.com/helpdesk/attachments/101261781280) | https://pedrettigaming.freshdesk.com/support/solutions/articles/101000557617--how-to-update-game-code-from-1-21-1-37| 
+
 
 ## <a name="heading--pb"></a>Pinball Brothers
 [Scroll down and the code updates for Pinball Brothers releases can be viewed under Game Updates.](https://www.pinballbrothers.com/support/)
@@ -194,8 +202,8 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Game Title | Latest Version | Release Date | Links | Change Log |
 | --- | --- | --- | --- | --- |
 | Labyrinth | 2026.01.30 | Jan 30, 2026 | [Code](https://www.dropbox.com/scl/fi/l244a26uii8ax203bp2f6/BOF_LAB_20260130.zip?rlkey=yutiufegzx5gjgvwy45tlv9hs&st=k73uxdkx&dl=0) | [Change Log](https://shop.kollectfun.com/labyrinth-update-history/) |
-| Dune | 2026.05.13 | May 13, 2026 | [Code](https://www.dropbox.com/scl/fi/exdy5btmxr1r93n0zhofz/BOF_DUNE_20260513.zip?rlkey=da1jgtmwc590b97sc8gbn3it6&st=wwhyv0un&dl=0) | [Change Log](https://shop.kollectfun.com/dune-update-history/) |
-| Winchester Mystery House | 2026.10.01 | Oct 1, 2026 | [Code](https://www.dropbox.com/scl/fi/ql75j6evoue7qjieqwb62/BOF_WMH_20261001.zip?rlkey=nom51tgrjn010ezshciz1tgvr&st=v2jn7stk&dl=0) | [Change Log](https://shop.kollectfun.com/winchester-code-update/) |
+| Dune | 2026.11.17 | Nov 17, 2026 | [Code](https://www.dropbox.com/scl/fi/exdy5btmxr1r93n0zhofz/BOF_DUNE_20260513.zip?rlkey=da1jgtmwc590b97sc8gbn3it6&st=wwhyv0un&dl=0) | [Change Log](https://shop.kollectfun.com/dune-update-history/) |
+| Winchester Mystery House | 2026.11.12 | Nov 12, 2026 | [Code](https://www.dropbox.com/scl/fi/ql75j6evoue7qjieqwb62/BOF_WMH_20261001.zip?rlkey=nom51tgrjn010ezshciz1tgvr&st=v2jn7stk&dl=0) | [Change Log](https://shop.kollectfun.com/winchester-code-update/) |
 
 ### <a name="heading--apvault"></a>American Vault
 [Download code for all American Pinball releases here.](https://www.american-pinball.com/support/updates/)
@@ -204,9 +212,9 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | --- | --- | --- | --- |
 | Houdini | [21.10.25](https://drive.google.com/file/d/13-fUJHnmS8LUMhx79pwrdueplQhHzla2/view?usp=sharing) | Oct 28, 2021 | [Log](https://drive.google.com/file/d/1KRuL1sV2mgxqJG0zIwBi_YZ7ZFn-Apu1/view?usp=sharing) |
 | Oktoberfest | [22.09.19](https://drive.google.com/file/d/12uSwLj3jI0RHRZAyFmIL5x5ACMkD5ETt/view?usp=sharing) | Aug 26, 2022 | [Log](https://drive.google.com/file/d/12NHhMbFkfvuo-Fmn6fgtI6rSEWRm_Avk/view) |
-| Hot Wheels | [21.10.24](https://drive.google.com/file/d/1on7xwoQtS-xXpFjVH1zSCfkcLRax8bKr/view?usp=sharing) (full) | Oct 28, 2021 | [Log](https://drive.google.com/file/d/11Q9QAmu9OBWzUr0yhzJI_GZPAgVhoxyd/view?usp=sharing) |
+| Hot Wheels | [21.10.24](https://drive.google.com/file/d/1on7xwoQtS-xXpFjVH1zSCfkcLRax8bKr/view?usp=sharing) | Oct 28, 2021 | [Log](https://drive.google.com/file/d/11Q9QAmu9OBWzUr0yhzJI_GZPAgVhoxyd/view?usp=sharing) |
 | Legends of Valhalla | [25.08.27](https://drive.google.com/file/d/1JBnwVN2ZwEj2gDmb7nAH2-FgQ8PF3-bp/view?usp=sharing) | Sep 12, 2025 | [Log](https://drive.google.com/file/d/1zoELjvnbRhrQrzrsQ0KFXELkI8AvhS2x/view) |
-| Galactic Tank Force | [24.04.08](https://american-pinball-software.b-cdn.net/tank-gamecode_24.04.08.pkg) | Apr 21, 2024 | N/A |
+| Galactic Tank Force | [26.07.27](https://american-pinball-software.b-cdn.net/tank-gamecode_26.07.27B.pkg) | July 21, 2024 | [Log](https://48804760.fs1.hubspotusercontent-na1.net/hubfs/48804760/Support%20Files/Release%20Notes/GTF%20-%20Release%20Notes%20-%2026.07.27B.pdf)|
 | Barry O's BBQ Challenge | [24.07.04](https://american-pinball-software.b-cdn.net/bbq-gamecode_24.07.04.pkg) | July 3, 2024 | [Log](https://drive.google.com/file/d/1Ezi915_jqJj4kioF_fhqEj413CT-6L7V/view?usp=drive_link) |
 
 ### <a name="heading--spookyvault"></a>Spooky Vault
