@@ -5,7 +5,6 @@ opdb_id: "GK1Ej"
 ---
 
 # Dungeons & Dragons: The Tyrant's Eye
-[Official Rulesheet]
 
 - [Game Information](#heading--gameinfo)
 - [Layout](#heading--layout)
@@ -22,7 +21,7 @@ opdb_id: "GK1Ej"
     - [Darkhold](#heading--darkhold)
     - [Dragonspear Castle](#heading--dragonspear)
     - [Gauntlgrym](#heading--gauntlgrym)
-  - [Travelling Between Locations](#heading--travel)
+  - [Traveling Between Locations](#heading--travel)
   - [Battles & Ranged Attacks (Action Button)](#heading--battles)
   - [Stealth Missions](#heading--stealth)
 - [Dungeon Crawls](#heading--dungeons)
@@ -105,8 +104,8 @@ Unlock additional characters by completing the campaign. These unlocked characte
 
 Character| Class | Perks | Base Stats | Str/Dex/Con/Int/Wis/Cha | Unlock Mode |
 --- | --- | --- | --- | --- | --- |
-Rhyme|Tiefling Ranger | Good with Ranged Weapons (2 blue arrows at once) | 11 HP, 12 AC, 15% Luck, 140 Gold| 18/13/12/10/11/13 | **[The Undermountain](#heading--wizardundermountain)** |
-Juniper Amari| Wood Elf Bard | Increased 2x Scoring Timer | 9 HP, 15 AC, 60% Luck, 160 Gold | 11/15/13/13/13/18 | **[Ritual of the Chosen](#heading--wizardritualchosen)** |
+Rhyme |Tiefling Ranger | Good with Ranged Weapons (2 blue arrows at once) | 11 HP, 12 AC, 15% Luck, 140 Gold| 18/13/12/10/11/13 | **[The Undermountain](#heading--wizardundermountain)** |
+Juniper Amari | Wood Elf Bard | Increased 2x Scoring Timer | 9 HP, 15 AC, 60% Luck, 160 Gold | 11/15/13/13/13/18 | **[Ritual of the Chosen](#heading--wizardritualchosen)** |
 Goregath | Goliath Barbarian | Rage (replaces ranged weapons, collects all lit shots once per ball, recharges at 5 enemies defeated); Extra damage to Abashi & Yugoloths | 14 HP, 13 AC, 20% Luck, 20 Gold | 19/13/15/10/12/13 | **[Rescue the King](#heading--wizardrescue)** |
 Rowan Freewander | Human Fighter | Add-a-ball during any multiball, once per ball | 13 HP, 18 AC, 0% Luck, 150 Gold | 17/15/16/14/14/11 | Unlocked with [official topper](https://shop.sternpinball.com/collections/accessories/products/dungeons-dragons-the-tyrant-s-eye-topper) connected |
 
@@ -136,7 +135,7 @@ For the cooperative game mode, each player's party members are level and item ma
 
 The skill shot value is 2M x a multiplier equal to the ball it was collected on (extra balls add +1x to the multiplier). The super and MXV skill shots start at 6M.
 
-# The Campaign
+# The Campaign Map: {#heading--map}
 
 The overall campaign progress and the party's location are represented by the map of Mid-West Faerûn from the Forgotten Realms setting and the inserts on the playfield located between the slings. The player selects a starting location for their party at the beginning of a new campaign by pressing the left flipper button to cycle through the location options while selecting their **[character/class](#heading--class)**. Players can choose to start in Greenest, Westgate, Arabel, or Kobold Town, with the corresponding city insert flashing yellow on the map.
 
@@ -144,11 +143,11 @@ When resuming a saved campaign, a location can't be selected; the party automati
 
 Plunging the ball will start or resume the campaign with the currently selected character and the selected/last location.
 
-#### Town Quests/Modes
+#### Location Quests/Modes: {#heading--quests}
 
 The quests/modes at each location are depicted using "1", "2", and "3" inserts with an Orange, White, Blue, or Purple border. The player must **[travel](#heading--travel)** between cities to complete the color matched level 1 and 2 modes in either order to unlock the same color level 3 mode in Dragonspear Castle or Gauntlgrym.
 
-#### Town Dungeons
+#### Town Dungeons:
 
 Once all of the leveled quests at a location are completed, the player can start the location's Town Dungeon. Town Dungeons are multiple phase modes, and lock the player out of any multiballs or other features that they could otherwise start during the prior quests.
 
@@ -158,15 +157,13 @@ A **[treasure chest](#heading--mimic)** is lit at the left kickout after each To
 
 Completing any Town Dungeon qualifies **[Darkhold](#heading--darkhold)** for a bonus round.
 
-#### Quest completion
+#### Quest completion:
 
 Completed modes and cities are lit solid red if the mode/dungeon was failed or green if it was cleared successfully.  There are no penalties for failing most campaign modes, but if the player loses a level 3 mode, they will miss out on their associated **[artifact](#heading--artifacts)**. **[Fizmo](#heading--fizmo)** can give 2nd chances on any artifact that the player failed to obtain.
 
 **Note: Completed modes cannot otherwise be repeated whether completed or failed!**
 
-#### Location Quests / Modes:
-
-##### Greenest:
+##### Greenest: {#heading--greenest}
 
 The Orange and White town quests/modes in Greenest have two options.  Players can choose to do either the White 1A or 1B, and Orange 2A or 2B options, but not both A and B options for the same color in the same campaign.  There is no main advantage or drawback with either option.
 
@@ -189,48 +186,48 @@ The Orange and White town quests/modes in Greenest have two options.  Players ca
 
 Travel Destination Options: Dragonspear Castle, Darkhold, Westgate
 
-##### Westgate:
+##### Westgate: {#heading--westgate}
 
 * (Blue 1) Zombie Sailors - *Stop the zombies from attacking Westgate*
-  * Single phase battle with zombies
+  * Two-wave battle with zombies
 
 **Town Dungeon**:
 * Trouble on the Dock - *Investigate what is happening on the galleon*
-  * Phase 1 - Battle with Yuan-Ti on the docks.  Killing a Yuan-Ti will light the dungeon shot to advanced to the next phase.
-  * Phase 2 - Battle with Yuan-Ti Malison in the galleon. Collecting three pieces of gold ore at the yellow shots will light the dungeon shot to escape and finish the mode.
+  * Phase 1 - Battle with Yuan-Ti on the docks. The first two Yuan-Ti always spawn at the left orbit and right ramp. Killing two Yuan-Ti will light the dungeon shot to advanced to the next phase.
+  * Phase 2 - Battle with Yuan-Ti Malison in the galleon. Collecting three pieces of gold ore at the yellow shots (left eject, then either side shot, then dungeon shot) will light the dungeon shot to escape and finish the mode.
 
 Travel Destination Options: Greenest, Darkhold, Arabel
 
-##### Arabel:
+##### Arabel: {#heading--arabel}
 
 * (Purple 1) Retrieve a Potion for Nighdaar - *Help Nighdaar with the war of dragons*
-  * Series of 3 hurry up shots. Starts at the middle spinner shot, then left orbit, then side ramp. If you wait long enough the shots will "spread out" in each phase.
+  * Series of 3 hurry up shots. Starts at the middle spinner shot, then left orbit, then side ramp. If you wait long enough, the shots will "spread out" in each phase to help complete the mode easier.
 
 **Town Dungeon**:
 * The Crypt Beneath the Temple of Tymora - *Rescue Diego Stormbeard*
-  * Phase 1 - Battle with ~13 Giant Rats, 3-4 initially, then shoot left orbit & right ramp to light dungeon shot. If the dungeon advance shot times out after the battle, the player must repeat the battle.
+  * Phase 1 - Battle with ~16 Giant Rats, 3-4 initially, then shoot left orbit & right ramp to light dungeon shot. If the dungeon advance shot times out after the battle, the player must repeat the battle.
   * Phase 2 - Battle with Gelatinous Cube. Shots move from right, to center, to left to deal damage. After defeating the Cube, shoot an orange shot to rescue Diego on a hurry-up timer or yellow shot to increase the value. Then end at a cyan shot.
 
 Travel Destination Options: Westgate, Darkhold, Kobold Town
 
-##### Kobold Town:
+##### Kobold Town: {#heading--koboldtown}
 
 * (Orange 1) Rescue Missing Miners - *Investigate why there are missing Kobold miners*
   * Battle with single Bulette.  Hitting orange roaming shots rescues Kobolds and awards 5M + 500k points per Kobold.  Defeating the Bulette or rescuing four Kobolds ends the mode.
 * (White 2) Break Into the Kobold Vault - *Help Balinor retrieve his missing breastplate*
-  * Pass 30 seconds while shooting shots, or drain the current ball, to start a battle with a Spectator. After defeating the spectator and hitting at least 5 shots the cyan shots will light to complete the mode.
+  * Pass 30 seconds while shooting shots (side shots, shortcut, or right ramp count), or drain the current ball, to start a battle with 3 Spectators (one at a time). After defeating the spectators and hitting at least 6 shots the cyan shots will light to complete the mode.
 * (Purple 2) Spy On Puck - *Nighdaar thinks something is going on in Kobold Mining Town*
   * [Stealth Mission](#heading--stealth) - All shots are lit with purple arrows.  Mode completion requires hitting 10 purple shots.  Hitting a shot will clear it for a period of time and light 2x progress for the next shot, and hitting slings reduces the stealth meter.  Reaching 0% stealth starts a battle with two Kobold Guards and removes purple shots until the battle is complete.
 
 **Town Dungeon**:
 * Mystery at the Bottom of the Mine
-  * Phase 1 - **[Stealth Mission](#heading--stealth)** - Hit 4 shots, or start battle with Bulette if stealth is lost.
-  * Phase 2 - Battle with Xorn.  One damage shot will roam around the playfield.  Hitting a shot will stun the Xorn and prevent the shot from moving for a period of time.
-  * Phase 3 - Destroy the Obelisk/Gargoyle battle.  Battle starts with two Gargoyles.  Gargoyles will continue to individually respawn into the battle, progressively getting more powerful each time.  Switch hits will light the center spinner to do damage to the obelisk.  Requires 10, then 50, and another 50 switch hits.  Three hits to the Obelisk completes the mode successfully.
+  * Phase 1 - **[Stealth Mission](#heading--stealth)** - Hit 4 shots (left shots, then center shots, then right shots, then side shots), or start battle with Bulette if stealth is lost.
+  * Phase 2 - Battle with Xorn. One damage shot will roam around the playfield.  Hitting a shot will stun the Xorn and prevent the shot from moving for a period of time.
+  * Phase 3 - Destroy the Obelisk/Gargoyle battle. Battle starts with two Gargoyles.  Gargoyles will continue to individually respawn into the battle, progressively getting more powerful each time.  Switch hits will light the center spinner to do damage to the obelisk.  Requires 10, then 50, and another 50 switch hits.  Three hits to the Obelisk completes the mode successfully.
 
 Travel Destination Options: Darkhold, Arabel, Gauntlgrym
 
-##### Darkhold:
+##### Darkhold: {#heading--darkhold}
 
 Travel to Darkhold must first be enabled by completing any **town dungeon** mode.
 
@@ -238,18 +235,20 @@ Travel to Darkhold must first be enabled by completing any **town dungeon** mode
 
 Travel Destination Options: Dragonspear Castle, Gauntlgrym, Greenest, Kobold Town, Westgate, Arabel
 
-##### Dragonspear Castle:
+##### Dragonspear Castle: {#heading--dragonspear}
 
 * (Orange 3) - Prison Break
-  * Phase 1 - Battle with undead dragonborn
-  * Phase 2 - Shoot the center spinner to light shots.  Hit four lit shots before the timer expires to complete the mode successfully and award **[dragon heart shield](#heading--artifacts)**.
+  * Phase 1 - Battle with 3 undead dragonborn
+  * Phase 2 - 60-second timer starts. Shoot the center spinner to light shots.  Hit four lit shots before the timer expires (for 5M, 7.5M, 10M, and 12.5M) to complete the mode successfully and light cyan shots to award **[dragon heart shield](#heading--artifacts)**.
 * (Blue 3) - The Graveyard of Dragonspear Castle
+  * Phase 1 - Battle with 2 undead dragonborn
+  * Phase 2 - 60-second timer starts. Left orbit, side ramp, and right ramp are lit to increase the value awarded by shooting the shortcut loop (which starts at 7M) by 10M, but the value resets to base once 10 seconds expire without a shot being made. Shoot the shortcut loop to complete the mode successfully and light cyan shots to award **[mercy the broadsword](#heading--artifacts)**.
 
 **Town Dungeon**:
 * The Lich of Dragonspear Castle - *Work your way down to Sammaster's Lair and defeat him*
   * Phase 1 - Battle with two Trolls in two waves.  Hit yellow shots to set a trap for 500k, and then the blinking dungeon standup to damage the troll.  Hitting the Critical Hit captive ball twice spots a trap set shot.  Requires two trap sets to defeat a Troll, they do not die to standard red shot damage or ranged attacks.  It is also possible to set both traps before triggering to kill a Troll faster.  The dungeon shot will light after both trolls are defeated.  Hit a dragon stand-up target to relight the dungeon shot if it times out.
   * Phase 2 - Battle with X skeletons.  All shots are lit red.  Hitting a shot either instantly defeats a skeleton decoy and awards 5,000 points, or does damage to the real skeletons.  Watch the arrows to see which shots flash to attack to identify the actual skeletons.  The "real" skeletons are able to attack, and can move after each attack. Phase completes after 4 non-decoy skeletons are defeated.
-  * Phase 3 - Ranged battle with Abishai.  Start the mode by hitting the red shot with a ranged attack.  Hit the yellow shot on the left kickout to load a silver arrow, then hold the action button to hit the red shot with a ranged attack.  Then hit the left orbit for the Gelatinous Cube ramp, and a second ranged attack on the right orbit to finish the battle and advance to the next phase.
+  * Phase 3 - Ranged battle with Abishai.  Start the mode by hitting the red shot with a ranged attack.  Hit the yellow shot on the left kickout to load a silver arrow, then hold the action button to hit the red shot with a ranged attack.  Then hit the left orbit for the Gelatinous Cube ramp, and a second ranged attack on the right orbit to finish the battle and advance to the next phase. *As Barbarian, you will have to defeat the Abishai yourself without the use of silver arrows.*
   * Phase 4 - Battle with the Lich Sammaster. Shoot flashing dragon or dungeon standup targets to do a "Perception Check" for the nearby shots or blindly shoot shots to guess his location. Arrows will flash red if the Lich is there or white if not. Sammaster will disappear and move after dealing damage.
   * Phase 5 - Players are presented with options to "Stay and fight Sammaster" or "Go after the scepter":
     * Stay and fight Sammaster - Continue the battle with Sammaster. Defeating Sammaster qualifies **[The Undermountain](#heading--wizardundermountain)** once the battle ends.
@@ -259,11 +258,14 @@ Finishing the Sammaster fight or getting the Scepter completes the mode, returns
 
 Travel Destination Options: Gauntlgrym, Greenest, Darkhold
 
-##### Gauntlgrym:
+##### Gauntlgrym: {#heading--gauntlgrym}
 
 * (Purple 3) - Slaad Assassin
-   * Phase 1 - Battle with Red Slaad
+   * Phase 1 - Battle with 2 Red Slaad
+   * Phase 2 - 60-second timer starts. 3 shots are lit (random each wave) to light, then build the spinner value. The timer stops when the spinner value is being scored. On the 3rd lit spinner shot, the mode is completed successfully and cyan shots light to award **[oculus longbow](#heading--artifacts)**.
 * (White 3) - Acquire the Lifeblood Armor
+   * Phase 1 - Battle with 3 Minotaurs
+   * Phase 2 - 60-second timer starts. Hit a total of 6 shots - the same shot cannot be made twice in a row - to score increasing values (5M + 500k per shot). On the 6th shot, the mode is completed successfully and cyan shots light to award **[lifeblood armor](#heading--artifacts)**.
 
 **Town Dungeon**:
 
@@ -273,27 +275,27 @@ Travel Destination Options: Gauntlgrym, Greenest, Darkhold
   * Phase 3 - Battle with Hobgoblins. Hobgoblins that spawn closer to each other on the playfield will deal more damage than those a farther distance away.
   * Phase 4 - Players are presented with options to "Stay and help Nighdaar" or "Help King Raddok":
    * Stay and help Nighdaar - Battle with one wave of Minotaurs. **[Rescue the King](#heading--wizardrescue)** is qualified once the battle ends.
-   * Help King Raddok - Battle with one wave of Skeleton Minotaurs followed by a battle against Balinor. Skeleton Minotaurs will respawn if one isn't killed before the other. If the player failed **[Acquire the Lifeblood Armor](#heading--gauntlgrym)** they will need to destroy the armor first before attacking Balinor directly. Balinor fires firebolts from his gauntlet every few seconds dealing additional damage to the party. **[The Undermountain](#heading--wizardundermountain)** is qualified once the battle ends.
+   * Help King Raddok - Battle with one wave of Skeleton Minotaurs followed by a battle against Balinor. Skeleton Minotaurs will respawn if one isn't killed before the other. If the player failed **Acquire the Lifeblood Armor** as described above, they will need to destroy the armor first before attacking Balinor directly. Balinor fires firebolts from his gauntlet every few seconds dealing additional damage to the party. **[The Undermountain](#heading--wizardundermountain)** is qualified once the battle ends.
 
 Finishing off the Minotaurs with Nighdaar or defeating Balinor completes the mode, returns the party to town, and lights 3 blue shots to begin the selected wizard mode.
 
 Travel Destination Options: Dragonspear Castle, Darkhold, Kobold Town
 
-#### Traveling Between Locations
+#### Traveling Between Locations: {#heading--travel}
 
 The player starts the game in travel mode, with the party moving to the location that they pressed with the left flipper at the start of the game. During travel mode, some shots are lit with blue arrows. Shots will randomly spawn **[enemies](#heading--battles)**, with more difficult ones spawning in the Underdark if the player is headed to **[Dragonspear Castle](#heading--dragonspear)** or **[Gauntlgrym](#heading--gauntlgrym)**. The enemy difficulty increases for players who are past level 7. Hitting three blue shots, killing all enemies in the battle, entering the Dungeon Crawl, or draining will exit travel mode and put the party in the new location.
 
 Once the player reaches the city, they can re-enter travel mode by a shooting yellow "choose action" shot (the same way they would start a **[location mode](#heading--map)**), and selecting the city they want to travel to.
 
-#### Battles
+#### Battles: {#heading--battles}
 
 Battles are the meat of the game and the main way of **[leveling up](#heading--class)** your characters. Many of the **[location modes](#heading--quests)** revolve around battles for their duration, and the player can also encounter random enemies if they are **[traveling](#heading--travel)** or **[exploring a dungeon](#heading--dungeons)**.
 
-To start a battle, shoot a yellow "choose action" shot and then select a battle. During battles, shoot red shots to deal damage. Your party has four members, including your character, and every time you make a lit red shot, each member of the party rolls a D20 to determine the damage output of the shot.
+To start a battle, shoot a yellow "choose action" shot and then select a mode. During battles, shoot red shots to deal damage. Your party has four members, including your character, and every time you make a lit red shot, each member of the party rolls a D20 to determine the damage output of the shot.
 
 The red arrows will start to flash and progressively get faster to indicate when a monster is about to attack the party to deal damage.  Party members will be eliminated and removed from combat if they reach zero HP from taking too much damage.  Town modes will end in failure if all four of the party members are wiped out in a battle.
 
-Ranged Attacks (Action Button):
+##### Ranged Attacks (Action Button):
 
 To deal long-ranged damage, hold the **action button**. A blue arrow shot will begin moving from the left to right side of the playfield and back. When the button is released, the lit shot at the time that the button was released will be spotted. This rule only applies to battle damage, and cannot be used to spot shots in any other ongoing modes.
 
@@ -301,12 +303,12 @@ To deal long-ranged damage, hold the **action button**. A blue arrow shot will b
 
 **Powerups:** The items below can upgrade the ranged attack's damage and accuracy.
 - **[Ranged Weapon of Accuracy](#heading--equipment)**: the roving reticle slows down.
-- **[Oculus Bow of True Aim](#heading--artifacts)**: Multi-shot spread. The shot covers two lanes instead of one.
+- **[Oculus Bow of True Aim](#heading--artifacts)**: Multi-shot spread. The shot covers two lanes instead of one. *As Ranger, upgrades the shot spread to cover 3 shots.*
 - **[Glass Bow of All-Shot](#heading--legendary)**: Applies to all 8 lanes. Can be used 10 times before it expires (up to 20 if found twice).
 
 *Note: as the **[Wizard](#heading--class)**, no ranged weapons can be purchased or upgraded from Fizmo. As the **Barbarian**, ranged weapons are disabled and the game will make an effort to never give any ranged weapons.*
 
-#### Stealth Missions
+#### Stealth Missions: {#heading--stealth}
 
 Stealth missions are a special type of mode that requires performing certain actions with a stealth meter. Stealth mechanics are used in the following quests: **[Spy on Puck](#heading--koboldtown)** (Purple 2), phase 1 of **Mystery at the Bottom of the Mine** (Kobold Town Dungeon), and phase 1 of **[Rescue the King](#heading--wizardrescue)**.
 
@@ -314,21 +316,21 @@ The meter starts at 100% stealth and decreases each time the ball hits a sling. 
 
 If the stealth meter reaches 0%, a battle starts which pauses the main objectives until the battle is completed.  Battles are only triggered once per stealth mode, so successfully completing the battle will allow unhindered main objective completion.
 
-# Dungeon Crawls {#heading--map}
+# Dungeon Crawls: {#heading--dungeons}
 
-Light dungeon crawl by hitting the Dungeon standup targets near the right orbit and side ramp, or spot targets by hitting the center spinner. Once lit, start the dungeon crawl mode based on the table model:
+Light dungeon crawl by hitting the Dungeon standup targets near the right orbit and side ramp, or spot targets by hitting the center spinner (only applicable for the first 3 dungeon crawls of a game). Once lit, start the dungeon crawl mode based on the table model:
 
 * Pro - Hit the spinner again within 15 seconds.
 * Premium/LE - Hit the spinner to raise the ball capture mechanism for 15 seconds. Hitting the ball capture starts the mode.
 
-Dungeon crawl starts with a 20-second long ball save. To explore the dungeon, shoot the flashing orange shots to move forward or purple shots to reach a direction choice. For each direction choice, the player can choose between the two or three presented door or hallway options using the respective flipper or action button.
+Dungeon crawl starts with a 20-second long ball save, though the ball save is absent in competition play. To explore the dungeon, shoot the flashing orange shots to move forward or purple shots to reach a direction choice. For each direction choice, the player can choose between the two or three presented door or hallway options using the respective flipper or action button.
 
 Choosing a direction will discover one of the following:
 * A hallway requiring hitting an orange shot
 * Another intersection requiring hitting another purple shot
 * Enemies triggering a **[battle](#heading--battles)**.  Losing the battle causes the party to be ejected from the dungeon. Defeating all of the enemies in the room allows the player to move on and lights a **[treasure chest](#heading--mimic)** for collection at the left eject.
 * A trap (Awards points and ends the mode)
-* Award room (Awards Points / XP / extra ball (on 1st level only) and ends mode)
+* Award room (Awards extra ball (on 1st level only) and ends mode)
 * Treasure room (Awards **[legendary equipment](#heading--legendary)** based on level it was found on, and ends mode; only found on levels 2 - 5)
 * Stairs down to the next level (Awards points, mode continues on the next level with +20 more seconds of ball save)
 
@@ -336,11 +338,11 @@ There are 5 total levels of dungeon crawl, with procedurally generated layouts t
 
 If the player drains during dungeon crawl, their progress will be saved. The player will be placed close to where they were when they drained whenever they start dungeon crawl next in the same game.
 
-On competition mode, the player can only start one dungeon crawl per ball in play.
+On competition mode, the player can only start one dungeon crawl per ball in play, and no ball save is given.
 
-## Multiballs {#heading--multiballs}
+## Multiballs: {#heading--multiballs}
 
-# Dragon Multiball / Town Celebration Multiball {#heading--dragon}
+# Dragon Multiball / Town Celebration Multiball: {#heading--dragon}
 
 Hit the 3-bank standup targets under Rath to spell DRAGON to light this multiball at the right orbit and side ramp (the latter shot is only lit when no other modes are running). The first time it is started in a game, letters will be spotted for every 2 3-bank targets completed. Afterwards, all three must be hit to spot a letter. The current Dragon Multiball level per party member is saved via Insider Connected, and maxes out at level 10.
 
@@ -356,7 +358,7 @@ If the player defeats Rath, the game immediately begins Town Celebration Multiba
 
 Draining down to one ball ends the Town Celebration Multiball.  After completing Town Celebration Multiball, the next purchase from **[Fizmo](#heading--fizmo)** will be 50% off its normal price for that town.
 
-# Gelatinous Cube Multiball {#heading--cube}
+# Gelatinous Cube Multiball: {#heading--cube}
 
 Shoot the left orbit to lower the ramp at its entrance, then shoot the left ramp. This must be repeated 1-4 times, with the same ball, before it will be held at the gelatinous cube magnet.
 The amount of shots required can be set by the operator and defaults to medium:
@@ -369,11 +371,11 @@ Once ball 1 has been stuck, a hurry-up value will start decreasing from 5M. The 
 
 During gelatinous cube multiball, four shots are lit at a time for jackpots: these can include the two orbits, upper loop, side ramp, or right ramp. Each jackpot is worth the scored hurry-up value, which increase by 3M per each jackpot scored to a max of 25M. Collecting them all lights the side loop for a super jackpot worth a set 20M and resets the process.
 
-After playting gelatinous cube multiball, it must be requalified by completing any **[map mode](#heading--quests)**.
+After playing gelatinous cube multiball, it must be requalified by completing any **[map mode](#heading--quests)**.
 
-## Other Scoring
+## Other Scoring {#heading--other}
 
-#### Critical Hits
+#### Critical Hits: {#heading--crits}
 
 Hitting the captive ball target will start it flashing for 15 seconds. Hitting it again will award a critical hit and give various perks to the player:
 
@@ -382,7 +384,7 @@ Hitting the captive ball target will start it flashing for 15 seconds. Hitting i
 - It will advance one shot towards **[gelatinous cube multiball](#heading--cube)** if the left orbit ramp isn't lowered, and gelatinous cube multiball can be advanced.
 - It will advance towards starting **[2x scoring](#heading--temple)**, but will never start it.
 
-#### Healing Potions
+#### Healing Potions: {#heading--healpots}
 
 Party members will take damage in battle modes as monsters attack.  The party is automatically healed when they reach a city or after a mode is completed.
 
@@ -397,17 +399,17 @@ A green potion icon on the UI indicates the number of available healing potions 
 * You can buy 3 Potions from **[Fizmo](#heading--fizmo)** if offered.
 * Some **[treasure chests](#heading--mimic)** give 3 potions.
 
-#### Belongings
+#### Belongings: {#heading--belongings}
 
-Every shot on the playfield corresponds to a different belonging. Each belonging adds 10k to **[end-of-ball bonus](#heading--bonus)**, and collecting full sets of belongings adds 100k to end-of-ball bonus. Full sets of belongings can also be purchased from **[Fizmo](#heading--fizmo)**.
+Every shot on the playfield corresponds to a different belonging. Each belonging adds 10k to **[end-of-ball bonus](#heading--bonus)**, and collecting full sets of belongings increases the value for each shot by 10k and adds 100k to end-of-ball bonus. Full sets of belongings can also be purchased from **[Fizmo](#heading--fizmo)**.
 
 Shooting the upper loop repeatedly will spot one belonging towards completing the current set.
 
-#### Gems
+#### Gems: {#heading--gems}
 
-During single-ball play, if the player can currently advance towards starting **[Dragon Multiball](#heading--dragon)**, every dragon target hit will award 1, 2, or 3 gems. 10 gems can also be bought from **[Fizmo](#heading--fizmo)**. Gems score 10k each in end-of-ball bonus, and collecting 50 gems over the course of the game will light the **[extra ball](#heading--extraballs)** at the right ramp.
+During single-ball play, every dragon target hit will award 1, 2, or 3 gems. 10 gems can also be bought from **[Fizmo](#heading--fizmo)**. Gems score 10k each in end-of-ball bonus, and collecting 50 gems over the course of the game will light the **[extra ball](#heading--extraballs)** at the right ramp.
 
-#### Fizmo (Shopkeeper)
+#### Fizmo (Shopkeeper): {#heading--fizmo}
 
 Earn gold by winning **[battles](#heading--battles)**, shooting the yellow triangle shots left behind by defeated enemies, and opening up treasure chests found in town dungeons or **[Dungeon Crawls](#heading--dungeons)**.
 
@@ -435,12 +437,12 @@ If the player is in a town (ie. not in a dungeon, mode, or traveling) and has en
 
 "Big Items":
 * Trinket (gives you a choice between 2 permanent perks for your character)
+* Spell **[DRAGON](#heading--dragon)** (lights the next Dragon Multiball)
 * +10 Gems
 * +10% Score
 * Light **[Extra Ball](#heading--extraballs)**
 * Light **[Tiny's Dice Game](#heading--tinys)**
 * Light **[Tavern Brawl](#heading--tavern)**
-* ???
 
 The player can also opt out of making a purchase by selecting the "Pass" option, in which case Fizmo's will relight the next time the player earns gold. Items will be covered with a "Sold out" indication if the character has reached the purchase limit for that item.
 
@@ -448,7 +450,7 @@ The prices are halved for the next visit if a player completes **[dragon multiba
 
 Each town has a different fixed set of items that are updated every Sunday.
 
-#### Treasure Chests / Mimic Hurry-Up
+#### Treasure Chests / Mimic Hurry-Up: {#heading--mimic)
 
 Treasure chests can be lit at the left eject in various ways throughout the game:
 - Completing a battle phase during any **[town dungeon](#heading--quests)** mode
@@ -459,7 +461,9 @@ Every treasure chest awards small points and typically, a variety of items. Thes
 
 Rarely, the treasure chest will turn out to be a Mimic, which starts the Mimic Hurry-Up mode. Slay the Mimic and reap the chest's awards by shooting the left eject once more before time runs out. The hurry-up score starts at 50M.
 
-#### Equipment
+With the topper installed, each treasure chest found or mimic encounted awards one letter in TREASURE CHEST. Completing the words qualifies the Mimic Mania topper mode.
+
+#### Equipment: {#heading--equipment}
 
 Earn equipment by finding it in **[treasure chests](#heading--mimic)**, or by selecting them from **[Fizmo's](#heading--fizmo)** if he has magical weapons, magical armor, or trinkets for sale.
 
@@ -473,7 +477,7 @@ There are various different modifiers for equipment based on their "flavor". For
 - **Accuracy**: Reduces the speed that the **[ranged weapon](#heading--battles)** blue arrows move at.
 - **Power**: Increases the time the **[shield](#heading--shield)** stays up for.
 
-#### Legendary Equipment
+#### Legendary Equipment: {#heading--legendary}
 
 Legendary equipment can be earned by reaching levels 2, 3, 4, or 5 of **[dungeon crawl](#heading--dungeons)**, then finding the treasure room hidden within any of those levels. The order that these four pieces of equipment are given in resets along with the dungeon crawl maps every Sunday.
 
@@ -484,7 +488,7 @@ All legendary equipment gives the player 10 uses by default, and up to 20 can be
 - **Glass Armor of Immortality**: The next damage dealt by an enemy is negated.
 - **Glass Shield of Endurance**: The **[shield](#heading--shield)** stays up for twice as long.
 
-#### Artifacts
+#### Artifacts: {#heading--artifacts}
 
 Players can collect artifacts by completing **level 3 missions** in **[Dragonspear Castle](#heading--dragonspear)** and **[Gauntlgrym](#heading--gauntlgrym)**.
 
@@ -495,13 +499,13 @@ Players can collect artifacts by completing **level 3 missions** in **[Dragonspe
 
 If the player failed in collecting any artifact, **[Fizmo](#heading--fizmo)** can offer 2nd chances to obtain them.
 
-#### Hidden Temple (2x Scoring)
+#### Hidden Temple (2x Scoring): {#heading--temple}
 
 Light the hidden temple by shooting the "secret door" bar target in front of it, or by hitting the hidden temple itself, two times; once to start the target flashing, then again in 20 seconds. When lit, shoot the hidden temple to start timed 2x scoring for 20 seconds.
 
 Shoot the secret door or hidden temple again while 2x scoring is running to extend the timer by +5 seconds.
 
-#### Shield (Ball Saver)
+#### Shield (Ball Saver): {#heading--shield}
 
 The shield is a unique metal bar located between the flippers that saves balls headed straight down the middle. It is activated by pressing the action button when flashing.
 
@@ -511,7 +515,7 @@ Relight the action button/shield insert by lighting the set of 4 return lane ins
 
 Normally the player can only save up to two shield uses at a time, but if the **[Dragon Heart Shield](#heading--artifacts)** is in their possession up to five can be saved. The **[Glass Shield of Endurance](#heading--legendary)** also extends the time that the shield is raised to 2x its normal length.
 
-#### Extra Balls
+#### Extra Balls: {#heading--extraballs}
 
 Light extra ball at the right ramp by:
 - Starting two **[map modes](#heading--quests)**
@@ -519,6 +523,8 @@ Light extra ball at the right ramp by:
 - Playing **[Dragon Multiball](#heading--dragon)** 3 times
 - Buying one from **[Fizmo](#heading--fizmo)**
 - Collecting 50 **[gems](#heading--gems)**
+
+On competition mode, or if the max extra ball limit has been reached, extra balls are worth 25M (50M with **[2x scoring](#heading--temple)** running).
 
 #### End-of-Ball Bonuses
 
@@ -530,15 +536,15 @@ Light extra ball at the right ramp by:
 
 # Wizard Modes {#heading--other}
 
-## Tiny's Dice Game (Mini-Wizard Mode) {#heading--tinys}
+## Tiny's Dice Game (Mini-Wizard Mode): {#heading--tinys}
 
 Qualified by buying from **[Fizmo](#heading--fizmo)** in a town shop, or by starting three **[modes](#heading--quests)** (either numbered modes or town dungeons). Once lit, shooting the center spinner starts the timed mode.
 
 Hitting the center spinner collects the spinner value (25k per spin). All other shots are lit to add a small amount of time and increase the number on the dice, and are cleared when hit or when the die reaches 20. The maximum value of a spin (excluding bumps that were awarded from **[Fizmo](#heading--fizmo)** is 500k (25k x 20).
 
-*Prem/LE Only* - The dungeon entrance will pop up and down during the mode.  Hitting the entrance will increase the spinner value.
+*Prem/LE Only* - The dungeon entrance will pop up and down during the mode.  Hitting the entrance will increase the spinner value, instead of the spinner itself raising it.
 
-## Tavern Brawl (Mini-Wizard Mode) {#heading--tavern}
+## Tavern Brawl (Mini-Wizard Mode): {#heading--tavern}
 
 Tavern Brawl is a two ball multiball mode qualified after completing all of the following:
 
@@ -556,7 +562,7 @@ Hit the bank of three gold standup targets to spell DRAGON.  Completing DRAGON w
 
 *Prem/LE Only* - DRAGON isn't required to light the super jackpot, just the add-a-ball. Instead, after hitting any dragon shot, the dungeon shot will raise for a short time. Hitting the dungeon shot lights the super jackpot.
 
-## Ritual of the Chosen (Bard Unlock) {#heading--wizardritualchosen}
+## Ritual of the Chosen (Bard Unlock): {#heading--wizardritualchosen}
 
 Ritual of the Chosen is a wizard mode located in **[Dragonspear Castle](#heading--dragonspear)** that is available after clearing the Town Dungeon mode, **The Lich of Dragonspear Castle**. After finishing the Town Dungeon, the side ramp, center shot, and right ramp are lit blue to start this mode.
 
@@ -574,23 +580,23 @@ The table will drain all of the balls in play before starting the next level tim
 
 Completing this mode resets the campaign map and unlocks the Bard as a selectable **[character](#heading--class)** in future game starts.
 
-## Rescue the King (Barbarian Unlock) {#heading--wizardrescue}
+## Rescue the King (Barbarian Unlock): {#heading--wizardrescue}
 
 Rescue the King is a wizard mode located in **[Gauntlgrym](#heading--gauntlgrym)** that is available after clearing the Town Dungeon mode, **The Battle of Gauntlgrym**. After finishing the Town Dungeon, the side ramp, center shot, and right ramp are lit blue to start this mode.
 
 This mode is a 7-phase fight that incorporates elements of all of the prior **[map modes](#heading--map)**.
 
-* Phase 1 - **[Stealth Mission](#heading--stealth)** - sneak past the guards. If stealth fails (four slingshots) start battle with 16 Zent soldiers.
-* Phase 2 - Battle with Raddok's guards (16 Zent soldiers).
+* Phase 1 - **[Stealth Mission](#heading--stealth)** - sneak past the guards. If stealth fails (four slingshots) start battle with 16 Zent soldiers. They will never occupy the left eject, center spinner, or right orbit.
+* Phase 2 - Battle with Raddok's guards (16 Zent soldiers). They will never occupy the left eject, center spinner, or right orbit.
 * Phase 3 - Battle with 8 Animated Armor. Upper loop shot will dispel magic and instantly kill one of the monsters.
-* Phase 4 - **Stealth mission** / battle hybrid against a Shield Guardian. Either shoot the white shots to sneak past him or attack him directly.
+* Phase 4 - Battle with a Shield Guardian located at the three center shots. Either shoot the white shots to sneak past him or attack him directly.
 * Phase 5 - Battle with 4 Helmed Horrors.
-* Phase 6 - Battle with 2 Skeleton Minotaurs. Skeleton Minotaurs will respawn if one isn't killed before the other.
-* Phase 7 - Final battle against Balinor. If the player failed **[Acquire the Lifeblood Armor](#heading--gauntlgrym)** they will need to destroy the armor first before attacking Balinor directly. Balinor fires firebolts from his gauntlet every few seconds dealing additional damage to the party.
+* Phase 6 - Battle with 3 Skeleton Minotaurs. Skeleton Minotaurs will respawn if one isn't killed before the other.
+* Phase 7 - Final battle against Balinor, located at the three center shots. If the player failed **[Acquire the Lifeblood Armor](#heading--gauntlgrym)** they will need to destroy the armor first before attacking Balinor directly. Balinor fires firebolts from his gauntlet every few seconds dealing additional damage to the party.
 
 Completing this mode resets the campaign map and unlocks the Barbarian as a selectable **[character](#heading--class)** in future game starts.
 
-## The Undermountain (Ranger Unlock) {#heading--wizardundermountain}
+## The Undermountain (Ranger Unlock): {#heading--wizardundermountain}
 
 The Undermountain is a wizard mode that can only be accessed by going certain paths in the **[The Lich of Dragonspear Castle](#heading--dragonspear)** or **[The Battle of Gauntlgrym](#heading--gauntlgrym)** town dungeons:
 
