@@ -60,12 +60,12 @@ The main objectives of *007 60th Anniversary* are all connected to the spinning 
 
 Complete the MI6 drop target bank to light the disc to select a villain mode. Once the disc is lit, completing the MI6 drop target bank again will start the currently selected mode; and during a mode, completing MI6 will add time to the mode's timer & double all scoring during the mode. The six modes, listed clockwise from right to left, are:
 
-- **Zorin** - Super Pops. (?)
-- **Trevelyan** - Super Loops. (?)
-- **LeChiffre** - Super Shots. (?)
-- **Blofeld** - Super Drops. Shoot the seven drop targets; one drop target flashes at a time, and shooting this target will reset the drop targets & move the flashing insert to another drop target. Make enough flashing drop targets to win the mode.
-- **Oddjob** - Super Disc. (?)
-- **Jaws** - Super Spinners. (?)
+- **Zorin** - Super Pops. Collect 12 pop bumper hits to complete the mode.
+- **Trevelyan** - Super Loops. Shoot four loops to complete the mode.
+- **LeChiffre** - Super Shots. Complete four shots marked with crosshairs on the playfield in order to complete the mode. 1st center spinner/loop, 2nd upper left spinner/loop, 3rd right spinner/loop, 4th lower left spinner loop.
+- **Blofeld** - Super Drops. Shoot the seven drop targets; one drop target flashes at a time, and shooting this target will reset the drop targets & move the flashing insert to another drop target. Make enough flashing drop targets to win the mode. The inline drop targets do not count towards this mode.
+- **Oddjob** - Super Disc. Collect 100 spins on the Oddjob disc to complete the mode.
+- **Jaws** - Super Spinners. Collect 75 spins to complete the mode. Any of the four spinners count towards your goal.
 
 Complete all six villain modes to qualify **[Villain Multiball](#heading--villainmb)**.
 
