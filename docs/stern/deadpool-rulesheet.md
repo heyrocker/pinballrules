@@ -69,7 +69,7 @@ opdb_id: "G6lnq"
 * **Lane Skill Shot**: Plunge into the flashing BAM! lane for 2.5 million + 250k per skill shot. You can change the flashing lane before the ball is launched, but the lane is locked in upon reaching the first sensor in the shooter lane.
 * **Super Skill Shot**: Hold the left flipper and then shoot up the right ramp for 5 million + 500k per skill shot. This will also collect anything lit at the right ramp.
 * **MXV Skill Shot**: Hold the left flipper then shoot the right orbit - right ramp combo to collect 12.5 million + 750k per skill shot and the current **[Ninjapocalypse](#heading--items)** value.
-* **Super Secret Skill Shot**: Hold the left flipper then shoot the SNIKT target - right ramp combo for 15 million + 1 million per skill shot and +1 **[Playfield X](#heading--snikt)**.
+* **Super Secret Skill Shot**: Hold the left flipper then shoot the SNIKT target - right ramp combo for 15 million + 1 million per skill shot and +1 **[Playfield X](#heading--snikt)** (timed).
 
 ## Battles: {#heading--battle}
 
@@ -85,7 +85,7 @@ The Final Shot value at the scoop correlates to Deadpool's remaining health and 
 
 Winning all three **[battles](#heading--battle)** will light Sauron at the scoop for 3-ball multiball play. Shoot the left ramp and right ramp two times each for Jackpots, then shoot the U-Turn loop to Colossal Jackpot target for a Super Jackpot. Remember that you can collect the initial wave of four Jackpots using the **[BOOM Button](#heading--boom)**!
 
-After playing Sauron Multiball, the three battles must be played again, but this time with some added interference from Sauron. During the battle, Sauron may resurface and prevent the player from defeating their opponent until they shoot both ramps once to deal damage to Sauron. Winning all three level 2 battles lights the scoop for **[Clone Multiball](#heading--battlewizard)**.
+After playing Sauron Multiball, the three battles must be played again, but this time with some added interference from Sauron. During the battle, Sauron may resurface and prevent the player from defeating their opponent until they shoot green shots once to deal damage to Sauron. For Juggernaut, these are random shots: for Mystique, these are whatever shots don't have team-up available, for Sabretooth, these are ramp shots. Winning all three level 2 battles lights the scoop for **[Clone Multiball](#heading--battlewizard)**.
 
 ### Team-Ups: {#heading--teamups}
 
@@ -100,7 +100,7 @@ During normal single-ball play, with *no* major modes running, shooting any shot
 
 Shoot the right orbit to advance the chimichanga truck and light **[chimichangas](#heading--items)** (in orange) at all major shots. Only one shot is needed to fully advance the truck the first time; subsequent Quests require one more right orbit shot. Collecting 3 (+1 per Quest, to a max of 8) chimichangas completes your punch card and lights Quest at the scoop. Note that if you have Quest and Battle lit at the scoop, you don't *have* to select a Quest - you can select a Battle instead if you want to.
 
-During both quests, Deadpool travels back in time to acquire an artifact from a prehistoric creature. Both quests have completion criteria; once the requirements of the quest have been satisfied, shoot the scoop to finish the quest and earn a large Mode Jackpot bonus (a percentage of all points scored during the quest!). Both quests save progress if failed. Similarly to **[Battles](#heading--battle)**, if you drain with the final shot of a quest lit, you get credit for completing the quest, but you obviously miss out on the Mode Jackpot.
+During both quests, Deadpool travels back in time to acquire an artifact from a prehistoric creature. Both quests have completion criteria; once the requirements of the quest have been satisfied, shoot the scoop to finish the quest and earn a large Mode Jackpot bonus (a percentage of all points scored during the quest). Both quests save progress if failed. Similarly to **[Battles](#heading--battle)**, if you drain with the final shot of a quest lit, you get credit for completing the quest, but you obviously miss out on the Mode Jackpot.
 
 Winning both Quests and playing **[Sauron Multiball](#heading--sauron)** lights the scoop to battle the **[Megakrakolodonus Rex](#heading--questwizard)**.
 
@@ -115,7 +115,7 @@ The Lil' Deadpool modes are always awarded in this order, and can be activated d
 
 * **Lil' Deadpool Multiball**: A new ball is released into the shooter lane and a hurry-up starts counting down from 500k points. Hit the drop target bank to release the captured ball and lock in the hurry-up value as your jackpot, which can be collected 5 times at the Lil' Deadpool target, then 5 times for 2x at the flashing red major shots. Collect 5 double jackpots, then lock a ball at the Lil' Deadpool target to light the spinners for Super Jackpot (500k per spin). The multiball then resets, with higher scoring for each jackpot wave.
 * **Lil' Deadpool Frenzy**: 60-second timed mode where all switches score 100k. The Lil' Deadpool target boosts the switch value by 10K, up to a max of 250K a switch.
-* **Lil' Deadpool Bounce**: All 11 targets (DEAD, OOF, and POOL) rove from left to right. Hit any lit target for a bonus depending on which target was hit - OOF = 5m, any non bottom-most side target = 7.5m, any bottom-most side target = 10m. Collecting three targets lights the Lil' Deadpool target for a jackpot equal to the three target values awarded, +1 **[Playfield X](#heading--snikt)** for the remainder of the ball, and some magic unicorn poo (it can't all be good!).
+* **Lil' Deadpool Bounce**: All 11 targets (DEAD, OOF, and POOL) rove from left to right. Hit any lit target for a bonus depending on which target was hit - OOF = 5M, any non bottom-most side target = 7.5M, any bottom-most side target = 10M. Collecting three targets lights the Lil' Deadpool target to complete the mode for magic unicorn poo... along with a jackpot equal to the three target values awarded, and +1 **[Playfield X](#heading--snikt)** for the remainder of the ball.
 
 ## Multiball Modes: {#heading--multiball}
 
@@ -129,7 +129,7 @@ During Ninja Multiball, shoot all of the major shots for Jackpots determined by 
 
 Spin the left spinner 60 times (+60 per activation) to light Disco Multiball. Depending on your machine, it's possible to qualify *and* start the Disco mode on the same shot if you have a very low number of spins left. Disco modes can only be started if no other modes are currently running.
 
-*Prem / LE exclusive: Disco Loops, exclusive to the Prem / LE models of this game, is started at 60, 180, 300, etc. spins in place of Disco Multiball. This is a timed single-ball mode with the simple goal of looping the left orbit ramp as many times as possible.*
+*Prem / LE exclusive: Disco Loops, exclusive to the Prem / LE models of this game, is started at 60, 180, 300, etc. spins in place of Disco Multiball. This is a timed single-ball mode with the simple goal of looping the left orbit ramp as many times as possible. The first shot locks in a hurry-up value starting at 5M, which can be scored again with repeated shots to the ramp within 20 seconds.*
 
 During Disco Multiball, shoot the lit shots for Disco Jackpots built up by switch hits. A random shot in each wave will begin the Super Jackpot round, where the left ramp will collect the Super Jackpot and the left spinner will raise its value.
 
@@ -137,25 +137,25 @@ During Disco Multiball, shoot the lit shots for Disco Jackpots built up by switc
 
 Cash out 45 **[weapons](#heading--items)** by shooting white shots followed by the scoop, then shoot the scoop while no other modes are running to start the 4-ball Mechsuit Multiball. Collecting 150, 250, 350, etc. weapons re-enables Mechsuit Multiball at the scoop.
 
-All shots are lit for a jackpot that starts at 5M and increases by 100K for subsequent jackpots. Collecting a jackpot unlights that shot; collecting a different one unlights that shot and relights the previous shot, etc. After 5 jackpots, a Super Jackpot is lit at the scoop, although the other Jackpots can still be made. Super jackpot is 15 million + ( 250k x number of jackpots collected since multiball started ) and increases the base Jackpot value by 1 million.
+All shots are lit for a jackpot that starts at 5M and increases by 100K for subsequent jackpots. Collecting a jackpot unlights that shot, so the same shot can't be made for jackpot more than once in a row. After 5 jackpots, a Super Jackpot is lit at the scoop, although the other Jackpots can still be made. Super jackpot is 15M + (250k x number of jackpots collected since multiball started) and increases the base Jackpot value by 1 million.
 
 ## Other Scoring: {#heading--other}
 
 ### BOOM Button: {#heading--boom}
 
-Spell BOOM at the return lanes, which cycle with the flippers, to qualify the Boom Button. Press the action button when flashing to spot the highest value shot on the playfield (other than the scoop). Completing BOOM 4 times without using the button will light the button red for "Big Boom", which collects *all* of the lit shots (though a normal Boom Button use can still be used at this time by holding the boom button). Available Boom Button uses are displayed on the right side of the display. Note that if no shots are lit or all shots are the same value, the game gives priority to shots on the left of the playfield.
+Spell BOOM at the return lanes, which cycle with the flippers, to qualify the Boom Button. Press the action button when flashing to spot the highest value shot on the playfield (other than the scoop). Completing BOOM 4 times without using the button will light the button red for "Super Boom", which collects *all* of the lit shots (though a normal Boom Button use can still be used at this time by holding the boom button). Available Boom Button uses are displayed on the right side of the display. Note that if no shots are lit or all shots are the same value, the game gives priority to shots on the left of the playfield.
 
-On July 30th 2024, The Boom Button gained additional functionality when used during **[Berserker Rage](#heading--berserker)**. See that section for more details.
+During **[Berserker Rage](#heading--berserker)**, the lit Boom Button awards a *Berserker Boom*, scoring the built-up spinner value alongside spotting a shot. If a Super Boom is used, 4x the built-up spinner value is awarded alongside spotting every shot.
 
 ### Chimichangas, Weapons & Ninja Stars: {#heading--items}
 
-* **Chimichangas**: Collect Chimichangas by shooting the right orbit to advance the chimichanga truck, then shooting the orange shots (as described in **[Quests](#heading--quests)). Each chimichanga adds 250k to **[end-of-ball bonus](#heading--bonus)** and several Insider achievements require them to be collected.
-* **Weapons**: Shoot white shots, followed by the scoop, to cash out weapons determined by the number of shots that were made before the scoop. Cashing out 25 weapons lights the **[extra ball](#heading--extraballs)**, **[Mechsuit Multiball](#heading--mechsuitmb)** is lit at 45, 150, 250, 350, etc. weapons, and every 100, 200, 300, etc. weapons adds +1 **[Playfield X](#heading--snikt)** for the remainder of the game. Weapons add 100k to **end-of-ball bonus**.
+* **Chimichangas**: Collect Chimichangas by shooting the right orbit to advance the chimichanga truck, then shooting the orange shots (as described in **[Quests](#heading--quests)). Each chimichanga adds 250k to **[end-of-ball bonus](#heading--bonus)**.
+* **Weapons**: Shoot white shots, followed by the scoop, to cash out weapons determined by the number of shots that were made before the scoop. Cashing out a percentage-based amount of weapons (typically between 10 and 30) lights the **[extra ball](#heading--extraballs)**, **[Mechsuit Multiball](#heading--mechsuitmb)** is lit at 45, 150, 250, 350, etc. weapons, and every 100, 200, 300, etc. weapons adds +1 **[Playfield X](#heading--snikt)** for the remainder of the game. Weapons add 100k to **end-of-ball bonus**.
 * **Ninja Stars**: Bumper hits light the major shots in blue to collect a ninja star, which increase the jackpot values for **[Ninja Multiball](#heading--ninjamb)**. 10 Ninja Stars, along with 5 million + 500k per combo, can also be collected at once by scoring the **Ninjapocalypse** right orbit - right ramp combo. Scoring 50 Ninja Stars lights the **[extra ball](#heading--extraballs)**, and each Ninja Star adds 100k to **end-of-ball bonus**.
 
 ### Katanarama Time: {#heading--katana}
 
-Collect 3 diamonds at both ramp shots to begin Katanarama Time. This is a 30-second timed mode where the left orbit, left ramp, right ramp, and right orbit score values that start at 1 million and increase by 250 for each successful shot. This mode can start at any time during play.
+Collect 3 diamonds at both ramp shots to begin Katanarama Time. This is a 30-second timed mode where the left orbit, left ramp, right ramp, and right orbit score values that start at 1 million and increase by 250k for each successful shot. This mode can start at any time during play.
 
 ### Colossal Jackpot: {#heading--colossal}
 
@@ -163,14 +163,9 @@ Making two shots (+2 for each qualification) all the way through the u-turn to t
 
 ### Berserker Rage: {#heading--berserker}
 
-45-second timed spinner mode, lit after 4 (+1) center loop shots, which starts by shooting the flashing center loop. Spinners award an increasing value per spin, bumpers increase it. Other features can still be started when this mode is active, and the mode can also start during other features.
+45-second timed spinner mode, lit after 4 (+1) center loop shots, which starts by shooting the flashing center loop. Spinners award an increasing value per spin and bumpers increase it. Other features can still be started when this mode is active, and the mode can also start during other features.
 
-During BERSERKER RAGE mode, the lit **[BOOM button](#heading--boom)** awards the BERSERKER BOOM value in addition to collecting the highest value lit shot on the playfield as normal.
-And when the BOOM button is lit for a Super BOOM, the BOOM button will award 4X BERSERKER BOOM value in addition to collecting all of the lit shots on the playfield as normal.
-What is the "BERSERKER BOOM" value? Well, it's the maximum spin session value awarded during the current BERSERKER RAGE mode.
-
-This feature was added to the game in July 2024 as a nod to the release of the movie Deadpool & Wolverine. More speech for Wolverine was also added to the mode.
-
+Pressing the lit **[BOOM button](#heading--boom)** awards the built-up spinner value as a Berserker Boom. If the button is lit for Super Boom, it will award 4x the built-up spinner value.
 
 ### Playfield X: {#heading--snikt}
 
@@ -189,7 +184,7 @@ The DEADPOOL targets score awards when they are completed, either by themselves 
 
 ### Mystery: {#heading--mystery}
 
-Mystery is lit at the scoop by completing the **[DEADPOOL targets](#heading--deadpool)**. Mystery will typically award an "Add-A-Ball" if available during any multiball. Other awards are:
+Mystery is lit at the scoop by completing the **[DEADPOOL targets](#heading--deadpool)**. Mystery will typically award an "Add-A-Ball" if available during any multiball, and add-a-ball hasn't already been given this ball. Other awards are:
 
 * **[Light Ninja Lock](#heading--ninjamb)** (if one isn’t lit)
 * **[Ghost X Ninjas](#heading--items)** (1 - 10)
@@ -198,7 +193,7 @@ Mystery is lit at the scoop by completing the **[DEADPOOL targets](#heading--dea
 * **[Advance Chimichanga Truck](#heading--quests)**
 * Light **[Extra Ball](#heading--extraballs)** (percentage-based)
 * Light **[Special](#heading--special)** (percentage-based)
-* Keep an eye on the "joke" awards that are never selected - some good laughs here.
+* There are also many joke awards like "a really good cheeseburger" and "enable free play" that aren't awarded.
 
 ### Extra Balls: {#heading--extraballs}
 
@@ -221,13 +216,15 @@ Special can be lit at the U-Turn by:
 * **[Ninja Stars](#heading--items)** are worth 100K each.
 * **[Weapons](#heading--items)** are worth 100K each.
 
-All multiplied by the bonus multiplier, which is increased each time the 4 top BAM! lanes are completed. Bonus is automatically held between balls (not the bonus multiplier though). A consolation bonus of 10 points is awarded if you have none of the above.
+All multiplied by the bonus multiplier, which is increased each time the 4 top BAM! lanes are completed. Base bonus is automatically held between balls. A consolation bonus of 10 points is awarded if you have none of the above.
 
 ## Mr. Sinister Modes: {#heading--sinister}
 
 ### The Megakrakolodonus Rex: {#heading--questwizard}
 
-Lit at the scoop after playing **[Sauron Multiball](#heading--sauron)** and winning both **[quests](#heading--quests)**. Mr. Sinister has outplayed Deadpool! The two artifacts he sought in the Quests have genetically mutated into the vicious Megakrakolodonus Rex.
+Lit at the scoop after playing **[Sauron Multiball](#heading--sauron)** and winning both **[quests](#heading--quests)**. 
+
+Mr. Sinister has outplayed Deadpool! The two artifacts he collected in the Quests have been genetically mutated into the vicious Megakrakolodonus Rex.
 
 This is a single-ball mode with a short ball saver at the start. Shoot the flashing blue shots to build up a jackpot and eventually reveal the mutation's weak spot. While the Megakrakolodonus Rex is vulnerable, you have 10 seconds to bash the Lil' Deadpool target as many times as you can to score a 1x, 2x, 3x, etc... jackpot. Assuming he has health left, you return to phase 1 for more blue shots and jackpot building. 15 shots to the target will finish him off and light the scoop to finish him off for the Mode Jackpot. Just like any other **Quest**, progress is saved if you drain.
 
@@ -237,6 +234,8 @@ Complete all 3 **[Level 2 Battles](#heading--sauron)** to qualify. 4 shots are l
 
 ### The Final Battle: {#heading--wizard}
 
-Complete both mini-wizard modes listed above, along with playing **[Mechsuit Multiball](#heading--mechsuitmb)** (which you very likely would have by this point), to qualify the final wizard mode at the scoop. Time to defeat Mr. Sinister (this time it's personal!).
+Complete both mini-wizard modes listed above, along with playing **[Mechsuit Multiball](#heading--mechsuitmb)**, to qualify the final wizard mode at the scoop.
+
+Time to defeat Mr. Sinister (this time it's personal!).
 
 This mode starts as a 45-second timed single-ball mode where all 4 team-up shots must be made (what happens if time runs out?). After making all 4 shots, a 70-second timed multiball begins: shoot blue shots to collect jackpots until time runs out. Lit Team-Up shots double the jackpot value. Hit Final Shot for big points in the last 15 seconds of the multiball. At the end, all balls drain, all modes reset, and a new ball is served to the shooter lane. The **[Special](#heading--special)** will also light upon completion of this mode.
