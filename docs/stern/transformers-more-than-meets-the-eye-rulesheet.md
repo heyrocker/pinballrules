@@ -18,7 +18,7 @@ opdb_id: "GBLzz"
   - [Autobot Hurry-Up](#heading--autobot)
   - [Starscream Frenzy](#heading--starscream)
   - [Tech Specs / Tech Spec Mania](#heading--techspec)
-  - [Bumblebee Double Scoring](#heading--bumblebee)
+  - [2x Scoring](#heading--2xscoring)
   - [Combiner Super Features](#heading--super)
   - [Stunt Loops](#heading--stunt)
   - [Mystery Award](#heading--mystery)
@@ -29,6 +29,7 @@ opdb_id: "GBLzz"
   - [End-of-Ball Bonus](#heading--bonus)
 - [Wizard Modes](#heading--wizard)
   - [One Shall Fall (Mini-Wizard Mode)](#heading--oneshallfall)
+  - [Bumblebee Multiball (Mini-Wizard Mode)](#heading--bumblebee)
   - [Rescue Optimus (Mini-Wizard Mode)](#heading--rescue)
   - [Dinobot Desertion (Mini-Wizard Mode)](#heading--desertion)
   - [The Ultimate Doom (Wizard Mode)](#heading--ultimate-doom)
@@ -42,7 +43,7 @@ opdb_id: "GBLzz"
 - Display and Animations:
 - Sound Design: Jerry Thompson
 - Release Date: June 2026
-- Wiki Rulesheet based on Code Rev: 0.96
+- Wiki Rulesheet based on Code Rev: 0.98
   - *Edit the Code revision, if applicable, when you make changes*
 - Original Wiki Rulesheet hosted on [Tilt Forums](/stern/transformers-more-than-meets-the-eye-rulesheet)
 
@@ -78,9 +79,11 @@ There are five different missions to play through, timed for 60 seconds, that li
 
 The final blow is worth 35% of the score from the completed mission by default. Energized missions score 20%, while rusted missions score 50% of the total. Shooting Megatron during a mission adds +5% to the final blow value, and an additional 10% of the value is added if the mission is completed on the first try.
 
-Scoring the final blow of any mission will apply a **2x shot multiplier** to a random shot on the playfield, that only activates when a **[tech spec](#heading--techspec)** is lit to collect at that shot. *Playing* (not necessarily completing) two missions lights the right ramp to start **[One Shall Fall](#heading--oneshallfall)**, while *completing* all five missions lights the VUK for **[Rescue Optimus](#heading--rescue)** mini-wizard mode.
+Scoring the final blow of any mission will apply a **2x shot multiplier** to a random shot on the playfield, that only activates when a **[tech spec](#heading--techspec)** is lit to collect at that shot. 
 
-If the player fails a mission by draining before time runs out, or failing to complete the required shots in time, their progress will be saved the next time the mission starts.
+*Playing* (not necessarily completing) two missions lights the right ramp to start **[One Shall Fall](#heading--oneshallfall)**. *Playing* all five missions qualifies the **[secret mission](#heading--bumblebee)**, while *completing* all five missions lights the VUK for **[Rescue Optimus](#heading--rescue)** mini-wizard mode.
+
+If the player fails a mission by draining before time runs out, or failing to complete the required shots in time, their progress will be saved the next time the mission starts. However, failed missions cannot be replayed until all five missions have been started once.
 
 Shooting the **spinner** fills up the Energon cube on the display and the insert lights under the spinner. Once the cube is full, on the next mission start, using the flippers will make a choice on whether the next mission will be easier to complete but score less. Completing a mission without using the Energon cube will allow you to apply cosmic rust to the next mission, which makes it more difficult to complete but scores more per shot. The mission goals change based on the use of Energon and Rust. Collecting 3, then 6 Energon cubes will also qualify the spinner to start **[Stunt Loops](#heading--stunt)**.
 
@@ -106,31 +109,34 @@ The five missions are:
 
 Shoot the Grimlock targets gating the left orbit to light the left orbit to start a Dinobot Mission. Complete each Dinobot Mission by scoring a total of 3 Dino Jackpots, lit at the left orbit after hitting the shots indicated on the right side of the display.
 
-Scoring 3 Dino Jackpots during any mission lights the VUK to start **[Dinobot Desertion](#heading--desertion)**. If the player scored 3 Dino Jackpots in *all* 3 missions, the VUK will instead start **Super Dinobot Desertion**.
+Scoring 3 Dino Jackpots during any mission lights the VUK to start **[Dinobot Desertion](#heading--desertion)**. If the player scored 3 Dino Jackpots in *all* 3 missions, the VUK will instead start **Super Dinobot Desertion**. Collecting a total of 6 Dino Jackpots across multiple missions awards an instant **[extra ball](#heading--extraballs)**. Each Dino Jackpot also adds 500k to **[end-of-ball bonus](#heading--bonus)**.
 
+The base Dino Jackpot is worth 2M. 
 - **War**: *Hit the slingshots*. Hit lit slingshots or bumpers to light jackpot. Only one slingshot or bumper is lit at a time. Jackpot can be increased with further lit slingshot / bumper hits.
-- **Island**: *2-ball multiball*. Shoot 50 switches to light jackpot at the left orbit. Clear all major shots for add-a-ball (left ramp / center spinner, then right ramp gets added, then right orbit gets added, etc.)
-- **S.O.S.**: *Objective-based mode*. Hitting a drop target, standup target, orbit, pop bumper, or ramp will lock in that shot as the next one that needs to be hit repeatedly to light jackpot.
+- **Island**: *2-ball multiball*. Shoot 50 switches to light jackpot at the left orbit. Clear all major shots for add-a-ball (left ramp / center spinner, then right ramp gets added, then right orbit gets added, etc.) Dino Jackpots are multiplied based on balls-in-play (4x for 2 balls, 8x for 3, 16x for 4, etc.)
+- **S.O.S.**: *Objective-based mode*. Hitting a drop target, standup target, orbit, pop bumper, or ramp will lock in that shot as the next one that needs to be hit repeatedly to light jackpot. The base Dino Jackpot value in this mode is 3M due to the tougher mode requirements.
 
 # Multiballs: {#heading--multiballs}
 
-**Add-A-Ball**: Add-a-ball behaves uniquely on this machine compared to other Sterns of its era. Once per game, after the multiball ball save expires, the space bridge shot will be lit to add-a-ball and hold the ball in place for 10 seconds. Shooting the captive ball before time runs out will start 2x scoring for 30 seconds and release the ball, but the opportunity disappears once time runs out. Add-a-ball can be relit from a **[mystery award](#heading--mystery)**, and if the **[Bumblebee 2x scoring](#heading--bumblebee)** is brought into a multiball with add-a-ball enabled, shooting the held ball will boost the 2x scoring to 3x.
+**Add-A-Ball**: Once per game, after the multiball ball save expires, the space bridge shot will be lit to add-a-ball and hold the ball in place for 10 seconds. Shooting the captive ball before time runs out will start 2x scoring for 30 seconds and release the ball, but the opportunity disappears once time runs out. Add-a-ball can be relit from a **[mystery award](#heading--mystery)**, and if **[2x scoring](#heading--2xscoring)** is brought into a multiball with add-a-ball enabled, shooting the held ball will boost the 2x scoring to 3x. Add-a-ball can be used in the main **[Transformers Multiball](#heading--transformers)** and during **[Tech Spec Mania](#heading--techspec)**.
 
 ## Transformers Multiball: {#heading--transformers}
 
 Shoot Optimus to light a lock, then shoot the center VUK to lock a ball. For subsequent multiballs, Optimus must be hit 4, 6, etc. times to light each lock. If lock is already lit, further Optimus shots will increase the jackpot value for the multiball by 250k. Lock 3 balls to start Transformers Multiball.
 
-During multiball, the shots all start purple for Decepticon awards, then turn red for Autobot awards, then start flashing red / white to score jackpots. This means that shooting the same shot 3 times will score a jackpot there. Jackpots are multiplied by however many jackpots are currently lit (ie. a 4x jackpot would be scored if 4 jackpots are currently available). Collect three jackpots to light super jackpot at the side ramp, worth the combined base value of all prior jackpots.
+During multiball, the shots all start purple for Decepticon awards, then turn red for Autobot awards, then start flashing red / white to score jackpots. This means that shooting the same shot 3 times will score a jackpot there. Jackpots are multiplied by however many jackpots are currently lit (ie. a 4x jackpot would be scored if 4 jackpots are currently available). Collect three jackpots to light super jackpot at the side ramp, worth 10M + the combined base value of all prior jackpots + 5M per jackpot scored.
 
 ## Combiner Multiball: {#heading--combiner}
 
-Earn Combiner parts by shooting the side ramp. Each Combiner has five parts to collect; the color of qualified parts changes based on the most recent **[tech spec](#heading--techspec)** part scored. Combiner parts are also awarded after scoring 3 **tech specs** of the same color. Complete 3 Combiners to light the space bridge shot for Combiner Multiball, once no other modes are running. Completing Combiners also activates a *[[40-second timed super feature](#heading--super)* that differs with each Combiner.
+Earn Combiner parts by shooting the side ramp. Each Combiner has five parts to collect; the color of qualified parts changes based on the most recent **[tech spec](#heading--techspec)** part scored. Combiner parts are also awarded after scoring 3 **tech specs** of the same color. Complete 3 Combiners to light the space bridge shot for Combiner Multiball, once no other modes are running. Completing Combiners also activates a *[40-second timed super feature](#heading--super)* that differs with each Combiner.
 
 Combiner Multiball starts by showing the player the Combiners they have completed. If they wish to delay the multiball, pressing the action button will skip the multiball and requalify it at the next Combiner completed.
 
 During Combiner Multiball, shooting the spinner or holding the action button will cycle the grid of Combiners shown above the mission grid. If the player lands on a Combiner they completed, jackpots will light at the upper flipper shots, center spinner, Megatron, and right ramp. The base jackpot value starts at 6M (for 3 Combiners) and caps out at 10M (for 5 Combiners), but if the player lands on a Combiner they don't have, the jackpot will reset to base value. The player can also increase the jackpot value by shooting white "build" shots while the spinner is active or the action button is held.
 
 Score 2 jackpots in a wave to light the side ramp and space bridge shots for super jackpot worth 15M + 3M x jackpots scored, add-a-ball (based on the number of collected Combiners prior), and reset the process so another Combiner can be selected using the spinner or action button.
+
+*Add-a-ball is not available in this multiball.*
 
 # Other Scoring: {#heading--other}
 
@@ -148,19 +154,21 @@ Light the right inlane after completing the Megatron drop targets, and roll thro
 
 ## Tech Specs, Action Button & Tech Spec Mania: {#heading--techspec}
 
-Shoot the standup targets near major shots to light the shots near them for Tech Specs. There are five colors of tech spec, one for each different Combiner. Tech Specs help spot **[combiner parts](#heading--combiner)**, and if a **[mission](#heading--modes)** has been completed, will multiply all scores at the mission-specific shot if a Tech Spec is also scored there. Collect 15 tech specs of any color to light **[extra ball](#heading--extraballs)**.
+Shoot the standup targets near major shots to light the shots near them for Tech Specs. There are five colors of tech spec, one for each different Combiner. Tech Specs help spot **[combiner parts](#heading--combiner)**, and if a **[mission](#heading--modes)** has been completed, will multiply all scores at the mission-specific shot if a Tech Spec is also scored there. Collect 8 tech specs of any color to light **[extra ball](#heading--extraballs)**.
 
 Making **[cassette combos](#heading--cassette)** will light the action button to temporarily light all shots for tech specs for 15 seconds.
 
-Collect 3 tech specs of each color to instantly start Tech Spec Mania, so long as no other modes are running.
+Once only one tech spec remains to complete the full set, hitting that tech spec will instantly start Tech Spec Mania, so long as no other multiballs or mini-wizard modes are running.
 
 Tech Spec Mania is a 3-ball multiball where the player must collect one tech spec of every color. All major shots start out as one color, but will change colors with hits to the captive ball, and all shots award tech specs including qualifying **[Combiner parts](#heading--combiner)** if the player doesn't have all 5 parts of the respective Combiner yet. Collecting one tech spec of every color (5 total) lights super jackpot at the side ramp, worth 10M + total tech specs x 1M x super jackpots collected this game, worth a base value of 25M. Each super jackpot scored also increases the value per tech spec collected during the multiball.
 
-## Bumblebee Double Scoring: {#heading--bumblebee}
+## 2x Scoring: {#heading--2xscoring}
 
 Shoot the lit captive ball to add letters to BUMBLEBEE. Three letters are added to BUMBLEBEE with every lit captive ball hit, so 3 lit captive balls will enable the next captive ball to start 30 seconds of 2x scoring. If the captive ball isn't lit, hitting the bumper twice will relight the playfield X insert; and if the bumper isn't lit, advance playfield X can be lit again from a **[mystery award](#heading--mystery)**.
 
 If this form of double scoring is brought into any **[multiball](#heading--multiballs)** where add-a-ball can be used, shooting the captive ball at the space bridge will start 3x scoring and reset the 30-second timer.
+
+3x scoring can also be started by scoring the **[mystery award](#heading--mystery)** while 2x scoring is running, in which case the mystery award will always score +1x Playfield and reset the 30-second timer.
 
 ## Combiner Super Features: {#heading--super}
 
@@ -170,17 +178,17 @@ Super features can be activated at all times during play with one exception: if 
 
 The five super features and the Combiners they correspond to are:
 
-- **Superion**: Left, side, and right ramps score 10M.
+- **Superion**: Left ramp scores 6M and right ramp scores 10M.
 - **Menasor**: Spinner is worth 170k per spin.
-- **Bruticus**: All tech spec standup targets score 5M.
-- **Defensor**: Grimlock shot and right orbit score 15M.
-- **Devastator**: Drop targets and Megatron score 10M.
+- **Bruticus**: Center tech spec standup targets score 3M. Outer tech spec standup targets score 6M.
+- **Defensor**: Grimlock shot and right orbit score 8M.
+- **Devastator**: Drop targets score 10M and Megatron scores 5M.
 
 ## Stunt Loops: {#heading--stunt}
 
-Once the player has earned 3, then 6 **[Energon cubes](#heading--missions)** by spinning the spinner enough times, the next shot to the spinner will start a 15-second timed Stunt Loops round.
+Once the player has earned 3, then 6 **[Energon cubes](#heading--missions)** by spinning the spinner enough times, the next shot to the spinner will start a 30-second timed Stunt Loops round.
 
-The crash out jackpot starts at 5M, and every spin of the spinner adds 200k to the jackpot - which maxes out at 30M - and resets the timer. Shooting the side ramp increases the jackpot multiplier by +1x to a maximum of 4x. The jackpot can be scored at either the captive ball for its base value, or at the space bridge with an additional +2x jackpot multiplier. Therefore, the maximum value of the crash out jackpot is 180M. Collecting the jackpot or running out of time ends the mode. For the second round of Stunt Loops in a game, the jackpot caps out at 90M instead of 30M, meaning the maximum value becomes 540M.
+The crash out jackpot starts at 5M, and every spin of the spinner adds 200k to the jackpot - which maxes out at 30M. Shooting the side ramp increases the jackpot multiplier by +1x to a maximum of 4x. The jackpot can be scored at either the captive ball for its base value, or at the space bridge with an additional +2x jackpot multiplier. Therefore, the maximum value of the crash out jackpot is 180M. Collecting the jackpot or running out of time ends the mode. For the second round of Stunt Loops in a game, the jackpot caps out at 90M instead of 30M, meaning the maximum value becomes 540M.
 
 Stunt Loops can be started at any time during play outside of when **[mini-wizard modes](#heading--wizard)** are running.
 
@@ -193,10 +201,12 @@ Mystery awards include:
 - Light **[add-a-ball](#heading--multiballs)** (if one has already been used)
 - Spot **[combiner part](#heading--combiner)**
 - Award 3 or 5 **[tech specs](#heading--techspec)**
-- Light bumper to advance **[playfield X](#heading--bumblebee)** (if playfield X has been activated already)
+- Light bumper to advance **[playfield X](#heading--2xscoring)** (if playfield X has been activated already)
+- **[+1x Playfield](#heading--2xscoring)** (if 2x scoring is running, starts 3x scoring and resets the timer to 30 seconds)
+- Light **[left outlane ball save](#heading--extinction)**
 - +4x bonus
 - +2x bonus (permanent)
-- Cyber Coin (IC exclusive; every 5th single-player game on standard play, the player can start a challenge mode following the end of normal play)
+- Cyber Coin + 15M (IC exclusive; every 5th single-player game on standard play, the player can start a challenge mode following the end of normal play)
 
 ## Cannon Jackpot (Prem / LE): {#heading--cannon}
 
@@ -208,7 +218,7 @@ The ball is also diverted to the cannon if the player completes **[Countdown to 
 
 Shoot the Cassette target 3 times to start the first Soundwave mode. Afterwards, **[cassette combos](#heading--cassette)** must be made to start subsequent Soundwave modes.
 
-- **Interference**: Shoot the roving blue arrows to increase the value of a hurry-up that can be scored at the Cassette target once the mode's 20 second timer has run out.
+- **Interference**: Shoot the roving blue arrows to increase the value of a hurry-up that can be scored at the Cassette target once the mode's 20 second timer has run out. The arrows start at the right orbit / right ramp and move to the left side of the playfield before the sequence repeats.
 
 ## Cassette Combos {#heading--cassette}
 
@@ -218,16 +228,20 @@ The player can chain together flashing white shots to increase the multiplier fo
 
 Scoring a cassette combo qualifies the **action button** to light all **[tech specs](#heading--techspec)**, enabling 2x scoring at their shots for 15 seconds (however, once time expires, the tech specs will remain lit to collect). The number of cassette combos required to qualify the button increases by 1 each time the button is used.
 
+Scoring 5 cassette combos awards an instant **[extra ball](#heading--extraballs)**.
+
 ## Outlane Ball Saves / Countdown to Extinction: {#heading--extinction}
 
-- Left outlane: The left outlane ball save is lit at the start of the game. Once used, shoot the Soundwave target to relight it. The ball save can be relit twice per ball.
+- Left outlane: The left outlane ball save is lit at the start of the game. Once used, rolling through the left inlane will qualify the Soundwave target to relight it for about 30 seconds. The ball save can be relit twice per ball.
 - Right outlane: **Countdown to Extinction** is lit at the right outlane on the last ball of the game. If the player drains down the right outlane, they will have 18 seconds to shoot the right ramp to save their ball. The ball is held at the ramp diverter and releases to the upper flipper (fires to left flipper on Prem / LE).
 
 ## Extra Balls: {#heading--extraballs}
 
 Extra balls can be lit at the space bridge by:
-- Playing all 5 **[missions](#heading--missions)**
-- Collecting 15 **[tech specs](#heading--techspec)** of any color
+- Completing 3 **[missions](#heading--missions)**
+- Collecting 8 **[tech specs](#heading--techspec)** of any color
+- Collecting 6 **[dino jackpots](#heading--dinobot)** (instantly awarded)
+- Scoring 5 **[cassette combos](#heading--cassette)** (instantly awarded)
 
 15M is scored in place of the extra ball if they are disabled or have been maxed out.
 
@@ -265,9 +279,15 @@ The final hurry-up lights at the Megatron scoop after enough purple shots, block
 
 Win or lose, after the mode finishes, the flippers are disabled and all pinballs drain. A new ball will appear in the shooter lane with the skill shot disabled.
 
+## Bumblebee Multiball (Mini-Wizard Mode): {#heading--bumblebee}
+
+*Play* all five **[missions](#heading--missions)** to qualify the "Secret Mission". Start it in the same way as the other five missions, by shooting the Megatron scoop behind the drop targets enough times.
+
+Bumblebee Multiball is a 3-ball multiball. Hit three shots on the right side of the playfield to qualify the left side shots, and make 3 of those to rescue a character.
+
 ## Rescue Optimus (Mini-Wizard Mode): {#heading--rescue}
 
-Play all five **[missions](#heading--missions)** to light the VUK to start Rescue Optimus, once no other modes are running.
+*Complete* all five **[missions](#heading--missions)** to light the VUK to start Rescue Optimus, once no other modes are running.
 
 This mini-wizard mode is played in 3 phases, each lasting 70 seconds. 30 seconds of ball save are given at the start of each phase.
 
