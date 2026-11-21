@@ -211,7 +211,7 @@ If the player makes it through all 3 stages, their next slot spin will score a f
 
 The lockup lights to start Boss Rush during single-ball play after winning 4, 9, and 12 **[boss battles](#heading--zones)**. While this mode is available, drop targets cannot be scored towards lighting **[Chaos Emerald multiball](#heading--emerald)**.
 
-Sonic and Shadow team up to defeat all of Eggman's machines in quick succession. Starting as a single-ball mode, the player is prompted to defeat the Eggman mech on the upper playfield, which will add a ball. The mode then becomes a multiball where the player must follow the flashing shots to take down Eggman's shield before they can damage the mech, move to the next phase, and add-a-ball. **[Bash dash](#heading--multiballs)** can be started during this mode and applies to all scoring.
+Sonic and Shadow team up to defeat all of Eggman's machines in quick succession. Starting as a single-ball mode, the player is prompted to defeat the Eggman mech on the upper playfield, which will add a ball. The mode then becomes a multiball where the player must follow the flashing shots to take down Eggman's shield before they can damage the mech, move to the next phase, and add-a-ball. **[Bash dash](#heading--multiballs)** can be started during this mode and applies to all scoring. All scores are also multiplied by +25% for each ball in play past 1 ball (ie. with all 6 balls in play, scoring would be 2.5x).
 
 (*Need requirements for defeating each boss. I know boss 7 requires all 5 lower playfield shots to be made before damage can be dealt*)
 
@@ -227,7 +227,7 @@ This mode is currently not implemented and instead scores 100M while also removi
 
 Only one multiball mode can be active at a time, but they can stack with currently active **[zones](#heading--zones)** up until the player reaches the Goal Ring. If the player has reached the Goal Ring, the zone timer will pause and checkpoint shots will be disabled to prevent the player from starting Boss Battle during a multiball.
 
-**Bash Dash**: During either multiball mode, shooting the left standup target will hold the ball there temporarily and increase the jackpot multiplier, which starts at 2x, 3x if the player has successfully recovered the **[Master Emerald](#heading--feature)**. Repeatedly hitting the held ball will increase the jackpot multiplier by +1x for the duration of Bash Dash (+2x with Master Emerald found). This scoring opportunity disappears after 10 seconds (+4 seconds by hitting the left standup target during normal play), but can be relit by collecting **[rings](#heading--rings)** during the multiball. The Bash Dash timer also pauses when **[Chaos Control](#heading--control)** is active.
+**Bash Dash**: During any multiball mode, shooting the left standup target will hold the ball there temporarily and increase the jackpot multiplier, which starts at 2x, 3x if the player has successfully recovered the **[Master Emerald](#heading--feature)**. Repeatedly hitting the held ball will increase the jackpot multiplier by +1x for the duration of Bash Dash (+2x with Master Emerald found). This scoring opportunity disappears after 10 seconds (+4 seconds by hitting the left standup target during normal play), but can be relit by collecting **[rings](#heading--rings)** during the multiball. The Bash Dash timer also pauses when **[Chaos Control](#heading--control)** is active.
 
 <h3 id="heading--emerald">Chaos Emerald Multiball:</h3>
 
@@ -311,7 +311,7 @@ Shadow, an artificial counterpart to Sonic created by Eggman's grandfather, has 
 
 If the player has any **[Chaos Emeralds](#heading--emerald)** in their possession, pressing the action button will freeze all currently active game timers for 15 seconds per emerald found, and pressing the action button again will reactivate the timers. Every emerald earned adds more time to Chaos Control.
 
-Timers affected by Chaos Control are the timer for each **[zone](#heading--zones)** (making it easier to get a higher rank), the hurry-up award during **boss battle** and **[Tails hurry-up](#heading--tails)**, and the **[bash dash](#heading--multiballs)** timer during multiball modes.
+Timers affected by Chaos Control are the timer for each **[zone](#heading--zones)** (making it easier to get a higher rank), the hurry-up award during **boss battle** and **[Tails hurry-up](#heading--tails)**, and the **[bash dash](#heading--multiballs)** timer during multiball modes. The timer for **[boss rush](#heading--boss)** also pauses.
 
 <h3 id="heading--kickback">Kickback:</h3>
 
@@ -322,6 +322,7 @@ Light the left outlane kickback by collecting enough **[rings](#heading--rings)*
 Light extra ball at the center ramp by:
 
 - Completing 3, then 13 **[boss battles](#heading--zones)**
+- Scoring "light extra ball" during **[casino night](#heading--casino)**, then successfully cashing out (very rare)
 - Collecting 100 **[rings](#heading--rings)**
 - Successfully **[finding Froggy](#heading--froggy)**
 
