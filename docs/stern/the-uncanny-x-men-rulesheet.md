@@ -229,7 +229,7 @@ Berserker multiball is a 3-ball multiball where all major shots (including the s
 
 The danger room is accessed by hitting the X-Jet shot to feed it, or the ball can fall into it on its own. Exiting the danger room via the ramp also counts as a **[Cerebro](#heading--xavier)** shot (when lit).
 
-Level up the danger room by hitting the various features down there: the spinner, targets, ramp, and bumper. Every shot made increases the progress bar at the top of the display and eventually maxes it out, advancing a level and increasing the scoring for each **[multiball](#heading--multiballs)** accordingly. The danger room level resets after each mission played, and each level gives the following perks:
+Level up the danger room by hitting the various features down there: the spinner, targets, ramp, and bumper. Every shot made increases the progress bar at the top of the display and eventually maxes it out, advancing a level and increasing the scoring for each **[multiball](#heading--multiballs)** accordingly. Making an **[MXV super skill shot](#heading--skillshots)** automatically maxes out the danger room level. The danger room level resets after each mission played, and each level gives the following perks:
 
 - Level 1 (green): All shot values during the next **[mission](#heading--missions)** are doubled.
 - Level 2 (yellow): One less sentinel is required to light the escape shot during **[the future](#heading--future)**.
