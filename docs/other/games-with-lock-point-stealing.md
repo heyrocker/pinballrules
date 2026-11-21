@@ -34,6 +34,7 @@ title: "Games With Lock & Point Stealing"
 * Sorcerer
 * Space Shuttle
 * Special Force
+* Star Wars: Episode I
 * Strange Science
 * Swords of Fury
 * Taxi
@@ -181,7 +182,7 @@ title: "Games With Lock & Point Stealing"
 **Feature Hold Across Games** - A feature that retains progress across individual games
 * Apollo 13 - BLASTOFF Letters (tournament mode does fix this)
 * Avengers: Infinity Quest - Gem Mania progress (disabled on tournament mode)
-* Barb Wire - BARB WIRE Letters (completely absent from tournament mode)
+* Barb Wire - BARB WIRE Letters (disabled on tournament mode)
 * Black Knight 2000 - RANSOM Letters
 * Cactus Jack's - EXTRABALL Letters
 * Cue Ball Wizard - WIZARD & DOUBLE Letters  (has tournament mode)
@@ -205,7 +206,7 @@ title: "Games With Lock & Point Stealing"
 * The Simpsons - MILLIONS Letters (not on default settings)
 * Super Mario Bros. - Completed Castles (has tournament mode)
 * Tee'd Off - SKINS! & GOPHER Letters (has tournament mode)
-* Venom - Symbiote Mania progress (topper mode, tournament mode fixes start for each player
+* Venom - Symbiote Mania progress (topper mode, tournament mode fixes start for each player)
 * The Walking Dead Remastered - Fish Tank Frenzy (topper mode, tournament mode fixes start for each player)
 * Wipe Out - SKIERS Letters (has tournament mode that fixes players to 3 letters each ball)
 * World Challenge Soccer - Completed Challenges (has tournament mode that fixes players to 3 challenges each ball) 
@@ -217,6 +218,7 @@ title: "Games With Lock & Point Stealing"
 * Jaws (Play Super Celebration Multiball)
 * John Wick (Play Special Assignment)
 * Jurassic Park (Stern) (Play Escape Nublar / When Dinosaurs Ruled the Earth)
+* King Kong: Myth of Terror Island (Play 8th Wonder at either level 1 or 2)
 * Operation: Thunder (last mission) (setting)
 * Total Nuclear Annihilation (Destroy last reactor - will end game for all players)
 
@@ -278,6 +280,7 @@ title: "Games With Lock & Point Stealing"
 * Red & Ted's Road Show (souvenirs can be traded)
 * Shaq Attaq (end-of-game bonus, including basket points, game balls, and hidden features found are lost on ball 3 tilt)
 * Stargate (quartz can be traded and end-of-ball bonus points are lost. Portal segment bonus can be lost on ball 3 tilt)
+* Total Nuclear Annihilation (unused outlane ball saves are added to bonus)
 * Waterworld (kilos of pure dirt can be traded and are lost on ball 3 tilt)
 
 **Tilting can affect other players / other balls**
