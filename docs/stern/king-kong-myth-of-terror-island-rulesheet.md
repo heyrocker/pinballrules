@@ -66,13 +66,11 @@ Lots of options!
 - **Skill Shot**: Plunge the ball into the pit targets.
 - **Super Skill Shot**: Plunge the ball into the river lane near the mini-flipper.
 - **Anti-Skill Shot**: Plunge the ball into the left outlane. There is an "anti-skill luck shot" if the ball bounces back into play from the post and the player hits the right spinner or the gong!
-- **Secret Skill Shot**: Plunge the ball into the inner left inlane.
+- **Secret Skill Shot**: Plunge the ball into the inner left inlane, or alley pass the left inlane from the right flipper.
 - **Super Secret Skill Shot**: Plunge the ball into the outer left inlane.
-- **Mega Secret Skill Shot**: Plunge to the upper left flipper and make a reflex shot to the cliffs ramp. Scores 1.75M and 8 seconds of ball save time. The skill shot is multiplied by 2x or 3x, with follow-up shots to the biplane ramp, or U-turn, respectively.
-- **Ultra Secret Skill Shot**: Plunge to the upper left flipper, make a reflex shot to the cliffs ramp, then follow up with a shot from the upper right flipper, straight across the playfield, into the river lane. Scores 7M(?) and 8 seconds of ball save time.
-- **Ultra Super Secret Skill Shot**:
-- **Colossal Secret Skill Shot**:
-- **Gargantuan Secret Skill Shot**:
+- **Colossal Secret Skill Shot**: Plunge the ball into the right inlane, or alley pass the right inlane from the left flipper.
+- **Gargantuan Secret Skill Shot**: Plunge the ball into the right outlane.
+- **Mega Secret Skill Shot**: Plunge to the upper left flipper and make a reflex shot to the cliffs ramp. Scores 1.75M and 8 seconds of ball save time. The skill shot is multiplied by 2x, 3x, 4x, or 5x, with follow-up shots to the biplane ramp, U-turn, river, or spider pit, respectively.
 - **Gargantuan Ultra Super Secret Skill Shot**:
 
 On default settings, each skill shot adds more initial ball-save time.
@@ -81,11 +79,11 @@ Each *unique* skill shot made during a game instantly adds a letter to **[KING K
 
 If the ball falls back into the shooter lane during single-ball play, a "Sneak-In" award starting at 1M is earned, and the player may attempt another Skill Shot. The "Pisang Raja" **[banana combo](#heading--banana)** requires this to happen off a ricochet from the Pit targets.
 
-Skill shots are also used during the **[deadeye](#heading--deadeye)** side mode.
+Skill shots (on the left inlane / outlane area, spider pit, and river) are also used during the **[deadeye](#heading--deadeye)** side mode.
 
 # Main Objectives: {#heading--objectives}
 
-Ann Darrow, Jack Driscoll, and Carl Denham have arrived on the mysterious Terror Island to uncover it's secrets. Denham, the ambitious filmmaker, aims to capture King Kong, the legendary beast that roams the island, while Jack and Ann are more concerned with uncovering the island’s mystical riches.
+Ann Darrow, Jack Driscoll, and Carl Denham have arrived on the mysterious Terror Island to uncover its secrets. Denham, the ambitious filmmaker, aims to capture King Kong, the legendary beast that roams the island, while Jack and Ann are more concerned with uncovering the island’s mystical riches.
 
 There are six main objectives listed above the flippers that must be completed to qualify the wizard mode, **[8th Wonder](#heading--wonder)**. These include the game's **main modes** (or **[island scenes](#heading--island)**) and various other objectives, some of which can be advanced towards while other objectives are running but others which are mutually exclusive. The objectives and rules for all six are listed below.
 
@@ -150,7 +148,9 @@ Awards are given for every section of the building climbed:
 - 1000 ft - 10M & light **NYC event 3**
 - 1100 ft -
 - 1200 ft -
-- 1250 ft - Light **[Terror on the Tower](#heading--tower)**
+- 1250 ft - Light **[Terror on the Tower](#heading--tower)** (**NYC event 4**)
+
+Once the building has been fully climbed, no more climb arrows can be made for the rest of the game.
 
 ### NYC Events: {#heading--nyc}
 
@@ -161,7 +161,7 @@ NYC Events *cannot be stacked* with other modes. An NYC Event cannot be started 
 **NYC Event Modifiers:** After shooting the right orbit, use the left flipper to choose the modifier for the mode:
 
 - *3-ball multiball (1x scoring)*
-  - If less than 3 balls are in-play, advancing a stage will typically add a ball.
+  - If less than 3 balls are in play, advancing a stage will typically add a ball or refresh the ball save timer.
   - Draining back down to 1 ball ends the mode.
   - Completing the mode starts victory laps.
 - *Limited flip count (2x scoring)*
@@ -187,16 +187,16 @@ Each modifier can only be chosen once; further NYC Events will force you to choo
 - **Window Shopping**: Kong is wrecking buildings trying to search for Ann. Shoot the lit "climb" shots to light red arrows for jackpots - the number of "climb" shots increases for every subsequent jackpot. Shooting the biplane ramp will spot a "climb" shot or add +1x to the jackpot if it is already lit - the jackpot multiplier resets every time one is collected. The mode ends in success and a **map segment** is awarded once six jackpots have been scored.
   - Multiball perk: The first two jackpots will add balls and the third & fourth jackpots will give short ball save timers.
   - Single-ball timed perk: Each jackpot adds +10 seconds to the timer. Completing the drop targets at any time adds +25 seconds to the timer.
-- **Manhattan Rampage**: Kong is causing havoc on the streets of Manhattan. Light each major ramp & orbit shot solid by completing them as many times as there are lights in front of them. Complete two shot lanes by lighting up all of their inserts to light a super jackpot (multiball) or light the kong cave (limited flips, single-ball) to complete the mode and award a **map segment**.
+- **Manhattan Rampage**: Kong is causing havoc on the streets of Manhattan. Light each major ramp & orbit shot solid by completing them as many times as there are lights in front of them. Complete two shot lanes by lighting up all of their inserts to light a super jackpot (multiball) or light the Kong cave (limited flips, single-ball) to complete the mode and award a **map segment**.
   - Multiball perk: Super jackpot is lit at the U-turn upper loop every time a shot is lit completely solid +1x for every shot that was lit prior. The first two super jackpots add a ball. Every super jackpot requires more shot lanes to be completed, to a maximum of 5; and the U-turn will spot shots if super jackpot isn't lit.
-  - Limited flips perk: Completing two lanes will light the kong cave to complete the mode and award a bonus based on the number of shots that were made prior. If all shots were made, they will relight. The U-turn upper loop will always spot shots.
-  - Single-ball timed perk: Each shot completed adds +1x to the Retreat finishing bonus. Completing two lanes will light the kong cave to Rampage or Retreat. If the player chooses to Rampage, the mode will keep going and time will be added. If the player chooses to Retreat, they will cash out the finishing bonus and complete the mode.
+  - Limited flips perk: Completing two lanes will light the Kong cave to complete the mode and award a bonus based on the number of shots that were made prior. If all shots were made, they will relight. The U-turn upper loop will always spot shots.
+  - Single-ball timed perk: Each shot completed adds +1x to the Retreat finishing bonus. Completing two lanes will light the Kong cave to Rampage or Retreat. If the player chooses to Rampage, the mode will keep going and time will be added. If the player chooses to Retreat, they will cash out the finishing bonus and complete the mode.
 
 The total values of each NYC event are used to determine the jackpot value during **[Terror on the Tower](#heading--tower)** mini-wizard mode.
 
 ## Biplane Attack: {#heading--plane}
 
-To start Biplane Attack, make enough shots to the side ramp - 3 shots are required to start the first attack.
+To start Biplane Attack, make enough shots to the side ramp. 3 shots are required to start the first attack +1 for each subsequent attack, to a maximum of 5.
 
 Biplane Attack is a 30-second timed mode that lights the side ramp for a jackpot that increases as other switches are hit on the playfield: the left spinner and right spinner alternate being lit to increase the value each switch adds to the jackpot. Every time a jackpot is scored, a biplane will be destroyed. The player can defeat multiple biplanes in one round of Biplane Attack.
 
@@ -250,7 +250,7 @@ Deadeye mode is lit at the Kong cave eject after making it halfway through spell
 
 This mode plays similarly to the Skill Fire mode on Williams' *Congo*, but with an added jackpot feature. The ball will be held at the Kong cave eject and the player will have unlimited ball save for 30 seconds to make as many **[skill shots](#heading--skillshots)** as possible by plunging the ball with the correct strength. After scoring three Deadeye awards, the river lane will be lit to score the Deadeye jackpot for 3M + the total value of non-jackpot awards collected before plunging into the river lane. This process resets until time runs out, with a short grace period on the last skill shot before the mode ends. The Deadeye jackpot stays at the same value until the mode ends, even if it has already been scored.
 
-The deadeye award starts at 1M and increases by 500k for each award collected. Certain skill shots multiply the value: the pit standups for 1x; left outlane is 2x; left inlane is 3x; outer-left inlane is 5x. **[2x playfield](#heading--2x)** can also be brought into Deadeye (with a unique callout for hitting the Deadeye jackpot at 2x), but times out like it normally does.
+The deadeye award starts at 1M and increases by 500k for each award collected. Certain skill shots multiply the value: the pit standups for 1x; left outlane is 2x; left inlane is 3x; outer-left inlane is 5x. **[2x playfield](#heading--2x)** can also be brought into Deadeye (with unique audio for hitting the Deadeye jackpot at 2x), but times out like it normally does.
 
 Scoring the Deadeye jackpot awards a **[map segment](#heading--map)** the first time one is scored in a game.
 
@@ -262,13 +262,13 @@ Scoring a super jackpot during King Kong Multiball and playing the fourth Pit Mu
 
 Light the locks for this multiball at the center ramp by completing the drop targets when "light kong lock" is flashing.  All three locks will be lit the first time, but afterwards only one lock will light at a time. The third lock will start King Kong Multiball (or light it to start at the right orbit on the Pro).
 
-King Kong multiball starts on the Prem / LE by releasing all three balls from the train for Kong awards at the side ramp. The Kong award then resets to a lower value for the rest of the multiball.
+King Kong multiball starts on the Prem / LE by releasing all three balls from the train for Kong awards at the side ramp.
 
 Though all green shots during King Kong multiball score smaller awards with a Kong award for 5x at the side ramp, the jackpots (red arrows) must be lit. For the first jackpot round of a game, hitting any drop target will light the center spinner and punchback target for 1x jackpot. After this first jackpot round, all drop targets must be completed to light jackpots and the center spinner won't award jackpots; instead, the cliffs ramp will be lit to score a 2x jackpot.
 
 After scoring either jackpot, shoot the side ramp to score a super jackpot. The jackpot increases as green arrow shots are made and is multiplied as side ramps are made prior to collecting the super jackpot. The super jackpot starts the game lit for about 30 seconds, but every subsequent jackpot scored reduces the timer that the super jackpot is available for. Scoring the super jackpot awards the level 1 Kong Multiball light towards **[8th Wonder](#heading--wonder)**, while scoring a super jackpot worth 2x or more awards the level 2 light.
 
-A ball can be relocked in the train by collecting all of the green arrow awards, then shooting the center ramp. The relock multiplies all jackpots & super jackpots by 2x and lasts 20 seconds before releasing the ball. On the Pro, the ball is not physically held during the timed 2x jackpots.
+A ball can be relocked in the train by collecting the green arrow awards at the left orbit, center ramp, and Kong cave, then shooting the center ramp. The relock multiplies all jackpots & super jackpots by 2x and lasts 20 seconds before releasing the ball. On the Pro, the ball is not physically held during the timed 2x jackpots.
 
 **[Island mystery](#heading--mystery)** is disabled during this multiball, so add-a-balls can't be earned from it. Instead, balls can be added once per multiball by ringing the gong twice.
 
@@ -311,7 +311,7 @@ Awards are given for every treasure discovered in a game. Alongside each treasur
 - 8 treasures: all subsequent **treasure hunt** jackpots this game require one less shot to light.
 - 9 treasures: all **[biplane attack](#heading--plane)** awards now score 5x their normal value.
 - 10 treasures: add +15 seconds to **[2x playfield](#heading--2x)**.
-- 11 treasures: 1 billion points! Cannot be multiplied by 2x scoring.
+- 11 treasures: 1 billion bananas, transferred to your score as points. Cannot be multiplied by 2x scoring.
 
 Every treasure found also boosts the jackpot value during the game's wizard mode, **[8th Wonder](#heading--wonder)**.
 
@@ -324,7 +324,7 @@ Once the puzzle is completed by hitting two flashing drop targets after lighting
 - **Drillplate of Dunne**: 10M + light **Super Spinners** (starts on the next spinner rip: alternate between left and right spinners for 100k per spin + 50k per lit spinner rip for 30 seconds. Spinner rips cap out at 25M, at which point the opposite spinner must be hit)
 - **Lost Skull of the Ancients**: 10M + light **Super Kombos** (starts on the next shot made: starts **[King Kombos](#heading--kombos)** for 30 seconds but at 3x value per shot)
 - **Heart of the Keepers**: 10M + light **Lost Temple Multiball** (starts at the gong once no other modes are running. 3-ball multiball where one drop target is lit at a time to increase the jackpot multiplier up to 4x. Super jackpot is at the island treasure target & resets the drops)
-- **Moonstone of N'zai**: 10M + **[extra ball](#heading--extraballs)**
+- **Moonstone of N'zai**: 10M + **[extra ball](#heading--extraballs)** (awarded instantly)
 - **Obsidian Dagger**: 10M + light **Super Rapids** (starts on the next river shot: for the next 30 seconds, all shots increase a multiplier for points scored at the river lane, shot value starts at 2M)
 - **Serpent's Eye**: 10M + start **Super Cave Target** (starts instantly: for the next 60 seconds, all cave rollover hits score 25M + 2.5M per shot to a max of 50M. Hitting the cave rollover without holding the upper flipper as a guide scores 2x the value)
 
@@ -561,9 +561,9 @@ Light the gong to start the game's final wizard mode by lighting all 6 of the ga
 - **[Island Scenes](#heading--island)** - play all 5 island scenes. Level 2 - complete all 5 island scenes
 - **[Spider Pit](#heading--spider)** - play spider queen multiball, the 4th pit multiball. Level 2 - score 250M in spider queen
 
-The mode starts by determining the jackpot value, adding up all **[Island Treasures](#heading--treasures)**. *If all inserts are at level 2, each treasure adds more to the jackpot value.*
+The mode starts by determining the jackpot value, adding up all **[Island Treasures](#heading--treasures)**, with each treasure adding 25M to the jackpot, to a maximum of 300M for all 11. *If all inserts are at level 2, each treasure adds 50M to the jackpot value, so the new maximum becomes 600M.*
 
-A 90-second timed 6-ball multiball then starts. All major shots are lit representing the 7 Wonders of the Ancient World, and each shot scores a base jackpot value. Clearing all 7 shots lights the Gong to score the 8th Wonder Jackpot, which resets the process while adding 10 seconds to the timer and increasing the value of the next 8th Wonder Jackpot.
+A 90-second timed 6-ball multiball then starts. All major shots are lit representing the 7 Wonders of the Ancient World, and each shot scores a base jackpot value of 3M + 1M per shot made throughout the entire multiball. Clearing all 7 shots lights the Gong to score the 8th Wonder Jackpot, which resets the process while adding 10 seconds to the timer and increasing the value of the next 8th Wonder Jackpot by 50M.
 
 *The multiball is enhanced if all 6 inserts are at level 2. The mode timer is 120 seconds instead of 90 seconds. Also, the jackpot value is higher, the U-turn and gong spot lit shots, and each 8th Wonder Jackpot adds +1x to the next one scored. All rules described above apply as well.*
 
