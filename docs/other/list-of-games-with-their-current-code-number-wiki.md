@@ -47,9 +47,9 @@ This is a one stop reference list for games with their current code number. Any 
 | James Bond 007                        | 1.06           | Jul 1, 2026  |
 | Jaws                                  | 1.02           | Jul 1, 2026  |
 | The Uncanny X-Men                     | 0.98           | Jul 1, 2026  |
-| Metallica Remastered                  | 1.04           | Jul 1, 2026  |
+| Metallica Remastered                  | 1.05           | Nov 24, 2026  |
 | Dungeons & Dragons: The Tyrant's Eye  | 1.11           | Oct 29, 2026 |
-| King Kong: Myth of Terror Island      | 1.00           | Nov 17, 2026  |
+| King Kong: Myth of Terror Island      | 1.01           | Nov 24, 2026  |
 | Star Wars: Fall of the Empire         | 0.98           | Nov 3, 2026  |
 | The Walking Dead Remastered           | 0.94           | Oct 22, 2026 |
 | Pokémon                               | 0.87           | Oct 29, 2026 |
@@ -175,13 +175,13 @@ Staged Flipper functionality, meaning the lower and upper right flipper gets act
 | Star Wars (Home Edition) | 1.10           | Jul 14, 2026 |
 | Elvira's House of Horrors | 1.13           | Jul 7, 2026  |
 | Teenage Mutant Ninja Turtles | 1.59           | Jul 1, 2026  |
-| Avengers: Infinity Quest | 1.10           | Jul 1, 2026  |
+| Avengers: Infinity Quest | 1.20           | Nov 24, 2026  |
 | Led Zeppelin | 1.21           | Jul 1, 2026  |
 | The Mandalorian | 1.45           | Jul 1, 2026  |
 | Jurassic Park (Home Edition) | 1.05           | Jul 1, 2026  |
 | Rush | 1.19           | Jul 1, 2026  |
 | James Bond 007 (60th Anniversary) | 1.11           | Jul 1, 2026  |
-| Foo Fighters | 1.04           | Jul 1, 2026  |
+| Foo Fighters | 1.05           | Nov 24, 2026  |
 | Venom   | 1.07           | Jul 1, 2026  |
 | John Wick | 1.02            | Jul 1, 2026   |
 
