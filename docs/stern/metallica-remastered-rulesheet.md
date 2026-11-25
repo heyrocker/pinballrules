@@ -51,7 +51,7 @@ Remastered rulesheet can be found on Stern’s website: https://sternpinball.com
 - Displays:
 - Sound: Jerry Thompson
 - Release Date: November 2024
-- Wiki Rulesheet based on Code Rev: 1.01
+- Wiki Rulesheet based on Code Rev: 1.05
   - *Edit the Code revision, if applicable, when you make changes*
 
 ***Metallica*** was one of the first Stern releases to revitalize interest in physical pinball back in 2013 and received continuous improvement from code champion Lyman Sheats in the following years. The game is highly regarded for "Crank It Up" and the risk / reward decision making involved that shaped many more recent releases, the wide variety of multiball and mode stacking opportunities, and of course, the music & callouts courtesy of the band themselves. The game was given a re-release as an LCD-era machine in late 2024 and obtained some quality-of-life fixes along with a few new modes and rules. Learn how to rock this game here!
@@ -263,6 +263,8 @@ The Crank It Up modes, from left to right, are as follows:
 - **Battery**: Shoot Sparky over and over to score increasing amounts of points and light the electric chair inserts at other shots for jackpots. Hitting the ramps & orbits increases the value of the next Sparky hit, with one random flashing shot that resets when Sparky is hit increasing the value by 2x.  Make 12 shots to Sparky to score the **Completion Bonus**. (**Crank It Up bonus** will light all five shots for 2x advances.)
 - **Enter Sandman**: Three randomly selected inserts on each of the five major shots will be flashing, which alternate shots with *every* switch hit. Making any shot with a solidly lit insert scores a jackpot, which can be doubled or tripled if more than one lit insert is on that shot. Light all 15 of the inserts solid to score the **Completion Bonus.** (**Crank It Up bonus** will add one insert).
 
+*On competition install, Crank it Up modes are untimed.*
+
 ## Side Modes {#heading--modes}
 
 Side modes can be started at *any time*, even during **[multiball modes](#heading--multiballs)**, so long as **[Crank it Up](#heading--ciu)** isn't currently running. Many side modes have ways to extend their timers, allowing them to potentially last for much longer than their initial timers.
@@ -307,7 +309,7 @@ There are 14 unique setlist combos in the game that can only be earned when cert
 
 </details>
 
-Each setlist combo earned during the mode that matches it will award a **[self-destruct button](#heading--button)** and count down towards lighting Lux Aeterna at the piston target. 5 setlist combo pairs are required to light this side mode, and it can only be started if no other multiball or Crank it Up mode is running. Collecting 10 setlist combo pairs will instead light the piston target for **[Frantic Multiball](#heading--fmb)**, and collecting all 14 pairs will award a letter in **[UNFORGIVEN](#heading--unforgiven)**.
+Each setlist combo earned during the mode that matches it will award a **[self-destruct button](#heading--button)** and count down towards lighting Lux Aeterna at the piston target. 5 setlist combo pairs are required to light this side mode, and it can only be started if no other multiball or Crank it Up mode is running. Collecting 10 setlist combo pairs will instead light the piston target for **[Frantic Multiball](#heading--fmb)**, and collecting all 14 pairs will award a letter in **[UNFORGIVEN](#heading--unforgiven)**. The combo pairs reset once they are all scored or The Unforgiven wizard mode is played.
 
 **Lux Aeterna** is a combo-based mode with ball save for its entire duration, which starts at 60 seconds and resets every time you advance a level but gets 5 seconds removed each time the ball drains. The goal of the mode is to score as many combos as possible, starting at 5x their normal value, and increasing by +1x for each level advanced. Advancing a level requires a combo of a certain length to be made: 2-way for the first two levels, 3-way for the next three levels, 4-way for the next four levels, etc.
 
@@ -317,7 +319,7 @@ If the mode timer is under 10 seconds, shooting a combo will reset the timer bac
 
 Shoot the FUEL targets four times to add to the FUEL gauge, displayed in the center of the playfield, and light the dead end target behind them for **[2x Playfield](#heading--fuel2x)**. Once the FUEL gauge is completely full (after three completions of FUEL for the first attempt), the next shot to any of the targets will start the **FUEL frenzy**.
 
-This frenzy mode allows the player to rack up big points so long as they maintain their fuel gauge. Every switch hit scores a value that starts at 5k. Direct shots to the FUEL target add time to the mode, increases the switch value by 1k (to a max of 15k) and lights the piston target for fuel jackpot (750k + 50k each time it is earned). The frenzy ends when the player's FUEL gauge runs out, though there is a lengthy grace period to keep it running.
+This frenzy mode allows the player to rack up big points so long as they maintain their fuel gauge. Every switch hit scores a value that starts at 5k. Direct shots to the FUEL target add time to the mode, increases the switch value by 1k (to a max of 15k) and lights the piston target for fuel jackpot (All frenzy scoring + 750k + 50k each time it is earned, maxing out at 25M + 250k per jackpot scored). The frenzy ends when the player's FUEL gauge runs out, though there is a lengthy grace period to keep it running.
 
 Further FUEL frenzies during the same game require one additional completion of the FUEL targets to qualify.
 
@@ -400,7 +402,7 @@ Shooting shots that flow into each other consecutively without missing will awar
 
 Each combo scores points on its own as well: 250k + 500k x (combo length greater than 2-way) + 7.5k x (number of combo sequences before this one, this ball).
 
- **[Extra Ball](#heading--ebs)** is lit after shooting 15, then 50, then every 50 combos after that.
+ **[Extra Ball](#heading--ebs)** is lit after shooting 15 combos, then 50, then every 50 after that.
 
 ### Mystery {#heading--mystery}
 
@@ -441,7 +443,7 @@ Extra Balls can be lit to collect at the scoop by:
 - 15, 50, 100, etc. [**Combos**](#heading--combos)
 - 15, 40, 80, etc. [**Blown Pistons**](#heading--blownpistons)
 
-If the extra ball cap has been reached, extra ball awards 2.5M.
+If the extra ball cap has been reached or extra balls are disabled, extra ball awards 2.5M.
 
 ### End-of-Ball Bonus {#heading--bonus}
 
@@ -468,7 +470,7 @@ Add-a-balls are given after 3 shots have been blackened, or the super jackpot ha
 
 ### End of the Line (Wizard Mode) {#heading--eotl}
 
-Once all 4 [**Crank it Up**](#heading--ciu) modes have been *played* (they don't need to be completed or cashed out), collect enough **[items](#heading--items)** to light the 5th Crank it Up mode and shoot the scoop to start **End of the Line.**
+Once all 4 [**Crank it Up**](#heading--ciu) modes have been *played* (they don't need to be completed or cashed out), collect enough **[items](#heading--items)** to light the 5th Crank it Up mode and shoot the scoop to start **End of the Line** and collect a letter in **[UNFORGIVEN](#heading--unforgiven)**.
 
 At the start of End of the Line, you receive a hefty bonus for all the items you've collected in the game. This seems to be 200k per # of items collected throughout your game.
 
@@ -493,10 +495,12 @@ This super wizard mode starts as soon as UNFORGIVEN is spelled and no other mode
 
 - Each **[band member](#heading--multiballs)** advanced to **level 8** awards a letter
 - Scoring the completion bonus during any **[Crank it Up](#heading--ciu)** mode awards a letter
+- Starting **[End of the Line](#heading--eotl)** wizard mode awards a letter
 - Collecting 100M combined in **[fuel](#heading--fuel)**, **[lady justice](#heading--justice)**, and **[seek & destroy](#heading--seek)** awards a letter
 - Scoring all 14 **[setlist combo pairs](#heading--luxaeterna)** awards a letter
 - Collecting 100 **[combos](#heading--combos)** awards a letter (+100 for every time this super wizard mode is played)
 - Scoring the super jackpot during **[Blackened](#heading--blackened)** awards a letter
+- There is one "wildcard" UNFORGIVEN letter given for completing a task you already accomplished. Only one wildcard per UNFORGIVEN spelling.
 
 <details markdown="1">
 <summary>Spoilers!</summary>
