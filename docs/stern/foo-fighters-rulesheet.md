@@ -50,7 +50,7 @@ opdb_id: "GpeoL"
 - Display and Animations:
 - Sound Design: Bob Baffy, select contributions by Tanio Klyce
 - Release Date: March 2023
-- Wiki Rulesheet based on Code Rev: 1.04
+- Wiki Rulesheet based on Code Rev: 1.05
   - *Edit the Code revision, if applicable, when you make changes*
 
 Jack Danger's first full-fledged pinball machine. *****Foo Fighters***** is based on a fictional Saturday morning cartoon series where the band is a group of heroes with a giant robot, fighting against a being known only as the Overlord that aims to reformat the world and erase all music from existence. Players take control of the Fighters' stylish van, mod it out, and save the cities that the Overlord has conquered while defeating his army of spider-bots.
@@ -102,7 +102,7 @@ A skill shot opportunity is presented at the start of each ball, and after locki
 - Short plunge the ball so that it hits the drop targets for 250k and a level of whatever **[Van Mod](#heading--mods)** insert is currently lit.
 
 **Super Skill Shot**
-- Left crossover shot to side ramp or side loop. The sequence can be repeated for up to a 6-way Super Skill Shot for 500k x the length of the super skill shot. Each shot in the sequence adds +3 seconds of ball save time.
+- Left crossover shot to side ramp or side loop. The sequence can be repeated for up to a 6-way Super Skill Shot for 2M + 100k x the length of the super skill shot. Each shot in the sequence adds +3 seconds of ball save time.
 
 **Secret Skill Shot**
 - Plunge the ball into the left inlane for 2.5M & additional ball save time.
@@ -206,7 +206,7 @@ Starting **Bot Frenzy** awards the **[right arm of the FooBot](#heading--foobotm
 
 Every time a **[mystery award](#heading--mystery)** is scored at the radio standup targets on the left side of the playfield, the radio dial on the LCD display will advance (it won't advance if you fail to collect the mystery award in time). Once the dial has reached the correct frequency, as indicated by the black outline, **Supersonic Radio** mode will start. This usually takes about 6 mystery awards.
 
-For 50 seconds, all shots are lit gray to boost the value scored for pink shots during the mode. Shooting any gray shot will boost the radio signal and turn its insert pink, and shooting it again will score the built up value (and light the Sonic Radio targets to add 15 seconds of time). Completing all the pink shots will relight all shots gray and allow you to continue boosting the values. Boost all of the radio signals (ie. make every gray shot once) to light the Sonic Radio targets for the radio jackpot worth the total value of all shots.
+For 50 seconds, all shots are lit gray to boost the value scored for pink shots during the mode. Shooting any gray shot will boost the radio signal and turn its insert pink, and shooting it again will score the built up value (and light the Sonic Radio targets to add 15 seconds of time). Completing all the pink shots will relight all shots gray and allow you to continue boosting the values. Boost all of the radio signals (ie. make every gray shot once) to light the Sonic Radio targets for the radio jackpot worth the total value of all shots. The minimum radio jackpot is 5M.
 
 The Supersonic Radio timer is indicated by the same radio dial you advanced to start the mode. The mode automatically ends if the dial reaches the left side.
 
@@ -399,10 +399,10 @@ If extra balls are disabled or the extra ball cap has been reached, 10M points a
 Bonus is determined by:
 - **[Van mode](#heading--vanmodes)** shots - 100k x the number of lit mode shots this ball
 - **[Van mods](#heading--mods)** collected - 100k x the number of mods collected or advanced this ball
-- **[Combos](#heading--combotron)** made - 50k x the number of combos made this ball
+- **[Combos](#heading--combotron)** made - 100k x the number of combos made this ball
 - **[Bots](#heading--botawards)** destroyed - 50k x the number of bots destroyed this game
 
-All multiplied by the bonus X, built at the paddle target when drops are still active. If you have 1 or 2 drop targets knocked down and hit the MOD-ulator target, they will reset and you will progress toward increasing your Bonus X (1 circle if 2 drops down, 2 circles if 1 drop down). The circular inserts indicate your progress toward increasing your Bonus X. The number of completions required increases for further multipliers.
+All multiplied by the bonus X, built by hitting the paddle target twice when drops are still active. If you have 1 or 2 drop targets knocked down and hit the MOD-ulator target, they will reset and you will progress toward increasing your Bonus X (1 circle if 2 drops down, 2 circles if 1 drop down). The circular inserts indicate your progress toward increasing your Bonus X.
 
 ## Wizard Modes: {#heading--wizard}
 
@@ -445,7 +445,7 @@ You can also earn a random FooBot part by completing **[Toy Time Multiball](#hea
 |**Head**|Dave|2x Right Ramp|Start **[Area 51 Multiball](#heading--area51)**|Collect a super jackpot in Area 51 Multiball|
 |**Left Arm**|Nate|2x Side Loop|Score an **[Overlord Multiball](#heading--overlord)** Super Jackpot,  or play *Monkey Wrench*|Score two super jackpots or one 2x super jackpot in *All My Life*, or collect a super jackpot in *Monkey Wrench* or *The Pretender*|
 |**Right Arm**|Chris|2x Right Orbit|Start **[Bot Frenzy](#heading--botfrenzy)**|Score at least 25M points in Bot Frenzy|
-|**Left Leg**|Pat|2x Left Ramp|Complete a **[van mode](#heading--vanmodes)** in one visit|Score at least 50M points in a van mode|
+|**Left Leg**|Pat|2x Left Ramp|Complete a **[van mode](#heading--vanmodes)** in one visit, or complete all six van modes|Score at least 50M points in a van mode|
 |**Right Leg**|Rami|2x Left Crossover|Start **[Supersonic Radio](#heading--mystery)**|Score the radio jackpot during Supersonic Radio|
 
 **During the multiball**: The multiball starts with 2 balls in play, and all band member shots (the three ramps and three orbits) lit for jackpots. Once a jackpot is scored, that shot and the Overlord will be lit; the player can either keep making the shot to increase the jackpot and its multiplier, or shoot the Overlord to attack him for the current jackpot value + multiplier & add-a-ball, with more Overlord shots required to light subsequent jackpots. Repeat with all 6 band members to light Overlord for Super Jackpot, multiplied by all 6 multipliers added together.
