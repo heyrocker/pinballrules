@@ -54,7 +54,7 @@ opdb_id: "Gj66P"
 - Display and Animations: Chuck Ernst, Paul Chamnankit, Joshua Clay
 - Music and Sound: Jerry Thompson, Ken Hale
 - Release Date: September 2020
-- Wiki Rulesheet based on Code Rev: 1.08
+- Wiki Rulesheet based on Code Rev: 1.12
   - *Edit the Code revision, if applicable, when you make changes*
 
 *Avengers: Infinity Quest* is a 2020 release from Stern Pinball, and the third design by professional pinball player Keith Elwin. The Black Order has successfully retrieved the six Infinity Gems and given them to their master, Thanos. The Avengers set out to travel back in time through one of Doctor Strange's portals and take the Gems before the Order can, to nullify the effects of Thanos' Infinity Gauntlet and save the world.
@@ -330,7 +330,9 @@ After making enough progress on both **[Gem Quests](#heading--gemquests)** and *
 
 Thanos Attacks!: {#heading--assemblemodes}
 
-After obtaining at least two Gems and the **Soul Gem**, the next shot to the lit right ramp will begin this mode where the player must defend any Gems they have collected. First, shoot a Gem shot to select it, then shoot the left orbit, left ramp, and the right orbit; then shoot the right ramp to defend that Gem, all within 45 seconds per Gem (lit shots add 5 seconds, and drop targets add 15 seconds to the timer). **Flank Attack** and the **Mind Gem** can be used to collect any lit shot, but won’t spot the right ramp. There is a short ball saver at the start of the mode.
+After obtaining at least two Gems and the **Soul Gem**, the next shot to the lit right ramp will begin this mode where the player must defend any Gems they have collected. If the player wishes to skip the mode, they can press the left flipper to bypass the mode for 25M.
+
+First, shoot a Gem shot to select it, then shoot the left orbit, left ramp, and the right orbit; then shoot the right ramp to defend that Gem, all within 45 seconds per Gem (lit shots add 5 seconds, and drop targets add 15 seconds to the timer). **Flank Attack** and the **Mind Gem** can be used to collect any lit shot, but won’t spot the right ramp. There is a short ball saver at the start of the mode.
 
 If the mode ends through timing out or draining, Thanos will take the gem you were trying to defend away. When you're down to the last undefended gem, the defense for that gem starts immediately. The number of Gems you have before starting this mode determines the value of the shots; the more you have, the higher the scoring is.
 
